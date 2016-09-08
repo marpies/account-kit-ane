@@ -4,7 +4,7 @@
 
 Development of this extension is supported by [Master Tigra, Inc.](https://github.com/mastertigra)
 
-** work in progress **
+**work in progress**
 
 ## Author
 
