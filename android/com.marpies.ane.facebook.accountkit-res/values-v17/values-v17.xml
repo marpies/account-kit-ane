@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AccountKit.Container" parent="Base.AccountKit.Container">
+        <item name="android:layout_marginEnd">?attr/com_accountkit_content_margin_end</item>
+        <item name="android:layout_marginStart">?attr/com_accountkit_content_margin_start</item>
+    </style>
+</resources>

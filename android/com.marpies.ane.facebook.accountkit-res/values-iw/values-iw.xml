@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:אנדורה</item>
+        <item>971:AE:איחוד האמירויות הערביות</item>
+        <item>93:AF:אפגניסטן</item>
+        <item>1:AG:אנטיגואה</item>
+        <item>1:AI:אנגווילה</item>
+        <item>355:AL:אלבניה</item>
+        <item>374:AM:ארמניה</item>
+        <item>244:AO:אנגולה</item>
+        <item>54:AR:ארגנטינה</item>
+        <item>1:AS:סמואה האמריקנית</item>
+        <item>43:AT:אוסטריה</item>
+        <item>61:AU:אוסטרליה</item>
+        <item>297:AW:ארובה</item>
+        <item>994:AZ:אזרבייג\'ן</item>
+        <item>387:BA:בוסניה והרצגובינה</item>
+        <item>1:BB:ברבדוס</item>
+        <item>880:BD:בנגלדש</item>
+        <item>32:BE:בלגיה</item>
+        <item>226:BF:בורקינה פאסו</item>
+        <item>359:BG:בולגריה</item>
+        <item>973:BH:בחריין</item>
+        <item>257:BI:בורונדי</item>
+        <item>229:BJ:בנין</item>
+        <item>1:BM:ברמודה</item>
+        <item>673:BN:ברוניי</item>
+        <item>591:BO:בוליביה</item>
+        <item>599:BQ:בונייר, סנט אוסטטיוס וסאבא</item>
+        <item>55:BR:ברזיל</item>
+        <item>1:BS:איי בהאמה</item>
+        <item>975:BT:בהוטן</item>
+        <item>267:BW:בוטסואנה</item>
+        <item>375:BY:בלרוס</item>
+        <item>501:BZ:בליז</item>
+        <item>1:CA:קנדה</item>
+        <item>243:CD:הרפובליקה הדמוקרטית של קונגו</item>
+        <item>236:CF:הרפובליקה המרכז-אפריקאית</item>
+        <item>242:CG:הרפובליקה של קונגו</item>
+        <item>41:CH:שווייץ</item>
+        <item>225:CI:חוף השנהב</item>
+        <item>682:CK:איי קוק</item>
+        <item>56:CL:צ\'ילה</item>
+        <item>237:CM:קמרון</item>
+        <item>86:CN:סין</item>
+        <item>57:CO:קולומביה</item>
+        <item>506:CR:קוסטה ריקה</item>
+        <item>53:CU:קובה</item>
+        <item>238:CV:כף ורדה</item>
+        <item>599:CW:קורסאו</item>
+        <item>357:CY:קפריסין</item>
+        <item>420:CZ:צ\'כיה</item>
+        <item>49:DE:גרמניה</item>
+        <item>253:DJ:ג\'יבוטי</item>
+        <item>45:DK:דנמרק</item>
+        <item>1:DM:דומיניקה</item>
+        <item>1:DO:הרפובליקה הדומיניקנית</item>
+        <item>213:DZ:אלג\'יריה</item>
+        <item>593:EC:אקוודור</item>
+        <item>372:EE:אסטוניה</item>
+        <item>20:EG:מצרים</item>
+        <item>212:EH:סהרה המערבית</item>
+        <item>291:ER:אריתריאה</item>
+        <item>34:ES:ספרד</item>
+        <item>251:ET:אתיופיה</item>
+        <item>358:FI:פינלנד</item>
+        <item>679:FJ:פיג\'י</item>
+        <item>500:FK:איי פוקלנד</item>
+        <item>691:FM:מיקרונזיה</item>
+        <item>298:FO:איי פארו</item>
+        <item>33:FR:צרפת</item>
+        <item>241:GA:גבון</item>
+        <item>44:GB:בריטניה</item>
+        <item>1:GD:גרנדה</item>
+        <item>995:GE:גיאורגיה</item>
+        <item>594:GF:גיאנה הצרפתית</item>
+        <item>44:GG:גרנזי</item>
+        <item>233:GH:גאנה</item>
+        <item>350:GI:גיברלטר</item>
+        <item>299:GL:גרינלנד</item>
+        <item>220:GM:גמביה</item>
+        <item>224:GN:גינאה</item>
+        <item>590:GP:גוואדלופ</item>
+        <item>240:GQ:גינאה המשוונית</item>
+        <item>30:GR:יוון</item>
+        <item>502:GT:גואטמלה</item>
+        <item>1:GU:גואם</item>
+        <item>245:GW:גינאה ביסאו</item>
+        <item>592:GY:גיאנה</item>
+        <item>852:HK:הונג קונג</item>
+        <item>504:HN:הונדורס</item>
+        <item>385:HR:קרואטיה</item>
+        <item>509:HT:האיטי</item>
+        <item>36:HU:הונגריה</item>
+        <item>62:ID:אינדונזיה</item>
+        <item>353:IE:אירלנד</item>
+        <item>972:IL:ישראל</item>
+        <item>44:IM:האי מאן</item>
+        <item>91:IN:הודו</item>
+        <item>246:IO:הטריטוריה הבריטית באוקיינוס ההודי</item>
+        <item>964:IQ:עיראק</item>
+        <item>98:IR:איראן</item>
+        <item>354:IS:איסלנד</item>
+        <item>39:IT:איטליה</item>
+        <item>44:JE:ג\'רזי</item>
+        <item>1:JM:ג\'מייקה</item>
+        <item>962:JO:ירדן</item>
+        <item>81:JP:יפן</item>
+        <item>254:KE:קניה</item>
+        <item>996:KG:קירגיסטן</item>
+        <item>855:KH:קמבודיה</item>
+        <item>686:KI:קיריבטי</item>
+        <item>269:KM:איי קומורו</item>
+        <item>1:KN:סנט קיטס ונוויס</item>
+        <item>850:KP:קוריאה הצפונית</item>
+        <item>82:KR:קוריאה הדרומית</item>
+        <item>965:KW:כווית</item>
+        <item>1:KY:איי קיימן</item>
+        <item>7:KZ:קזחסטן</item>
+        <item>856:LA:לאוס</item>
+        <item>961:LB:לבנון</item>
+        <item>1:LC:סנט לוסיה</item>
+        <item>423:LI:ליכטנשטיין</item>
+        <item>94:LK:סרי לנקה</item>
+        <item>231:LR:ליבריה</item>
+        <item>266:LS:לסותו</item>
+        <item>370:LT:ליטא</item>
+        <item>352:LU:לוקסמבורג</item>
+        <item>371:LV:לטביה</item>
+        <item>218:LY:לוב</item>
+        <item>212:MA:מרוקו</item>
+        <item>377:MC:מונקו</item>
+        <item>373:MD:מולדובה</item>
+        <item>382:ME:מונטנגרו</item>
+        <item>261:MG:מדגסקר</item>
+        <item>692:MH:איי מרשל</item>
+        <item>389:MK:מקדוניה</item>
+        <item>223:ML:מאלי</item>
+        <item>95:MM:מיאנמר</item>
+        <item>976:MN:מונגוליה</item>
+        <item>853:MO:מאקאו</item>
+        <item>1:MP:איי מריאנה הצפוניים</item>
+        <item>596:MQ:מרטיניק</item>
+        <item>222:MR:מאוריטניה</item>
+        <item>1:MS:מונסראט</item>
+        <item>356:MT:מלטה</item>
+        <item>230:MU:מאוריציוס</item>
+        <item>960:MV:האיים המלדיביים</item>
+        <item>265:MW:מלאווי</item>
+        <item>52:MX:מקסיקו</item>
+        <item>60:MY:מלזיה</item>
+        <item>258:MZ:מוזמביק</item>
+        <item>264:NA:נמיביה</item>
+        <item>687:NC:קלדוניה החדשה</item>
+        <item>227:NE:ניז\'ר</item>
+        <item>672:NF:האי נורפוק</item>
+        <item>234:NG:ניגריה</item>
+        <item>505:NI:ניקרגואה</item>
+        <item>31:NL:הולנד</item>
+        <item>47:NO:נורבגיה</item>
+        <item>977:NP:נפאל</item>
+        <item>674:NR:נאורו</item>
+        <item>683:NU:ניואה</item>
+        <item>64:NZ:ניו זילנד</item>
+        <item>968:OM:עומאן</item>
+        <item>507:PA:פנמה</item>
+        <item>51:PE:פרו</item>
+        <item>689:PF:פולינזיה הצרפתית</item>
+        <item>675:PG:פפואה גינאה החדשה</item>
+        <item>63:PH:פיליפינים</item>
+        <item>92:PK:פקיסטן</item>
+        <item>48:PL:פולין</item>
+        <item>508:PM:סן פייר ומיקלון</item>
+        <item>1:PR:פורטו ריקו</item>
+        <item>970:PS:פלסטין</item>
+        <item>351:PT:פורטוגל</item>
+        <item>680:PW:פלאו</item>
+        <item>595:PY:פרגוואי</item>
+        <item>974:QA:קטאר</item>
+        <item>262:RE:ראוניון</item>
+        <item>40:RO:רומניה</item>
+        <item>381:RS:סרביה</item>
+        <item>7:RU:רוסיה</item>
+        <item>250:RW:רואנדה</item>
+        <item>966:SA:ערב הסעודית</item>
+        <item>677:SB:איי שלמה</item>
+        <item>248:SC:איי סיישל</item>
+        <item>249:SD:סודן</item>
+        <item>46:SE:שבדיה</item>
+        <item>65:SG:סינגפור</item>
+        <item>290:SH:סנט הלנה</item>
+        <item>386:SI:סלובניה</item>
+        <item>421:SK:סלובקיה</item>
+        <item>232:SL:סיירה לאונה</item>
+        <item>378:SM:סן מרינו</item>
+        <item>221:SN:סנגל</item>
+        <item>252:SO:סומליה</item>
+        <item>597:SR:סורינם</item>
+        <item>211:SS:דרום סודן</item>
+        <item>239:ST:סאו טומה ופרינסיפה</item>
+        <item>503:SV:אל סלוודור</item>
+        <item>1:SX:סנט מארטן</item>
+        <item>963:SY:סוריה</item>
+        <item>268:SZ:סווזילנד</item>
+        <item>1:TC:איי טורקס וקאיקוס</item>
+        <item>235:TD:צ\'אד</item>
+        <item>228:TG:טוגו</item>
+        <item>66:TH:תאילנד</item>
+        <item>992:TJ:טג\'יקיסטן</item>
+        <item>690:TK:טוקלאו</item>
+        <item>670:TL:מזרח טימור</item>
+        <item>993:TM:טורקמניסטן</item>
+        <item>216:TN:תוניסיה</item>
+        <item>676:TO:טונגה</item>
+        <item>90:TR:טורקיה</item>
+        <item>1:TT:טרינידד וטובגו</item>
+        <item>688:TV:טובאלו</item>
+        <item>886:TW:טיוואן</item>
+        <item>255:TZ:טנזניה</item>
+        <item>380:UA:אוקראינה</item>
+        <item>256:UG:אוגנדה</item>
+        <item>1:US:ארצות הברית</item>
+        <item>598:UY:אורוגוואי</item>
+        <item>998:UZ:אוזבקיסטן</item>
+        <item>1:VC:סנט וינסנט והגרנדינים</item>
+        <item>58:VE:ונצואלה</item>
+        <item>1:VG:איי הבתולה הבריטיים</item>
+        <item>1:VI:איי הבתולה של ארה"ב</item>
+        <item>84:VN:וייטנאם</item>
+        <item>678:VU:ונואטו</item>
+        <item>681:WF:ואליס ופוטונה</item>
+        <item>685:WS:סמואה</item>
+        <item>967:YE:תימן</item>
+        <item>262:YT:מיוטה</item>
+        <item>27:ZA:דרום אפריקה</item>
+        <item>260:ZM:זמביה</item>
+        <item>263:ZW:זימבבואה</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">התחל</string>
+    <string name="com_accountkit_button_cancel">ביטול</string>
+    <string name="com_accountkit_button_confirm">אשר</string>
+    <string name="com_accountkit_button_continue">המשך</string>
+    <string name="com_accountkit_button_log_in">התחבר</string>
+    <string name="com_accountkit_button_next">הבא</string>
+    <string name="com_accountkit_button_ok">אישור</string>
+    <string name="com_accountkit_button_resend">שלח מחדש את הקוד</string>
+    <string name="com_accountkit_button_resend_sms">שלח SMS שוב</string>
+    <string name="com_accountkit_button_send">שלח</string>
+    <string name="com_accountkit_button_send_code_in_fb">שלח את הקוד בפייסבוק</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">הקש על \'שלח קוד\' בפייסבוק כדי לשלוח התראה לחשבון הפייסבוק המקושר למספר הטלפון שהזנת.</string>
+    <string name="com_accountkit_button_start">התחל</string>
+    <string name="com_accountkit_button_start_over">נסה שוב</string>
+    <string name="com_accountkit_button_submit">שלח</string>
+    <string name="com_accountkit_check_email">פתח את הדוא"ל</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+     הקש על %1$s כדי לקבל את ![CDATA[<a href="%2$s">תנאי השימוש</a>\\>, ![CDATA[<a href="%3$s">מדיניות הנתונים</a>\\> ו![CDATA[<a href="%4$s">השימוש בקבצי Cookie</a>\\> של פייסבוק.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+    הקש על %1$s כדי לקבל את ![CDATA[<a href="%2$s">תנאי השימוש</a>\\>, ![CDATA[<a href="%3$s">מדיניות הנתונים</a>\\> ו![CDATA[<a href="%4$s">השימוש בקבצי Cookie</a>\\> של פייסבוק ואת ![CDATA[<a href="%5$s">מדיניות הפרטיות</a>\\> של %6$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+    הקש על %1$s כדי לקבל את ![CDATA[<a href="%2$s">תנאי השימוש</a>\\>, ![CDATA[<a href="%3$s">מדיניות הנתונים</a>\\> ו![CDATA[<a href="%4$s">השימוש בקבצי Cookie</a>\\> של פייסבוק ואת ![CDATA[<a href="%6$s">מדיניות הפרטיות</a>\\> ו![CDATA[<a href="%5$s">תנאי השירות</a>\\> של %7$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">שלח מחדש את הקוד</string>
+    <string name="com_accountkit_confirmation_code_title">הזן את הקוד</string>
+    <string name="com_accountkit_email_invalid">כתובת דוא"ל זו שגויה. נסה שוב.</string>
+    <string name="com_accountkit_email_loading_title">שולח דוא"ל…</string>
+    <string name="com_accountkit_email_login_retry_title">אשר את כתובת הדוא"ל שלך</string>
+    <string name="com_accountkit_email_login_text">
+      הקש על %1$s כדי לקבל אישור בדוא"ל מ-Account Kit של פייסבוק שיעזור לך להשתמש ב-%2$s. אין צורך בחשבון פייסבוק כדי להשתמש בו. &lt;a href="%3$s">למד איך פייסבוק משתמשת בפרטים שלך&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">הזן את כתובת הדוא"ל שלך</string>
+    <string name="com_accountkit_email_not_received">שלח שוב דוא"ל</string>
+    <string name="com_accountkit_email_verify_title">פתח את הדוא"ל ששלחנו ואשר את כתובתך</string>
+    <string name="com_accountkit_error_title">אנחנו מצטערים, משהו השתבש.</string>
+    <string name="com_accountkit_facebook_code_entry_title">הזן את הקוד שלך מפייסבוק</string>
+    <string name="com_accountkit_phone_loading_title">שולח את הקוד שלך…</string>
+    <string name="com_accountkit_phone_login_retry_title">אשר את מספר הטלפון שלך</string>
+    <string name="com_accountkit_phone_login_text">
+    הקש על %1$s כדי לקבל אישור ב-SMS מ-Account Kit של פייסבוק שיעזור לך להשתמש ב-%2$s. אין צורך בחשבון פייסבוק כדי להשתמש בו. ייתכן שתחויב בתשלום לפי תעריפי ההודעות והנתונים. &lt;a href="%3$s">למד איך פייסבוק משתמשת בפרטים שלך&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">הזן את מספר הטלפון שלך</string>
+    <string name="com_accountkit_resend_email_text">שלח דוא"ל חדש</string>
+    <string name="com_accountkit_resend_title">אנו מצטערים. נסה אפשרויות אלה כדי להמשיך.</string>
+    <string name="com_accountkit_return_title">מחזירים אותך אל %1$s…</string>
+    <string name="com_accountkit_sent_title">נשלח!</string>
+    <string name="com_accountkit_success_title">בוצע!</string>
+    <string name="com_accountkit_toolbar_title">התחבר אל %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        לא הצלחנו לאמת את הקוד.\nנסה שוב:
+    </string>
+    <string name="com_accountkit_verify_title">מאמת את הקוד שלך…</string>
+</resources>

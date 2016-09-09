@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Andora</item>
+        <item>971:AE:Zjednoczone Emiraty Arabskie</item>
+        <item>93:AF:Afganistan</item>
+        <item>1:AG:Antigua</item>
+        <item>1:AI:Anguilla</item>
+        <item>355:AL:Albania</item>
+        <item>374:AM:Armenia</item>
+        <item>244:AO:Angola</item>
+        <item>54:AR:Argentyna</item>
+        <item>1:AS:Samoa Amerykańskie</item>
+        <item>43:AT:Austria</item>
+        <item>61:AU:Australia</item>
+        <item>297:AW:Aruba</item>
+        <item>994:AZ:Azerbejdżan</item>
+        <item>387:BA:Bośnia i Hercegowina</item>
+        <item>1:BB:Barbados</item>
+        <item>880:BD:Bangladesz</item>
+        <item>32:BE:Belgia</item>
+        <item>226:BF:Burkina Faso</item>
+        <item>359:BG:Bułgaria</item>
+        <item>973:BH:Bahrajn</item>
+        <item>257:BI:Burundi</item>
+        <item>229:BJ:Benin</item>
+        <item>1:BM:Bermudy</item>
+        <item>673:BN:Brunei</item>
+        <item>591:BO:Boliwia</item>
+        <item>599:BQ:Bonaire, Sint Eustatius i Saba</item>
+        <item>55:BR:Brazylia</item>
+        <item>1:BS:Bahamy</item>
+        <item>975:BT:Bhutan</item>
+        <item>267:BW:Botswana</item>
+        <item>375:BY:Białoruś</item>
+        <item>501:BZ:Belize</item>
+        <item>1:CA:Kanada</item>
+        <item>243:CD:Demokratyczna Republika Konga</item>
+        <item>236:CF:Republika Środkowej Afryki</item>
+        <item>242:CG:Republika Konga</item>
+        <item>41:CH:Szwajcaria</item>
+        <item>225:CI:Wybrzeże Kości Słoniowej</item>
+        <item>682:CK:Wyspy Cooka</item>
+        <item>56:CL:Chile</item>
+        <item>237:CM:Kamerun</item>
+        <item>86:CN:Chiny</item>
+        <item>57:CO:Kolumbia</item>
+        <item>506:CR:Kostaryka</item>
+        <item>53:CU:Kuba</item>
+        <item>238:CV:Republika Zielonego Przylądka</item>
+        <item>599:CW:Curaçao</item>
+        <item>357:CY:Cypr</item>
+        <item>420:CZ:Republika Czeska</item>
+        <item>49:DE:Niemcy</item>
+        <item>253:DJ:Dżibuti</item>
+        <item>45:DK:Dania</item>
+        <item>1:DM:Dominika</item>
+        <item>1:DO:Dominikana</item>
+        <item>213:DZ:Algieria</item>
+        <item>593:EC:Ekwador</item>
+        <item>372:EE:Estonia</item>
+        <item>20:EG:Egipt</item>
+        <item>212:EH:Sahara Zachodnia</item>
+        <item>291:ER:Erytrea</item>
+        <item>34:ES:Hiszpania</item>
+        <item>251:ET:Etiopia</item>
+        <item>358:FI:Finlandia</item>
+        <item>679:FJ:Fidżi</item>
+        <item>500:FK:Falklandy</item>
+        <item>691:FM:Mikronezja</item>
+        <item>298:FO:Wyspy Owcze</item>
+        <item>33:FR:Francja</item>
+        <item>241:GA:Gabon</item>
+        <item>44:GB:Wielka Brytania</item>
+        <item>1:GD:Grenada</item>
+        <item>995:GE:Gruzja</item>
+        <item>594:GF:Gujana Francuska</item>
+        <item>44:GG:Guernsey</item>
+        <item>233:GH:Ghana</item>
+        <item>350:GI:Gibraltar</item>
+        <item>299:GL:Grenlandia</item>
+        <item>220:GM:Gambia</item>
+        <item>224:GN:Gwinea</item>
+        <item>590:GP:Gwadelupa</item>
+        <item>240:GQ:Gwinea Równikowa</item>
+        <item>30:GR:Grecja</item>
+        <item>502:GT:Gwatemala</item>
+        <item>1:GU:Guam</item>
+        <item>245:GW:Gwinea Bissau</item>
+        <item>592:GY:Gujana</item>
+        <item>852:HK:Hongkong</item>
+        <item>504:HN:Honduras</item>
+        <item>385:HR:Chorwacja</item>
+        <item>509:HT:Haiti</item>
+        <item>36:HU:Węgry</item>
+        <item>62:ID:Indonezja</item>
+        <item>353:IE:Irlandia</item>
+        <item>972:IL:Izrael</item>
+        <item>44:IM:Wyspa Man</item>
+        <item>91:IN:Indie</item>
+        <item>246:IO:Brytyjskie Terytorium Oceanu Indyjskiego</item>
+        <item>964:IQ:Irak</item>
+        <item>98:IR:Iran</item>
+        <item>354:IS:Islandia</item>
+        <item>39:IT:Włochy</item>
+        <item>44:JE:Jersey</item>
+        <item>1:JM:Jamajka</item>
+        <item>962:JO:Jordania</item>
+        <item>81:JP:Japonia</item>
+        <item>254:KE:Kenia</item>
+        <item>996:KG:Kirgistan</item>
+        <item>855:KH:Kambodża</item>
+        <item>686:KI:Kiribati</item>
+        <item>269:KM:Komory</item>
+        <item>1:KN:Saint Kitts i Nevis</item>
+        <item>850:KP:Korea Północna</item>
+        <item>82:KR:Korea Południowa</item>
+        <item>965:KW:Kuwejt</item>
+        <item>1:KY:Kajmany (wyspy)</item>
+        <item>7:KZ:Kazachstan</item>
+        <item>856:LA:Laos</item>
+        <item>961:LB:Liban</item>
+        <item>1:LC:Santa Lucia</item>
+        <item>423:LI:Liechtenstein</item>
+        <item>94:LK:Sri Lanka</item>
+        <item>231:LR:Liberia</item>
+        <item>266:LS:Lesoto</item>
+        <item>370:LT:Litwa</item>
+        <item>352:LU:Luksemburg</item>
+        <item>371:LV:Łotwa</item>
+        <item>218:LY:Libia</item>
+        <item>212:MA:Maroko</item>
+        <item>377:MC:Monako</item>
+        <item>373:MD:Mołdawia</item>
+        <item>382:ME:Czarnogóra</item>
+        <item>261:MG:Madagaskar</item>
+        <item>692:MH:Wyspy Marshalla</item>
+        <item>389:MK:Macedonia</item>
+        <item>223:ML:Mali</item>
+        <item>95:MM:Birma</item>
+        <item>976:MN:Mongolia</item>
+        <item>853:MO:Makau</item>
+        <item>1:MP:Mariany Północne</item>
+        <item>596:MQ:Martynika</item>
+        <item>222:MR:Mauretania</item>
+        <item>1:MS:Montserrat</item>
+        <item>356:MT:Malta</item>
+        <item>230:MU:Mauritius</item>
+        <item>960:MV:Malediwy</item>
+        <item>265:MW:Malawi</item>
+        <item>52:MX:Meksyk</item>
+        <item>60:MY:Malezja</item>
+        <item>258:MZ:Mozambik</item>
+        <item>264:NA:Namibia</item>
+        <item>687:NC:Nowa Kaledonia</item>
+        <item>227:NE:Niger</item>
+        <item>672:NF:Wyspa Norfolk</item>
+        <item>234:NG:Nigeria</item>
+        <item>505:NI:Nikaragua</item>
+        <item>31:NL:Holandia</item>
+        <item>47:NO:Norwegia</item>
+        <item>977:NP:Nepal</item>
+        <item>674:NR:Nauru</item>
+        <item>683:NU:Niue</item>
+        <item>64:NZ:Nowa Zelandia</item>
+        <item>968:OM:Oman</item>
+        <item>507:PA:Panama</item>
+        <item>51:PE:Peru</item>
+        <item>689:PF:Polinezja Francuska</item>
+        <item>675:PG:Papua-Nowa Gwinea</item>
+        <item>63:PH:Filipiny</item>
+        <item>92:PK:Pakistan</item>
+        <item>48:PL:Polsce</item>
+        <item>508:PM:Saint-Pierre i Miquelon</item>
+        <item>1:PR:Portoryko</item>
+        <item>970:PS:Palestyna</item>
+        <item>351:PT:Portugalia</item>
+        <item>680:PW:Palau</item>
+        <item>595:PY:Paragwaj</item>
+        <item>974:QA:Katar</item>
+        <item>262:RE:Réunion</item>
+        <item>40:RO:Rumunia</item>
+        <item>381:RS:Serbia</item>
+        <item>7:RU:Rosja</item>
+        <item>250:RW:Rwanda</item>
+        <item>966:SA:Arabia Saudyjska</item>
+        <item>677:SB:Wyspy Salomona</item>
+        <item>248:SC:Seszele</item>
+        <item>249:SD:Sudan</item>
+        <item>46:SE:Szwecja</item>
+        <item>65:SG:Singapur</item>
+        <item>290:SH:Wyspa Świętej Heleny</item>
+        <item>386:SI:Słowenia</item>
+        <item>421:SK:Słowacja</item>
+        <item>232:SL:Sierra Leone</item>
+        <item>378:SM:San Marino</item>
+        <item>221:SN:Senegal</item>
+        <item>252:SO:Somalia</item>
+        <item>597:SR:Surinam</item>
+        <item>211:SS:Południowy Sudan</item>
+        <item>239:ST:Wyspy Świętego Tomasza i Książęca</item>
+        <item>503:SV:Salwador</item>
+        <item>1:SX:Wyspa Sint Maarten</item>
+        <item>963:SY:Syria</item>
+        <item>268:SZ:Suazi</item>
+        <item>1:TC:Wyspy Turks i Caicos</item>
+        <item>235:TD:Czad</item>
+        <item>228:TG:Togo</item>
+        <item>66:TH:Tajlandia</item>
+        <item>992:TJ:Tadżykistan</item>
+        <item>690:TK:Tokelau</item>
+        <item>670:TL:Timor Wschodni</item>
+        <item>993:TM:Turkmenistan</item>
+        <item>216:TN:Tunezja</item>
+        <item>676:TO:Tonga</item>
+        <item>90:TR:Turcja</item>
+        <item>1:TT:Trynidad i Tobago</item>
+        <item>688:TV:Tuvalu</item>
+        <item>886:TW:Tajwan</item>
+        <item>255:TZ:Tanzania</item>
+        <item>380:UA:Ukraina</item>
+        <item>256:UG:Uganda</item>
+        <item>1:US:Stany Zjednoczone</item>
+        <item>598:UY:Urugwaj</item>
+        <item>998:UZ:Uzbekistan</item>
+        <item>1:VC:Saint Vincent i Grenadyny</item>
+        <item>58:VE:Wenezuela</item>
+        <item>1:VG:Brytyjskie Wyspy Dziewicze</item>
+        <item>1:VI:Wyspy Dziewicze Stanów Zjednoczonych</item>
+        <item>84:VN:Wietnam</item>
+        <item>678:VU:Vanuatu</item>
+        <item>681:WF:Wallis i Futuna</item>
+        <item>685:WS:Samoa</item>
+        <item>967:YE:Jemen</item>
+        <item>262:YT:Majotta</item>
+        <item>27:ZA:Republika Południowej Afryki</item>
+        <item>260:ZM:Zambia</item>
+        <item>263:ZW:Zimbabwe</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">Rozpocznij</string>
+    <string name="com_accountkit_button_cancel">Anuluj</string>
+    <string name="com_accountkit_button_confirm">Potwierdź</string>
+    <string name="com_accountkit_button_continue">Kontynuuj</string>
+    <string name="com_accountkit_button_log_in">Zaloguj się</string>
+    <string name="com_accountkit_button_next">Dalej</string>
+    <string name="com_accountkit_button_ok">OK</string>
+    <string name="com_accountkit_button_resend">Wyślij nowy kod</string>
+    <string name="com_accountkit_button_resend_sms">Ponownie wyślij SMS</string>
+    <string name="com_accountkit_button_send">Wyślij</string>
+    <string name="com_accountkit_button_send_code_in_fb">Wyślij kod na Facebooku</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Dotknij opcji Wyślij kod na Facebooku, aby otrzymać powiadomienie na konto w tym serwisie powiązane z wprowadzonym numerem telefonu.</string>
+    <string name="com_accountkit_button_start">Początek</string>
+    <string name="com_accountkit_button_start_over">Spróbuj ponownie</string>
+    <string name="com_accountkit_button_submit">Wyślij</string>
+    <string name="com_accountkit_check_email">Otwórz e-mail</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Dotknij pozycji %1$s, aby zaakceptować &lt;a href="%2$s">Regulamin Facebooka&lt;/a>, &lt;a href="%3$s">Zasady wykorzystania danych&lt;/a> oraz &lt;a href="%4$s">Zasady stosowania plików cookie&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Dotknij pozycji %1$s, aby zaakceptować &lt;a href="%2$s">Regulamin Facebooka&lt;/a>, &lt;a href="%3$s">Zasady wykorzystania danych&lt;/a>, &lt;a href="%4$s">Zasady stosowania plików cookie&lt;/a> oraz &lt;a href="%5$s">Zasady ochrony prywatności&lt;/a> %6$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Dotknij pozycji %1$s, aby zaakceptować &lt;a href="%2$s">Regulamin Facebooka&lt;/a>, &lt;a href="%3$s">Zasady wykorzystania danych&lt;/a>, &lt;a href="%4$s">Zasady stosowania plików cookie&lt;/a> oraz &lt;a href="%5$s">Zasady ochrony prywatności&lt;/a> oraz &lt;a href="%6$s">Regulamin&lt;/a> %7$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Ponownie wyślij kod</string>
+    <string name="com_accountkit_confirmation_code_title">Wprowadź kod</string>
+    <string name="com_accountkit_email_invalid">Niepoprawny adres e-mail. Spróbuj ponownie.</string>
+    <string name="com_accountkit_email_loading_title">Wysyłanie wiadomości e-mail…</string>
+    <string name="com_accountkit_email_login_retry_title">Potwierdź adres e-mail</string>
+    <string name="com_accountkit_email_login_text">
+        Dotknij pozycji %1$s, aby otrzymać e-mail z potwierdzeniem z Account Kit by Facebook i korzystać z %2$s. Nie musisz mieć konta na Facebooku, aby to zrobić. &lt;a href="%3$s">Dowiedz się, jak Facebook wykorzystuje Twoje dane&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">Wprowadź swój adres e-mail</string>
+    <string name="com_accountkit_email_not_received">Wyślij ponownie e-mail</string>
+    <string name="com_accountkit_email_verify_title">Otwórz otrzymany od nas e-mail i potwierdź swój adres</string>
+    <string name="com_accountkit_error_title">Przepraszamy, wystąpił niezidentyfikowany problem.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Wprowadź kod otrzymany od Facebooka</string>
+    <string name="com_accountkit_phone_loading_title">Wysyłanie kodu…</string>
+    <string name="com_accountkit_phone_login_retry_title">Potwierdź numer telefonu</string>
+    <string name="com_accountkit_phone_login_text">
+        Dotknij pozycji %1$s, aby otrzymać SMS z potwierdzeniem z Account Kit by Facebook i korzystać z %2$s. Nie musisz mieć konta na Facebooku, aby to zrobić. Mogą zostać naliczone opłaty za przesyłanie wiadomości i danych. &lt;a href="%3$s">Dowiedz się, jak Facebook wykorzystuje Twoje dane&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">Wprowadź swój numer telefonu</string>
+    <string name="com_accountkit_resend_email_text">Wyślij nowy e-mail</string>
+    <string name="com_accountkit_resend_title">Przepraszamy. Aby kontynuować, wypróbuj poniższe opcje.</string>
+    <string name="com_accountkit_return_title">Powrót do %1$s…</string>
+    <string name="com_accountkit_sent_title">Wysłano!</string>
+    <string name="com_accountkit_success_title">Gotowe!</string>
+    <string name="com_accountkit_toolbar_title">Logowanie do %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        Nie udało nam się zweryfikować Twojego kodu. Spróbuj ponownie:
+    </string>
+    <string name="com_accountkit_verify_title">Weryfikowanie kodu…</string>
+</resources>

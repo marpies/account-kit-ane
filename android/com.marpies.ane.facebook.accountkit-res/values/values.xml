@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Andorra</item>
+        <item>971:AE:United Arab Emirates</item>
+        <item>93:AF:Afghanistan</item>
+        <item>1:AG:Antigua</item>
+        <item>1:AI:Anguilla</item>
+        <item>355:AL:Albania</item>
+        <item>374:AM:Armenia</item>
+        <item>244:AO:Angola</item>
+        <item>54:AR:Argentina</item>
+        <item>1:AS:American Samoa</item>
+        <item>43:AT:Austria</item>
+        <item>61:AU:Australia</item>
+        <item>297:AW:Aruba</item>
+        <item>994:AZ:Azerbaijan</item>
+        <item>387:BA:Bosnia and Herzegovina</item>
+        <item>1:BB:Barbados</item>
+        <item>880:BD:Bangladesh</item>
+        <item>32:BE:Belgium</item>
+        <item>226:BF:Burkina Faso</item>
+        <item>359:BG:Bulgaria</item>
+        <item>973:BH:Bahrain</item>
+        <item>257:BI:Burundi</item>
+        <item>229:BJ:Benin</item>
+        <item>1:BM:Bermuda</item>
+        <item>673:BN:Brunei</item>
+        <item>591:BO:Bolivia</item>
+        <item>599:BQ:Bonaire, Sint Eustatius and Saba</item>
+        <item>55:BR:Brazil</item>
+        <item>1:BS:The Bahamas</item>
+        <item>975:BT:Bhutan</item>
+        <item>267:BW:Botswana</item>
+        <item>375:BY:Belarus</item>
+        <item>501:BZ:Belize</item>
+        <item>1:CA:Canada</item>
+        <item>243:CD:Democratic Republic of the Congo</item>
+        <item>236:CF:Central African Republic</item>
+        <item>242:CG:Republic of the Congo</item>
+        <item>41:CH:Switzerland</item>
+        <item>225:CI:Côte d\'Ivoire</item>
+        <item>682:CK:Cook Islands</item>
+        <item>56:CL:Chile</item>
+        <item>237:CM:Cameroon</item>
+        <item>86:CN:China</item>
+        <item>57:CO:Colombia</item>
+        <item>506:CR:Costa Rica</item>
+        <item>53:CU:Cuba</item>
+        <item>238:CV:Cape Verde</item>
+        <item>599:CW:Curaçao</item>
+        <item>357:CY:Cyprus</item>
+        <item>420:CZ:Czech Republic</item>
+        <item>49:DE:Germany</item>
+        <item>253:DJ:Djibouti</item>
+        <item>45:DK:Denmark</item>
+        <item>1:DM:Dominica</item>
+        <item>1:DO:Dominican Republic</item>
+        <item>213:DZ:Algeria</item>
+        <item>593:EC:Ecuador</item>
+        <item>372:EE:Estonia</item>
+        <item>20:EG:Egypt</item>
+        <item>212:EH:Western Sahara</item>
+        <item>291:ER:Eritrea</item>
+        <item>34:ES:Spain</item>
+        <item>251:ET:Ethiopia</item>
+        <item>358:FI:Finland</item>
+        <item>679:FJ:Fiji</item>
+        <item>500:FK:Falkland Islands</item>
+        <item>691:FM:Federated States of Micronesia</item>
+        <item>298:FO:Faroe Islands</item>
+        <item>33:FR:France</item>
+        <item>241:GA:Gabon</item>
+        <item>44:GB:United Kingdom</item>
+        <item>1:GD:Grenada</item>
+        <item>995:GE:Georgia</item>
+        <item>594:GF:French Guiana</item>
+        <item>44:GG:Guernsey</item>
+        <item>233:GH:Ghana</item>
+        <item>350:GI:Gibraltar</item>
+        <item>299:GL:Greenland</item>
+        <item>220:GM:The Gambia</item>
+        <item>224:GN:Guinea</item>
+        <item>590:GP:Guadeloupe</item>
+        <item>240:GQ:Equatorial Guinea</item>
+        <item>30:GR:Greece</item>
+        <item>502:GT:Guatemala</item>
+        <item>1:GU:Guam</item>
+        <item>245:GW:Guinea-Bissau</item>
+        <item>592:GY:Guyana</item>
+        <item>852:HK:Hong Kong</item>
+        <item>504:HN:Honduras</item>
+        <item>385:HR:Croatia</item>
+        <item>509:HT:Haiti</item>
+        <item>36:HU:Hungary</item>
+        <item>62:ID:Indonesia</item>
+        <item>353:IE:Ireland</item>
+        <item>972:IL:Israel</item>
+        <item>44:IM:Isle Of Man</item>
+        <item>91:IN:India</item>
+        <item>246:IO:British Indian Ocean Territory</item>
+        <item>964:IQ:Iraq</item>
+        <item>98:IR:Iran</item>
+        <item>354:IS:Iceland</item>
+        <item>39:IT:Italy</item>
+        <item>44:JE:Jersey</item>
+        <item>1:JM:Jamaica</item>
+        <item>962:JO:Jordan</item>
+        <item>81:JP:Japan</item>
+        <item>254:KE:Kenya</item>
+        <item>996:KG:Kyrgyzstan</item>
+        <item>855:KH:Cambodia</item>
+        <item>686:KI:Kiribati</item>
+        <item>269:KM:Comoros</item>
+        <item>1:KN:Saint Kitts and Nevis</item>
+        <item>850:KP:North Korea</item>
+        <item>82:KR:South Korea</item>
+        <item>965:KW:Kuwait</item>
+        <item>1:KY:Cayman Islands</item>
+        <item>7:KZ:Kazakhstan</item>
+        <item>856:LA:Laos</item>
+        <item>961:LB:Lebanon</item>
+        <item>1:LC:St. Lucia</item>
+        <item>423:LI:Liechtenstein</item>
+        <item>94:LK:Sri Lanka</item>
+        <item>231:LR:Liberia</item>
+        <item>266:LS:Lesotho</item>
+        <item>370:LT:Lithuania</item>
+        <item>352:LU:Luxembourg</item>
+        <item>371:LV:Latvia</item>
+        <item>218:LY:Libya</item>
+        <item>212:MA:Morocco</item>
+        <item>377:MC:Monaco</item>
+        <item>373:MD:Moldova</item>
+        <item>382:ME:Montenegro</item>
+        <item>261:MG:Madagascar</item>
+        <item>692:MH:Marshall Islands</item>
+        <item>389:MK:Macedonia</item>
+        <item>223:ML:Mali</item>
+        <item>95:MM:Myanmar</item>
+        <item>976:MN:Mongolia</item>
+        <item>853:MO:Macau</item>
+        <item>1:MP:Northern Mariana Islands</item>
+        <item>596:MQ:Martinique</item>
+        <item>222:MR:Mauritania</item>
+        <item>1:MS:Montserrat</item>
+        <item>356:MT:Malta</item>
+        <item>230:MU:Mauritius</item>
+        <item>960:MV:Maldives</item>
+        <item>265:MW:Malawi</item>
+        <item>52:MX:Mexico</item>
+        <item>60:MY:Malaysia</item>
+        <item>258:MZ:Mozambique</item>
+        <item>264:NA:Namibia</item>
+        <item>687:NC:New Caledonia</item>
+        <item>227:NE:Niger</item>
+        <item>672:NF:Norfolk Island</item>
+        <item>234:NG:Nigeria</item>
+        <item>505:NI:Nicaragua</item>
+        <item>31:NL:Netherlands</item>
+        <item>47:NO:Norway</item>
+        <item>977:NP:Nepal</item>
+        <item>674:NR:Nauru</item>
+        <item>683:NU:Niue</item>
+        <item>64:NZ:New Zealand</item>
+        <item>968:OM:Oman</item>
+        <item>507:PA:Panama</item>
+        <item>51:PE:Peru</item>
+        <item>689:PF:French Polynesia</item>
+        <item>675:PG:Papua New Guinea</item>
+        <item>63:PH:Philippines</item>
+        <item>92:PK:Pakistan</item>
+        <item>48:PL:Poland</item>
+        <item>508:PM:Saint Pierre and Miquelon</item>
+        <item>1:PR:Puerto Rico</item>
+        <item>970:PS:Palestine</item>
+        <item>351:PT:Portugal</item>
+        <item>680:PW:Palau</item>
+        <item>595:PY:Paraguay</item>
+        <item>974:QA:Qatar</item>
+        <item>262:RE:Réunion</item>
+        <item>40:RO:Romania</item>
+        <item>381:RS:Serbia</item>
+        <item>7:RU:Russia</item>
+        <item>250:RW:Rwanda</item>
+        <item>966:SA:Saudi Arabia</item>
+        <item>677:SB:Solomon Islands</item>
+        <item>248:SC:Seychelles</item>
+        <item>249:SD:Sudan</item>
+        <item>46:SE:Sweden</item>
+        <item>65:SG:Singapore</item>
+        <item>290:SH:Saint Helena</item>
+        <item>386:SI:Slovenia</item>
+        <item>421:SK:Slovakia</item>
+        <item>232:SL:Sierra Leone</item>
+        <item>378:SM:San Marino</item>
+        <item>221:SN:Senegal</item>
+        <item>252:SO:Somalia</item>
+        <item>597:SR:Suriname</item>
+        <item>211:SS:South Sudan</item>
+        <item>239:ST:Sao Tome and Principe</item>
+        <item>503:SV:El Salvador</item>
+        <item>1:SX:Sint Maarten</item>
+        <item>963:SY:Syria</item>
+        <item>268:SZ:Swaziland</item>
+        <item>1:TC:Turks and Caicos Islands</item>
+        <item>235:TD:Chad</item>
+        <item>228:TG:Togo</item>
+        <item>66:TH:Thailand</item>
+        <item>992:TJ:Tajikistan</item>
+        <item>690:TK:Tokelau</item>
+        <item>670:TL:Timor-Leste</item>
+        <item>993:TM:Turkmenistan</item>
+        <item>216:TN:Tunisia</item>
+        <item>676:TO:Tonga</item>
+        <item>90:TR:Turkey</item>
+        <item>1:TT:Trinidad and Tobago</item>
+        <item>688:TV:Tuvalu</item>
+        <item>886:TW:Taiwan</item>
+        <item>255:TZ:Tanzania</item>
+        <item>380:UA:Ukraine</item>
+        <item>256:UG:Uganda</item>
+        <item>1:US:United States</item>
+        <item>598:UY:Uruguay</item>
+        <item>998:UZ:Uzbekistan</item>
+        <item>1:VC:Saint Vincent and the Grenadines</item>
+        <item>58:VE:Venezuela</item>
+        <item>1:VG:British Virgin Islands</item>
+        <item>1:VI:US Virgin Islands</item>
+        <item>84:VN:Vietnam</item>
+        <item>678:VU:Vanuatu</item>
+        <item>681:WF:Wallis and Futuna</item>
+        <item>685:WS:Samoa</item>
+        <item>967:YE:Yemen</item>
+        <item>262:YT:Mayotte</item>
+        <item>27:ZA:South Africa</item>
+        <item>260:ZM:Zambia</item>
+        <item>263:ZW:Zimbabwe</item>
+    </string-array>
+    <declare-styleable name="AspectFrameLayout"><attr format="dimension" name="com_accountkit_aspect_height"/><attr format="dimension" name="com_accountkit_aspect_width"/></declare-styleable>
+    <declare-styleable name="ConstrainedLinearLayout"><attr format="dimension" name="com_accountkit_max_height"/><attr format="dimension" name="com_accountkit_max_width"/><attr format="dimension" name="com_accountkit_min_height"/></declare-styleable>
+    <declare-styleable name="Theme.AccountKit.GranularStyle"><attr format="reference" name="com_accountkit_background"/><attr format="color" name="com_accountkit_background_color"/><attr format="color" name="com_accountkit_button_background_color"/><attr format="color" name="com_accountkit_button_border_color"/><attr format="color" name="com_accountkit_button_disabled_background_color"/><attr format="color" name="com_accountkit_button_disabled_border_color"/><attr format="color" name="com_accountkit_button_disabled_text_color"/><attr format="color" name="com_accountkit_button_pressed_background_color"/><attr format="color" name="com_accountkit_button_pressed_border_color"/><attr format="color" name="com_accountkit_button_pressed_text_color"/><attr format="color" name="com_accountkit_button_text_color"/><attr format="integer" name="com_accountkit_content_body_layout_weight"/><attr format="integer" name="com_accountkit_content_bottom_layout_weight"/><attr format="integer" name="com_accountkit_content_footer_layout_weight"/><attr format="integer" name="com_accountkit_content_header_layout_weight"/><attr format="integer" name="com_accountkit_content_layout_weight"/><attr format="integer" name="com_accountkit_content_text_layout_weight"/><attr format="integer" name="com_accountkit_content_top_layout_weight"/><attr format="dimension" name="com_accountkit_content_margin_start"/><attr format="dimension" name="com_accountkit_content_margin_end"/><attr format="dimension" name="com_accountkit_content_max_width"/><attr format="dimension" name="com_accountkit_content_min_height"/><attr format="color" name="com_accountkit_header_background_color"/><attr format="color" name="com_accountkit_header_text_color"/><attr format="color" name="com_accountkit_icon_color"/><attr format="color" name="com_accountkit_input_accent_color"/><attr format="color" name="com_accountkit_input_background_color"/><attr format="color" name="com_accountkit_input_border_color"/><attr format="color" name="com_accountkit_input_text_color"/><attr format="color" name="com_accountkit_text_color"/><attr format="color" name="com_accountkit_title_text_color"/><attr format="dimension" name="com_accountkit_toolbar_elevation"/></declare-styleable>
+    <declare-styleable name="Theme.AccountKit.Style"><attr format="color" name="com_accountkit_primary_color"/><attr format="color" name="com_accountkit_primary_text_color"/><attr format="color" name="com_accountkit_secondary_color"/><attr format="color" name="com_accountkit_secondary_text_color"/><attr format="color" name="com_accountkit_status_bar_color"/></declare-styleable>
+    <dimen name="com_accountkit_agreement_text_size">11sp</dimen>
+    <dimen name="com_accountkit_button_text_size">12sp</dimen>
+    <dimen name="com_accountkit_content_margin_bottom">8dp</dimen>
+    <dimen name="com_accountkit_content_margin_end">32dp</dimen>
+    <dimen name="com_accountkit_content_margin_start">32dp</dimen>
+    <dimen name="com_accountkit_content_max_width">312dp</dimen>
+    <dimen name="com_accountkit_content_min_height">-1dp</dimen>
+    <dimen name="com_accountkit_country_code_text_size">18sp</dimen>
+    <dimen name="com_accountkit_icon_container_padding_bottom">24dp</dimen>
+    <dimen name="com_accountkit_icon_container_padding_top">0dp</dimen>
+    <dimen name="com_accountkit_input_border">1dp</dimen>
+    <dimen name="com_accountkit_input_corner_radius">3dp</dimen>
+    <dimen name="com_accountkit_input_spacing">@dimen/com_accountkit_spacer_normal</dimen>
+    <dimen name="com_accountkit_input_text_padding_bottom">10dp</dimen>
+    <dimen name="com_accountkit_input_text_padding_end">12dp</dimen>
+    <dimen name="com_accountkit_input_text_padding_start">12dp</dimen>
+    <dimen name="com_accountkit_input_text_padding_top">10dp</dimen>
+    <dimen name="com_accountkit_input_text_size">16sp</dimen>
+    <dimen name="com_accountkit_progress_bar_size">86dp</dimen>
+    <dimen name="com_accountkit_spacer_normal">8dp</dimen>
+    <dimen name="com_accountkit_spinner_item_padding_bottom">3dp</dimen>
+    <dimen name="com_accountkit_spinner_item_padding_end">23dp</dimen>
+    <dimen name="com_accountkit_spinner_item_padding_start">23dp</dimen>
+    <dimen name="com_accountkit_spinner_item_padding_top">3dp</dimen>
+    <dimen name="com_accountkit_spinner_triangle_margin">2dp</dimen>
+    <dimen name="com_accountkit_text_size">11sp</dimen>
+    <dimen name="com_accountkit_title_min_height">78dp</dimen>
+    <dimen name="com_accountkit_title_text_size">16sp</dimen>
+    <dimen name="com_accountkit_vertical_spacer_large_height">24dp</dimen>
+    <dimen name="com_accountkit_vertical_spacer_small_height">12dp</dimen>
+    <string name="com_accountkit_button_begin">Begin</string>
+    <string name="com_accountkit_button_cancel">Cancel</string>
+    <string name="com_accountkit_button_confirm">Confirm</string>
+    <string name="com_accountkit_button_continue">Continue</string>
+    <string name="com_accountkit_button_log_in">Log In</string>
+    <string name="com_accountkit_button_next">Next</string>
+    <string name="com_accountkit_button_ok">OK</string>
+    <string name="com_accountkit_button_resend">Send New Code</string>
+    <string name="com_accountkit_button_resend_sms">Resend SMS</string>
+    <string name="com_accountkit_button_send">Send</string>
+    <string name="com_accountkit_button_send_code_in_fb">Send Code in Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Tap Send Code in Facebook to send a notification to the Facebook account linked to the phone number you entered.</string>
+    <string name="com_accountkit_button_start">Start</string>
+    <string name="com_accountkit_button_start_over">Try Again</string>
+    <string name="com_accountkit_button_submit">Submit</string>
+    <string name="com_accountkit_check_email">Open your Email</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Tap %1$s to accept Facebook\'s &lt;a href="%2$s">Terms&lt;/a>, &lt;a href="%3$s">Data Policy&lt;/a> and &lt;a href="%4$s">cookie use&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Tap %1$s to accept Facebook\'s &lt;a href="%2$s">Terms&lt;/a>, &lt;a href="%3$s">Data Policy&lt;/a>, &lt;a href="%4$s">cookie use&lt;/a> and the &lt;a href="%5$s">Privacy Policy&lt;/a> of %6$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Tap %1$s to accept Facebook\'s &lt;a href="%2$s">Terms&lt;/a>, &lt;a href="%3$s">Data Policy&lt;/a>, &lt;a href="%4$s">cookie use&lt;/a> and the &lt;a href="%5$s">Privacy Policy&lt;/a> and &lt;a href="%6$s">Terms of Service&lt;/a> of %7$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Send New Code</string>
+    <string name="com_accountkit_confirmation_code_title">Enter your code</string>
+    <string name="com_accountkit_email_invalid">
+        This email is incorrect. Please try again.
+    </string>
+    <string name="com_accountkit_email_loading_title">Sending email…</string>
+    <string name="com_accountkit_email_login_retry_title">Confirm your email</string>
+    <string name="com_accountkit_email_login_text">
+      Tap %1$s to get an email confirmation from Account Kit by Facebook to help you use %2$s. You don\'t need a Facebook account to use it. &lt;a href="%3$s">Learn how Facebook uses your info&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">Enter your email address</string>
+    <string name="com_accountkit_email_not_received">Resend Email</string>
+    <string name="com_accountkit_email_verify_title">Open the email and confirm your address</string>
+    <string name="com_accountkit_error_title">We\'re sorry, something went wrong.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Enter your code from Facebook</string>
+    <string name="com_accountkit_phone_loading_title">Sending your code…</string>
+    <string name="com_accountkit_phone_login_retry_title">Confirm your phone number</string>
+    <string name="com_accountkit_phone_login_text">
+    Tap %1$s to get an SMS confirmation from Account Kit by Facebook to help you use %2$s. You don\'t need a Facebook account to use it. Message and data rates may apply. &lt;a href="%3$s">Learn how Facebook uses your info&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">Enter your phone number</string>
+    <string name="com_accountkit_resend_email_text">Send New Email</string>
+    <string name="com_accountkit_resend_title">We\'re sorry. Try these options to continue.</string>
+    <string name="com_accountkit_return_title">Taking you back to %1$s…</string>
+    <string name="com_accountkit_sent_title">Sent!</string>
+    <string name="com_accountkit_success_title">Done!</string>
+    <string name="com_accountkit_toolbar_title">Log Into %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        We couldn\'t verify your code.\nPlease try again:
+    </string>
+    <string name="com_accountkit_verify_title">Verifying your code…</string>
+    <style name="AccountKit.ActionBar" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:background">?attr/com_accountkit_header_background_color</item>
+        <item name="colorControlNormal">?attr/com_accountkit_header_text_color</item>
+    </style>
+    <style name="AccountKit.AgreementText" parent="Base.AccountKit.AgreementText"/>
+    <style name="AccountKit.Button" parent="Base.AccountKit.Button"/>
+    <style name="AccountKit.Container" parent="Base.AccountKit.Container"/>
+    <style name="AccountKit.FragmentContainer" parent="Base.AccountKit.FragmentContainer"/>
+    <style name="AccountKit.IconContainer" parent="Base.AccountKit.IconContainer"/>
+    <style name="AccountKit.InputText" parent="Base.AccountKit.InputText"/>
+    <style name="AccountKit.ProgressBar" parent="Base.AccountKit.ProgressBar"/>
+    <style name="AccountKit.Spinner" parent="Base.AccountKit.Spinner"/>
+    <style name="AccountKit.SpinnerItem" parent="Base.AccountKit.SpinnerItem"/>
+    <style name="AccountKit.Text" parent="Base.AccountKit.Text"/>
+    <style name="AccountKit.TitleText" parent="Base.AccountKit.TitleText"/>
+    <style name="AccountKit.Toolbar" parent="Base.Widget.AppCompat.Toolbar">
+        <item name="titleTextAppearance">@style/AccountKit.Toolbar.Title</item>
+    </style>
+    <style name="AccountKit.Toolbar.Title" parent="Base.AccountKit.Toolbar.Title"/>
+    <style name="Base.AccountKit.AgreementText" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">?attr/com_accountkit_text_color</item>
+        <item name="android:textColorLink">?attr/com_accountkit_text_color</item>
+        <item name="android:textSize">@dimen/com_accountkit_agreement_text_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Base.AccountKit.Button" parent="TextAppearance.AppCompat.Button">
+        <item name="android:minHeight">0dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">@dimen/com_accountkit_button_text_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Base.AccountKit.Container" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center_horizontal|top</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">?attr/com_accountkit_content_margin_start</item>
+        <item name="android:layout_marginRight">?attr/com_accountkit_content_margin_end</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="com_accountkit_max_width">?attr/com_accountkit_content_max_width</item>
+    </style>
+    <style name="Base.AccountKit.FragmentContainer" parent="">
+        <item name="android:gravity">center_horizontal|top</item>
+        <item name="android:layout_gravity">center_horizontal|top</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    <style name="Base.AccountKit.IconContainer" parent="">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:paddingBottom">
+            @dimen/com_accountkit_icon_container_padding_bottom
+        </item>
+        <item name="android:paddingTop">@dimen/com_accountkit_icon_container_padding_top</item>
+    </style>
+    <style name="Base.AccountKit.InputText" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:paddingBottom">@dimen/com_accountkit_input_text_padding_bottom</item>
+        <item name="android:paddingLeft">@dimen/com_accountkit_input_text_padding_start</item>
+        <item name="android:paddingRight">@dimen/com_accountkit_input_text_padding_end</item>
+        <item name="android:paddingTop">@dimen/com_accountkit_input_text_padding_top</item>
+        <item name="android:textColor">?attr/com_accountkit_input_text_color</item>
+        <item name="android:textSize">@dimen/com_accountkit_input_text_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Base.AccountKit.ProgressBar" parent="Widget.AppCompat.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/com_accountkit_progress_ring</item>
+    </style>
+    <style name="Base.AccountKit.Spinner" parent="Widget.AppCompat.Spinner">
+        <item name="android:gravity">center</item>
+        <item name="android:spinnerMode">dialog</item>
+    </style>
+    <style name="Base.AccountKit.SpinnerItem" parent="TextAppearance.AppCompat.Widget.TextView.SpinnerItem">
+        <item name="android:paddingBottom">
+            @dimen/com_accountkit_spinner_item_padding_bottom
+        </item>
+        <item name="android:paddingLeft">@dimen/com_accountkit_spinner_item_padding_start</item>
+        <item name="android:paddingRight">@dimen/com_accountkit_spinner_item_padding_end</item>
+        <item name="android:paddingTop">@dimen/com_accountkit_spinner_item_padding_top</item>
+    </style>
+    <style name="Base.AccountKit.Text" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textColor">?attr/com_accountkit_text_color</item>
+        <item name="android:textSize">@dimen/com_accountkit_text_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Base.AccountKit.TitleText" parent="TextAppearance.AppCompat.Large">
+        <item name="android:textColor">?attr/com_accountkit_title_text_color</item>
+        <item name="android:textSize">@dimen/com_accountkit_title_text_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="Base.AccountKit.Toolbar.Title" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textColor">?attr/com_accountkit_header_text_color</item>
+    </style>
+    <style name="Base.Theme.AccountKit" parent="Base.Theme.AppCompat">
+        <!-- simple styling attributes -->
+        <item name="com_accountkit_primary_color">?android:attr/colorPrimary</item>
+        <item name="com_accountkit_primary_text_color">?android:attr/textColorPrimary</item>
+        <item name="com_accountkit_secondary_color">?android:attr/colorAccent</item>
+        <item name="com_accountkit_secondary_text_color">?android:attr/colorForeground</item>
+        <item name="com_accountkit_status_bar_color">@android:color/black</item>
+
+        <!-- advanced styling attributes -->
+        <item name="com_accountkit_background_color">@android:color/white</item>
+        <item name="com_accountkit_button_background_color">
+            ?attr/com_accountkit_primary_color
+        </item>
+        <item name="com_accountkit_button_text_color">?attr/com_accountkit_primary_text_color</item>
+        <item name="com_accountkit_content_body_layout_weight">
+            ?attr/com_accountkit_content_layout_weight
+        </item>
+        <item name="com_accountkit_content_bottom_layout_weight">
+            ?attr/com_accountkit_content_layout_weight
+        </item>
+        <item name="com_accountkit_content_footer_layout_weight">
+            ?attr/com_accountkit_content_layout_weight
+        </item>
+        <item name="com_accountkit_content_header_layout_weight">
+            ?attr/com_accountkit_content_layout_weight
+        </item>
+        <item name="com_accountkit_content_layout_weight">0</item>
+        <item name="com_accountkit_content_text_layout_weight">
+            ?attr/com_accountkit_content_layout_weight
+        </item>
+        <item name="com_accountkit_content_top_layout_weight">
+            ?attr/com_accountkit_content_layout_weight
+        </item>
+        <item name="com_accountkit_content_margin_end">
+            @dimen/com_accountkit_content_margin_end
+        </item>
+        <item name="com_accountkit_content_margin_start">
+            @dimen/com_accountkit_content_margin_start
+        </item>
+        <item name="com_accountkit_content_max_width">@dimen/com_accountkit_content_max_width</item>
+        <item name="com_accountkit_content_min_height">
+            @dimen/com_accountkit_content_min_height
+        </item>
+        <item name="com_accountkit_header_background_color">
+            ?attr/com_accountkit_primary_color
+        </item>
+        <item name="com_accountkit_header_text_color">?attr/com_accountkit_primary_text_color</item>
+        <item name="com_accountkit_icon_color">?attr/com_accountkit_primary_color</item>
+        <item name="com_accountkit_input_background_color">
+            ?attr/com_accountkit_secondary_color
+        </item>
+        <item name="com_accountkit_input_text_color">
+            ?attr/com_accountkit_secondary_text_color
+        </item>
+        <item name="com_accountkit_text_color">?attr/com_accountkit_secondary_text_color</item>
+        <item name="com_accountkit_title_text_color">
+            ?attr/com_accountkit_secondary_text_color
+        </item>
+        <item name="com_accountkit_toolbar_elevation">0dp</item>
+
+        <!-- default values for advanced attributes that inherit from other attributes -->
+        <item name="com_accountkit_button_border_color">
+            ?attr/com_accountkit_button_background_color
+        </item>
+        <item name="com_accountkit_button_disabled_background_color">
+            ?attr/com_accountkit_input_background_color
+        </item>
+        <item name="com_accountkit_button_disabled_border_color">
+            ?attr/com_accountkit_button_disabled_background_color
+        </item>
+        <item name="com_accountkit_button_disabled_text_color">
+            ?attr/com_accountkit_input_text_color
+        </item>
+        <item name="com_accountkit_button_pressed_background_color">
+            ?attr/com_accountkit_header_background_color
+        </item>
+        <item name="com_accountkit_button_pressed_border_color">
+            ?attr/com_accountkit_button_pressed_background_color
+        </item>
+        <item name="com_accountkit_button_pressed_text_color">
+            ?attr/com_accountkit_header_text_color
+        </item>
+        <item name="com_accountkit_input_accent_color">
+            ?attr/com_accountkit_input_text_color
+        </item>
+        <item name="com_accountkit_input_border_color">
+            ?attr/com_accountkit_input_background_color
+        </item>
+
+        <!-- android style attributes -->
+        <item name="colorControlNormal">?attr/com_accountkit_input_text_color</item>
+        <item name="colorPrimaryDark">?attr/com_accountkit_status_bar_color</item>
+        <item name="toolbarStyle">@style/AccountKit.Toolbar</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:progressBarStyle">@style/AccountKit.ProgressBar</item>
+        <item name="android:spinnerItemStyle">@style/AccountKit.SpinnerItem</item>
+        <item name="android:spinnerStyle">@style/AccountKit.Spinner</item>
+    </style>
+    <style name="Theme.AccountKit" parent="Base.Theme.AccountKit">
+        <item name="com_accountkit_primary_color">#96bdeb</item>
+        <item name="com_accountkit_primary_text_color">@android:color/white</item>
+        <item name="com_accountkit_secondary_color">#eef6ff</item>
+        <item name="com_accountkit_secondary_text_color">#44566b</item>
+        <item name="com_accountkit_status_bar_color">#303f9f</item>
+    </style>
+    <style name="Theme.AccountKit.Outline" parent="Theme.AccountKit">
+        <item name="com_accountkit_secondary_color">?attr/com_accountkit_primary_color</item>
+
+        <item name="com_accountkit_button_disabled_border_color">
+            ?attr/com_accountkit_input_border_color
+        </item>
+        <item name="com_accountkit_button_disabled_text_color">
+            ?attr/com_accountkit_input_accent_color
+        </item>
+        <item name="com_accountkit_button_pressed_border_color">
+            ?attr/com_accountkit_input_border_color
+        </item>
+        <item name="com_accountkit_input_accent_color">?attr/com_accountkit_secondary_color</item>
+        <item name="com_accountkit_input_background_color">
+            ?attr/com_accountkit_background_color
+        </item>
+        <item name="com_accountkit_input_border_color">?attr/com_accountkit_secondary_color</item>
+    </style>
+</resources>

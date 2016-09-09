@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:అండోరా</item>
+        <item>971:AE:యునైటెడ్ అరబ్ ఎమిరేట్స్</item>
+        <item>93:AF:ఆఫ్గనిస్తాన్</item>
+        <item>1:AG:ఆంటిగ్వా</item>
+        <item>1:AI:ఆంగ్విల్లా</item>
+        <item>355:AL:అల్బేనియా</item>
+        <item>374:AM:ఆర్మేనియా</item>
+        <item>244:AO:అంగోలా</item>
+        <item>54:AR:ఆర్జెంటినా</item>
+        <item>1:AS:అమెరికన్ సమోవా</item>
+        <item>43:AT:ఆస్ట్రియా</item>
+        <item>61:AU:ఆస్ట్రేలియా</item>
+        <item>297:AW:అరుబా</item>
+        <item>994:AZ:అజర్‌బైజాన్</item>
+        <item>387:BA:బోస్నియా మరియు హెర్జెగ్నోవినా</item>
+        <item>1:BB:బార్బడోస్</item>
+        <item>880:BD:బంగ్లాదేశ్</item>
+        <item>32:BE:బెల్జియం</item>
+        <item>226:BF:బుర్కినా ఫాసో</item>
+        <item>359:BG:బల్గేరియా</item>
+        <item>973:BH:బహ్రెయిన్</item>
+        <item>257:BI:బురుండి</item>
+        <item>229:BJ:బెనిన్</item>
+        <item>1:BM:బెర్ముడా</item>
+        <item>673:BN:బ్రూనై</item>
+        <item>591:BO:బొలీవియా</item>
+        <item>599:BQ:బొనెయిర్, సింట్ యూస్టేషియస్ మరియు సబా</item>
+        <item>55:BR:బ్రెజిల్</item>
+        <item>1:BS:ది బహమాస్</item>
+        <item>975:BT:భూటాన్</item>
+        <item>267:BW:బోత్సువానా</item>
+        <item>375:BY:బెలారస్</item>
+        <item>501:BZ:బెలిజ్</item>
+        <item>1:CA:కెనడా</item>
+        <item>243:CD:డెమోక్రటిక్ రిపబ్లిక్ ఆఫ్ ది కాంగో</item>
+        <item>236:CF:సెంట్రల్ ఆఫ్రికన్ రిపబ్లిక్</item>
+        <item>242:CG:రిపబ్లిక్ ఆఫ్ ది కాంగో</item>
+        <item>41:CH:స్విట్జర్‌ల్యాండ్</item>
+        <item>225:CI:కోట్ డివోయిర్</item>
+        <item>682:CK:కుక్ దీవులు</item>
+        <item>56:CL:చిలీ</item>
+        <item>237:CM:కామెరూన్</item>
+        <item>86:CN:చైనా</item>
+        <item>57:CO:కొలంబియా</item>
+        <item>506:CR:కోస్టా రికా</item>
+        <item>53:CU:క్యూబా</item>
+        <item>238:CV:కేప్ వర్దె</item>
+        <item>599:CW:క్యూరసావ్</item>
+        <item>357:CY:సైప్రస్</item>
+        <item>420:CZ:చెక్ రిపబ్లిక్</item>
+        <item>49:DE:జర్మనీ</item>
+        <item>253:DJ:జిబౌటి</item>
+        <item>45:DK:డెన్మార్క్</item>
+        <item>1:DM:డొమినికా</item>
+        <item>1:DO:డామినికన్ రిపబ్లిక్</item>
+        <item>213:DZ:అల్జీరియా</item>
+        <item>593:EC:ఈక్వడార్</item>
+        <item>372:EE:ఈస్టోనియా</item>
+        <item>20:EG:ఈజిప్ట్</item>
+        <item>212:EH:పశ్చిమ సహారా</item>
+        <item>291:ER:ఎరిట్రియా</item>
+        <item>34:ES:స్పెయిన్</item>
+        <item>251:ET:ఇథియోపియా</item>
+        <item>358:FI:ఫిన్‌ల్యాండ్</item>
+        <item>679:FJ:ఫిజి</item>
+        <item>500:FK:ఫాక్‌ల్యాండ్ దీవులు</item>
+        <item>691:FM:మైక్రోనేషియా సమాఖ్య రాష్ట్రాలు</item>
+        <item>298:FO:ఫారో దీవులు</item>
+        <item>33:FR:ఫ్రాన్స్</item>
+        <item>241:GA:గబాన్</item>
+        <item>44:GB:యునైటెడ్ కింగ్‌డమ్</item>
+        <item>1:GD:గ్రెనడా</item>
+        <item>995:GE:జార్జియా</item>
+        <item>594:GF:ఫ్రెంచ్ గయానా</item>
+        <item>44:GG:గ్వేర్నిసీ</item>
+        <item>233:GH:ఘనా</item>
+        <item>350:GI:జిబ్రాల్టర్</item>
+        <item>299:GL:గ్రీన్‌ల్యాండ్</item>
+        <item>220:GM:ది జాంబియా</item>
+        <item>224:GN:గినియా</item>
+        <item>590:GP:గ్వాడెలోప్</item>
+        <item>240:GQ:ఈక్వటోరియల్ గునియా</item>
+        <item>30:GR:గ్రీస్</item>
+        <item>502:GT:గ్వాటెమాలా</item>
+        <item>1:GU:గ్వామ్</item>
+        <item>245:GW:గినియా-బిస్సావ్</item>
+        <item>592:GY:గయానా</item>
+        <item>852:HK:హంగ్‌ కాంగ్</item>
+        <item>504:HN:హోండురాస్</item>
+        <item>385:HR:క్రొయేషియా</item>
+        <item>509:HT:హైతి</item>
+        <item>36:HU:హంగేరీ</item>
+        <item>62:ID:ఇండోనేషియా</item>
+        <item>353:IE:ఐర్లాండ్</item>
+        <item>972:IL:ఇజ్రాయిల్</item>
+        <item>44:IM:ఐల్ ఆఫ్ మాన్</item>
+        <item>91:IN:భారతదేశం</item>
+        <item>246:IO:బ్రిటిష్ హిందూ మహాసముద్ర భూభాగం</item>
+        <item>964:IQ:ఇరాక్</item>
+        <item>98:IR:ఇరాన్</item>
+        <item>354:IS:ఐస్‌ల్యాండ్</item>
+        <item>39:IT:ఇటలీ</item>
+        <item>44:JE:జెర్సీ</item>
+        <item>1:JM:జమైకా</item>
+        <item>962:JO:జోర్డాన్</item>
+        <item>81:JP:జపాన్</item>
+        <item>254:KE:కెన్యా</item>
+        <item>996:KG:కిర్గిస్తాన్</item>
+        <item>855:KH:కాంబోడియా</item>
+        <item>686:KI:కిరిబాతి</item>
+        <item>269:KM:కొమొరోస్</item>
+        <item>1:KN:సెయింట్ కిట్టీస్ మరియు నెవిస్</item>
+        <item>850:KP:ఉత్తర కొరియా</item>
+        <item>82:KR:దక్షిణ కొరియా</item>
+        <item>965:KW:కువైట్</item>
+        <item>1:KY:కేమెన్ దీవులు</item>
+        <item>7:KZ:కజకిస్తాన్</item>
+        <item>856:LA:లావోస్</item>
+        <item>961:LB:లెబనాన్</item>
+        <item>1:LC:సెయింట్ లూసియా</item>
+        <item>423:LI:లీచ్‌టెన్‌స్టెయిన్</item>
+        <item>94:LK:శ్రీలంక</item>
+        <item>231:LR:లైబీరియా</item>
+        <item>266:LS:లెసోథో</item>
+        <item>370:LT:లిథువేనియా</item>
+        <item>352:LU:లక్సెంబర్గ్</item>
+        <item>371:LV:లాట్వియా</item>
+        <item>218:LY:లిబియా</item>
+        <item>212:MA:మొరాకో</item>
+        <item>377:MC:మొనాకో</item>
+        <item>373:MD:మాల్డోవా</item>
+        <item>382:ME:మోంటెనెగ్రో</item>
+        <item>261:MG:మడగాస్కర్</item>
+        <item>692:MH:మార్షల్ ఐలాండ్స్</item>
+        <item>389:MK:మేసిడోనియా</item>
+        <item>223:ML:మాలి</item>
+        <item>95:MM:మయన్మార్</item>
+        <item>976:MN:మంగోలియా</item>
+        <item>853:MO:మకావ్</item>
+        <item>1:MP:ఉత్తర మెరియానా దీవులు</item>
+        <item>596:MQ:మార్టినిక్</item>
+        <item>222:MR:మారిటేనియా</item>
+        <item>1:MS:మాంట్సెరాట్</item>
+        <item>356:MT:మాల్టా</item>
+        <item>230:MU:మారిషస్</item>
+        <item>960:MV:మాల్దీవులు</item>
+        <item>265:MW:మలావి</item>
+        <item>52:MX:మెక్సికో</item>
+        <item>60:MY:మలేషియా</item>
+        <item>258:MZ:మొజాంబిక్</item>
+        <item>264:NA:నమీబియా</item>
+        <item>687:NC:న్యూ కాలెడోనియా</item>
+        <item>227:NE:నైజర్</item>
+        <item>672:NF:నార్ఫోక్ దీవి</item>
+        <item>234:NG:నైజీరియా</item>
+        <item>505:NI:నికరాగువా</item>
+        <item>31:NL:నెదర్‌ల్యాండ్స్</item>
+        <item>47:NO:నార్వే</item>
+        <item>977:NP:నేపాల్</item>
+        <item>674:NR:నౌరు</item>
+        <item>683:NU:నియూ</item>
+        <item>64:NZ:న్యూజిల్యాండ్</item>
+        <item>968:OM:ఓమన్</item>
+        <item>507:PA:పనామా</item>
+        <item>51:PE:పెరూ</item>
+        <item>689:PF:ఫ్రెంచ్ పాలినేషియా</item>
+        <item>675:PG:పపువా న్యూ గినియా</item>
+        <item>63:PH:ఫిలిప్పీన్స్</item>
+        <item>92:PK:పాకిస్తాన్</item>
+        <item>48:PL:పోలాండ్</item>
+        <item>508:PM:సెయింట్ పియెర్రే మరియు మికెలాన్</item>
+        <item>1:PR:ఫ్యూర్టో రికో</item>
+        <item>970:PS:పాలస్తీన్</item>
+        <item>351:PT:పోర్చుగల్</item>
+        <item>680:PW:పలావ్</item>
+        <item>595:PY:పరాగ్వే</item>
+        <item>974:QA:ఖతార్</item>
+        <item>262:RE:రీయూనియన్</item>
+        <item>40:RO:రొమేనియా</item>
+        <item>381:RS:సెర్బియా</item>
+        <item>7:RU:రష్యా</item>
+        <item>250:RW:రువాండ</item>
+        <item>966:SA:సౌదీ అరేబియా</item>
+        <item>677:SB:సోలోమన్ దీవులు</item>
+        <item>248:SC:సీషెల్స్</item>
+        <item>249:SD:సూడాన్</item>
+        <item>46:SE:స్వీడన్</item>
+        <item>65:SG:సింగపూర్</item>
+        <item>290:SH:సెయింట్ హెలెనా</item>
+        <item>386:SI:స్లోవేనియా</item>
+        <item>421:SK:స్లొవేకియా</item>
+        <item>232:SL:సియెర్రా లియోన్</item>
+        <item>378:SM:శాన్ మారినో</item>
+        <item>221:SN:సెనెగల్</item>
+        <item>252:SO:సోమాలియా</item>
+        <item>597:SR:సురినామ్</item>
+        <item>211:SS:దక్షిణ సూడాన్</item>
+        <item>239:ST:సావో టామ్ మరియు ప్రిన్సిపె</item>
+        <item>503:SV:ఎల్ సాల్వడార్</item>
+        <item>1:SX:సింట్ మార్టిన్</item>
+        <item>963:SY:సిరియా</item>
+        <item>268:SZ:స్వాజిలాండ్</item>
+        <item>1:TC:తుర్క్స్ మరియు కైకోస్ దీవులు</item>
+        <item>235:TD:చాద్</item>
+        <item>228:TG:టోగో</item>
+        <item>66:TH:థాయ్‌ల్యాండ్</item>
+        <item>992:TJ:తజికిస్తాన్</item>
+        <item>690:TK:టొకేలౌ</item>
+        <item>670:TL:టైమర్-లెస్టే</item>
+        <item>993:TM:తుర్క్‌మెనిస్తాన్</item>
+        <item>216:TN:ట్యునీషియా</item>
+        <item>676:TO:టోంగా</item>
+        <item>90:TR:టర్కీ</item>
+        <item>1:TT:ట్రినిడాడ్ మరియు టొబాగో</item>
+        <item>688:TV:టువలు</item>
+        <item>886:TW:తైవాన్</item>
+        <item>255:TZ:టాంజానియ</item>
+        <item>380:UA:ఉక్రెయిన్</item>
+        <item>256:UG:ఉగాండా</item>
+        <item>1:US:సంయుక్త రాష్ట్రాలు</item>
+        <item>598:UY:ఉరుగ్వే</item>
+        <item>998:UZ:ఉజ్బెకిస్తాన్</item>
+        <item>1:VC:సెయింట్ విన్సెంట్ మరియు ది గ్రెనడీన్స్</item>
+        <item>58:VE:వెనిజులా</item>
+        <item>1:VG:బ్రిటిష్ వర్జిన్ దీవులు</item>
+        <item>1:VI:యుఎస్ వర్జిన్ దీవులు</item>
+        <item>84:VN:వియత్నాం</item>
+        <item>678:VU:వనౌటు</item>
+        <item>681:WF:వాల్లిస్ మరియు ఫ్యూటునా</item>
+        <item>685:WS:సమోవా</item>
+        <item>967:YE:యెమెన్</item>
+        <item>262:YT:మయొట్</item>
+        <item>27:ZA:దక్షిణాఫ్రికా</item>
+        <item>260:ZM:జాంబియా</item>
+        <item>263:ZW:జింబాబ్వే</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">ప్రారంభించు</string>
+    <string name="com_accountkit_button_cancel">రద్దు చేయి</string>
+    <string name="com_accountkit_button_confirm">నిర్ధారించు</string>
+    <string name="com_accountkit_button_continue">కొనసాగించు</string>
+    <string name="com_accountkit_button_log_in">లాగిన్ చేయి</string>
+    <string name="com_accountkit_button_next">తదుపరి</string>
+    <string name="com_accountkit_button_ok">సరే</string>
+    <string name="com_accountkit_button_resend">కొత్త కోడ్‌ను పంపు</string>
+    <string name="com_accountkit_button_resend_sms">SMSను మళ్లీ పంపు</string>
+    <string name="com_accountkit_button_send">పంపు</string>
+    <string name="com_accountkit_button_send_code_in_fb">కోడ్‌ను Facebookలో పంపండి</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">మీరు నమోదు చేసిన ఫోన్ నంబర్‌కు అనుబంధించిన Facebook ఖాతాకు నోటిఫికేషన్ పంపడానికి Facebookలో కోడ్‌ను పంపు నొక్కండి.</string>
+    <string name="com_accountkit_button_start">ప్రారంభించు</string>
+    <string name="com_accountkit_button_start_over">మళ్లీ ప్రయత్నించండి</string>
+    <string name="com_accountkit_button_submit">సమర్పించు</string>
+    <string name="com_accountkit_check_email">మీ ఇమెయిల్‌ను తెరవండి</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Facebook &lt;a href="%2$s">నిబంధనలు&lt;/a>, &lt;a href="%3$s">డేటా విధానం&lt;/a> మరియు &lt;a href="%4$s">కుక్కీ వినియోగం&lt;/a> ఆమోదించడానికి %1$s నొక్కండి.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Facebook &lt;a href="%2$s">నిబంధనలు&lt;/a>, &lt;a href="%3$s">డేటా విధానం&lt;/a>, &lt;a href="%4$s">కుక్కీ వినియోగం&lt;/a> మరియు %6$s &lt;a href="%5$s">గోప్యతా విధానం&lt;/a> ఆమోదించడానికి %1$s నొక్కండి.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Facebook &lt;a href="%2$s">నిబంధనలు&lt;/a>, &lt;a href="%3$s">డేటా విధానం&lt;/a>, &lt;a href="%4$s">కుక్కీ వినియోగం&lt;/a> మరియు %7$s &lt;a href="%5$s">గోప్యతా విధానం&lt;/a> మరియు &lt;a href="%6$s">సేవా నిబంధనలు&lt;/a> ఆమోదించడానికి %1$s  నొక్కండి.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">కొత్త కోడ్‌ను పంపు</string>
+    <string name="com_accountkit_confirmation_code_title">మీ కోడ్‌ను నమోదు చేయండి</string>
+    <string name="com_accountkit_email_invalid">ఈ ఇమెయిల్ తప్పు. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="com_accountkit_email_loading_title">ఇమెయిల్ పంపుతోంది…</string>
+    <string name="com_accountkit_email_login_retry_title">మీ ఇమెయిల్‌ను నిర్ధారించండి</string>
+    <string name="com_accountkit_email_login_text">
+        %2$sని ఉపయోగించడంలో మీకు సహాయపడటం కోసం Facebook ద్వారా Account Kit నుండి ఇమెయిల్ నిర్ధారణను పొందడానికి %1$sని నొక్కండి. దీనిని ఉపయోగించడానికి మీకు Facebook ఖాతా ఉండాల్సిన అవసరం లేదు. &lt;a href="%3$s">Facebook మీ సమాచారాన్ని ఎలా ఉపయోగిస్తుందో తెలుసుకోండి&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">మీ ఇమెయిల్ చిరునామాను నమోదు చేయండి</string>
+    <string name="com_accountkit_email_not_received">ఇమెయిల్‌ను మళ్లీ పంపు</string>
+    <string name="com_accountkit_email_verify_title">మేము పంపిన ఇమెయిల్‌ను తెరిచి, మీ చిరునామాను నిర్ధారించండి</string>
+    <string name="com_accountkit_error_title">మమ్మల్ని క్షమించండి, ఏదో తప్పు జరిగింది.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook నుండి మీ కోడ్‌ను నమోదు చేయండి</string>
+    <string name="com_accountkit_phone_loading_title">మీ కోడ్‌ను పంపుతోంది…</string>
+    <string name="com_accountkit_phone_login_retry_title">మీ ఫోన్ నంబర్‌ను నిర్ధారించండి</string>
+    <string name="com_accountkit_phone_login_text">
+        %2$sని ఉపయోగించడంలో మీకు సహాయపడటం కోసం Facebook ద్వారా Account Kit నుండి SMS నిర్ధారణను పొందడానికి %1$sని నొక్కండి. దీనిని ఉపయోగించడానికి మీకు Facebook ఖాతా ఉండాల్సిన అవసరం లేదు. సందేశ మరియు డేటా ఛార్జీలు వర్తించవచ్చు. &lt;a href="%3$s">Facebook మీ సమాచారాన్ని ఎలా ఉపయోగిస్తుందో తెలుసుకోండి&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">మీ ఫోన్ నంబర్‌ను నమోదు చేయండి</string>
+    <string name="com_accountkit_resend_email_text">కొత్త ఇమెయిల్ పంపు</string>
+    <string name="com_accountkit_resend_title">మమ్మల్ని క్షమించండి. కొనసాగించడానికి ఈ ఎంపికలను ప్రయత్నించండి.</string>
+    <string name="com_accountkit_return_title">మిమ్మల్ని తిరిగి %1$sకి మళ్లిస్తోంది…</string>
+    <string name="com_accountkit_sent_title">పంపబడింది!</string>
+    <string name="com_accountkit_success_title">పూర్తయింది!</string>
+    <string name="com_accountkit_toolbar_title">%1$sకి లాగిన్ చేయండి</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        మేము మీ కోడ్‌ను ధృవీకరించలేకపోయాము. దయచేసి మళ్లీ ప్రయత్నించండి:
+    </string>
+    <string name="com_accountkit_verify_title">మీ కోడ్‌ను ధృవీకరిస్తోంది…</string>
+</resources>

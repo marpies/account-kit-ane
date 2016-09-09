@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Andorra</item>
+        <item>971:AE:Egyesült Arab Emírségek</item>
+        <item>93:AF:Afganisztán</item>
+        <item>1:AG:Antigua</item>
+        <item>1:AI:Anguilla</item>
+        <item>355:AL:Albánia</item>
+        <item>374:AM:Örményország</item>
+        <item>244:AO:Angola</item>
+        <item>54:AR:Argentína</item>
+        <item>1:AS:Amerikai Szamoa</item>
+        <item>43:AT:Ausztria</item>
+        <item>61:AU:Ausztrália</item>
+        <item>297:AW:Aruba</item>
+        <item>994:AZ:Azerbajdzsán</item>
+        <item>387:BA:Bosznia-Hercegovina</item>
+        <item>1:BB:Barbados</item>
+        <item>880:BD:Banglades</item>
+        <item>32:BE:Belgium</item>
+        <item>226:BF:Burkina Faso</item>
+        <item>359:BG:Bulgária</item>
+        <item>973:BH:Bahrein</item>
+        <item>257:BI:Burundi</item>
+        <item>229:BJ:Benin</item>
+        <item>1:BM:Bermuda</item>
+        <item>673:BN:Brunei</item>
+        <item>591:BO:Bolívia</item>
+        <item>599:BQ:Bonaire, Sint Eustatius és Saba</item>
+        <item>55:BR:Brazília</item>
+        <item>1:BS:Bahama-szigetek</item>
+        <item>975:BT:Bhután</item>
+        <item>267:BW:Botswana</item>
+        <item>375:BY:Belarusz</item>
+        <item>501:BZ:Belize</item>
+        <item>1:CA:Kanada</item>
+        <item>243:CD:Kongói Demokratikus Köztársaság</item>
+        <item>236:CF:Közép-afrikai Köztársaság</item>
+        <item>242:CG:Kongói Köztársaság</item>
+        <item>41:CH:Svájc</item>
+        <item>225:CI:Elefántcsontpart</item>
+        <item>682:CK:Cook-szigetek</item>
+        <item>56:CL:Chile</item>
+        <item>237:CM:Kamerun</item>
+        <item>86:CN:Kína</item>
+        <item>57:CO:Kolumbia</item>
+        <item>506:CR:Costa Rica</item>
+        <item>53:CU:Kuba</item>
+        <item>238:CV:Zöld-foki-szigetek</item>
+        <item>599:CW:Curaçao</item>
+        <item>357:CY:Ciprus</item>
+        <item>420:CZ:Csehország</item>
+        <item>49:DE:Németország</item>
+        <item>253:DJ:Dzsibuti</item>
+        <item>45:DK:Dánia</item>
+        <item>1:DM:Dominikai Köztársaság</item>
+        <item>1:DO:Dominikai Köztársaság</item>
+        <item>213:DZ:Algéria</item>
+        <item>593:EC:Ecuador</item>
+        <item>372:EE:Észtország</item>
+        <item>20:EG:Egyiptom</item>
+        <item>212:EH:Nyugat-Szahara</item>
+        <item>291:ER:Eritrea</item>
+        <item>34:ES:Spanyolország</item>
+        <item>251:ET:Etiópia</item>
+        <item>358:FI:Finnország</item>
+        <item>679:FJ:Fidzsi-szigetek</item>
+        <item>500:FK:Falkland-szigetek</item>
+        <item>691:FM:Mikronéziai Szövetségi Államok</item>
+        <item>298:FO:Feröer-szigetek</item>
+        <item>33:FR:Franciaország</item>
+        <item>241:GA:Gabon</item>
+        <item>44:GB:Egyesült Királyság</item>
+        <item>1:GD:Grenada</item>
+        <item>995:GE:Grúzia</item>
+        <item>594:GF:Francia Guyana</item>
+        <item>44:GG:Guernsey</item>
+        <item>233:GH:Ghána</item>
+        <item>350:GI:Gibraltár</item>
+        <item>299:GL:Grönland</item>
+        <item>220:GM:Gambia</item>
+        <item>224:GN:Guinea</item>
+        <item>590:GP:Guadeloupe</item>
+        <item>240:GQ:Egyenlítői Guinea</item>
+        <item>30:GR:Görögország</item>
+        <item>502:GT:Guatemala</item>
+        <item>1:GU:Guam</item>
+        <item>245:GW:Bissau-Guinea</item>
+        <item>592:GY:Guyana</item>
+        <item>852:HK:Hongkong</item>
+        <item>504:HN:Honduras</item>
+        <item>385:HR:Horvátország</item>
+        <item>509:HT:Haiti</item>
+        <item>36:HU:Magyarország</item>
+        <item>62:ID:Indonézia</item>
+        <item>353:IE:Írország</item>
+        <item>972:IL:Izrael</item>
+        <item>44:IM:Man-sziget</item>
+        <item>91:IN:India</item>
+        <item>246:IO:Brit Indiai-óceáni terület</item>
+        <item>964:IQ:Irak</item>
+        <item>98:IR:Irán</item>
+        <item>354:IS:Izland</item>
+        <item>39:IT:Olaszország</item>
+        <item>44:JE:Jersey</item>
+        <item>1:JM:Jamaica</item>
+        <item>962:JO:Jordánia</item>
+        <item>81:JP:Japán</item>
+        <item>254:KE:Kenya</item>
+        <item>996:KG:Kirgizisztán</item>
+        <item>855:KH:Kambodzsa</item>
+        <item>686:KI:Kiribati</item>
+        <item>269:KM:Comore-szigetek</item>
+        <item>1:KN:Saint Kitts és Nevis</item>
+        <item>850:KP:Észak-Korea</item>
+        <item>82:KR:Dél-Korea</item>
+        <item>965:KW:Kuvait</item>
+        <item>1:KY:Kajmán-szigetek</item>
+        <item>7:KZ:Kazahsztán</item>
+        <item>856:LA:Laosz</item>
+        <item>961:LB:Libanon</item>
+        <item>1:LC:Szent Lucia</item>
+        <item>423:LI:Liechtenstein</item>
+        <item>94:LK:Srí Lanka</item>
+        <item>231:LR:Libéria</item>
+        <item>266:LS:Lesotho</item>
+        <item>370:LT:Litvánia</item>
+        <item>352:LU:Luxemburg</item>
+        <item>371:LV:Lettország</item>
+        <item>218:LY:Líbia</item>
+        <item>212:MA:Marokkó</item>
+        <item>377:MC:Monaco</item>
+        <item>373:MD:Moldova</item>
+        <item>382:ME:Montenegró</item>
+        <item>261:MG:Madagaszkár</item>
+        <item>692:MH:Marshall-szigetek</item>
+        <item>389:MK:Macedónia</item>
+        <item>223:ML:Mali</item>
+        <item>95:MM:Mianmar</item>
+        <item>976:MN:Mongólia</item>
+        <item>853:MO:Makaó</item>
+        <item>1:MP:Északi Mariana-szigetek</item>
+        <item>596:MQ:Martinique</item>
+        <item>222:MR:Mauritánia</item>
+        <item>1:MS:Montserrat</item>
+        <item>356:MT:Málta</item>
+        <item>230:MU:Mauritius</item>
+        <item>960:MV:Maldív-szigetek</item>
+        <item>265:MW:Malawi</item>
+        <item>52:MX:Mexikó</item>
+        <item>60:MY:Malajzia</item>
+        <item>258:MZ:Mozambik</item>
+        <item>264:NA:Namíbia</item>
+        <item>687:NC:Új-Kaledónia</item>
+        <item>227:NE:Niger</item>
+        <item>672:NF:Norfolk-sziget</item>
+        <item>234:NG:Nigéria</item>
+        <item>505:NI:Nicaragua</item>
+        <item>31:NL:Hollandia</item>
+        <item>47:NO:Norvégia</item>
+        <item>977:NP:Nepál</item>
+        <item>674:NR:Nauru</item>
+        <item>683:NU:Niue</item>
+        <item>64:NZ:Új-Zéland</item>
+        <item>968:OM:Omán</item>
+        <item>507:PA:Panama</item>
+        <item>51:PE:Peru</item>
+        <item>689:PF:Francia Polinézia</item>
+        <item>675:PG:Pápua Új-Guinea</item>
+        <item>63:PH:Fülöp-szigetek</item>
+        <item>92:PK:Pakisztán</item>
+        <item>48:PL:Lengyelország</item>
+        <item>508:PM:Saint-Pierre és Miquelon</item>
+        <item>1:PR:Puerto Rico</item>
+        <item>970:PS:Palesztina</item>
+        <item>351:PT:Portugália</item>
+        <item>680:PW:Palau</item>
+        <item>595:PY:Paraguay</item>
+        <item>974:QA:Katar</item>
+        <item>262:RE:Réunion</item>
+        <item>40:RO:Románia</item>
+        <item>381:RS:Szerbia</item>
+        <item>7:RU:Oroszország</item>
+        <item>250:RW:Ruanda</item>
+        <item>966:SA:Szaúd-Arábia</item>
+        <item>677:SB:Salamon-szigetek</item>
+        <item>248:SC:Seychelles-szigetek</item>
+        <item>249:SD:Szudán</item>
+        <item>46:SE:Svédország</item>
+        <item>65:SG:Szingapúr</item>
+        <item>290:SH:Szent Ilona</item>
+        <item>386:SI:Szlovénia</item>
+        <item>421:SK:Szlovákia</item>
+        <item>232:SL:Sierra Leone</item>
+        <item>378:SM:San Marino</item>
+        <item>221:SN:Szenegál</item>
+        <item>252:SO:Szomália</item>
+        <item>597:SR:Suriname</item>
+        <item>211:SS:Dél-Szudán</item>
+        <item>239:ST:Sao Tome és Principe</item>
+        <item>503:SV:Salvador</item>
+        <item>1:SX:Sint Maarten</item>
+        <item>963:SY:Szíria</item>
+        <item>268:SZ:Szváziföld</item>
+        <item>1:TC:Turks- és Caicos-szigetek</item>
+        <item>235:TD:Csád</item>
+        <item>228:TG:Togo</item>
+        <item>66:TH:Thaiföld</item>
+        <item>992:TJ:Tádzsikisztán</item>
+        <item>690:TK:Tokelau</item>
+        <item>670:TL:Kelet-Timor</item>
+        <item>993:TM:Türkmenisztán</item>
+        <item>216:TN:Tunézia</item>
+        <item>676:TO:Tonga</item>
+        <item>90:TR:Törökország</item>
+        <item>1:TT:Trinidad és Tobago</item>
+        <item>688:TV:Tuvalu</item>
+        <item>886:TW:Tajvan</item>
+        <item>255:TZ:Tanzánia</item>
+        <item>380:UA:Ukrajna</item>
+        <item>256:UG:Uganda</item>
+        <item>1:US:Egyesült Államok</item>
+        <item>598:UY:Uruguay</item>
+        <item>998:UZ:Üzbegisztán</item>
+        <item>1:VC:Saint Vincent és a Grenadine-szigetek</item>
+        <item>58:VE:Venezuela</item>
+        <item>1:VG:Brit Virgin-szigetek</item>
+        <item>1:VI:Amerikai Virgin-szigetek</item>
+        <item>84:VN:Vietnám</item>
+        <item>678:VU:Vanuatu</item>
+        <item>681:WF:Wallis és Futuna</item>
+        <item>685:WS:Szamoa</item>
+        <item>967:YE:Jemen</item>
+        <item>262:YT:Mayotte</item>
+        <item>27:ZA:Dél-afrikai Köztársaság</item>
+        <item>260:ZM:Zambia</item>
+        <item>263:ZW:Zimbabwe</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">Kezdés</string>
+    <string name="com_accountkit_button_cancel">Mégsem</string>
+    <string name="com_accountkit_button_confirm">Visszaigazolás</string>
+    <string name="com_accountkit_button_continue">Folytatás</string>
+    <string name="com_accountkit_button_log_in">Bejelentkezés</string>
+    <string name="com_accountkit_button_next">Tovább</string>
+    <string name="com_accountkit_button_ok">OK</string>
+    <string name="com_accountkit_button_resend">Új kód küldése</string>
+    <string name="com_accountkit_button_resend_sms">SMS újraküldése</string>
+    <string name="com_accountkit_button_send">Küldd el.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Kód küldése a Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">A Kód küldése a Facebook pontra koppintva értesítést küldhetsz a megadott telefonszámhoz kapcsolt Facebook-fióknak.</string>
+    <string name="com_accountkit_button_start">Indítás</string>
+    <string name="com_accountkit_button_start_over">Újra</string>
+    <string name="com_accountkit_button_submit">Küldés</string>
+    <string name="com_accountkit_check_email">Nyisd meg a levelezésedet.</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Koppints a %1$s gombra a Facebook &lt;a href="%2$s">használati feltételeinek&lt;/a>, &lt;a href="%3$s">adatkezelési szabályzatának&lt;/a> és &lt;a href="%4$s">a cookie-k használatáról szóló tájékoztatásának&lt;/a> elfogadásához.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Koppints a %1$s gombra a Facebook &lt;a href="%2$s">használati feltételeinek&lt;/a>, &lt;a href="%3$s">adatkezelési szabályzatának&lt;/a>, &lt;a href="%4$s">a cookie-k használatáról szóló tájékoztatásának&lt;/a>, valamint a(z) %6$s &lt;a href="%5$s">adatvédelmi szabályzatának&lt;/a> elfogadásához.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Koppints a %1$s gombra a Facebook &lt;a href="%2$s">használati feltételeinek&lt;/a>, &lt;a href="%3$s">adatkezelési szabályzatának&lt;/a>, &lt;a href="%4$s">a cookie-k használatáról szóló tájékoztatásának&lt;/a>, valamint a(z) %7$s &lt;a href="%5$s">adatvédelmi szabályzatának&lt;/a> és &lt;a href="%6$s">használati feltételeinek&lt;/a> elfogadásához.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Kód újraküldése</string>
+    <string name="com_accountkit_confirmation_code_title">Írd be a kódot</string>
+    <string name="com_accountkit_email_invalid">Ez az e-mail cím helytelen. Kérjük, próbáld meg újra.</string>
+    <string name="com_accountkit_email_loading_title">E-mail küldése…</string>
+    <string name="com_accountkit_email_login_retry_title">Az e-mail cím megerősítése</string>
+    <string name="com_accountkit_email_login_text">
+        A(z) %1$s gombra koppintva a Facebook Account Kit e-mailben küldött értesítéssel könnyítheti meg a(z) %2$s használatát. A használathoz nincs szükséged Facebook-fiókra. &lt;a href="%3$s">Tájékoztatás arról, hogyan használja a Facebook az adataidat&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">Add meg az e-mail címedet.</string>
+    <string name="com_accountkit_email_not_received">E-mail újraküldése</string>
+    <string name="com_accountkit_email_verify_title">Nyisd meg az általunk küldött e-mailt, és erősítsd meg a címedet.</string>
+    <string name="com_accountkit_error_title">Sajnos hiba történt.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Írd be a Facebooktól kapott kódot.</string>
+    <string name="com_accountkit_phone_loading_title">A kód elküldése folyamatban van…</string>
+    <string name="com_accountkit_phone_login_retry_title">Erősítsd meg a telefonszámodat.</string>
+    <string name="com_accountkit_phone_login_text">
+        A(z) %1$s gombra koppintva a Facebook Account Kit SMS-ben küldött értesítéssel könnyítheti meg a(z) %2$s használatát. A használathoz nincs szükséged Facebook-fiókra. Ez üzenet- és adatforgalmi szolgáltatási díjakkal járhat. &lt;a href="%3$s">Tájékoztatás arról, hogyan használja a Facebook az adataidat&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">Add meg a telefonszámodat.</string>
+    <string name="com_accountkit_resend_email_text">Új e-mail küldése</string>
+    <string name="com_accountkit_resend_title">Elnézést kérünk. A folytatáshoz próbálkozz ezekkel a lehetőségekkel.</string>
+    <string name="com_accountkit_return_title">Visszalépés: %1$s…</string>
+    <string name="com_accountkit_sent_title">Elküldve!</string>
+    <string name="com_accountkit_success_title">Kész!</string>
+    <string name="com_accountkit_toolbar_title">Bejelentkezés a(z) %1$s alkalmazásba</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        A kódot nem sikerült ellenőrizni.\nPróbáld meg újra:
+    </string>
+    <string name="com_accountkit_verify_title">A kód ellenőrzése…</string>
+</resources>

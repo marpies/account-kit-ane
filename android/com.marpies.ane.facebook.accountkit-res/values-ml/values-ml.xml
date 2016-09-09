@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:അണ്ടോറ</item>
+        <item>971:AE:യുണൈറ്റഡ് അറബ് എമിറേറ്റ്സ്</item>
+        <item>93:AF:അഫ്‌ഗാനിസ്ഥാന്‍</item>
+        <item>1:AG:ആന്റിഗ്വ</item>
+        <item>1:AI:ആൻഗില്ല</item>
+        <item>355:AL:അല്‍ബേനിയ</item>
+        <item>374:AM:അർമീനിയ</item>
+        <item>244:AO:അംഗോള</item>
+        <item>54:AR:അര്‍ജന്‍റീന</item>
+        <item>1:AS:അമേരിക്കൻ സമോവ</item>
+        <item>43:AT:ഓസ്ട്രിയ</item>
+        <item>61:AU:ഓസ്ട്രേലിയ</item>
+        <item>297:AW:അറൂബ</item>
+        <item>994:AZ:അസര്‍ബൈജാന്‍</item>
+        <item>387:BA:ബോസ്‌നിയയും ഹെര്‍‌സേഗോവിനയും</item>
+        <item>1:BB:ബാർബഡോസ്</item>
+        <item>880:BD:ബംഗ്ലാദേശ്</item>
+        <item>32:BE:ബെൽജിയം</item>
+        <item>226:BF:ബുര്‍ക്കിനോ ഫാസോ</item>
+        <item>359:BG:ബൾഗേറിയ</item>
+        <item>973:BH:ബഹ്റിൻ</item>
+        <item>257:BI:ബറുണ്ടി</item>
+        <item>229:BJ:ബെനിന്‍</item>
+        <item>1:BM:ബെർമുഡ</item>
+        <item>673:BN:ബ്രൂണൈ</item>
+        <item>591:BO:ബൊളീവിയ</item>
+        <item>599:BQ:ബൊണെയ്ർ, സിന്റ് യുസ്റ്റേഷ്യസ്, സാബ</item>
+        <item>55:BR:ബ്രസീല്‍</item>
+        <item>1:BS:ബഹാമാസ്</item>
+        <item>975:BT:ഭൂട്ടാന്‍</item>
+        <item>267:BW:ബോട്സ്വാന</item>
+        <item>375:BY:ബെലാറസ്</item>
+        <item>501:BZ:ബെലീസ്</item>
+        <item>1:CA:കാനഡ</item>
+        <item>243:CD:ഡെമോക്രാറ്റിക്ക് റിപ്പബ്ലിക്ക് ഓഫ് കോംഗോ</item>
+        <item>236:CF:സെന്‍ട്രല്‍ ആഫ്രിക്കന്‍ റിപ്പബ്ലിക്</item>
+        <item>242:CG:റിപ്പബ്ലിക്ക് ഓഫ് കോംഗോ</item>
+        <item>41:CH:സ്വിറ്റ്സര്‍ലാന്റ്</item>
+        <item>225:CI:ഐവറി കോസ്റ്റ്</item>
+        <item>682:CK:കുക്ക് ദ്വീപുകൾ</item>
+        <item>56:CL:ചിലി</item>
+        <item>237:CM:കാമറൂണ്‍</item>
+        <item>86:CN:ചൈന</item>
+        <item>57:CO:കൊളംബിയ</item>
+        <item>506:CR:കോസ്റ്റാറിക്ക</item>
+        <item>53:CU:ക്യൂബ</item>
+        <item>238:CV:കേപ് വെർദെ</item>
+        <item>599:CW:കുറാകാവോ</item>
+        <item>357:CY:സൈപ്രസ്</item>
+        <item>420:CZ:ചെക്ക്‌ റിപ്പബ്ലിക്</item>
+        <item>49:DE:ജര്‍മ്മനി</item>
+        <item>253:DJ:ദിജിബൗട്ടി</item>
+        <item>45:DK:ഡെൻമാർക്ക്‌</item>
+        <item>1:DM:ഡൊമിനിക്ക</item>
+        <item>1:DO:ഡൊമിനിക്കന്‍ റിപ്പബ്ലിക്ക്‌</item>
+        <item>213:DZ:അള്‍ജീരിയ</item>
+        <item>593:EC:ഇക്വഡോര്‍</item>
+        <item>372:EE:എസ്റ്റോണിയ</item>
+        <item>20:EG:ഈജിപ്റ്റ്</item>
+        <item>212:EH:പടിഞ്ഞാറന്‍ സഹാറ</item>
+        <item>291:ER:എറിത്രിയ</item>
+        <item>34:ES:സ്പെയിൻ</item>
+        <item>251:ET:എത്യോപ്യ</item>
+        <item>358:FI:ഫിൻലാൻഡ്‌</item>
+        <item>679:FJ:ഫിജി</item>
+        <item>500:FK:ഫാക്ക്‌ലാന്‍റ് ദ്വീപുകള്‍‌</item>
+        <item>691:FM:ഫെഡറേറ്റഡ് സ്‌റ്റേറ്റ്‌സ് ഓഫ് മൈക്രോനേഷ്യ</item>
+        <item>298:FO:ഫറോ ദ്വീപുകള്‍</item>
+        <item>33:FR:ഫ്രാന്‍സ്</item>
+        <item>241:GA:ഗാബണ്‍</item>
+        <item>44:GB:യുണൈറ്റഡ് കിംഗ്‌ഡം</item>
+        <item>1:GD:ഗ്രനേഡ</item>
+        <item>995:GE:ജോര്‍ജ്ജിയ</item>
+        <item>594:GF:ഫ്രഞ്ച് ഗിനിയ</item>
+        <item>44:GG:ഗേൺസെ</item>
+        <item>233:GH:ഘാന</item>
+        <item>350:GI:ജിബ്രാള്‍ട്ടര്‍</item>
+        <item>299:GL:ഗ്രീൻലാൻഡ്‌</item>
+        <item>220:GM:ഗാംബിയ</item>
+        <item>224:GN:ഗിനിയ</item>
+        <item>590:GP:ഗ്വാഡലൂപ്പ്</item>
+        <item>240:GQ:ഇക്വറ്റോറിയല്‍ ഗിനിയ</item>
+        <item>30:GR:ഗ്രീസ്</item>
+        <item>502:GT:ഗ്വാട്ടിമാല</item>
+        <item>1:GU:ഗ്വാം</item>
+        <item>245:GW:ഗിനിയ ബിസൗ</item>
+        <item>592:GY:ഗയാന</item>
+        <item>852:HK:ഹോങ്കോങ്ങ്</item>
+        <item>504:HN:ഹോണ്ടുറാസ്</item>
+        <item>385:HR:ക്രൊയേഷ്യ</item>
+        <item>509:HT:ഹെയ്‌തി</item>
+        <item>36:HU:ഹംഗറി</item>
+        <item>62:ID:ഇന്തോനേഷ്യ</item>
+        <item>353:IE:അയർലാന്റ്</item>
+        <item>972:IL:ഇസ്രായേല്‍</item>
+        <item>44:IM:ഐല്‍ ഓഫ് മാന്‍</item>
+        <item>91:IN:ഇന്ത്യ</item>
+        <item>246:IO:ബ്രിട്ടീഷ് ഇന്ത്യൻ മഹാസമുദ്ര ഭൂപ്രദേശങ്ങൾ</item>
+        <item>964:IQ:ഇറാഖ്</item>
+        <item>98:IR:ഇറാൻ</item>
+        <item>354:IS:ഐസ്‌ലാന്‍റ്</item>
+        <item>39:IT:ഇറ്റലി</item>
+        <item>44:JE:ജെഴ്‌സി</item>
+        <item>1:JM:ജമൈക്ക</item>
+        <item>962:JO:ജോര്‍ദ്ദാന്‍</item>
+        <item>81:JP:ജപ്പാന്‍</item>
+        <item>254:KE:കെനിയ</item>
+        <item>996:KG:കിര്‍ഗിസ്ഥാന്‍</item>
+        <item>855:KH:കംബോഡിയ</item>
+        <item>686:KI:കിരിബാട്ടി</item>
+        <item>269:KM:കോമൊറോസ്</item>
+        <item>1:KN:സെന്റ് കിറ്റ്സ് ആന്റ് നെവിസ്</item>
+        <item>850:KP:വടക്കൻ കൊറിയ</item>
+        <item>82:KR:ദക്ഷിണ കൊറിയ</item>
+        <item>965:KW:കുവൈറ്റ്‌</item>
+        <item>1:KY:കേമാൻ ഐലൻഡ്‌സ്</item>
+        <item>7:KZ:കസാക്കിസ്ഥാൻ</item>
+        <item>856:LA:ലാവോസ്</item>
+        <item>961:LB:ലെബനന്‍</item>
+        <item>1:LC:സെന്റ് ലൂസിയ</item>
+        <item>423:LI:ലിച്ചെന്‍സ്റ്റീന്‍</item>
+        <item>94:LK:ശ്രീലങ്ക</item>
+        <item>231:LR:ലൈബീരിയ</item>
+        <item>266:LS:ലെസൊതോ</item>
+        <item>370:LT:ലിത്വാനിയ</item>
+        <item>352:LU:ലക്‌സംബര്‍ഗ്</item>
+        <item>371:LV:ലാറ്റ്വിയ</item>
+        <item>218:LY:ലിബിയ</item>
+        <item>212:MA:മൊറോക്കോ</item>
+        <item>377:MC:മൊണാക്കൊ</item>
+        <item>373:MD:മല്‍ഡോവ</item>
+        <item>382:ME:മോണ്ടിനെഗ്രോ</item>
+        <item>261:MG:മഡഗാസ്‌കർ</item>
+        <item>692:MH:മാര്‍ഷല്‍ ദ്വീപുകള്‍</item>
+        <item>389:MK:മാസിഡോണിയ</item>
+        <item>223:ML:മാലി</item>
+        <item>95:MM:മ്യാന്മാർ</item>
+        <item>976:MN:മംഗോളിയ</item>
+        <item>853:MO:മക്കാവു</item>
+        <item>1:MP:നോർതേൺ മറിയാന ഐലന്റ്സ്</item>
+        <item>596:MQ:മാര്‍ട്ടിനിക്ക്</item>
+        <item>222:MR:മൗറിറ്റാനിയ</item>
+        <item>1:MS:മൊണ്ടെസരത്ത്</item>
+        <item>356:MT:മാൾട്ട</item>
+        <item>230:MU:മൗറീഷ്യസ്</item>
+        <item>960:MV:മാലിദ്വീപുകള്‍</item>
+        <item>265:MW:മലാവി</item>
+        <item>52:MX:മെക്‌സിക്കോ</item>
+        <item>60:MY:മലേഷ്യ</item>
+        <item>258:MZ:മൊസാംബിക്ക്</item>
+        <item>264:NA:നമീബിയ</item>
+        <item>687:NC:ന്യൂ കാലിഡോണിയ</item>
+        <item>227:NE:നൈജർ</item>
+        <item>672:NF:നോർഫോക്ക് ദ്വീപ്</item>
+        <item>234:NG:നൈജീരിയ</item>
+        <item>505:NI:നിക്കരാഗ്വ</item>
+        <item>31:NL:നെതര്‍‌ലാന്റ്‌സ്</item>
+        <item>47:NO:നോര്‍വേ</item>
+        <item>977:NP:നേപ്പാൾ</item>
+        <item>674:NR:നൗറു</item>
+        <item>683:NU:ന്യൂയി</item>
+        <item>64:NZ:ന്യൂസിലാന്റ്‌</item>
+        <item>968:OM:ഒമാൻ</item>
+        <item>507:PA:പനാമ</item>
+        <item>51:PE:പെറു</item>
+        <item>689:PF:ഫ്രഞ്ച്‌ പോളിനേഷ്യ</item>
+        <item>675:PG:പാപ്പുവ ന്യൂ ഗിനിയ</item>
+        <item>63:PH:ഫിലിപ്പീൻസ്</item>
+        <item>92:PK:പാക്കിസ്ഥാൻ</item>
+        <item>48:PL:പോളണ്ട്</item>
+        <item>508:PM:സെന്റ് പിയറി ആൻഡ് മിക്കലൻ</item>
+        <item>1:PR:പോർട്ടോ റിക്കോ</item>
+        <item>970:PS:പാലസ്തീന്‍</item>
+        <item>351:PT:പോർച്ചുഗൽ</item>
+        <item>680:PW:പലാവു</item>
+        <item>595:PY:പരാഗ്വേ</item>
+        <item>974:QA:ഖത്തർ</item>
+        <item>262:RE:പുനസംഗമം</item>
+        <item>40:RO:റൊമാനിയ</item>
+        <item>381:RS:സെർബിയ</item>
+        <item>7:RU:റഷ്യ</item>
+        <item>250:RW:റുവാണ്ട</item>
+        <item>966:SA:സൗദി അറേബ്യ</item>
+        <item>677:SB:സോളമൻ ഐലന്റ്സ്</item>
+        <item>248:SC:സീഷെൽസ്</item>
+        <item>249:SD:സുഡാൻ</item>
+        <item>46:SE:സ്വീഡൻ</item>
+        <item>65:SG:സിംഗപ്പൂര്‍</item>
+        <item>290:SH:സെന്റ് ഹെലീന</item>
+        <item>386:SI:സ്ലോവേനിയ</item>
+        <item>421:SK:സ്ലോവാക്യ</item>
+        <item>232:SL:സിയെറ ലിയോണ്‍</item>
+        <item>378:SM:സാൻ മരിനോ</item>
+        <item>221:SN:സെനഗല്‍</item>
+        <item>252:SO:സോമാലിയ</item>
+        <item>597:SR:സുരിനെയിം</item>
+        <item>211:SS:ദക്ഷിണ സുഡാൻ</item>
+        <item>239:ST:സാവോ ടോമും പ്രിന്‍സിപെയും</item>
+        <item>503:SV:എല്‍ സാൽവദോര്‍</item>
+        <item>1:SX:സിന്റ് മാർട്ടെൻ</item>
+        <item>963:SY:സിറിയ</item>
+        <item>268:SZ:സ്വാസിലാന്റ്</item>
+        <item>1:TC:ടർക്ക്സ് ആൻഡ് കെയ്ക്കോസ്</item>
+        <item>235:TD:ഛാഡ്</item>
+        <item>228:TG:ടോഗോ</item>
+        <item>66:TH:തായ്‌ലാൻഡ്</item>
+        <item>992:TJ:താജിക്കിസ്ഥാൻ</item>
+        <item>690:TK:ടൊക്കെലൂ</item>
+        <item>670:TL:തിമോര്‍-ലെസ്റ്റെ</item>
+        <item>993:TM:തുർക്ക്മെനിസ്ഥാൻ</item>
+        <item>216:TN:ടുണീഷ്യ</item>
+        <item>676:TO:ടോംഗ</item>
+        <item>90:TR:തുർക്കി</item>
+        <item>1:TT:ട്രിനിഡാഡ് അന്റ് ടുബാഗോ</item>
+        <item>688:TV:ടുവാലു</item>
+        <item>886:TW:തായ്‌വാൻ</item>
+        <item>255:TZ:ടാന്‍സാനിയ</item>
+        <item>380:UA:ഉക്രൈൻ</item>
+        <item>256:UG:ഉഗാണ്ട</item>
+        <item>1:US:അമേരിക്കൻ ഐക്യ നാടുകള്‍</item>
+        <item>598:UY:ഉറുഗ്വേ</item>
+        <item>998:UZ:ഉസ്‌ബെക്കിസ്ഥാന്‍</item>
+        <item>1:VC:സെന്റ് വിൻസെന്റ് ആന്റ് ഗ്രെനെഡൈൻസ്</item>
+        <item>58:VE:വെനിസ്വേല</item>
+        <item>1:VG:ബ്രിട്ടീഷ് വെർജിൻ ഐലന്റ്‌സ്</item>
+        <item>1:VI:യുഎസ് വിർജിൻ ദ്വീപുകൾ</item>
+        <item>84:VN:വിയറ്റ്നാം</item>
+        <item>678:VU:വന്വാതു</item>
+        <item>681:WF:വാലിസ് ആന്റ് ഫ്യൂച്യുന</item>
+        <item>685:WS:സമോവ</item>
+        <item>967:YE:യെമെൻ</item>
+        <item>262:YT:മയോട്ടി</item>
+        <item>27:ZA:ദക്ഷിണാഫ്രിക്ക</item>
+        <item>260:ZM:സാംബിയ</item>
+        <item>263:ZW:സിംബാബ്‌വേ</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">ആരംഭിക്കുക</string>
+    <string name="com_accountkit_button_cancel">റദ്ദാക്കുക</string>
+    <string name="com_accountkit_button_confirm">സ്ഥിരീകരിക്കുക</string>
+    <string name="com_accountkit_button_continue">തുടരുക</string>
+    <string name="com_accountkit_button_log_in">ലോഗിൻ ചെയ്യുക</string>
+    <string name="com_accountkit_button_next">അടുത്തത്</string>
+    <string name="com_accountkit_button_ok">ശരി</string>
+    <string name="com_accountkit_button_resend">പുതിയ കോഡ് അയയ്‌ക്കുക</string>
+    <string name="com_accountkit_button_resend_sms">SMS വീണ്ടും അയയ്‌ക്കുക</string>
+    <string name="com_accountkit_button_send">അയയ്‌ക്കുക</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook-ൽ കോഡ് അയയ്ക്കുക</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">നിങ്ങൾ നൽകിയ ഫോൺ നമ്പറുമായി ലിങ്കുചെയ്‌തിരിക്കുന്ന Facebook അക്കൗണ്ടിലേക്ക് ഒരു അറിയിപ്പ് അയയ്‌ക്കുന്നതിന് Facebook-ലെ കോഡ് അയയ്‌ക്കുക എന്നത് ടാപ്പുചെയ്യുക.</string>
+    <string name="com_accountkit_button_start">തുടങ്ങുക</string>
+    <string name="com_accountkit_button_start_over">വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="com_accountkit_button_submit">സമർപ്പിക്കുക</string>
+    <string name="com_accountkit_check_email">നിങ്ങളുടെ ഇമെയിൽ തുറക്കുക</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Facebook\' &lt;a href="%2$s">നിബന്ധനകൾ&lt;/a>, &lt;a href="%3$s">ഡാറ്റ നയം&lt;/a>, &lt;a href="%4$s">കുക്കി ഉപയോഗം&lt;/a>എന്നിവ അംഗീകരിക്കാൻ %1$s ടാപ്പ് ചെയ്യുക.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Facebook &lt;a href="%2$s">നിബന്ധനകൾ&lt;/a>, &lt;a href="%3$s">ഡാറ്റ നയം&lt;/a>, &lt;a href="%4$s">ഉപയോഗിക്കുന്ന കുക്കി&lt;/a> %6$s-ന്റെ &lt;a href="%5$s">സ്വകാര്യത നയം &lt;/a> എന്നിവ അംഗീകരിക്കാൻ %1$s ടാപ്പ് ചെയ്യുക.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Facebook-ന്റെ &lt;a href="%2$s">നിബന്ധനകൾ&lt;/a>, &lt;a href="%3$s">ഡാറ്റാ നയം&lt;/a>, &lt;a href="%4$s">കുക്കി ഉപയോഗം&lt;/a> %7$s-ന്റെ &lt;a href="%5$s">സ്വകാര്യത നയം&lt;/a>, &lt;a href="%6$s">സേവന നിബന്ധനകൾ&lt;/a> എന്നിവ അംഗീകരിക്കുന്നതിന് %1$s ടാപ്പുചെയ്യുക.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">പുതിയ കോഡ് അയയ്‌ക്കുക</string>
+    <string name="com_accountkit_confirmation_code_title">നിങ്ങളുടെ കോഡ് നൽകുക</string>
+    <string name="com_accountkit_email_invalid">കൊടുത്തിരിക്കുന്ന ഇമെയിൽ തെറ്റാണ് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="com_accountkit_email_loading_title">ഇമെയിൽ അയയ്ക്കുന്നു…</string>
+    <string name="com_accountkit_email_login_retry_title">നിങ്ങളുടെ ഇമെയിൽ സ്ഥിരീകരിക്കുക</string>
+    <string name="com_accountkit_email_login_text">
+        %2$s ഉപയോഗിക്കാൻ സഹായിക്കുന്നതിനായി Facebook-ലെ Account Kit-ൽ നിന്നും ഇമെയിൽ സ്ഥിരീകരണം നേടുന്നതിന് %1$s ടാപ്പുചെയ്യുക. അത് ഉപയോഗിക്കുന്നതിന് നിങ്ങൾക്ക് Facebook അക്കൗണ്ടിന്റെ ആവശ്യമില്ല. &lt;a href="%3$s">നിങ്ങളുടെ വിവരം Facebook എങ്ങനെ ഉപയോഗിക്കുമെന്നതിനെക്കുറിച്ച് അറിയുക&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">നിങ്ങളുടെ ഇമെയിൽ വിലാസം നൽകുക</string>
+    <string name="com_accountkit_email_not_received">ഇമെയിൽ വീണ്ടും അയയ്‌ക്കുക</string>
+    <string name="com_accountkit_email_verify_title">ഞങ്ങൾ അയച്ച ഇമെയിൽ തുറന്ന് നിങ്ങളുടെ വിലാസം സ്ഥിരീകരിക്കുക</string>
+    <string name="com_accountkit_error_title">ക്ഷമിക്കുക, എന്തോ പിശക് സംഭവിച്ചു.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook-ൽ നിന്നുള്ള നിങ്ങളുടെ കോഡ് നൽകുക</string>
+    <string name="com_accountkit_phone_loading_title">നിങ്ങളുടെ കോഡ് അയയ്‌ക്കുന്നു…</string>
+    <string name="com_accountkit_phone_login_retry_title">നിങ്ങളുടെ ഫോൺ നമ്പർ സ്ഥിരീകരിക്കുക</string>
+    <string name="com_accountkit_phone_login_text">
+        %2$s ഉപയോഗിക്കാൻ സഹായിക്കുന്നതിനായി Facebook-ലെ Account Kit-ൽ നിന്നും SMS സ്ഥിരീകരണം നേടുന്നതിന് %1$s ടാപ്പുചെയ്യുക. അത് ഉപയോഗിക്കുന്നതിന് നിങ്ങൾക്ക് Facebook അക്കൗണ്ടിന്റെ ആവശ്യമില്ല. സന്ദേശ, ഡാറ്റ നിരക്കുകൾ ബാധകമായേക്കാം. &lt;a href="%3$s">നിങ്ങളുടെ വിവരം Facebook എങ്ങനെ ഉപയോഗിക്കുമെന്നതിനെക്കുറിച്ച് അറിയുക&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">നിങ്ങളുടെ ഫോൺ നമ്പർ നൽകുക</string>
+    <string name="com_accountkit_resend_email_text">പുതിയ ഇമെയിൽ അയയ്‌ക്കുക</string>
+    <string name="com_accountkit_resend_title">ക്ഷമിക്കണം. തുടരുന്നതിന് ഈ ഓപ്‌ഷനുകൾ പരീക്ഷിക്കുക.</string>
+    <string name="com_accountkit_return_title">നിങ്ങളെ %1$s എന്നതിലേക്ക് തിരികെ കൊണ്ടുപോകുന്നു…</string>
+    <string name="com_accountkit_sent_title">അയച്ചു!</string>
+    <string name="com_accountkit_success_title">പൂർത്തിയായി!</string>
+    <string name="com_accountkit_toolbar_title">എന്നതിലേക്ക് ലോഗിൻ ചെയ്യുക %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        നിങ്ങളുടെ കോഡ് പരിശോധിച്ചുറപ്പിക്കാനായില്ല. വീണ്ടും ശ്രമിക്കുക:
+    </string>
+    <string name="com_accountkit_verify_title">നിങ്ങളുടെ കോഡ് പരിശോധിച്ചുറപ്പിക്കുന്നു…</string>
+</resources>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Andorra</item>
+        <item>971:AE:Spojené arabské emiráty</item>
+        <item>93:AF:Afganistan</item>
+        <item>1:AG:Antigua</item>
+        <item>1:AI:Anguilla</item>
+        <item>355:AL:Albánsko</item>
+        <item>374:AM:Arménsko</item>
+        <item>244:AO:Angola</item>
+        <item>54:AR:Argentína</item>
+        <item>1:AS:Americká Samoa</item>
+        <item>43:AT:Rakúsko</item>
+        <item>61:AU:Austrália</item>
+        <item>297:AW:Aruba</item>
+        <item>994:AZ:Azerbajdžan</item>
+        <item>387:BA:Bosna a Hercegovina</item>
+        <item>1:BB:Barbados</item>
+        <item>880:BD:Bangladéš</item>
+        <item>32:BE:Belgicko</item>
+        <item>226:BF:Burkina Faso</item>
+        <item>359:BG:Bulharsko</item>
+        <item>973:BH:Bahrajn</item>
+        <item>257:BI:Burundi</item>
+        <item>229:BJ:Benin</item>
+        <item>1:BM:Bermudy</item>
+        <item>673:BN:Brunej</item>
+        <item>591:BO:Bolívia</item>
+        <item>599:BQ:Bonaire, Sint Eustatius a Saba</item>
+        <item>55:BR:Brazília</item>
+        <item>1:BS:Bahamy</item>
+        <item>975:BT:Bhután</item>
+        <item>267:BW:Botswana</item>
+        <item>375:BY:Bielorusko</item>
+        <item>501:BZ:Belize</item>
+        <item>1:CA:Kanada</item>
+        <item>243:CD:Konžská demokratická republika</item>
+        <item>236:CF:Stredoafrická republika</item>
+        <item>242:CG:Konžská republika</item>
+        <item>41:CH:Švajčiarsko</item>
+        <item>225:CI:Pobrežie Slonoviny</item>
+        <item>682:CK:Cookove ostrovy</item>
+        <item>56:CL:Čile</item>
+        <item>237:CM:Kamerun</item>
+        <item>86:CN:Čína</item>
+        <item>57:CO:Kolumbia</item>
+        <item>506:CR:Kostarika</item>
+        <item>53:CU:Kuba</item>
+        <item>238:CV:Kapverdy</item>
+        <item>599:CW:Curaçao</item>
+        <item>357:CY:Cyprus</item>
+        <item>420:CZ:Česká republika</item>
+        <item>49:DE:Nemecko</item>
+        <item>253:DJ:Džibutsko</item>
+        <item>45:DK:Dánsko</item>
+        <item>1:DM:Dominika</item>
+        <item>1:DO:Dominikánska republika</item>
+        <item>213:DZ:Alžírsko</item>
+        <item>593:EC:Ekvádor</item>
+        <item>372:EE:Estónsko</item>
+        <item>20:EG:Egypt</item>
+        <item>212:EH:Západná Sahara</item>
+        <item>291:ER:Eritrea</item>
+        <item>34:ES:Španielsko</item>
+        <item>251:ET:Etiópia</item>
+        <item>358:FI:Fínsko</item>
+        <item>679:FJ:Fidži</item>
+        <item>500:FK:Falklandské ostrovy</item>
+        <item>691:FM:Mikronézske federatívne štáty</item>
+        <item>298:FO:Faerské ostrovy</item>
+        <item>33:FR:Francúzsko</item>
+        <item>241:GA:Gabon</item>
+        <item>44:GB:Spojené kráľovstvo</item>
+        <item>1:GD:Grenada</item>
+        <item>995:GE:Gruzínsko</item>
+        <item>594:GF:Francúzska Guayana</item>
+        <item>44:GG:Guernsey</item>
+        <item>233:GH:Ghana</item>
+        <item>350:GI:Gibraltár</item>
+        <item>299:GL:Grónsko</item>
+        <item>220:GM:Gambia</item>
+        <item>224:GN:Guinea</item>
+        <item>590:GP:Guadeloupe</item>
+        <item>240:GQ:Rovníková Guinea</item>
+        <item>30:GR:Grécko</item>
+        <item>502:GT:Guatemala</item>
+        <item>1:GU:Guam</item>
+        <item>245:GW:Guinea-Bissau</item>
+        <item>592:GY:Guyana</item>
+        <item>852:HK:Hongkong</item>
+        <item>504:HN:Honduras</item>
+        <item>385:HR:Chorvátsko</item>
+        <item>509:HT:Haiti</item>
+        <item>36:HU:Maďarsko</item>
+        <item>62:ID:Indonézia</item>
+        <item>353:IE:Írsko</item>
+        <item>972:IL:Izrael</item>
+        <item>44:IM:Ostrov Man</item>
+        <item>91:IN:India</item>
+        <item>246:IO:Britské indickooceánske územie</item>
+        <item>964:IQ:Irak</item>
+        <item>98:IR:Irán</item>
+        <item>354:IS:Island</item>
+        <item>39:IT:Taliansko</item>
+        <item>44:JE:Jersey</item>
+        <item>1:JM:Jamajka</item>
+        <item>962:JO:Jordánsko</item>
+        <item>81:JP:Japonsko</item>
+        <item>254:KE:Keňa</item>
+        <item>996:KG:Kirgizsko</item>
+        <item>855:KH:Kambodža</item>
+        <item>686:KI:Kiribati</item>
+        <item>269:KM:Komory</item>
+        <item>1:KN:Svätý Krištof a Nevis</item>
+        <item>850:KP:Severná Kórea</item>
+        <item>82:KR:Južná Kórea</item>
+        <item>965:KW:Kuvajt</item>
+        <item>1:KY:Kajmanské ostrovy</item>
+        <item>7:KZ:Kazachstan</item>
+        <item>856:LA:Laos</item>
+        <item>961:LB:Libanon</item>
+        <item>1:LC:Svätá Lucia</item>
+        <item>423:LI:Lichtenštajnsko</item>
+        <item>94:LK:Srí Lanka</item>
+        <item>231:LR:Libéria</item>
+        <item>266:LS:Lesotho</item>
+        <item>370:LT:Litva</item>
+        <item>352:LU:Luxembursko</item>
+        <item>371:LV:Lotyšsko</item>
+        <item>218:LY:Líbya</item>
+        <item>212:MA:Maroko</item>
+        <item>377:MC:Monako</item>
+        <item>373:MD:Moldavsko</item>
+        <item>382:ME:Čierna Hora</item>
+        <item>261:MG:Madagaskar</item>
+        <item>692:MH:Marshallove ostrovy</item>
+        <item>389:MK:Macedónsko</item>
+        <item>223:ML:Mali</item>
+        <item>95:MM:Mjanmarsko</item>
+        <item>976:MN:Mongolsko</item>
+        <item>853:MO:Makao</item>
+        <item>1:MP:Severné Mariány</item>
+        <item>596:MQ:Martinik</item>
+        <item>222:MR:Mauretánia</item>
+        <item>1:MS:Montserrat</item>
+        <item>356:MT:Malta</item>
+        <item>230:MU:Maurícius</item>
+        <item>960:MV:Maldivy</item>
+        <item>265:MW:Malawi</item>
+        <item>52:MX:Mexiko</item>
+        <item>60:MY:Malajzia</item>
+        <item>258:MZ:Mozambik</item>
+        <item>264:NA:Namíbia</item>
+        <item>687:NC:Nová Kaledónia</item>
+        <item>227:NE:Niger</item>
+        <item>672:NF:Norfolk</item>
+        <item>234:NG:Nigéria</item>
+        <item>505:NI:Nikaragua</item>
+        <item>31:NL:Holandsko</item>
+        <item>47:NO:Nórsko</item>
+        <item>977:NP:Nepál</item>
+        <item>674:NR:Nauru</item>
+        <item>683:NU:Niue</item>
+        <item>64:NZ:Nový Zéland</item>
+        <item>968:OM:Omán</item>
+        <item>507:PA:Panama</item>
+        <item>51:PE:Peru</item>
+        <item>689:PF:Francúzska Polynézia</item>
+        <item>675:PG:Papua-Nová Guinea</item>
+        <item>63:PH:Filipíny</item>
+        <item>92:PK:Pakistan</item>
+        <item>48:PL:Poľsko</item>
+        <item>508:PM:Saint Pierre a Miquelon</item>
+        <item>1:PR:Portoriko</item>
+        <item>970:PS:Palestína</item>
+        <item>351:PT:Portugalsko</item>
+        <item>680:PW:Palau</item>
+        <item>595:PY:Paraguaj</item>
+        <item>974:QA:Katar</item>
+        <item>262:RE:Réunion</item>
+        <item>40:RO:Rumunsko</item>
+        <item>381:RS:Srbsko</item>
+        <item>7:RU:Rusko</item>
+        <item>250:RW:Rwanda</item>
+        <item>966:SA:Saudská Arábia</item>
+        <item>677:SB:Šalamúnove ostrovy</item>
+        <item>248:SC:Seychely</item>
+        <item>249:SD:Sudán</item>
+        <item>46:SE:Švédsko</item>
+        <item>65:SG:Singapur</item>
+        <item>290:SH:Svätá Helena</item>
+        <item>386:SI:Slovinsko</item>
+        <item>421:SK:Slovensko</item>
+        <item>232:SL:Sierra Leone</item>
+        <item>378:SM:San Maríno</item>
+        <item>221:SN:Senegal</item>
+        <item>252:SO:Somálsko</item>
+        <item>597:SR:Surinam</item>
+        <item>211:SS:Južný Sudán</item>
+        <item>239:ST:Svätý Tomáš a Princov ostrov</item>
+        <item>503:SV:Salvádor</item>
+        <item>1:SX:Sint Maarten</item>
+        <item>963:SY:Sýria</item>
+        <item>268:SZ:Svazijsko</item>
+        <item>1:TC:Ostrovy Turks a Caicos</item>
+        <item>235:TD:Čad</item>
+        <item>228:TG:Togo</item>
+        <item>66:TH:Thajsko</item>
+        <item>992:TJ:Tadžikistan</item>
+        <item>690:TK:Tokelau</item>
+        <item>670:TL:Východný Timor</item>
+        <item>993:TM:Turkmenistan</item>
+        <item>216:TN:Tunisko</item>
+        <item>676:TO:Tonga</item>
+        <item>90:TR:Turecko</item>
+        <item>1:TT:Trinidad a Tobago</item>
+        <item>688:TV:Tuvalu</item>
+        <item>886:TW:Taiwan</item>
+        <item>255:TZ:Tanzánia</item>
+        <item>380:UA:Ukrajina</item>
+        <item>256:UG:Uganda</item>
+        <item>1:US:USA</item>
+        <item>598:UY:Uruguaj</item>
+        <item>998:UZ:Uzbekistan</item>
+        <item>1:VC:Svätý Vincent a Grenadíny</item>
+        <item>58:VE:Venezuela</item>
+        <item>1:VG:Britské Panenské ostrovy</item>
+        <item>1:VI:Americké Panenské ostrovy</item>
+        <item>84:VN:Vietnam</item>
+        <item>678:VU:Vanuatu</item>
+        <item>681:WF:Wallis a Futuna</item>
+        <item>685:WS:Samoa</item>
+        <item>967:YE:Jemen</item>
+        <item>262:YT:Mayotte</item>
+        <item>27:ZA:Južná Afrika</item>
+        <item>260:ZM:Zambia</item>
+        <item>263:ZW:Zimbabwe</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">Začať</string>
+    <string name="com_accountkit_button_cancel">Zrušiť</string>
+    <string name="com_accountkit_button_confirm">Potvrdiť</string>
+    <string name="com_accountkit_button_continue">Pokračovať</string>
+    <string name="com_accountkit_button_log_in">Prihlásiť sa</string>
+    <string name="com_accountkit_button_next">Ďalej</string>
+    <string name="com_accountkit_button_ok">OK</string>
+    <string name="com_accountkit_button_resend">Poslať nový kód</string>
+    <string name="com_accountkit_button_resend_sms">Poslať SMS znova</string>
+    <string name="com_accountkit_button_send">Poslať</string>
+    <string name="com_accountkit_button_send_code_in_fb">Poslať kód vo Facebooku</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Ťuknite na Poslať kód na Facebooku, ak chcete, aby sa poslalo upozornenie na účet na Facebooku prepojený s telefónnym číslom, ktoré ste zadali.</string>
+    <string name="com_accountkit_button_start">Štart</string>
+    <string name="com_accountkit_button_start_over">Skúsiť znova</string>
+    <string name="com_accountkit_button_submit">Odoslať</string>
+    <string name="com_accountkit_check_email">Otvorte svoj e-mail</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Ťuknutím na %1$s vyjadríte súhlas s &lt;a href="%2$s">Podmienkami&lt;/a> Facebooku a jeho &lt;a href="%3$s">Zásadami využívania údajov&lt;/a> vrátane &lt;a href="%4$s">používania cookies&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Ťuknutím na %1$s vyjadríte súhlas s &lt;a href="%2$s">Podmienkami&lt;/a> Facebooku a jeho &lt;a href="%3$s">Zásadami využívania údajov&lt;/a> vrátane &lt;a href="%4$s">používania cookies&lt;/a>, a tiež so &lt;a href="%5$s">Zásadami ochrany súkromia&lt;/a> služby %6$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Ťuknutím na %1$s vyjadríte súhlas s &lt;a href="%2$s">Podmienkami&lt;/a> Facebooku a jeho &lt;a href="%3$s">Zásadami využívania údajov&lt;/a> vrátane &lt;a href="%4$s">používania cookies&lt;/a>, a tiež so &lt;a href="%5$s">Zásadami ochrany súkromia&lt;/a> a &lt;a href="%6$s">Zmluvnými podmienkami&lt;/a> služby %7$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Poslať nový kód</string>
+    <string name="com_accountkit_confirmation_code_title">Zadajte svoj kód</string>
+    <string name="com_accountkit_email_invalid">Táto e-mailová adresa je nesprávna. Skúste znova.</string>
+    <string name="com_accountkit_email_loading_title">Posiela sa e-mail…</string>
+    <string name="com_accountkit_email_login_retry_title">Potvrďte svoju e-mailovú adresu</string>
+    <string name="com_accountkit_email_login_text">
+        Ťuknite na %1$s, aby ste dostali potvrdzujúci e-mail od služby Account Kit by Facebook, ktorá vám pomôže použiť %2$s. Na použitie nepotrebujete mať účet na Facebooku. &lt;a href="%3$s">Prečítajte si, ako Facebook používa vaše informácie&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">Zadajte svoju e-mailovú adresu</string>
+    <string name="com_accountkit_email_not_received">Poslať e-mail znova</string>
+    <string name="com_accountkit_email_verify_title">Otvorte e-mail, ktorý sme vám poslali, a potvrďte svoju adresu</string>
+    <string name="com_accountkit_error_title">Ľutujeme, vyskytol sa nejaký problém.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Zadajte svoj kód od Facebooku</string>
+    <string name="com_accountkit_phone_loading_title">Posiela sa vám kód…</string>
+    <string name="com_accountkit_phone_login_retry_title">Potvrďte svoje telefónne číslo</string>
+    <string name="com_accountkit_phone_login_text">
+        Ťuknite na %1$s, aby ste dostali potvrdzujúcu SMS od služby Account Kit by Facebook, ktorá vám pomôže použiť %2$s. Na použitie nepotrebujete mať účet na Facebooku. Môžu sa účtovať poplatky za SMS a dáta. &lt;a href="%3$s">Prečítajte si, ako Facebook používa vaše informácie&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">Zadajte svoje telefónne číslo</string>
+    <string name="com_accountkit_resend_email_text">Poslať nový e-mail</string>
+    <string name="com_accountkit_resend_title">Ľutujeme. Na pokračovanie vyskúšajte tieto možnosti.</string>
+    <string name="com_accountkit_return_title">Prechádzate späť na %1$s…</string>
+    <string name="com_accountkit_sent_title">Odoslané!</string>
+    <string name="com_accountkit_success_title">Hotovo!</string>
+    <string name="com_accountkit_toolbar_title">Prihlásiť sa do účtu %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        Váš kód sa nepodarilo overiť. Skúste to znova:
+    </string>
+    <string name="com_accountkit_verify_title">Overuje sa váš potvrdzovací kód…</string>
+</resources>

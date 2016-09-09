@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:অ্যান্ডোরা</item>
+        <item>971:AE:সংযুক্ত আরব আমিরাত</item>
+        <item>93:AF:আফগানিস্তান</item>
+        <item>1:AG:অ্যান্টিগুয়া</item>
+        <item>1:AI:অ্যাঙ্গুইলা</item>
+        <item>355:AL:আলবেনিয়া</item>
+        <item>374:AM:আরমেনিয়া</item>
+        <item>244:AO:অ্যাঙ্গোলা</item>
+        <item>54:AR:আর্জেন্টিনা</item>
+        <item>1:AS:আমেরিকান সামোয়া</item>
+        <item>43:AT:অস্ট্রিয়া</item>
+        <item>61:AU:অস্ট্রেলিয়া</item>
+        <item>297:AW:আরুবা</item>
+        <item>994:AZ:আজারবাইজান</item>
+        <item>387:BA:বসনিয়া ও হার্জেগোভিনা</item>
+        <item>1:BB:বারবাডোস</item>
+        <item>880:BD:বাংলাদেশ</item>
+        <item>32:BE:বেলজিয়াম</item>
+        <item>226:BF:বুর্কিনা ফাসো</item>
+        <item>359:BG:বুলগেরিয়া</item>
+        <item>973:BH:বাহরাইন</item>
+        <item>257:BI:বুরুন্ডি</item>
+        <item>229:BJ:বেনিন</item>
+        <item>1:BM:বারমুডা</item>
+        <item>673:BN:ব্রুনাই</item>
+        <item>591:BO:বলিভিয়া</item>
+        <item>599:BQ:বোনায়ের, সিন্ট ইউস্টাসিয়াস ও সাবা</item>
+        <item>55:BR:ব্রাজিল</item>
+        <item>1:BS:বাহামা</item>
+        <item>975:BT:ভূটান</item>
+        <item>267:BW:বতসোয়ানা</item>
+        <item>375:BY:বেলারুশ</item>
+        <item>501:BZ:বেলিজ</item>
+        <item>1:CA:কানাডা</item>
+        <item>243:CD:গণতান্ত্রিক প্রজাতন্ত্র কঙ্গো</item>
+        <item>236:CF:সেন্ট্রাল আফ্রিকান রিপাবলিক</item>
+        <item>242:CG:কঙ্গো রিপাবলিক</item>
+        <item>41:CH:সুইজারল্যান্ড</item>
+        <item>225:CI:আইভরী কোস্ট</item>
+        <item>682:CK:কুক দ্বীপপুঞ্জ</item>
+        <item>56:CL:চিলি</item>
+        <item>237:CM:ক্যামেরুন</item>
+        <item>86:CN:চীন</item>
+        <item>57:CO:কলম্বিয়া</item>
+        <item>506:CR:কোস্টা রিকা</item>
+        <item>53:CU:কিউবা</item>
+        <item>238:CV:কেপ ভার্দে</item>
+        <item>599:CW:কুরাসাও</item>
+        <item>357:CY:সাইপ্রাস</item>
+        <item>420:CZ:চেক প্রজাতন্ত্র</item>
+        <item>49:DE:জার্মানি</item>
+        <item>253:DJ:জিবুতি</item>
+        <item>45:DK:ডেনমার্ক</item>
+        <item>1:DM:ডোমিনিকা</item>
+        <item>1:DO:ডোমিনিকান প্রজাতন্ত্র</item>
+        <item>213:DZ:আলজেরিয়া</item>
+        <item>593:EC:ইকুয়েডর</item>
+        <item>372:EE:এস্তোনিয়া</item>
+        <item>20:EG:মিশর</item>
+        <item>212:EH:পশ্চিম সাহারা</item>
+        <item>291:ER:ইরিত্রিয়া</item>
+        <item>34:ES:স্পেন</item>
+        <item>251:ET:ইথিওপিয়া</item>
+        <item>358:FI:ফিনল্যান্ড</item>
+        <item>679:FJ:ফিজি</item>
+        <item>500:FK:ফকল্যান্ড দ্বীপপুঞ্জ</item>
+        <item>691:FM:মাইক্রোনেশিয়ার জোটবদ্ধ রাষ্ট্র</item>
+        <item>298:FO:ফারো দ্বীপপুঞ্জ</item>
+        <item>33:FR:ফ্রান্স</item>
+        <item>241:GA:গ্যাবন</item>
+        <item>44:GB:যুক্তরাজ্য</item>
+        <item>1:GD:গ্রানাডা</item>
+        <item>995:GE:জর্জিয়া</item>
+        <item>594:GF:ফরাসি গায়ানা</item>
+        <item>44:GG:গ্রাঞ্জি</item>
+        <item>233:GH:ঘানা</item>
+        <item>350:GI:জিব্রাল্টার</item>
+        <item>299:GL:গ্রীনল্যান্ড</item>
+        <item>220:GM:গাম্বিয়া</item>
+        <item>224:GN:গিনি</item>
+        <item>590:GP:গুয়াডেলোপ</item>
+        <item>240:GQ:নিরক্ষীয় গিনি</item>
+        <item>30:GR:গ্রীস</item>
+        <item>502:GT:গুয়াতেমালা</item>
+        <item>1:GU:গুয়াম</item>
+        <item>245:GW:গিনি-বিসাউ</item>
+        <item>592:GY:গায়ানা</item>
+        <item>852:HK:হংকং</item>
+        <item>504:HN:হন্ডুরাস</item>
+        <item>385:HR:ক্রোয়েশিয়া</item>
+        <item>509:HT:হাইতি</item>
+        <item>36:HU:হাঙ্গেরি</item>
+        <item>62:ID:ইন্দোনেশিয়া</item>
+        <item>353:IE:আয়ারল্যান্ড</item>
+        <item>972:IL:ইসরায়েল</item>
+        <item>44:IM:আইল অভ ম্যান</item>
+        <item>91:IN:ভারত</item>
+        <item>246:IO:ব্রিটিশ-ভারতীয় সমুদ্র এলাকা</item>
+        <item>964:IQ:ইরাক</item>
+        <item>98:IR:ইরান</item>
+        <item>354:IS:আইসল্যান্ড</item>
+        <item>39:IT:ইতালি</item>
+        <item>44:JE:জার্সি</item>
+        <item>1:JM:জ্যামাইকা</item>
+        <item>962:JO:জর্ডান</item>
+        <item>81:JP:জাপান</item>
+        <item>254:KE:কেনিয়া</item>
+        <item>996:KG:কিরগিজস্তান</item>
+        <item>855:KH:কম্বোডিয়া</item>
+        <item>686:KI:কিরিবাতি</item>
+        <item>269:KM:কমোরস</item>
+        <item>1:KN:সেন্ট কিটস এবং নেভিস</item>
+        <item>850:KP:উত্তর কোরিয়া</item>
+        <item>82:KR:দক্ষিণ কোরিয়া</item>
+        <item>965:KW:কুয়েত</item>
+        <item>1:KY:কেইম্যান আইল্যান্ড</item>
+        <item>7:KZ:কাজাখস্তান</item>
+        <item>856:LA:লাওস</item>
+        <item>961:LB:লেবানন</item>
+        <item>1:LC:সেন্ট লুসিয়া</item>
+        <item>423:LI:লিচেনস্টাইন</item>
+        <item>94:LK:শ্রীলঙ্কা</item>
+        <item>231:LR:লাইবেরিয়া</item>
+        <item>266:LS:লেসোথো</item>
+        <item>370:LT:লিথুয়ানিয়া</item>
+        <item>352:LU:লুক্সেমবার্গ</item>
+        <item>371:LV:লাটভিয়া</item>
+        <item>218:LY:লিবিয়া</item>
+        <item>212:MA:মরক্কো</item>
+        <item>377:MC:মোনাকো</item>
+        <item>373:MD:মলদোভা</item>
+        <item>382:ME:মন্টেনিগ্রো</item>
+        <item>261:MG:মাদাগাস্কার</item>
+        <item>692:MH:মার্শাল দ্বীপপুঞ্জ</item>
+        <item>389:MK:মেসিডোনিয়া</item>
+        <item>223:ML:মালি</item>
+        <item>95:MM:মায়ানমার</item>
+        <item>976:MN:মঙ্গোলিয়া</item>
+        <item>853:MO:ম্যাকাউ</item>
+        <item>1:MP:নর্থান মেরিয়ানা দ্বীপপুঞ্জ</item>
+        <item>596:MQ:মার্টিনিক</item>
+        <item>222:MR:মৌরিতানিয়া</item>
+        <item>1:MS:মন্টসেরাত</item>
+        <item>356:MT:মাল্টা</item>
+        <item>230:MU:মরিশাস</item>
+        <item>960:MV:মালদ্বীপ</item>
+        <item>265:MW:মালাউই</item>
+        <item>52:MX:মেক্সিকো</item>
+        <item>60:MY:মালয়েশিয়া</item>
+        <item>258:MZ:মোজাম্বিক</item>
+        <item>264:NA:নামিবিয়া</item>
+        <item>687:NC:নিউ ক্যালেডোনিয়া</item>
+        <item>227:NE:নাইজার</item>
+        <item>672:NF:নরফোক দ্বীপ</item>
+        <item>234:NG:নাইজেরিয়া</item>
+        <item>505:NI:নিকারাগুয়া</item>
+        <item>31:NL:নেদারল্যান্ড</item>
+        <item>47:NO:নরওয়ে</item>
+        <item>977:NP:নেপাল</item>
+        <item>674:NR:নাউরু</item>
+        <item>683:NU:নিউই</item>
+        <item>64:NZ:নিউজিল্যান্ড</item>
+        <item>968:OM:ওমান</item>
+        <item>507:PA:পানামা</item>
+        <item>51:PE:পেরু</item>
+        <item>689:PF:ফরাসি পলিনেশিয়া</item>
+        <item>675:PG:পাপুয়া নিউগিনি</item>
+        <item>63:PH:ফিলিপাইন</item>
+        <item>92:PK:পাকিস্তান</item>
+        <item>48:PL:পোল্যান্ড</item>
+        <item>508:PM:সেন্ট পিয়ের ও মিকেলন</item>
+        <item>1:PR:পুয়ের্তো রিকো</item>
+        <item>970:PS:ফিলিস্তিন</item>
+        <item>351:PT:পর্তুগাল</item>
+        <item>680:PW:পালাউ</item>
+        <item>595:PY:প্যারাগুয়ে</item>
+        <item>974:QA:কাতার</item>
+        <item>262:RE:পুনর্মিলনী</item>
+        <item>40:RO:রোমানিয়া</item>
+        <item>381:RS:সার্বিয়া</item>
+        <item>7:RU:রাশিয়া</item>
+        <item>250:RW:রুয়ান্ডা</item>
+        <item>966:SA:সৌদী আরব</item>
+        <item>677:SB:সলোমন দ্বীপপুঞ্জ</item>
+        <item>248:SC:সিসিলি</item>
+        <item>249:SD:সুদান</item>
+        <item>46:SE:সুইডেন</item>
+        <item>65:SG:সিঙ্গাপুর</item>
+        <item>290:SH:সেইন্ট হেলেনা</item>
+        <item>386:SI:স্লোভেনিয়া</item>
+        <item>421:SK:স্লোভাকিয়া</item>
+        <item>232:SL:সিয়েরা লিওন</item>
+        <item>378:SM:সান ম্যারিনো</item>
+        <item>221:SN:সেনেগাল</item>
+        <item>252:SO:সোমালিয়া</item>
+        <item>597:SR:সুরিনাম</item>
+        <item>211:SS:দক্ষিণ সুদান</item>
+        <item>239:ST:সাওতোম ও প্রিন্সিপ</item>
+        <item>503:SV:এল সালভাদোর</item>
+        <item>1:SX:সেইন্ট মার্টিন</item>
+        <item>963:SY:সিরিয়া</item>
+        <item>268:SZ:সোয়াজিল্যান্ড</item>
+        <item>1:TC:টার্ক্স এন্ড কাইকোস দ্বীপপুঞ্জ</item>
+        <item>235:TD:চাদ</item>
+        <item>228:TG:টোগো</item>
+        <item>66:TH:থাইল্যান্ড</item>
+        <item>992:TJ:তাজিকিস্তান</item>
+        <item>690:TK:তোকেলাও</item>
+        <item>670:TL:পূর্ব তিমুর</item>
+        <item>993:TM:তুর্কমেনিস্তান</item>
+        <item>216:TN:তিউনিসিয়া</item>
+        <item>676:TO:টোংগা</item>
+        <item>90:TR:তুরস্ক</item>
+        <item>1:TT:ত্রিনিদাদ ও টোবাগো</item>
+        <item>688:TV:টুভালু</item>
+        <item>886:TW:তাইওয়ান</item>
+        <item>255:TZ:তানজানিয়া</item>
+        <item>380:UA:ইউক্রেন</item>
+        <item>256:UG:উগান্ডা</item>
+        <item>1:US:যুক্তরাষ্ট্র</item>
+        <item>598:UY:উরুগুয়ে</item>
+        <item>998:UZ:উজবেকিস্তান</item>
+        <item>1:VC:সেন্ট ভিনসেন্ট ও গ্রেনাডাইন দ্বীপপুঞ্জ</item>
+        <item>58:VE:ভেনিজ়ুয়েলা</item>
+        <item>1:VG:ব্রিটিশ ভার্জিন দ্বীপপুঞ্জ</item>
+        <item>1:VI:মার্কিন ভার্জিন দ্বীপপুঞ্জ</item>
+        <item>84:VN:ভিয়েতনাম</item>
+        <item>678:VU:ভানুয়াতু</item>
+        <item>681:WF:ওয়ালিস এবং ফুটুনা</item>
+        <item>685:WS:সামওয়া</item>
+        <item>967:YE:ইয়েমেন</item>
+        <item>262:YT:মায়োটি</item>
+        <item>27:ZA:দক্ষিণ আফ্রিকা</item>
+        <item>260:ZM:জাম্বিয়া</item>
+        <item>263:ZW:জিম্বাবুয়ে</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">আরম্ভ করুন</string>
+    <string name="com_accountkit_button_cancel">বাতিল করুন</string>
+    <string name="com_accountkit_button_confirm">নিশ্চিত করুন</string>
+    <string name="com_accountkit_button_continue">অবিরত রাখুন</string>
+    <string name="com_accountkit_button_log_in">লগ ইন করুন</string>
+    <string name="com_accountkit_button_next">পরবর্তী</string>
+    <string name="com_accountkit_button_ok">ঠিক আছে</string>
+    <string name="com_accountkit_button_resend">নতুন কোড পাঠান</string>
+    <string name="com_accountkit_button_resend_sms">পুনরায় SMS পাঠান</string>
+    <string name="com_accountkit_button_send">পাঠান</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook এ কোড পাঠান</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">আপনার প্রবেশ করানো ফোন নম্বরের সাথে লিঙ্ক করা Facebook অ্যাকাউন্টে একটি বিজ্ঞপ্তি পাঠাতে Facebook এ \'কোড পাঠান\' এ আলতো চাপুন৷</string>
+    <string name="com_accountkit_button_start">শুরু করুন</string>
+    <string name="com_accountkit_button_start_over">আবার চেষ্টা করুন</string>
+    <string name="com_accountkit_button_submit">জমা দিন</string>
+    <string name="com_accountkit_check_email">আপনার ইমেল খুলুন</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Facebook এর &lt;a href="%2$s">শ্র্তাবলী&lt;/a>, &lt;a href="%3$s">ডেটা নীতি&lt;/a> এবং &lt;a href="%4$s">কুকির ব্যবহার&lt;/a> স্বীকার করার জন্য %1$s এ আলতো চাপ দিন৷
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Facebook এর &lt;a href="%2$s">শ্র্তাবলী&lt;/a>, &lt;a href="%3$s">ডেটা নীতি&lt;/a>, &lt;a href="%4$s">কুকির ব্যবহার&lt;/a> এবং %6$s এর &lt;a href="%5$s">গোপনীয়তা নীতি&lt;/a> স্বীকার করার জন্য %1$s এ আলতো চাপ দিন৷
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Facebook এর &lt;a href="%2$s">শ্র্তাবলী&lt;/a>, &lt;a href="%3$s">ডেটা নীতি&lt;/a>, &lt;a href="%4$s">কুকির ব্যবহার&lt;/a> এবং &lt;a href="%5$s">গোপনীয়তা নীতি&lt;/a> এবং %7$s এর &lt;a href="%6$s">পরিষেবার শ্র্তাবলী&lt;/a> স্বীকার করার জন্য %1$s এ আলতো চাপ দিন৷
+    </string>
+    <string name="com_accountkit_confirmation_code_text">নতুন কোড পাঠান</string>
+    <string name="com_accountkit_confirmation_code_title">আপনার কোড লিখুন</string>
+    <string name="com_accountkit_email_invalid">এই ইমেলটি অবৈধ৷ অনুগ্রহ করে আবার চেষ্টা করুন৷</string>
+    <string name="com_accountkit_email_loading_title">ইমেল পাঠানো হচ্ছে…</string>
+    <string name="com_accountkit_email_login_retry_title">আপনার ইমেল নিশ্চিত করুন</string>
+    <string name="com_accountkit_email_login_text">
+      আপনাকে %2$s ব্যবহার করতে সাহায্য করার জন্য Facebook Account Kit থেকে একটি নিশ্চিতকরণ ইমেল পাঠাবে তা পেতে %1$s -এ আলতো চাপ দিন৷ এটি ব্যবহার করার জন্য আপনার কোনো Facebook অ্যাকাউন্টের প্রয়োজন নেই৷ &lt;a href="%3$s">Facebook আপনার তথ্য কিভাবে ব্যবহার করে তা জানুন&lt;/a>৷
+    </string>
+    <string name="com_accountkit_email_login_title">আপনার ইমেল ঠিকানা লিখুন</string>
+    <string name="com_accountkit_email_not_received">ইমেল পুনরায় পাঠান</string>
+    <string name="com_accountkit_email_verify_title">আমরা যে ইমেলটি পাঠিয়েছি সেটি খুলুন এবং আপনার ঠিকানা নিশ্চিত করুন</string>
+    <string name="com_accountkit_error_title">আমরা দুঃখিত, কিছু ত্রুটি ঘটেছে৷</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook থেকে আপনার কোড প্রবেশ করান</string>
+    <string name="com_accountkit_phone_loading_title">আপনার কোড পাঠানো হচ্ছে…</string>
+    <string name="com_accountkit_phone_login_retry_title">আপনার ফোন নম্বর নিশ্চিত করুন</string>
+    <string name="com_accountkit_phone_login_text">
+    আপনাকে %2$s ব্যবহার করতে সাহায্য করার জন্য Facebook Account Kit থেকে একটি নিশ্চিতকরণ SMS পাঠাবে তা পেতে %1$s এ আলতো চাপ দিন৷ এটি ব্যবহার করার জন্য আপনার কোনো Facebook অ্যাকাউন্টের প্রয়োজন নেই৷  বার্তা ও ডেটা রেট প্রযোজ্য হবে। &lt;a href="%3$s">Facebook আপনার তথ্য কিভাবে ব্যবহার করে তা জানুন&lt;/a>৷
+    </string>
+    <string name="com_accountkit_phone_login_title">আপনার ফোন নম্বর লিখুন</string>
+    <string name="com_accountkit_resend_email_text">নতুন ইমেল পাঠান</string>
+    <string name="com_accountkit_resend_title">আমরা দুঃখিত৷ চালিয়ে যেতে এই বিকল্পসমূহ ব্যবহার করার চেষ্টা করুন৷</string>
+    <string name="com_accountkit_return_title">আপনাকে আবার %1$s এ নিয়ে যাচ্ছে…</string>
+    <string name="com_accountkit_sent_title">প্রেরিত:</string>
+    <string name="com_accountkit_success_title">সম্পন্ন!</string>
+    <string name="com_accountkit_toolbar_title">%1$s এ লগ ইন করুন</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        আমরা আপনার কোড যাচাই করতে পারি নি। অনুগ্রহ করে পুনরায় চেষ্টা করুন।
+    </string>
+    <string name="com_accountkit_verify_title">আপনার কোড যাচাই করা হচ্ছে…</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2014-present, Facebook, Inc. All rights reserved.
+
+    You are hereby granted a non-exclusive, worldwide, royalty-free license to use,
+    copy, modify, and distribute this software in source code or binary form for use
+    in connection with the web services and APIs provided by Facebook.
+
+    As with any software that integrates with the Facebook platform, your use of
+    this software is subject to the Facebook Developer Principles and Policies
+    [http://developers.facebook.com/policy/]. This copyright notice shall be
+    included in all copies or substantial portions of the software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+    FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+    COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+    IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+-->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="207.65dp"
+    android:height="157.87dp"
+    android:viewportWidth="207.65"
+    android:viewportHeight="157.87">
+
+    <path
+        android:fillColor="#fff"
+        android:pathData="M197.8,150.23 L20.99,150.23 C17.6699,150.23,8.63,151.97,7.5499,147.74
+C7.01999,145.66,7.5499,142.74,7.5499,140.61 L7.54993,36.42
+C7.54993,28.09,6.68994,19.22,7.54993,10.92
+C8.04993,6.15001,15,7.73001,18.6,7.73001 L192.1,7.73001
+C193.75,7.73001,196.02,7.32001,197.63,7.73001
+C202.09,8.87001,200.05,20.73,200.05,24.08 L200.05,143.64
+C200.05,145.7,200.83,149.93,197.8,150.23
+C193.04,150.71,192.99,158.23,197.8,157.73
+C209.37,156.55,207.55,145.02,207.55,136.62 L207.55,13.26
+C207.55,9.75,207.61,6.40001,205.06,3.54001 S199.16,0.23001,195.62,0.23001
+L76.22,0.230011 C54.45,0.230011,32.6,-0.300003,10.83,0.230011
+C5.54993,0.360001,0.91992,3.15001,0.13,8.77 A46,46,0,0,0,0.010005,15.11
+L0.0100098,139.63 C0.0100098,147.33,-0.710083,157.21,10.01,157.74
+C16.2999,158.05,22.6799,157.74,29.01,157.74 L197.84,157.74
+C202.62,157.73,202.63,150.23,197.8,150.23 Z" />
+    <path
+        android:fillColor="#fff"
+        android:pathData="M0.579956,12.53 C0.809937,17.93,5.80994,23.24,8.92993,27.23
+C15.1599,35.23,22,42.68,28.9299,50.01 C45.2899,67.24,62.63,84.01,81.77,98.2
+C87.77,102.61,94.5699,107.78,101.95,109.47
+C108.27,110.92,114.42,107.57,119.67,104.41
+C139.16,92.68,156.17,75.85,171.97,59.69 A334.86,334.86,0,0,0,196.8,31.77
+C200.85,26.57,207.28,19.55,207.52,12.53 C207.68,7.7,200.18,7.71001,200.02,12.53
+C200.02,12.16,199.83,13.38,199.51,14.23 C199.34,14.66,198.4,16.39,197.89,17.23
+A86.65,86.65,0,0,1,191.89,25.94 A291.1,291.1,0,0,1,171.89,48.94
+C156.7,64.94,140.5,80.87,122.4,93.63 C117.78,96.89,110.77,102.08,105.59,102.36
+C101.03,102.6,94.45,97.89,90.28,95.05 C72.28,82.82,56.35,67.25,41.15,51.81
+C33.15,43.66,25.28,35.31,17.96,26.52 A114.66,114.66,0,0,1,10.6599,17
+A33,33,0,0,1,8.55992,13.55 A3.32,3.32,0,0,1,8.20994,12.82
+A1.7,1.7,0,1,0,8.05992,12.5 C7.84996,7.69,0.34996,7.67,0.55992,12.5
+L0.55992,12.5 Z" />
+</vector>

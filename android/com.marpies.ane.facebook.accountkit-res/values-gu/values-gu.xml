@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:ઍન્ડોરા</item>
+        <item>971:AE:સંયુક્ત આરબ અમીરાત</item>
+        <item>93:AF:અફઘાનિસ્તાન</item>
+        <item>1:AG:એન્ટિગુઆ</item>
+        <item>1:AI:ઍંગ્વિલા</item>
+        <item>355:AL:અલ્બાનિયા</item>
+        <item>374:AM:અરમેનિયા</item>
+        <item>244:AO:અંગોલા</item>
+        <item>54:AR:અર્જેન્ટિના</item>
+        <item>1:AS:અમેરિકન સમોઆ</item>
+        <item>43:AT:ઑસ્ટ્રિયા</item>
+        <item>61:AU:ઑસ્ટ્રેલિયા</item>
+        <item>297:AW:અરુબા</item>
+        <item>994:AZ:અઝરબૈજાન</item>
+        <item>387:BA:બોસ્નિયા અને હર્ઝેગોવિના</item>
+        <item>1:BB:બારબેડોસ</item>
+        <item>880:BD:બાંગ્લાદેશ</item>
+        <item>32:BE:બેલ્જીયમ</item>
+        <item>226:BF:બર્કિના ફાસો</item>
+        <item>359:BG:બલ્ગેરિયા</item>
+        <item>973:BH:બેહરીન</item>
+        <item>257:BI:બુરુંડી</item>
+        <item>229:BJ:બેનિન</item>
+        <item>1:BM:બર્મુડા</item>
+        <item>673:BN:બ્રુનેઇ</item>
+        <item>591:BO:બોલિવિયા</item>
+        <item>599:BQ:બોનૈર, સેંટ યૂસ્ટેસિયસ અને સાબા</item>
+        <item>55:BR:બ્રાઝિલ</item>
+        <item>1:BS:બહામાસ</item>
+        <item>975:BT:ભૂતાન</item>
+        <item>267:BW:બોટ્સ્વાના</item>
+        <item>375:BY:બેલારુસ</item>
+        <item>501:BZ:બેલિઝ</item>
+        <item>1:CA:કૅનૅડા</item>
+        <item>243:CD:ડેમોક્રેટિક રિપબ્લિક ઑફ કૉંગો</item>
+        <item>236:CF:મધ્ય આફ્રિકન પ્રજાસત્તાક</item>
+        <item>242:CG:રિપબ્લિક ઑફ કૉંગો</item>
+        <item>41:CH:સ્વિત્ઝરલૅન્ડ</item>
+        <item>225:CI:કોટે ડિઆઇવરી</item>
+        <item>682:CK:કુક આઇલૅન્ડ્સ</item>
+        <item>56:CL:ચિલી</item>
+        <item>237:CM:કૅમરૂન</item>
+        <item>86:CN:ચીન</item>
+        <item>57:CO:કોલંબિયા</item>
+        <item>506:CR:કોસ્ટા રિકા</item>
+        <item>53:CU:ક્યુબા</item>
+        <item>238:CV:કેપ વર્ડે</item>
+        <item>599:CW:કુરાકાઓ</item>
+        <item>357:CY:સાયપ્રસ</item>
+        <item>420:CZ:ચેક રિપબ્લિક</item>
+        <item>49:DE:જર્મની</item>
+        <item>253:DJ:જીબુટી</item>
+        <item>45:DK:ડેનમાર્ક</item>
+        <item>1:DM:ડોમિનિકા</item>
+        <item>1:DO:ડોમિનિકન રિપબ્લિક</item>
+        <item>213:DZ:અલ્જીરિયા</item>
+        <item>593:EC:ઇક્વેડોર</item>
+        <item>372:EE:એસ્ટોનિયા</item>
+        <item>20:EG:ઈજિપ્ત</item>
+        <item>212:EH:પશ્ચિમી સહારા</item>
+        <item>291:ER:એરિટ્રિયા</item>
+        <item>34:ES:સ્પેન</item>
+        <item>251:ET:ઈથિયોપિયા</item>
+        <item>358:FI:ફીનલેન્ડ</item>
+        <item>679:FJ:ફીજી</item>
+        <item>500:FK:ફાકલેંડ આઇલેન્ડ્સ</item>
+        <item>691:FM:ફેડરેટેડ સ્ટેટ્સ ઑફ માઇક્રોનેશિયા</item>
+        <item>298:FO:ફેરો આઇલૅન્ડ્સ</item>
+        <item>33:FR:ફ્રાંસ</item>
+        <item>241:GA:ગેબોન</item>
+        <item>44:GB:યુનાઇટેડ કિંગડમ</item>
+        <item>1:GD:ગ્રેનેડા</item>
+        <item>995:GE:જ્યોર્જિયા</item>
+        <item>594:GF:ફ્રેન્ચ ગુઆના</item>
+        <item>44:GG:ગર્ન્સી</item>
+        <item>233:GH:ઘાના</item>
+        <item>350:GI:જીબ્રાલ્ટર</item>
+        <item>299:GL:ગ્રીનલેન્ડ</item>
+        <item>220:GM:ધ ગામ્બિયા</item>
+        <item>224:GN:ગિની</item>
+        <item>590:GP:ગ્વાડેલોપ</item>
+        <item>240:GQ:ઇક્વેટોરિયલ ગિનિ</item>
+        <item>30:GR:ગ્રીસ</item>
+        <item>502:GT:ગ્વાટેમાલા</item>
+        <item>1:GU:ગુઆમ</item>
+        <item>245:GW:ગિની-બિસાઉ</item>
+        <item>592:GY:ગયાના</item>
+        <item>852:HK:હોંગ કોંગ</item>
+        <item>504:HN:હૉન્ડુરાઝ</item>
+        <item>385:HR:ક્રોએશિયા</item>
+        <item>509:HT:હૈતી</item>
+        <item>36:HU:હંગેરી</item>
+        <item>62:ID:ઇન્ડોનેશિયા</item>
+        <item>353:IE:આયર્લેન્ડ</item>
+        <item>972:IL:ઈઝરાયેલ</item>
+        <item>44:IM:આઇલ ઑફ મેન</item>
+        <item>91:IN:ભારત</item>
+        <item>246:IO:બ્રિટિશ ઈન્ડિયન ઓસન ટેરીટરી</item>
+        <item>964:IQ:ઇરાક</item>
+        <item>98:IR:ઈરાન</item>
+        <item>354:IS:આઇસલેન્ડ</item>
+        <item>39:IT:ઇટાલી</item>
+        <item>44:JE:જર્સી</item>
+        <item>1:JM:જમૈકા</item>
+        <item>962:JO:જોર્ડન</item>
+        <item>81:JP:જાપાન</item>
+        <item>254:KE:કેન્યા</item>
+        <item>996:KG:કિર્ગિઝસ્તાન</item>
+        <item>855:KH:કૅમ્બોડીયા</item>
+        <item>686:KI:કિરિબાતી</item>
+        <item>269:KM:કોમોરોસ</item>
+        <item>1:KN:સેન્ટ કિટ્સ અને નેવિસ</item>
+        <item>850:KP:ઉત્તર કોરિયા</item>
+        <item>82:KR:દક્ષિણ કોરિયા</item>
+        <item>965:KW:કુવૈત</item>
+        <item>1:KY:કેમેન આઇલેન્ડ્સ</item>
+        <item>7:KZ:કઝાકિસ્તાન</item>
+        <item>856:LA:લાઓસ</item>
+        <item>961:LB:લેબનાન</item>
+        <item>1:LC:સેન્ટ લુસિયા</item>
+        <item>423:LI:લીચેંસ્ટાઈન</item>
+        <item>94:LK:શ્રીલંકા</item>
+        <item>231:LR:લાઇબેરિયા</item>
+        <item>266:LS:લેસોથો</item>
+        <item>370:LT:લિથુઆનિયા</item>
+        <item>352:LU:લક્ઝમબર્ગ</item>
+        <item>371:LV:લાટવિયા</item>
+        <item>218:LY:લિબિયા</item>
+        <item>212:MA:મોરોક્કો</item>
+        <item>377:MC:મોનાકો</item>
+        <item>373:MD:મોલ્ડોવા</item>
+        <item>382:ME:મૉન્ટેનીગ્રો</item>
+        <item>261:MG:મડાગાસ્કર</item>
+        <item>692:MH:માર્શલ આઇલૅન્ડ્સ</item>
+        <item>389:MK:મેસેડોનિયા</item>
+        <item>223:ML:માલી</item>
+        <item>95:MM:મ્યાંમાર</item>
+        <item>976:MN:મંગોલિયા</item>
+        <item>853:MO:મકાઉ</item>
+        <item>1:MP:નોર્ધર્ન મારિયાના આઇલેન્ડ્સ</item>
+        <item>596:MQ:માર્ટીનીક</item>
+        <item>222:MR:મોરિટાનિયા</item>
+        <item>1:MS:મોન્ટસેરાટ</item>
+        <item>356:MT:માલ્ટા</item>
+        <item>230:MU:મૉરિશીયસ</item>
+        <item>960:MV:માલદિવ્સ</item>
+        <item>265:MW:મલાવી</item>
+        <item>52:MX:મેક્સિકો</item>
+        <item>60:MY:મલેશિયા</item>
+        <item>258:MZ:મોઝામ્બિક</item>
+        <item>264:NA:નામિબીયા</item>
+        <item>687:NC:ન્યૂ કેલેડોનિયા</item>
+        <item>227:NE:નાઇજર</item>
+        <item>672:NF:નોરફોક આઇલૅન્ડ</item>
+        <item>234:NG:નાઇજીરીયા</item>
+        <item>505:NI:નિકારાગુઆ</item>
+        <item>31:NL:નેધરલેન્ડ્ઝ</item>
+        <item>47:NO:નોર્વે</item>
+        <item>977:NP:નેપાળ</item>
+        <item>674:NR:નૌરુ</item>
+        <item>683:NU:નિયુ</item>
+        <item>64:NZ:ન્યૂઝીલેન્ડ</item>
+        <item>968:OM:ઓમાન</item>
+        <item>507:PA:પનામા</item>
+        <item>51:PE:પેરુ</item>
+        <item>689:PF:ફ્રેંચ પોલિનેશિયા</item>
+        <item>675:PG:પપુઆ ન્યૂ ગિની</item>
+        <item>63:PH:ફિલિપિન્સ</item>
+        <item>92:PK:પાકિસ્તાન</item>
+        <item>48:PL:પોલેન્ડ</item>
+        <item>508:PM:સેંટ પીયેર અને મીકલોન</item>
+        <item>1:PR:પ્યુઅર્ટો રિકો</item>
+        <item>970:PS:પેલેસ્ટાઇન</item>
+        <item>351:PT:પોર્ટુગલ</item>
+        <item>680:PW:પાલાઉ</item>
+        <item>595:PY:પેરાગ્વે</item>
+        <item>974:QA:કતાર</item>
+        <item>262:RE:રીયુનિયન</item>
+        <item>40:RO:રોમાનિયા</item>
+        <item>381:RS:સર્બિયા</item>
+        <item>7:RU:રશિયા</item>
+        <item>250:RW:રવાન્ડા</item>
+        <item>966:SA:સાઉદી અરેબીયા</item>
+        <item>677:SB:સોલોમન આઇલૅન્ડ્સ</item>
+        <item>248:SC:શેશેલ્સ</item>
+        <item>249:SD:સુદાન</item>
+        <item>46:SE:સ્વીડન</item>
+        <item>65:SG:સિંગાપુર</item>
+        <item>290:SH:સેંટ હેલેના</item>
+        <item>386:SI:સ્લોવેનિયા</item>
+        <item>421:SK:સ્લોવાકિયા</item>
+        <item>232:SL:સિએરા લિઓન</item>
+        <item>378:SM:સેન મરીનો</item>
+        <item>221:SN:સેનેગલ</item>
+        <item>252:SO:સોમાલિયા</item>
+        <item>597:SR:સુરીનામ</item>
+        <item>211:SS:સાઉથ સુદાન</item>
+        <item>239:ST:સાઓ ટોમ અને પ્રિંસિપે</item>
+        <item>503:SV:એલ સાલ્વાડોર</item>
+        <item>1:SX:સિંટ માર્ટેન</item>
+        <item>963:SY:સિરિયા</item>
+        <item>268:SZ:સ્વાઝિલેન્ડ</item>
+        <item>1:TC:તુર્ક્સ અને કેકોઝ આઇલેન્ડ્સ</item>
+        <item>235:TD:ચાડ</item>
+        <item>228:TG:ટોગો</item>
+        <item>66:TH:થાઇલેન્ડ</item>
+        <item>992:TJ:તાજીકિસ્તાન</item>
+        <item>690:TK:ટોકલાઉ</item>
+        <item>670:TL:તિમોર-લેસ્ટે</item>
+        <item>993:TM:તુર્કમેનિસ્તાન</item>
+        <item>216:TN:ટ્યુનિશિયા</item>
+        <item>676:TO:ટોંગા</item>
+        <item>90:TR:તુર્કી</item>
+        <item>1:TT:ત્રિનિદાદ અને ટોબેગો</item>
+        <item>688:TV:ટવાલૂ</item>
+        <item>886:TW:તાઇવાન</item>
+        <item>255:TZ:તાંઝાનિયા</item>
+        <item>380:UA:યુક્રેન</item>
+        <item>256:UG:યુગાન્ડા</item>
+        <item>1:US:યુનાઇટેડ સ્ટેટ્સ</item>
+        <item>598:UY:ઉરુગ્વે</item>
+        <item>998:UZ:ઉઝ્બેકિસ્તાન</item>
+        <item>1:VC:સેન્ટ વિન્સેન્ટ અને ગ્રેનેડીન્સ</item>
+        <item>58:VE:વેનેઝુએલા</item>
+        <item>1:VG:બ્રિટિશ વર્જિન આઇલેન્ડ્સ</item>
+        <item>1:VI:યુએસ વર્જિન આઇલેન્ડ્સ</item>
+        <item>84:VN:વિયેતનામ</item>
+        <item>678:VU:વનાતૂ</item>
+        <item>681:WF:વૉલિસ અને ફ્યુચુના</item>
+        <item>685:WS:સમોઆ</item>
+        <item>967:YE:યમન</item>
+        <item>262:YT:મયૉત ( ફ્રેંચ)</item>
+        <item>27:ZA:દક્ષિણ આફ્રિકા</item>
+        <item>260:ZM:ઝામ્બિયા</item>
+        <item>263:ZW:ઝિમ્બાબ્વે</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">શરૂ કરો</string>
+    <string name="com_accountkit_button_cancel">રદ કરો</string>
+    <string name="com_accountkit_button_confirm">પુષ્ટિ કરો</string>
+    <string name="com_accountkit_button_continue">ચાલુ રાખો</string>
+    <string name="com_accountkit_button_log_in">લૉગ ઇન કરો</string>
+    <string name="com_accountkit_button_next">આગલું</string>
+    <string name="com_accountkit_button_ok">ઑકે</string>
+    <string name="com_accountkit_button_resend">નવો કોડ મોકલો</string>
+    <string name="com_accountkit_button_resend_sms">SMS ફરીથી મોકલો</string>
+    <string name="com_accountkit_button_send">મોકલો</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook માં કોડ મોકલો</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">તમે દાખલ કરેલ ફોન નંબર સાથે લિંક કરેલ ફેસબુક એકાઉન્ટ પર સૂચના મોકલવા માટે ફેસબુકમાં કોડ મોકલો ટૅપ કરો.</string>
+    <string name="com_accountkit_button_start">પ્રારંભ કરો</string>
+    <string name="com_accountkit_button_start_over">ફરી પ્રયાસ કરો</string>
+    <string name="com_accountkit_button_submit">સબમિટ કરો</string>
+    <string name="com_accountkit_check_email">તમારી ઈમેઇલ ખોલો</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+     Facebook ની &lt;a href="%2$s">શરતો&lt;/a>, &lt;a href="%3$s">ડેટા નીતિ&lt;/a> અને &lt;a href="%4$s">કુકીનો ઉપયોગ&lt;/a> સ્વીકારવા માટે %1$s ટૅપ કરો.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Facebook ની &lt;a href="%2$s">શરતો&lt;/a>, &lt;a href="%3$s">ડેટા નીતિ&lt;/a>, &lt;a href="%4$s">કુકીનો ઉપયોગ&lt;/a> અને %6$s ની &lt;a href="%5$s">ગોપનીયતા નીતિ&lt;/a> સ્વીકારવા માટે %1$s ટૅપ કરો.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Facebook ની &lt;a href="%2$s">શરતો&lt;/a>, &lt;a href="%3$s">ડેટા નીતિ&lt;/a>, &lt;a href="%4$s">કુકીનો ઉપયોગ&lt;/a> અને %7$s ની &lt;a href="%5$s">ગોપનીયતા નીતિ&lt;/a> અને  &lt;a href="%6$s">સેવાની શરતો&lt;/a> સ્વીકારવા માટે %1$s ટૅપ કરો.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">નવો કોડ મોકલો</string>
+    <string name="com_accountkit_confirmation_code_title">તમારો કોડ દાખલ કરો</string>
+    <string name="com_accountkit_email_invalid">આ ઇમેઇલ ખોટું છે. કૃપા કરીને ફરી પ્રયાસ કરો.</string>
+    <string name="com_accountkit_email_loading_title">ઇમેઇલ મોકલી રહ્યાં છે…</string>
+    <string name="com_accountkit_email_login_retry_title">તમારી ઈમેઇલની પુષ્ટિ કરો</string>
+    <string name="com_accountkit_email_login_text">
+        તમને %2$s ના ઉપયોગ માટે મદદ કરવા ફેસબુક દ્વારા એકાઉન્ટ કિટમાંથી ઈમેઇલ પુષ્ટિકરણ મેળવવા માટે %1$s ટૅપ કરો. તમારે તેનો ઉપયોગ કરવા માટે ફેસબુક એકાઉન્ટની જરૂર નથી. &lt;a href="%3$s"> જાણો ફેસબુક તમારી માહિતીનો ઉપયોગ કેવી રીતે કરે છે&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">તમારું ઇમેઇલ સરનામું દાખલ કરો</string>
+    <string name="com_accountkit_email_not_received">ઇમેઇલ ફરીથી મોકલો</string>
+    <string name="com_accountkit_email_verify_title">અમે મોકલેલ ઇમેઇલ ખોલો અને તમારા સરનામાની પુષ્ટિ કરો</string>
+    <string name="com_accountkit_error_title">અમે ક્ષમાપ્રાર્થી છીએ, કંઈક ખોટું થયું.</string>
+    <string name="com_accountkit_facebook_code_entry_title">ફેસબુકમાંથી તમારો કોડ દાખલ કરો.</string>
+    <string name="com_accountkit_phone_loading_title">તમારો કોડ મોકલી રહ્યાં છીએ…</string>
+    <string name="com_accountkit_phone_login_retry_title">તમારા ફોન નંબરની પુષ્ટિ કરો</string>
+    <string name="com_accountkit_phone_login_text">
+        %2$s ના ઉપયોગ માટે તમને મદદ કરવા ફેસબુક દ્વારા એકાઉન્ટ કિટમાંથી એસએમએસ પુષ્ટિકરણ મેળવવા માટે %1$s ટૅપ કરો. તમારે તેનો ઉપયોગ કરવા માટે ફેસબુક એકાઉન્ટની જરૂર નથી. સંદેશ અને ડેટા દર લાગુ થઈ શકે છે. &lt;a href="%3$s">જાણો ફેસબુક તમારી માહિતીનો ઉપયોગ કેવી રીતે કરે છે&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">તમારો ફોન નંબર દાખલ કરો</string>
+    <string name="com_accountkit_resend_email_text">નવી ઇમેઇલ મોકલો</string>
+    <string name="com_accountkit_resend_title">અમને ક્ષમા કરશો. ચાલુ રાખવા માટે આ વિકલ્પો અજમાવી જુઓ.</string>
+    <string name="com_accountkit_return_title">તમને %1$s પર પાછા લઈ જઈ રહ્યાં છે…</string>
+    <string name="com_accountkit_sent_title">મોકલ્યો!</string>
+    <string name="com_accountkit_success_title">પૂર્ણ થયું!</string>
+    <string name="com_accountkit_toolbar_title">%1$s માં લૉગ ઇન કરો</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        અમે તમારો કોડ ચકાસી શક્યાં નથી. કૃપા કરીને ફરી પ્રયાસ કરો:
+    </string>
+    <string name="com_accountkit_verify_title">તમારો કોડ ચકાસી રહ્યાં છીએ…</string>
+</resources>

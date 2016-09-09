@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:ਅੰਡੋਰਾ</item>
+        <item>971:AE:ਸੰਯੁਕਤ ਅਰਬ ਅਮੀਰਾਤ</item>
+        <item>93:AF:ਅਫ਼ਗ਼ਾਨਿਸਤਾਨ</item>
+        <item>1:AG:ਐਂਟੀਗੁਆ</item>
+        <item>1:AI:ਐਂਗੁਈਲਾ</item>
+        <item>355:AL:ਅਲਬਾਨੀਆ</item>
+        <item>374:AM:ਅਰਮੀਨੀਆ</item>
+        <item>244:AO:ਅੰਗੋਲਾ</item>
+        <item>54:AR:ਅਰਜਨਟੀਨਾ</item>
+        <item>1:AS:ਅਮਰੀਕੀ ਸਮੋਆ</item>
+        <item>43:AT:ਆਸਟਰੀਆ</item>
+        <item>61:AU:ਆਸਟਰੇਲੀਆ</item>
+        <item>297:AW:ਅਰੂਬਾ</item>
+        <item>994:AZ:ਅਜ਼ਰਬੈਜਾਨ</item>
+        <item>387:BA:ਬੋਸਨੀਆ ਅਤੇ ਹਰਜ਼ੇਗੋਵੀਨਾ</item>
+        <item>1:BB:ਬਾਰਬਾਡੋਸ</item>
+        <item>880:BD:ਬੰਗਲਾਦੇਸ਼</item>
+        <item>32:BE:ਬੈਲਜੀਅਮ</item>
+        <item>226:BF:ਬੁਰਕੀਨਾ ਫ਼ਾਸੋ</item>
+        <item>359:BG:ਬੁਲਗਾਰੀਆ</item>
+        <item>973:BH:ਬਹਿਰੀਨ</item>
+        <item>257:BI:ਬੁਰੂੰਡੀ</item>
+        <item>229:BJ:ਬੇਨਿਨ</item>
+        <item>1:BM:ਬਰਮੂਡਾ</item>
+        <item>673:BN:ਬਰੂਨਾਏ</item>
+        <item>591:BO:ਬੋਲੀਵੀਆ</item>
+        <item>599:BQ:ਬੋਨੇਅਰ, ਸਿੰਟ ਯੂਸਟੇਸ਼ਸ ਅਤੇ ਸਾਬਾ</item>
+        <item>55:BR:ਬਰਾਜ਼ੀਲ</item>
+        <item>1:BS:ਬਹਾਮਾਸ</item>
+        <item>975:BT:ਭੂਟਾਨ</item>
+        <item>267:BW:ਬੋਤਸਵਾਨਾ</item>
+        <item>375:BY:ਬੇਲਾਰੂਸ</item>
+        <item>501:BZ:ਬੇਲੀਜ਼</item>
+        <item>1:CA:ਕੈਨੇਡਾ</item>
+        <item>243:CD:ਕਾਂਗੋ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ</item>
+        <item>236:CF:ਕੇਂਦਰੀ ਅਫ਼ਰੀਕੀ ਗਣਰਾਜ</item>
+        <item>242:CG:ਕਾਂਗੋ ਗਣਰਾਜ</item>
+        <item>41:CH:ਸਵਿਟਜ਼ਰਲੈਂਡ</item>
+        <item>225:CI:ਆਈਵਰੀ ਕੋਸਟ</item>
+        <item>682:CK:ਕੁੱਕ ਟਾਪੂ</item>
+        <item>56:CL:ਚਿਲੀ</item>
+        <item>237:CM:ਕੈਮਰੂਨ</item>
+        <item>86:CN:ਚੀਨ</item>
+        <item>57:CO:ਕੋਲੰਬੀਆ</item>
+        <item>506:CR:ਕੋਸਟਾ ਰੀਕਾ</item>
+        <item>53:CU:ਕਿਊਬਾ</item>
+        <item>238:CV:ਕੇਪ ਵਰਡ</item>
+        <item>599:CW:ਕੁਰਾਸਾਓ</item>
+        <item>357:CY:ਸਾਈਪ੍ਰਸ</item>
+        <item>420:CZ:ਚੈਕ ਗਣਰਾਜ</item>
+        <item>49:DE:ਜਰਮਨੀ</item>
+        <item>253:DJ:ਜਿਬੂਤੀ</item>
+        <item>45:DK:ਡੈਨਮਾਰਕ</item>
+        <item>1:DM:ਡੋਮਿਨਿਕਾ</item>
+        <item>1:DO:ਡੋਮੀਨੀਕਨ ਗਣਰਾਜ</item>
+        <item>213:DZ:ਅਲਜੀਰੀਆ</item>
+        <item>593:EC:ਏਕੁਆਦੋਰ</item>
+        <item>372:EE:ਇਸਤੋਨੀਆ</item>
+        <item>20:EG:ਮਿਸਰ</item>
+        <item>212:EH:ਪੱਛਮੀ ਸਹਾਰਾ</item>
+        <item>291:ER:ਇਰੀਤਰੀਆ</item>
+        <item>34:ES:ਸਪੇਨ</item>
+        <item>251:ET:ਇਥੋਪੀਆ</item>
+        <item>358:FI:ਫਿਨਲੈਂਡ</item>
+        <item>679:FJ:ਫ਼ਿਜੀ</item>
+        <item>500:FK:ਫ਼ਾਕਲੈਂਡ ਟਾਪੂ</item>
+        <item>691:FM:ਮਾਈਕ੍ਰੋਨੇਸ਼ੀਆ ਦੇ ਸੰਘੀ ਰਾਜ</item>
+        <item>298:FO:ਫ਼ਰੋ ਟਾਪੂ</item>
+        <item>33:FR:ਫਰਾਂਸ</item>
+        <item>241:GA:ਗਬਾਨ</item>
+        <item>44:GB:ਬਰਤਾਨੀਆ</item>
+        <item>1:GD:ਗ੍ਰੇਨਾਡਾ</item>
+        <item>995:GE:ਜਾਰਜੀਆ</item>
+        <item>594:GF:ਫ਼ਰਾਂਸੀਸੀ ਗੁਈਆਨਾ</item>
+        <item>44:GG:ਗਰਨਜ਼ੀ</item>
+        <item>233:GH:ਘਾਨਾ</item>
+        <item>350:GI:ਜਿਬਰਾਲਟਰ</item>
+        <item>299:GL:ਗਰੀਨਲੈਂਡ</item>
+        <item>220:GM:ਗਾਂਬੀਆ</item>
+        <item>224:GN:ਗਿਨੀਆ</item>
+        <item>590:GP:ਗੁਆਡਲੂਪ</item>
+        <item>240:GQ:ਭੂ-ਮੱਧ ਰੇਖਾਈ ਗਿਨੀ</item>
+        <item>30:GR:ਗ੍ਰੀਸ</item>
+        <item>502:GT:ਗੁਆਟੇਮਾਲਾ</item>
+        <item>1:GU:ਗੁਆਮ</item>
+        <item>245:GW:ਗਿਨੀਆ-ਬਿਸਾਊ</item>
+        <item>592:GY:ਗੁਇਆਨਾ</item>
+        <item>852:HK:ਹਾਂਗ ਕਾਂਗ</item>
+        <item>504:HN:ਹਾਂਡੂਰਸ</item>
+        <item>385:HR:ਕ੍ਰੋਏਸ਼ੀਆ</item>
+        <item>509:HT:ਹੈਤੀ</item>
+        <item>36:HU:ਹੰਗਰੀ</item>
+        <item>62:ID:ਇੰਡੋਨੇਸ਼ੀਆ</item>
+        <item>353:IE:ਆਇਰਲੈਂਡ</item>
+        <item>972:IL:ਇਜ਼ਰਾਇਲ</item>
+        <item>44:IM:ਆਈਲ ਆਫ਼ ਮੈਨ</item>
+        <item>91:IN:ਭਾਰਤ</item>
+        <item>246:IO:ਬਰਤਾਨਵੀ ਹਿੰਦ ਮਹਾਂਸਾਗਰ ਰਾਜਖੇਤਰ</item>
+        <item>964:IQ:ਇਰਾਕ</item>
+        <item>98:IR:ਇਰਾਨ</item>
+        <item>354:IS:ਆਈਸਲੈਂਡ</item>
+        <item>39:IT:ਇਟਲੀ</item>
+        <item>44:JE:ਜਰਸੀ</item>
+        <item>1:JM:ਜਮੈਕਾ</item>
+        <item>962:JO:ਜੋਰਡਨ</item>
+        <item>81:JP:ਜਪਾਨ</item>
+        <item>254:KE:ਕੀਨੀਆ</item>
+        <item>996:KG:ਕਿਰਗ਼ਿਜ਼ਸਤਾਨ</item>
+        <item>855:KH:ਕੰਬੋਡੀਆ</item>
+        <item>686:KI:ਕਿਰੀਬਾਸ</item>
+        <item>269:KM:ਕਾਮਾਰੋਸ</item>
+        <item>1:KN:ਸੇਂਟ ਕਿਟਸ ਅਤੇ ਨੇਵਿਸ</item>
+        <item>850:KP:ਉੱਤਰੀ ਕੋਰੀਆ</item>
+        <item>82:KR:ਦੱਖਣੀ ਕੋਰੀਆ</item>
+        <item>965:KW:ਕੁਵੈਤ</item>
+        <item>1:KY:ਕੇਮਨ ਟਾਪੂ</item>
+        <item>7:KZ:ਕਜ਼ਾਖ਼ਸਤਾਨ</item>
+        <item>856:LA:ਲਾਓਸ</item>
+        <item>961:LB:ਲੈਬਨਨ</item>
+        <item>1:LC:ਸੇਂਟ ਲੂਸੀਆ</item>
+        <item>423:LI:ਲੀਖਟਨਸ਼ਟਾਈਨ</item>
+        <item>94:LK:ਸ੍ਰੀਲੰਕਾ</item>
+        <item>231:LR:ਲਾਈਬੇਰੀਆ</item>
+        <item>266:LS:ਲਿਸੋਥੋ</item>
+        <item>370:LT:ਲਿਥੁਆਨੀਆ</item>
+        <item>352:LU:ਲਕਸਮਬਰਗ</item>
+        <item>371:LV:ਲਾਤਵੀਆ</item>
+        <item>218:LY:ਲੀਬੀਆ</item>
+        <item>212:MA:ਮੋਰਾਕੋ</item>
+        <item>377:MC:ਮੋਨਾਕੋ</item>
+        <item>373:MD:ਮੋਲਦੋਵਾ</item>
+        <item>382:ME:ਮੋਂਟੇਨੇਗਰੋ</item>
+        <item>261:MG:ਮੇਡਾਗਾਸਕਰ</item>
+        <item>692:MH:ਮਾਰਸ਼ਲ ਟਾਪੂ</item>
+        <item>389:MK:ਮੈਸੇਡੋਨੀਆ</item>
+        <item>223:ML:ਮਾਲੀ</item>
+        <item>95:MM:ਮਿਆਂਮਾਰ</item>
+        <item>976:MN:ਮੰਗੋਲੀਆ</item>
+        <item>853:MO:ਮਕਾਓ</item>
+        <item>1:MP:ਉੱਤਰੀ ਮਰੀਆਨਾ ਟਾਪੂ</item>
+        <item>596:MQ:ਮਾਰਟੀਨੀਕ</item>
+        <item>222:MR:ਮੌਰੀਟਾਨੀਆ</item>
+        <item>1:MS:ਮੋਂਟਸੇਰਾਤ</item>
+        <item>356:MT:ਮਾਲਟਾ</item>
+        <item>230:MU:ਮਾਰੀਸ਼ਸ</item>
+        <item>960:MV:ਮਾਲਦੀਵ</item>
+        <item>265:MW:ਮਲਾਵੀ</item>
+        <item>52:MX:ਮੈਕਸੀਕੋ</item>
+        <item>60:MY:ਮਲੇਸ਼ੀਆ</item>
+        <item>258:MZ:ਮੋਜ਼ੈਂਬੀਕ</item>
+        <item>264:NA:ਨਮੀਬੀਆ</item>
+        <item>687:NC:ਨਵਾਂ ਕੈਲੇਡੋਨੀਆ</item>
+        <item>227:NE:ਨਾਈਜਰ</item>
+        <item>672:NF:ਨਾਰਫ਼ੋਕ ਟਾਪੂ</item>
+        <item>234:NG:ਨਾਈਜੀਰੀਆ</item>
+        <item>505:NI:ਨਿਕਾਰਾਗੁਆ</item>
+        <item>31:NL:ਨੀਦਰਲੈਂਡ</item>
+        <item>47:NO:ਨਾਰਵੇ</item>
+        <item>977:NP:ਨੇਪਾਲ</item>
+        <item>674:NR:ਨਾਉਰੂ</item>
+        <item>683:NU:ਨਿਊਏ</item>
+        <item>64:NZ:ਨਿਊਜ਼ੀਲੈਂਡ</item>
+        <item>968:OM:ਓਮਾਨ</item>
+        <item>507:PA:ਪੈਨਾਮਾ</item>
+        <item>51:PE:ਪੇਰੂ</item>
+        <item>689:PF:ਫ਼ਰਾਂਸੀਸੀ ਪਾਲੀਨੇਸ਼ੀਆ</item>
+        <item>675:PG:ਪਾਪੂਆ ਨਿਊ ਗਿਨੀ</item>
+        <item>63:PH:ਫਿਲੀਪੀਨ</item>
+        <item>92:PK:ਪਾਕਿਸਤਾਨ</item>
+        <item>48:PL:ਪੋਲੈਂਡ</item>
+        <item>508:PM:ਸੇਂਟ ਪੀਏਰ ਅਤੇ ਮੀਕਲੋਂ</item>
+        <item>1:PR:ਪਿਊਟਰੋ ਰੀਕੋ</item>
+        <item>970:PS:ਪਲੇਸਟੀਨ</item>
+        <item>351:PT:ਪੁਰਤਗਾਲ</item>
+        <item>680:PW:ਪਲਾਊ</item>
+        <item>595:PY:ਪੈਰਾਗੁਏ</item>
+        <item>974:QA:ਕਤਰ</item>
+        <item>262:RE:ਰੀਯੂਨੀਅਨ</item>
+        <item>40:RO:ਰੋਮਾਨੀਆ</item>
+        <item>381:RS:ਸਰਬੀਆ</item>
+        <item>7:RU:ਰੂਸ</item>
+        <item>250:RW:ਰਵਾਂਡਾ</item>
+        <item>966:SA:ਸਾਊਦੀ ਅਰਬ</item>
+        <item>677:SB:ਸੋਲੋਮਨ ਟਾਪੂ</item>
+        <item>248:SC:ਸੇਸ਼ੈਲ</item>
+        <item>249:SD:ਸੁਡਾਨ</item>
+        <item>46:SE:ਸਵੀਡਨ</item>
+        <item>65:SG:ਸਿੰਘਾਪੁਰ</item>
+        <item>290:SH:ਸੇਂਟ ਹੇਲੇਨਾ</item>
+        <item>386:SI:ਸਲੋਵੇਨੀਆ</item>
+        <item>421:SK:ਸਲੋਵਾਕੀਆ</item>
+        <item>232:SL:ਸਿਏਰਾ ਲਿਓਨ</item>
+        <item>378:SM:ਸੈਨ ਮੈਰੀਨੋ</item>
+        <item>221:SN:ਸੈਨੇਗਾਲ</item>
+        <item>252:SO:ਸੋਮਾਲੀਆ</item>
+        <item>597:SR:ਸੂਰੀਨਾਮ</item>
+        <item>211:SS:ਦੱਖਣੀ ਸੁਡਾਨ</item>
+        <item>239:ST:ਸਾਓ ਟੋਮ ਅਤੇ ਪ੍ਰਿੰਸੀਪੀ</item>
+        <item>503:SV:ਅਲ ਸਾਲਵਾਡੋਰ</item>
+        <item>1:SX:ਸਿੰਟ ਮਾਰਟਨ</item>
+        <item>963:SY:ਸੀਰੀਆ</item>
+        <item>268:SZ:ਸਵਾਜ਼ੀਲੈਂਡ</item>
+        <item>1:TC:ਤੁਰਕ ਅਤੇ ਕੇਕੋਸ ਟਾਪੂ</item>
+        <item>235:TD:ਚਾਡ</item>
+        <item>228:TG:ਟੋਗੋ</item>
+        <item>66:TH:ਥਾਈਲੈਂਡ</item>
+        <item>992:TJ:ਤਾਜਿਕਿਸਤਾਨ</item>
+        <item>690:TK:ਤੋਕਲੌ</item>
+        <item>670:TL:ਪੂਰਬੀ ਤਿਮੋਰ</item>
+        <item>993:TM:ਤੁਰਕਮੇਨਸਤਾਨ</item>
+        <item>216:TN:ਟਿਉਨੀਸੀਆ</item>
+        <item>676:TO:ਟੋਂਗਾ</item>
+        <item>90:TR:ਤੁਰਕੀ</item>
+        <item>1:TT:ਤ੍ਰਿਨੀਦਾਦ ਅਤੇ ਤੋਬਾਗੋ</item>
+        <item>688:TV:ਤੁਵਾਲੂ</item>
+        <item>886:TW:ਤਾਈਵਾਨ</item>
+        <item>255:TZ:ਤਨਜ਼ਾਨੀਆ</item>
+        <item>380:UA:ਯੂਕਰੇਨ</item>
+        <item>256:UG:ਯੂਗਾਂਡਾ</item>
+        <item>1:US:ਸੰਯੁਕਤ ਰਾਜ</item>
+        <item>598:UY:ਉਰੂਗਵੇ</item>
+        <item>998:UZ:ਉਜ਼ਬੇਕਿਸਤਾਨ</item>
+        <item>1:VC:ਸੇਂਟ ਵਿਨਸੈਂਟ ਅਤੇ ਗ੍ਰੇਨਾਡੀਨਜ਼</item>
+        <item>58:VE:ਵੈਨੇਜ਼ੁਏਲਾ</item>
+        <item>1:VG:ਬਰਤਾਨਵੀ ਵਰਜਿਨ ਟਾਪੂ</item>
+        <item>1:VI:ਸੰਯੁਕਤ ਰਾਜ ਵਰਜਿਨ ਟਾਪੂ</item>
+        <item>84:VN:ਵੀਅਤਨਾਮ</item>
+        <item>678:VU:ਵਨੁਆਤੂ</item>
+        <item>681:WF:ਵਾਲਿਸ ਅਤੇ ਫ਼ੁਤੂਨਾ</item>
+        <item>685:WS:ਸਮੋਆ</item>
+        <item>967:YE:ਯਮਨ</item>
+        <item>262:YT:ਮੇਯੋਟ</item>
+        <item>27:ZA:ਦੱਖਣੀ ਅਫਰੀਕਾ</item>
+        <item>260:ZM:ਜ਼ਾਂਬੀਆ</item>
+        <item>263:ZW:ਜ਼ਿੰਬਾਬਵੇ</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="com_accountkit_button_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="com_accountkit_button_confirm">ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="com_accountkit_button_continue">ਜਾਰੀ ਰੱਖੋ</string>
+    <string name="com_accountkit_button_log_in">ਲੌਗ ਇਨ ਕਰੋ</string>
+    <string name="com_accountkit_button_next">ਅਗਲਾ</string>
+    <string name="com_accountkit_button_ok">ਠੀਕ</string>
+    <string name="com_accountkit_button_resend">ਨਵਾਂ ਕੋਡ ਭੇਜੋ</string>
+    <string name="com_accountkit_button_resend_sms">SMS ਦੁਬਾਰਾ ਭੇਜੋ</string>
+    <string name="com_accountkit_button_send">ਭੇਜੋ</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook ਵਿੱਚ ਕੋਡ ਭੇਜੋ</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">ਤੁਹਾਡੇ ਦੁਆਰਾ ਦਾਖ਼ਲ ਕੀਤੇ ਗਏ ਫ਼ੋਨ ਨੰਬਰ ਨਾਲ ਲਿੰਕ ਕੀਤੇ Facebook ਖਾਤੇ ਵਿੱਚ ਕੋਈ ਸੂਚਨਾ ਭੇਜਣ ਲਈ Facebook ਵਿੱਚ ਕੋਡ ਭੇਜੋ ਟੈਪ ਕਰੋ।</string>
+    <string name="com_accountkit_button_start">ਅਰੰਭ ਕਰੋ</string>
+    <string name="com_accountkit_button_start_over">ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="com_accountkit_button_submit">ਜਮਾ ਕਰੋ</string>
+    <string name="com_accountkit_check_email">ਆਪਣੀ ਈਮੇਲ ਖੋਲ੍ਹੋ</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Facebook ਦੀਆਂ &lt;a href="%2$s">ਸ਼ਰਤਾਂ&lt;/a>, &lt;a href="%3$s">ਡੇਟਾ ਨੀਤੀ&lt;/a> ਅਤੇ &lt;a href="%4$s">ਕੂਕੀ ਦੀ ਵਰਤੋਂ&lt;/a> ਨੂੰ ਸਵੀਕਾਰ ਕਰਨ ਲਈ %1$s ਨੂੰ ਟੈਪ ਕਰੋ।
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Facebook ਦੀਆਂ &lt;a href="%2$s">ਸ਼ਰਤਾਂ&lt;/a>, &lt;a href="%3$s">ਡੇਟਾ ਨੀਤੀ&lt;/a>, &lt;a href="%4$s">ਕੂਕੀ ਦੀ ਵਰਤੋਂ&lt;/a> ਅਤੇ %6$s ਦੀ &lt;a href="%5$s">ਗੋਪਨੀਤਯਾ ਨੀਤੀ&lt;/a> ਨੂੰ ਸਵੀਕਾਰ ਕਰਨ ਲਈ %1$s ਨੂੰ ਟੈਪ ਕਰੋ।
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Facebook\'s &lt;a href="%2$s">ਸ਼ਰਤਾਂ&lt;/a>, &lt;a href="%3$s">ਡੇਟਾ ਨੀਤੀ&lt;/a>, &lt;a href="%4$s">ਕੂਕੀ ਦੀ ਵਰਤੋਂ&lt;/a> ਅਤੇ %7$s ਦੀ &lt;a href="%5$s">ਗੋਪਨੀਤਯਾ ਨੀਤੀ&lt;/a> ਅਤੇ &lt;a href="%6$s">ਗੋਪਨੀਤਯਾ ਨੀਤੀ&lt;/a> ਨੂੰ ਸਵੀਕਾਰ ਕਰਨ ਲਈ %1$s ਨੂੰ ਟੈਪ ਕਰੋ।
+    </string>
+    <string name="com_accountkit_confirmation_code_text">ਨਵਾਂ ਕੋਡ ਭੇਜੋ</string>
+    <string name="com_accountkit_confirmation_code_title">ਆਪਣਾ ਕੋਡ ਦਾਖ਼ਲ ਕਰੋ</string>
+    <string name="com_accountkit_email_invalid">ਇਹ ਈਮੇਲ ਗਲਤ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="com_accountkit_email_loading_title">ਈਮੇਲ ਭੇਜ ਰਿਹਾ ਹੈ…</string>
+    <string name="com_accountkit_email_login_retry_title">ਆਪਣੀ ਈਮੇਲ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="com_accountkit_email_login_text">
+        %2$s ਨੂੰ ਵਰਤਣ ਵਿੱਚ ਤੁਹਾਡੀ ਮੱਦਦ ਕਰਨ ਲਈ Facebook ਰਾਹੀਂ Account Kit ਤੋਂ ਕੋਈ ਈਮੇਲ ਪੁਸ਼ਟੀਕਰਨ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ %1$s ਨੂੰ ਟੈਪ ਕਰੋ। &lt;a href="%3$s">ਜਾਣੋ ਕਿ Facebook ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਕਿਵੇਂ ਵਰਤਦਾ ਹੈ&lt;/a>
+    </string>
+    <string name="com_accountkit_email_login_title">ਆਪਣਾ ਈਮੇਲ ਪਤਾ ਦਾਖ਼ਲ ਕਰੋ</string>
+    <string name="com_accountkit_email_not_received">ਈਮੇਲ ਨੂੰ ਦੁਬਾਰਾ ਭੇਜੋ</string>
+    <string name="com_accountkit_email_verify_title">ਸਾਡੇ ਦੁਆਰਾ ਭੇਜੀ ਗਈ ਈਮੇਲ ਖੋਲ੍ਹੋ ਅਤੇ ਆਪਣੇ ਪਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="com_accountkit_error_title">\'ਅਸੀਂ ਮੁਆਫ਼ੀ ਚਾਹੁੰਦੇ ਹਾਂ, ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ।</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook ਤੋਂ ਆਪਣਾ ਕੋਡ ਦਾਖ਼ਲ ਕਰੋ</string>
+    <string name="com_accountkit_phone_loading_title">ਤੁਹਾਡਾ ਕੋਡ ਭੇਜ ਰਿਹਾ ਹੈ…</string>
+    <string name="com_accountkit_phone_login_retry_title">ਆਪਣੇ ਫ਼ੋਨ ਨੰਬਰ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="com_accountkit_phone_login_text">
+        %2$s ਨੂੰ ਵਰਤਣ ਵਿੱਚ ਤੁਹਾਡੀ ਮੱਦਦ ਕਰਨ ਲਈ Facebook ਰਾਹੀਂ Account Kit ਤੋਂ ਕੋਈ SMS ਪੁਸ਼ਟੀਕਰਨ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ %1$s ਨੂੰ ਟੈਪ ਕਰੋ। ਸੁਨੇਹਾ ਅਤੇ ਡੇਟਾ ਦਰਾਂ ਲਾਗੂ ਹੋ ਸਕਦੀਆਂ ਹਨ। &lt;a href="%3$s">ਜਾਣੋ ਕਿ Facebook ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਕਿਵੇਂ ਵਰਤਦਾ ਹੈ&lt;/a>
+    </string>
+    <string name="com_accountkit_phone_login_title">ਆਪਣਾ ਫ਼ੋਨ ਨੰਬਰ ਦਾਖ਼ਲ ਕਰੋ</string>
+    <string name="com_accountkit_resend_email_text">ਨਵੀਂ ਈਮੇਲ ਭੇਜੋ</string>
+    <string name="com_accountkit_resend_title">ਅਸੀਂ ਮੁਆਫ਼ੀ ਚਾਹੁੰਦੇ ਹਾਂ। ਜਾਰੀ ਰੱਖਣ ਲਈ ਇਹਨਾਂ ਵਿਕਲਪਾਂ ਨੂੰ ਅਜ਼ਮਾਓ।</string>
+    <string name="com_accountkit_return_title">ਤੁਹਾਨੂੰ %1$s ਵਿੱਚ ਵਾਪਸ ਲੈ ਜਾ ਰਿਹਾ ਹੈ…</string>
+    <string name="com_accountkit_sent_title">ਭੇਜਿਆ ਗਿਆ!</string>
+    <string name="com_accountkit_success_title">ਮੁਕੰਮਲ!</string>
+    <string name="com_accountkit_toolbar_title">%1$s ਵਿੱਚ ਲੌਗ ਇਨ ਕਰੋ</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        ਅਸੀਂ ਤੁਹਾਡੇ ਕੋਡ ਦੀ ਪੁਸ਼ਟੀ ਨਹੀਂ ਕਰ ਸਕੇ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ:
+    </string>
+    <string name="com_accountkit_verify_title">ਤੁਹਾਡੇ ਕੋਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰ ਰਿਹਾ ਹੈ…</string>
+</resources>

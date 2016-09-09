@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:อันดอร์รา</item>
+        <item>971:AE:สหรัฐอาหรับเอมิเรตส์</item>
+        <item>93:AF:อัฟกานิสถาน</item>
+        <item>1:AG:แอนติกัว</item>
+        <item>1:AI:แองกวิลลา</item>
+        <item>355:AL:แอลเบเนีย</item>
+        <item>374:AM:อาร์เมเนีย</item>
+        <item>244:AO:แองโกลา</item>
+        <item>54:AR:อาร์เจนตินา</item>
+        <item>1:AS:อเมริกันซามัว</item>
+        <item>43:AT:ออสเตรีย</item>
+        <item>61:AU:ออสเตรเลีย</item>
+        <item>297:AW:อารูบา</item>
+        <item>994:AZ:อาเซอร์ไบจาน</item>
+        <item>387:BA:บอสเนียและเฮอร์เซโกวีนา</item>
+        <item>1:BB:บาร์เบโดส</item>
+        <item>880:BD:บังกลาเทศ</item>
+        <item>32:BE:เบลเยียม</item>
+        <item>226:BF:บูร์กินาฟาโซ</item>
+        <item>359:BG:บัลแกเรีย</item>
+        <item>973:BH:บาห์เรน</item>
+        <item>257:BI:บุรุนดี</item>
+        <item>229:BJ:เบนิน</item>
+        <item>1:BM:เบอร์มิวดา</item>
+        <item>673:BN:บรูไน</item>
+        <item>591:BO:โบลิเวีย</item>
+        <item>599:BQ:โบแนร์, ซินท์ยูสเทชูสและซาบา</item>
+        <item>55:BR:บราซิล</item>
+        <item>1:BS:บาฮามาส</item>
+        <item>975:BT:ภูฏาน</item>
+        <item>267:BW:บอตสวานา</item>
+        <item>375:BY:เบลารุส</item>
+        <item>501:BZ:เบลีซ</item>
+        <item>1:CA:แคนาดา</item>
+        <item>243:CD:สาธารณรัฐประชาธิปไตยคองโก</item>
+        <item>236:CF:สาธารณรัฐแอฟริกากลาง</item>
+        <item>242:CG:สาธารณรัฐคองโก</item>
+        <item>41:CH:สวิตเซอร์แลนด์</item>
+        <item>225:CI:โกตดิวัวร์</item>
+        <item>682:CK:หมู่เกาะคุก</item>
+        <item>56:CL:ชิลี</item>
+        <item>237:CM:แคเมอรูน</item>
+        <item>86:CN:จีน</item>
+        <item>57:CO:โคลอมเบีย</item>
+        <item>506:CR:คอสตาริกา</item>
+        <item>53:CU:คิวบา</item>
+        <item>238:CV:เคปเวิร์ด</item>
+        <item>599:CW:คูราเซา</item>
+        <item>357:CY:ไซปรัส</item>
+        <item>420:CZ:สาธารณรัฐเช็ก</item>
+        <item>49:DE:เยอรมนี</item>
+        <item>253:DJ:จิบูตี</item>
+        <item>45:DK:เดนมาร์ก</item>
+        <item>1:DM:โดมินิกา</item>
+        <item>1:DO:สาธารณรัฐโดมินิกัน</item>
+        <item>213:DZ:แอลจีเรีย</item>
+        <item>593:EC:เอกวาดอร์</item>
+        <item>372:EE:เอสโตเนีย</item>
+        <item>20:EG:อียิปต์</item>
+        <item>212:EH:เวสเทิร์นสะฮารา</item>
+        <item>291:ER:เอริเทรีย</item>
+        <item>34:ES:สเปน</item>
+        <item>251:ET:เอธิโอเปีย</item>
+        <item>358:FI:ฟินแลนด์</item>
+        <item>679:FJ:ฟิจิ</item>
+        <item>500:FK:หมู่เกาะฟอล์กแลนด์</item>
+        <item>691:FM:สหพันธรัฐไมโครนีเซีย</item>
+        <item>298:FO:หมู่เกาะแฟโร</item>
+        <item>33:FR:ฝรั่งเศส</item>
+        <item>241:GA:กาบอง</item>
+        <item>44:GB:สหราชอาณาจักร</item>
+        <item>1:GD:เกรนาดา</item>
+        <item>995:GE:จอร์เจีย</item>
+        <item>594:GF:เฟรนช์เกียนา</item>
+        <item>44:GG:เกิร์นซีย์</item>
+        <item>233:GH:กานา</item>
+        <item>350:GI:ยิบรอลตาร์</item>
+        <item>299:GL:กรีนแลนด์</item>
+        <item>220:GM:แกมเบีย</item>
+        <item>224:GN:กินี</item>
+        <item>590:GP:กวาเดอลูป</item>
+        <item>240:GQ:อิเควทอเรียลกินี</item>
+        <item>30:GR:กรีซ</item>
+        <item>502:GT:กัวเตมาลา</item>
+        <item>1:GU:กวม</item>
+        <item>245:GW:กินีบิสเซา</item>
+        <item>592:GY:กายอานา</item>
+        <item>852:HK:ฮ่องกง</item>
+        <item>504:HN:ฮอนดูรัส</item>
+        <item>385:HR:โครเอเชีย</item>
+        <item>509:HT:เฮติ</item>
+        <item>36:HU:ฮังการี</item>
+        <item>62:ID:อินโดนีเซีย</item>
+        <item>353:IE:ไอร์แลนด์</item>
+        <item>972:IL:อิสราเอล</item>
+        <item>44:IM:เกาะแมน</item>
+        <item>91:IN:อินเดีย</item>
+        <item>246:IO:บริติชอินเดียนโอเชียนเทร์ริทอรี</item>
+        <item>964:IQ:อิรัก</item>
+        <item>98:IR:อิหร่าน</item>
+        <item>354:IS:ไอซ์แลนด์</item>
+        <item>39:IT:อิตาลี</item>
+        <item>44:JE:เจอร์ซีย์</item>
+        <item>1:JM:จาไมก้า</item>
+        <item>962:JO:จอร์แดน</item>
+        <item>81:JP:ญี่ปุ่น</item>
+        <item>254:KE:เคนยา</item>
+        <item>996:KG:คีร์กีซสถาน</item>
+        <item>855:KH:กัมพูชา</item>
+        <item>686:KI:คิริบาส</item>
+        <item>269:KM:คอโมโรส</item>
+        <item>1:KN:เซนต์คิตส์และเนวิส</item>
+        <item>850:KP:เกาหลีเหนือ</item>
+        <item>82:KR:เกาหลีใต้</item>
+        <item>965:KW:คูเวต</item>
+        <item>1:KY:หมู่เกาะเคย์แมน</item>
+        <item>7:KZ:คาซัคสถาน</item>
+        <item>856:LA:ลาว</item>
+        <item>961:LB:เลบานอน</item>
+        <item>1:LC:เซนต์ลูเซีย</item>
+        <item>423:LI:ลิกเตนสไตน์</item>
+        <item>94:LK:ศรีลังกา</item>
+        <item>231:LR:ไลบีเรีย</item>
+        <item>266:LS:เลโซโท</item>
+        <item>370:LT:ลิทัวเนีย</item>
+        <item>352:LU:ลักเซมเบิร์ก</item>
+        <item>371:LV:ลัตเวีย</item>
+        <item>218:LY:ลิเบีย</item>
+        <item>212:MA:โมร็อกโก</item>
+        <item>377:MC:โมนาโก</item>
+        <item>373:MD:มอลโดวา</item>
+        <item>382:ME:มอนเตเนโกร</item>
+        <item>261:MG:มาดากัสการ์</item>
+        <item>692:MH:หมู่เกาะมาร์แชล</item>
+        <item>389:MK:มาซิโดเนีย</item>
+        <item>223:ML:มาลี</item>
+        <item>95:MM:พม่า</item>
+        <item>976:MN:มองโกเลีย</item>
+        <item>853:MO:มาเก๊า</item>
+        <item>1:MP:หมู่เกาะนอร์เทิร์นมาเรียนา</item>
+        <item>596:MQ:มาร์ตินีก</item>
+        <item>222:MR:มอริเตเนีย</item>
+        <item>1:MS:มอนต์เซอร์รัต</item>
+        <item>356:MT:มอลตา</item>
+        <item>230:MU:มอริเชียส</item>
+        <item>960:MV:มัลดีฟส์</item>
+        <item>265:MW:มาลาวี</item>
+        <item>52:MX:เม็กซิโก</item>
+        <item>60:MY:มาเลเซีย</item>
+        <item>258:MZ:โมซัมบิก</item>
+        <item>264:NA:นามิเบีย</item>
+        <item>687:NC:นิวแคลิโดเนีย</item>
+        <item>227:NE:ไนเจอร์</item>
+        <item>672:NF:เกาะนอร์ฟอล์ก</item>
+        <item>234:NG:ไนจีเรีย</item>
+        <item>505:NI:นิคารากัว</item>
+        <item>31:NL:เนเธอร์แลนด์</item>
+        <item>47:NO:นอร์เวย์</item>
+        <item>977:NP:เนปาล</item>
+        <item>674:NR:นาอูรู</item>
+        <item>683:NU:นีอูเอ</item>
+        <item>64:NZ:นิวซีแลนด์</item>
+        <item>968:OM:โอมาน</item>
+        <item>507:PA:ปานามา</item>
+        <item>51:PE:เปรู</item>
+        <item>689:PF:เฟรนช์โปลินีเซีย</item>
+        <item>675:PG:ปาปัวนิวกินี</item>
+        <item>63:PH:ฟิลิปปินส์</item>
+        <item>92:PK:ปากีสถาน</item>
+        <item>48:PL:โปแลนด์</item>
+        <item>508:PM:แซงปีแยร์และมีเกอลง</item>
+        <item>1:PR:เปอร์โตริโก</item>
+        <item>970:PS:ปาเลสไตน์</item>
+        <item>351:PT:โปรตุเกส</item>
+        <item>680:PW:ปาเลา</item>
+        <item>595:PY:ปารากวัย</item>
+        <item>974:QA:กาตาร์</item>
+        <item>262:RE:เรอูนียง</item>
+        <item>40:RO:โรมาเนีย</item>
+        <item>381:RS:เซอร์เบีย</item>
+        <item>7:RU:รัสเซีย</item>
+        <item>250:RW:รวันดา</item>
+        <item>966:SA:ซาอุดีอาระเบีย</item>
+        <item>677:SB:หมู่เกาะโซโลมอน</item>
+        <item>248:SC:เซเชลส์</item>
+        <item>249:SD:ซูดาน</item>
+        <item>46:SE:สวีเดน</item>
+        <item>65:SG:สิงคโปร์</item>
+        <item>290:SH:เซนต์เฮเลนา</item>
+        <item>386:SI:สโลวีเนีย</item>
+        <item>421:SK:สโลวาเกีย</item>
+        <item>232:SL:เซียร์ราลีโอน</item>
+        <item>378:SM:ซานมารีโน</item>
+        <item>221:SN:เซเนกัล</item>
+        <item>252:SO:โซมาเลีย</item>
+        <item>597:SR:ซูรีนาเม</item>
+        <item>211:SS:เซาธ์ซูดาน</item>
+        <item>239:ST:เซาโตเมและปรินซิเป</item>
+        <item>503:SV:เอลซัลวาดอร์</item>
+        <item>1:SX:เซนต์มาร์ติน</item>
+        <item>963:SY:ซีเรีย</item>
+        <item>268:SZ:สวาซิแลนด์</item>
+        <item>1:TC:หมู่เกาะเติกส์และเคคอส</item>
+        <item>235:TD:ชาด</item>
+        <item>228:TG:โตโก</item>
+        <item>66:TH:ไทย</item>
+        <item>992:TJ:ทาจิกิสถาน</item>
+        <item>690:TK:โตเกเลา</item>
+        <item>670:TL:ติมอร์ตะวันออก</item>
+        <item>993:TM:เติร์กเมนิสถาน</item>
+        <item>216:TN:ตูนิเชีย</item>
+        <item>676:TO:ตองกา</item>
+        <item>90:TR:ตุรกี</item>
+        <item>1:TT:ตรินิแดดและโตเบโก</item>
+        <item>688:TV:ตูวาลู</item>
+        <item>886:TW:ไต้หวัน</item>
+        <item>255:TZ:แทนซาเนีย</item>
+        <item>380:UA:ยูเครน</item>
+        <item>256:UG:อูกันดา</item>
+        <item>1:US:สหรัฐอเมริกา</item>
+        <item>598:UY:อุรุกวัย</item>
+        <item>998:UZ:อุซเบกิสถาน</item>
+        <item>1:VC:เซนต์วินเซนต์และเกรนาดีนส์</item>
+        <item>58:VE:เวเนซุเอลา</item>
+        <item>1:VG:หมู่เกาะบริติชเวอร์จิน</item>
+        <item>1:VI:หมู่เกาะเวอร์จินของสหรัฐอเมริกา</item>
+        <item>84:VN:เวียดนาม</item>
+        <item>678:VU:วานูอาตู</item>
+        <item>681:WF:วาลลิสและฟุตูนา</item>
+        <item>685:WS:ซามัว</item>
+        <item>967:YE:เยเมน</item>
+        <item>262:YT:มายอต</item>
+        <item>27:ZA:แอฟริกาใต้</item>
+        <item>260:ZM:แซมเบีย</item>
+        <item>263:ZW:ซิมบับเว</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">เริ่มต้น</string>
+    <string name="com_accountkit_button_cancel">ยกเลิก</string>
+    <string name="com_accountkit_button_confirm">ยืนยัน</string>
+    <string name="com_accountkit_button_continue">ดำเนินต่อ</string>
+    <string name="com_accountkit_button_log_in">เข้าสู่ระบบ</string>
+    <string name="com_accountkit_button_next">ถัดไป</string>
+    <string name="com_accountkit_button_ok">ตกลง</string>
+    <string name="com_accountkit_button_resend">ส่งรหัสใหม่</string>
+    <string name="com_accountkit_button_resend_sms">ส่ง SMS อีกครั้ง</string>
+    <string name="com_accountkit_button_send">ส่ง</string>
+    <string name="com_accountkit_button_send_code_in_fb">ส่งรหัสใน Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">แตะ ส่งรหัส ใน Facebook เพื่อส่งการแจ้งเตือนไปยังบัญชีผู้ใช้ Facebook ที่เชื่อมโยงกับหมายเลขโทรศัพท์ที่คุณป้อน</string>
+    <string name="com_accountkit_button_start">เริ่ม</string>
+    <string name="com_accountkit_button_start_over">ลองอีกครั้ง</string>
+    <string name="com_accountkit_button_submit">ส่ง</string>
+    <string name="com_accountkit_check_email">เปิดอีเมลของคุณ</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a> &lt;a href="%3$s">นโยบายข้อมูล&lt;/a> และ &lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> ของ Facebook
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a> &lt;a href="%3$s">นโยบายข้อมูล&lt;/a> &lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> และ &lt;a href="%5$s">นโยบายความปลอดภัย&lt;/a> ของ %6$s ของ Facebook
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a> &lt;a href="%3$s">นโยบายข้อมูล&lt;/a> &lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> และ &lt;a href="%5$s">นโยบายความปลอดภัย&lt;/a> และ &lt;a href="%6$s">ข้อกำหนดการให้บริการ&lt;/a> ของ %7$s ของ Facebook
+    </string>
+    <string name="com_accountkit_confirmation_code_text">ส่งรหัสอีกครั้ง</string>
+    <string name="com_accountkit_confirmation_code_title">ป้อนรหัสของคุณ</string>
+    <string name="com_accountkit_email_invalid">อีเมลนี้ไม่ถูกต้อง โปรดลองใหม่อีกครั้ง</string>
+    <string name="com_accountkit_email_loading_title">กำลังส่งอีเมล</string>
+    <string name="com_accountkit_email_login_retry_title">ยืนยันอีเมลของคุณ</string>
+    <string name="com_accountkit_email_login_text">
+        แตะ %1$s เพื่อรับอีเมลยืนยันจากชุดเครื่องมือบัญชีผู้ใช้ของ Facebook เพื่อช่วยคุณในการใช้งาน %2$s คุณไม่จำเป็นต้องมีบัญชีผู้ใช้ Facebook สำหรับการใช้งานส่วนนี้ &lt;a href="%3$s">ดูข้อมูลว่า Facebook ใช้ข้อมูลของคุณอย่างไรบ้้าง&lt;/a>
+    </string>
+    <string name="com_accountkit_email_login_title">ป้อนที่อยู่อีเมลของคุณ</string>
+    <string name="com_accountkit_email_not_received">ส่งอีเมลอีกครั้ง</string>
+    <string name="com_accountkit_email_verify_title">เปิดอีเมลที่เราส่งถึงคุณและยืนยันที่อยู่ของคุณ</string>
+    <string name="com_accountkit_error_title">ขออภัย มีบางสิ่งผิดพลาด</string>
+    <string name="com_accountkit_facebook_code_entry_title">ป้อนรหัสของคุณจาก Facebook </string>
+    <string name="com_accountkit_phone_loading_title">กำลังส่งรหัสถึงคุณ…</string>
+    <string name="com_accountkit_phone_login_retry_title">ยืนยันหมายเลขโทรศัพท์ของคุณ</string>
+    <string name="com_accountkit_phone_login_text">
+        แตะ %1$s เพื่อรับ SMS ยืนยันจากชุดเครื่องมือบัญชีผู้ใช้ของ Facebook เพื่อช่วยคุณในการใช้งาน %2$s คุณไม่จำเป็นต้องมีบัญชีผู้ใช้ Facebook สำหรับการใช้งานส่วนนี้ ทั้งนี้ อาจมีการเรียกเก็บค่ารับส่งข้อความและบริการอินเทอร์เน็ต &lt;a href="%3$s">ดูข้อมูลว่า Facebook ใช้ข้อมูลของคุณอย่างไรบ้้าง&lt;/a>
+    </string>
+    <string name="com_accountkit_phone_login_title">ป้อนหมายเลขโทรศัพท์ของคุณ</string>
+    <string name="com_accountkit_resend_email_text">ส่งอีเมลใหม่</string>
+    <string name="com_accountkit_resend_title">ขออภัย ลองตัวเลือกเหล่านี้เพื่อดำเนินการต่อ</string>
+    <string name="com_accountkit_return_title">กำลังนำคุณกลับไปที่ %1$s…</string>
+    <string name="com_accountkit_sent_title">ส่งแล้ว!</string>
+    <string name="com_accountkit_success_title">เรียบร้อย!</string>
+    <string name="com_accountkit_toolbar_title">เข้าสู่ระบบ %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        เราไม่สามารถยืนยันรหัสของคุณ\nโปรดลองอีกครั้ง:
+    </string>
+    <string name="com_accountkit_verify_title">กำลังยืนยันรหัสของคุณ</string>
+</resources>

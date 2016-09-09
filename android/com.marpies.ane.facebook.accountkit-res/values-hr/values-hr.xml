@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Andora</item>
+        <item>971:AE:Ujedinjeni Arapski Emirati</item>
+        <item>93:AF:Afganistan</item>
+        <item>1:AG:Antigva</item>
+        <item>1:AI:Angvila</item>
+        <item>355:AL:Albanija</item>
+        <item>374:AM:Armenija</item>
+        <item>244:AO:Angola</item>
+        <item>54:AR:Argentina</item>
+        <item>1:AS:Američka Samoa</item>
+        <item>43:AT:Austrija</item>
+        <item>61:AU:Australija</item>
+        <item>297:AW:Aruba</item>
+        <item>994:AZ:Azerbajdžan</item>
+        <item>387:BA:Bosna i Hercegovina</item>
+        <item>1:BB:Barbados</item>
+        <item>880:BD:Bangladeš</item>
+        <item>32:BE:Belgija</item>
+        <item>226:BF:Burkina Faso</item>
+        <item>359:BG:Bugarska</item>
+        <item>973:BH:Bahrein</item>
+        <item>257:BI:Burundi</item>
+        <item>229:BJ:Benin</item>
+        <item>1:BM:Bermuda</item>
+        <item>673:BN:Brunej</item>
+        <item>591:BO:Bolivija</item>
+        <item>599:BQ:Bonaire, Sint Eustatius i Saba</item>
+        <item>55:BR:Brazil</item>
+        <item>1:BS:Bahami</item>
+        <item>975:BT:Butan</item>
+        <item>267:BW:Bocvana</item>
+        <item>375:BY:Bjelorusija</item>
+        <item>501:BZ:Belize</item>
+        <item>1:CA:Kanada</item>
+        <item>243:CD:Demokratska Republika Kongo</item>
+        <item>236:CF:Srednjoafrička Republika</item>
+        <item>242:CG:Republika Kongo</item>
+        <item>41:CH:Švicarska</item>
+        <item>225:CI:Obala Bjelokosti</item>
+        <item>682:CK:Cookovo Otočje</item>
+        <item>56:CL:Čile</item>
+        <item>237:CM:Kamerun</item>
+        <item>86:CN:Kina</item>
+        <item>57:CO:Kolumbija</item>
+        <item>506:CR:Kostarika</item>
+        <item>53:CU:Kuba</item>
+        <item>238:CV:Zelenortski Otoci</item>
+        <item>599:CW:Curaçao</item>
+        <item>357:CY:Cipar</item>
+        <item>420:CZ:Češka Republika</item>
+        <item>49:DE:Njemačka</item>
+        <item>253:DJ:Džibuti</item>
+        <item>45:DK:Danska</item>
+        <item>1:DM:Dominika</item>
+        <item>1:DO:Dominikanska Republika</item>
+        <item>213:DZ:Alžir</item>
+        <item>593:EC:Ekvador</item>
+        <item>372:EE:Estonija</item>
+        <item>20:EG:Egipat</item>
+        <item>212:EH:Zapadna Sahara</item>
+        <item>291:ER:Eritreja</item>
+        <item>34:ES:Španjolska</item>
+        <item>251:ET:Etiopija</item>
+        <item>358:FI:Finska</item>
+        <item>679:FJ:Fidži</item>
+        <item>500:FK:Falklandski Otoci</item>
+        <item>691:FM:Savezne Države Mikronezije</item>
+        <item>298:FO:Farski otoci</item>
+        <item>33:FR:Francuska</item>
+        <item>241:GA:Gabon</item>
+        <item>44:GB:Ujedinjeno Kraljevstvo</item>
+        <item>1:GD:Grenada</item>
+        <item>995:GE:Gruzija</item>
+        <item>594:GF:Francuska Gvajana</item>
+        <item>44:GG:Guernsey</item>
+        <item>233:GH:Gana</item>
+        <item>350:GI:Gibraltar</item>
+        <item>299:GL:Grenland</item>
+        <item>220:GM:Gambija</item>
+        <item>224:GN:Gvineja</item>
+        <item>590:GP:Gvadalupa</item>
+        <item>240:GQ:Ekvatorska Gvineja</item>
+        <item>30:GR:Grčka</item>
+        <item>502:GT:Gvatemala</item>
+        <item>1:GU:Guam</item>
+        <item>245:GW:Gvineja Bisau</item>
+        <item>592:GY:Gvajana</item>
+        <item>852:HK:Hong Kong</item>
+        <item>504:HN:Honduras</item>
+        <item>385:HR:Hrvatska</item>
+        <item>509:HT:Haiti</item>
+        <item>36:HU:Mađarska</item>
+        <item>62:ID:Indonezija</item>
+        <item>353:IE:Irska</item>
+        <item>972:IL:Izrael</item>
+        <item>44:IM:Otok Man</item>
+        <item>91:IN:Indija</item>
+        <item>246:IO:Britanski Indijskooceanski Teritorij</item>
+        <item>964:IQ:Irak</item>
+        <item>98:IR:Iran</item>
+        <item>354:IS:Island</item>
+        <item>39:IT:Italija</item>
+        <item>44:JE:Jersey</item>
+        <item>1:JM:Jamajka</item>
+        <item>962:JO:Jordan</item>
+        <item>81:JP:Japan</item>
+        <item>254:KE:Kenija</item>
+        <item>996:KG:Kirgistan</item>
+        <item>855:KH:Kambodža</item>
+        <item>686:KI:Kiribati</item>
+        <item>269:KM:Komori</item>
+        <item>1:KN:Sveti Kristofor i Nevis</item>
+        <item>850:KP:Sjeverna Koreja</item>
+        <item>82:KR:Južna Koreja</item>
+        <item>965:KW:Kuvajt</item>
+        <item>1:KY:Kajmanski otoci</item>
+        <item>7:KZ:Kazahstan</item>
+        <item>856:LA:Laos</item>
+        <item>961:LB:Libanon</item>
+        <item>1:LC:Sv. Lucija</item>
+        <item>423:LI:Lihtenštajn</item>
+        <item>94:LK:Šri Lanka</item>
+        <item>231:LR:Liberija</item>
+        <item>266:LS:Lesoto</item>
+        <item>370:LT:Litva</item>
+        <item>352:LU:Luksemburg</item>
+        <item>371:LV:Latvija</item>
+        <item>218:LY:Libija</item>
+        <item>212:MA:Maroko</item>
+        <item>377:MC:Monako</item>
+        <item>373:MD:Moldavija</item>
+        <item>382:ME:Crna Gora</item>
+        <item>261:MG:Madagaskar</item>
+        <item>692:MH:Maršalovi Otoci</item>
+        <item>389:MK:Makedonija</item>
+        <item>223:ML:Mali</item>
+        <item>95:MM:Myanmar</item>
+        <item>976:MN:Mongolija</item>
+        <item>853:MO:Makao</item>
+        <item>1:MP:Sjevernomarijanski Otoci</item>
+        <item>596:MQ:Martinik</item>
+        <item>222:MR:Mauritanija</item>
+        <item>1:MS:Montserrat</item>
+        <item>356:MT:Malta</item>
+        <item>230:MU:Mauricijus</item>
+        <item>960:MV:Maldivi</item>
+        <item>265:MW:Malavi</item>
+        <item>52:MX:Meksiko</item>
+        <item>60:MY:Malezija</item>
+        <item>258:MZ:Mozambik</item>
+        <item>264:NA:Namibija</item>
+        <item>687:NC:Nova Kaledonija</item>
+        <item>227:NE:Niger</item>
+        <item>672:NF:Otok Norfolk</item>
+        <item>234:NG:Nigerija</item>
+        <item>505:NI:Nikaragva</item>
+        <item>31:NL:Nizozemska</item>
+        <item>47:NO:Norveška</item>
+        <item>977:NP:Nepal</item>
+        <item>674:NR:Nauru</item>
+        <item>683:NU:Niue</item>
+        <item>64:NZ:Novi Zeland</item>
+        <item>968:OM:Oman</item>
+        <item>507:PA:Panama</item>
+        <item>51:PE:Peru</item>
+        <item>689:PF:Francuska Polinezija</item>
+        <item>675:PG:Papua Nova Gvineja</item>
+        <item>63:PH:Filipini</item>
+        <item>92:PK:Pakistan</item>
+        <item>48:PL:Poljska</item>
+        <item>508:PM:Sveti Petar i Mikelon</item>
+        <item>1:PR:Portoriko</item>
+        <item>970:PS:Palestina</item>
+        <item>351:PT:Portugal</item>
+        <item>680:PW:Palau</item>
+        <item>595:PY:Paragvaj</item>
+        <item>974:QA:Katar</item>
+        <item>262:RE:Réunion</item>
+        <item>40:RO:Rumunjska</item>
+        <item>381:RS:Srbija</item>
+        <item>7:RU:Rusija</item>
+        <item>250:RW:Ruanda</item>
+        <item>966:SA:Saudijska Arabija</item>
+        <item>677:SB:Solomonsko otočje</item>
+        <item>248:SC:Sejšeli</item>
+        <item>249:SD:Sudan</item>
+        <item>46:SE:Švedska</item>
+        <item>65:SG:Singapur</item>
+        <item>290:SH:Sveta Helena</item>
+        <item>386:SI:Slovenija</item>
+        <item>421:SK:Slovačka</item>
+        <item>232:SL:Sijera Leone</item>
+        <item>378:SM:San Marino</item>
+        <item>221:SN:Senegal</item>
+        <item>252:SO:Somalija</item>
+        <item>597:SR:Surinam</item>
+        <item>211:SS:Južni Sudan</item>
+        <item>239:ST:Sveti Toma i Princip</item>
+        <item>503:SV:Salvador</item>
+        <item>1:SX:Sveti Martin</item>
+        <item>963:SY:Sirija</item>
+        <item>268:SZ:Svazi</item>
+        <item>1:TC:Otoci Turks i Caicos</item>
+        <item>235:TD:Čad</item>
+        <item>228:TG:Togo</item>
+        <item>66:TH:Tajland</item>
+        <item>992:TJ:Tadžikistan</item>
+        <item>690:TK:Tokelau</item>
+        <item>670:TL:Istočni Timor</item>
+        <item>993:TM:Turkmenistan</item>
+        <item>216:TN:Tunis</item>
+        <item>676:TO:Tonga</item>
+        <item>90:TR:Turska</item>
+        <item>1:TT:Trinidad i Tobago</item>
+        <item>688:TV:Tuvalu</item>
+        <item>886:TW:Tajvan</item>
+        <item>255:TZ:Tanzanija</item>
+        <item>380:UA:Ukrajina</item>
+        <item>256:UG:Uganda</item>
+        <item>1:US:Sjedinjene Američke Države</item>
+        <item>598:UY:Urugvaj</item>
+        <item>998:UZ:Uzbekistan</item>
+        <item>1:VC:Sveti Vincent i Grenadini</item>
+        <item>58:VE:Venezuela</item>
+        <item>1:VG:Britanski Djevičanski Otoci</item>
+        <item>1:VI:Američki Djevičanski Otoci</item>
+        <item>84:VN:Vijetnam</item>
+        <item>678:VU:Vanuatu</item>
+        <item>681:WF:Wallis i Futuna</item>
+        <item>685:WS:Samoa</item>
+        <item>967:YE:Jemen</item>
+        <item>262:YT:Mayotte</item>
+        <item>27:ZA:Južnoafrička Republika</item>
+        <item>260:ZM:Zambija</item>
+        <item>263:ZW:Zimbabve</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">Počni</string>
+    <string name="com_accountkit_button_cancel">Odustani</string>
+    <string name="com_accountkit_button_confirm">Potvrdi</string>
+    <string name="com_accountkit_button_continue">Nastavi</string>
+    <string name="com_accountkit_button_log_in">Prijava</string>
+    <string name="com_accountkit_button_next">Dalje</string>
+    <string name="com_accountkit_button_ok">U redu</string>
+    <string name="com_accountkit_button_resend">Pošalji novi kod</string>
+    <string name="com_accountkit_button_resend_sms">Ponovno pošalji SMS</string>
+    <string name="com_accountkit_button_send">Pošalji</string>
+    <string name="com_accountkit_button_send_code_in_fb">Pošalji kod na Facebooku</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Dodirnite Pošalji kod na Facebooku da biste poslali obavijest na Facebookov račun povezan s telefonskim brojem koji ste unijeli.</string>
+    <string name="com_accountkit_button_start">Početak</string>
+    <string name="com_accountkit_button_start_over">Pokušajte ponovno</string>
+    <string name="com_accountkit_button_submit">Pošalji</string>
+    <string name="com_accountkit_check_email">Otvorite e-poštu</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Dodirnite %1$s da biste prihvatili Facebookove &lt;a href="%2$s">uvjete&lt;/a>, &lt;a href="%3$s">pravilnik o podacima&lt;/a> i &lt;a href="%4$s">korištenje kolačića&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Dodirnite %1$s da biste prihvatili Facebookove &lt;a href="%2$s">uvjete&lt;/a>, &lt;a href="%3$s">pravilnik o podacima&lt;/a>, &lt;a href="%4$s">korištenje kolačića&lt;/a> i &lt;a href="%5$s">pravila zaštite podataka&lt;/a> za %6$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Dodirnite %1$s da biste prihvatili Facebookove &lt;a href="%2$s">uvjete&lt;/a>, &lt;a href="%3$s">pravilnik o podacima&lt;/a>, &lt;a href="%4$s">korištenje kolačića&lt;/a> i &lt;a href="%5$s">pravila zaštite podataka&lt;/a> te &lt;a href="%6$s">uvjete pružanja usluge&lt;/a> za %7$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Pošalji novi kod</string>
+    <string name="com_accountkit_confirmation_code_title">Unesite kod</string>
+    <string name="com_accountkit_email_invalid">Pogrešna adresa e-pošte. Pokušajte ponovno.</string>
+    <string name="com_accountkit_email_loading_title">Slanje e-pošte…</string>
+    <string name="com_accountkit_email_login_retry_title">Potvrdite adresu e-pošte</string>
+    <string name="com_accountkit_email_login_text">
+        Dotaknite %1$s da bi vam Facebookov Account Kit e-poštom poslao potvrdu da biste mogli lakše upotrebljavati %2$s. Za to vam nije potreban račun za Facebook. &lt;a href="%3$s">Saznajte na koji način Facebook upotrebljava vaše podatke&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">Unesite adresu e-pošte</string>
+    <string name="com_accountkit_email_not_received">Ponovno pošalji e-poštu</string>
+    <string name="com_accountkit_email_verify_title">Otvorite poruku e-pošte koju smo vam poslali i potvrdite svoju adresu</string>
+    <string name="com_accountkit_error_title">Nažalost, nešto nije u redu.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Unesite kod s Facebooka</string>
+    <string name="com_accountkit_phone_loading_title">Slanje koda…</string>
+    <string name="com_accountkit_phone_login_retry_title">Potvrdite telefonski broj</string>
+    <string name="com_accountkit_phone_login_text">
+        Dotaknite %1$s da bi vam Facebookov Account Kit SMS-om poslao potvrdu da biste mogli lakše upotrebljavati %2$s. Za to vam nije potreban račun za Facebook. Naplaćuju se naknade za poruke i podatkovni promet. &lt;a href="%3$s">Saznajte na koji način Facebook upotrebljava vaše podatke&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">Unesite telefonski broj</string>
+    <string name="com_accountkit_resend_email_text">Pošalji novu poruku e-pošte</string>
+    <string name="com_accountkit_resend_title">Žao nam je. Isprobajte ove mogućnosti da biste nastavili.</string>
+    <string name="com_accountkit_return_title">Vraćate se na %1$s…</string>
+    <string name="com_accountkit_sent_title">Poslano!</string>
+    <string name="com_accountkit_success_title">Gotovo!</string>
+    <string name="com_accountkit_toolbar_title">Prijavite se na račun %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        Nismo mogli potvrditi vaš kod. Unesite ga ponovno:
+    </string>
+    <string name="com_accountkit_verify_title">Potvrđivanje koda…</string>
+</resources>

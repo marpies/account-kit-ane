@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:安道尔</item>
+        <item>971:AE:阿联酋</item>
+        <item>93:AF:阿富汗</item>
+        <item>1:AG:安提瓜岛</item>
+        <item>1:AI:安圭拉</item>
+        <item>355:AL:阿尔巴尼亚</item>
+        <item>374:AM:亚美尼亚</item>
+        <item>244:AO:安哥拉</item>
+        <item>54:AR:阿根廷</item>
+        <item>1:AS:美属萨摩亚</item>
+        <item>43:AT:奥地利</item>
+        <item>61:AU:澳大利亚</item>
+        <item>297:AW:阿鲁巴</item>
+        <item>994:AZ:阿塞拜疆</item>
+        <item>387:BA:波斯尼亚和黑塞哥维那</item>
+        <item>1:BB:巴巴多斯岛</item>
+        <item>880:BD:孟加拉国</item>
+        <item>32:BE:比利时</item>
+        <item>226:BF:布基纳法索</item>
+        <item>359:BG:保加利亚</item>
+        <item>973:BH:巴林</item>
+        <item>257:BI:布隆迪</item>
+        <item>229:BJ:贝宁</item>
+        <item>1:BM:百慕大</item>
+        <item>673:BN:文莱</item>
+        <item>591:BO:玻利维亚</item>
+        <item>599:BQ:荷兰加勒比区</item>
+        <item>55:BR:巴西</item>
+        <item>1:BS:巴哈马</item>
+        <item>975:BT:不丹</item>
+        <item>267:BW:博茨瓦纳</item>
+        <item>375:BY:白俄罗斯</item>
+        <item>501:BZ:伯利兹</item>
+        <item>1:CA:加拿大</item>
+        <item>243:CD:刚果民主共和国</item>
+        <item>236:CF:中非共和国</item>
+        <item>242:CG:刚果共和国</item>
+        <item>41:CH:瑞士</item>
+        <item>225:CI:科特迪瓦</item>
+        <item>682:CK:库克群岛</item>
+        <item>56:CL:智利</item>
+        <item>237:CM:喀麦隆</item>
+        <item>86:CN:中国</item>
+        <item>57:CO:哥伦比亚</item>
+        <item>506:CR:哥斯达黎加</item>
+        <item>53:CU:古巴</item>
+        <item>238:CV:佛得角</item>
+        <item>599:CW:库拉索</item>
+        <item>357:CY:塞浦路斯</item>
+        <item>420:CZ:捷克</item>
+        <item>49:DE:德国</item>
+        <item>253:DJ:吉布提</item>
+        <item>45:DK:丹麦</item>
+        <item>1:DM:多米尼加</item>
+        <item>1:DO:多米尼加共和国</item>
+        <item>213:DZ:阿尔及利亚</item>
+        <item>593:EC:厄瓜多尔</item>
+        <item>372:EE:爱沙尼亚</item>
+        <item>20:EG:埃及</item>
+        <item>212:EH:西撒哈拉</item>
+        <item>291:ER:厄立特里亚</item>
+        <item>34:ES:西班牙</item>
+        <item>251:ET:埃塞俄比亚</item>
+        <item>358:FI:芬兰</item>
+        <item>679:FJ:斐济</item>
+        <item>500:FK:福克兰群岛</item>
+        <item>691:FM:密克罗尼西亚联邦</item>
+        <item>298:FO:法罗群岛</item>
+        <item>33:FR:法国</item>
+        <item>241:GA:加蓬共和国</item>
+        <item>44:GB:英国</item>
+        <item>1:GD:格林纳达岛</item>
+        <item>995:GE:格鲁吉亚</item>
+        <item>594:GF:法属圭亚那</item>
+        <item>44:GG:根西岛</item>
+        <item>233:GH:加纳</item>
+        <item>350:GI:直布罗陀</item>
+        <item>299:GL:格陵兰</item>
+        <item>220:GM:冈比亚</item>
+        <item>224:GN:几内亚</item>
+        <item>590:GP:瓜德罗普岛</item>
+        <item>240:GQ:赤道几内亚</item>
+        <item>30:GR:希腊</item>
+        <item>502:GT:危地马拉</item>
+        <item>1:GU:关岛</item>
+        <item>245:GW:几内亚比绍共和国</item>
+        <item>592:GY:圭亚那</item>
+        <item>852:HK:香港</item>
+        <item>504:HN:洪都拉斯</item>
+        <item>385:HR:克罗地亚</item>
+        <item>509:HT:海地</item>
+        <item>36:HU:匈牙利</item>
+        <item>62:ID:印度尼西亚</item>
+        <item>353:IE:爱尔兰</item>
+        <item>972:IL:以色列</item>
+        <item>44:IM:马恩岛</item>
+        <item>91:IN:印度</item>
+        <item>246:IO:英属印度洋领地</item>
+        <item>964:IQ:伊拉克</item>
+        <item>98:IR:伊朗</item>
+        <item>354:IS:冰岛</item>
+        <item>39:IT:意大利</item>
+        <item>44:JE:泽西岛</item>
+        <item>1:JM:牙买加</item>
+        <item>962:JO:约旦</item>
+        <item>81:JP:日本</item>
+        <item>254:KE:肯尼亚</item>
+        <item>996:KG:吉尔吉斯斯坦</item>
+        <item>855:KH:柬埔寨</item>
+        <item>686:KI:基里巴斯</item>
+        <item>269:KM:科摩罗</item>
+        <item>1:KN:圣基茨和尼维斯</item>
+        <item>850:KP:朝鲜</item>
+        <item>82:KR:韩国</item>
+        <item>965:KW:科威特</item>
+        <item>1:KY:开曼群岛</item>
+        <item>7:KZ:哈萨克斯坦</item>
+        <item>856:LA:老挝</item>
+        <item>961:LB:黎巴嫩</item>
+        <item>1:LC:圣卢西亚</item>
+        <item>423:LI:列支敦士登</item>
+        <item>94:LK:斯里兰卡</item>
+        <item>231:LR:利比亚</item>
+        <item>266:LS:莱索托</item>
+        <item>370:LT:立陶宛</item>
+        <item>352:LU:卢森堡</item>
+        <item>371:LV:拉脱维亚</item>
+        <item>218:LY:利比亞</item>
+        <item>212:MA:摩洛哥</item>
+        <item>377:MC:摩纳哥</item>
+        <item>373:MD:摩尔多瓦</item>
+        <item>382:ME:黑山共和国</item>
+        <item>261:MG:马达加斯加</item>
+        <item>692:MH:马绍尔群岛</item>
+        <item>389:MK:马其顿</item>
+        <item>223:ML:马里</item>
+        <item>95:MM:缅甸</item>
+        <item>976:MN:蒙古</item>
+        <item>853:MO:澳门</item>
+        <item>1:MP:北马里亚纳群岛</item>
+        <item>596:MQ:马提尼岛</item>
+        <item>222:MR:毛里塔尼亚</item>
+        <item>1:MS:蒙特塞拉特岛</item>
+        <item>356:MT:马耳他</item>
+        <item>230:MU:毛里求斯</item>
+        <item>960:MV:马尔代夫</item>
+        <item>265:MW:马拉维</item>
+        <item>52:MX:墨西哥</item>
+        <item>60:MY:马来西亚</item>
+        <item>258:MZ:莫桑比克</item>
+        <item>264:NA:纳米比亚</item>
+        <item>687:NC:新喀里多尼亚</item>
+        <item>227:NE:尼日尔</item>
+        <item>672:NF:诺福克群岛</item>
+        <item>234:NG:尼日利亚</item>
+        <item>505:NI:尼加拉瓜</item>
+        <item>31:NL:荷兰</item>
+        <item>47:NO:挪威</item>
+        <item>977:NP:尼泊尔</item>
+        <item>674:NR:瑙鲁</item>
+        <item>683:NU:纽埃</item>
+        <item>64:NZ:新西兰</item>
+        <item>968:OM:阿曼</item>
+        <item>507:PA:巴拿马</item>
+        <item>51:PE:秘鲁</item>
+        <item>689:PF:法属玻利尼西亚</item>
+        <item>675:PG:巴布亚新几内亚</item>
+        <item>63:PH:菲律宾</item>
+        <item>92:PK:巴基斯坦</item>
+        <item>48:PL:波兰</item>
+        <item>508:PM:法属圣皮埃尔和密克隆岛</item>
+        <item>1:PR:波多黎哥</item>
+        <item>970:PS:巴勒斯坦</item>
+        <item>351:PT:葡萄牙</item>
+        <item>680:PW:帛琉</item>
+        <item>595:PY:巴拉圭</item>
+        <item>974:QA:卡塔尔</item>
+        <item>262:RE:留尼汪</item>
+        <item>40:RO:罗马尼亚</item>
+        <item>381:RS:塞尔维亚</item>
+        <item>7:RU:俄罗斯</item>
+        <item>250:RW:卢旺达</item>
+        <item>966:SA:沙特阿拉伯</item>
+        <item>677:SB:所罗门岛屿</item>
+        <item>248:SC:塞舌尔</item>
+        <item>249:SD:苏丹</item>
+        <item>46:SE:瑞典</item>
+        <item>65:SG:新加坡</item>
+        <item>290:SH:圣赫勒拿</item>
+        <item>386:SI:斯洛文尼亚</item>
+        <item>421:SK:斯洛伐克</item>
+        <item>232:SL:塞拉利昂</item>
+        <item>378:SM:圣马力诺</item>
+        <item>221:SN:塞内加尔</item>
+        <item>252:SO:索马里</item>
+        <item>597:SR:苏里南</item>
+        <item>211:SS:南苏丹</item>
+        <item>239:ST:圣多美和普林西比民主共和国</item>
+        <item>503:SV:萨尔瓦多</item>
+        <item>1:SX:圣马丁岛</item>
+        <item>963:SY:叙利亚</item>
+        <item>268:SZ:斯威士兰</item>
+        <item>1:TC:特克斯和凯科斯群岛</item>
+        <item>235:TD:乍得</item>
+        <item>228:TG:多哥</item>
+        <item>66:TH:泰国</item>
+        <item>992:TJ:塔吉克斯坦</item>
+        <item>690:TK:托克劳</item>
+        <item>670:TL:东帝汶</item>
+        <item>993:TM:土库曼斯坦</item>
+        <item>216:TN:突尼斯</item>
+        <item>676:TO:汤加</item>
+        <item>90:TR:土耳其</item>
+        <item>1:TT:特立尼达和多巴哥</item>
+        <item>688:TV:图瓦卢</item>
+        <item>886:TW:台湾</item>
+        <item>255:TZ:坦桑尼亚</item>
+        <item>380:UA:乌克兰</item>
+        <item>256:UG:乌干达</item>
+        <item>1:US:美国</item>
+        <item>598:UY:乌拉圭</item>
+        <item>998:UZ:乌兹别克斯坦</item>
+        <item>1:VC:圣文森特和格林纳丁斯</item>
+        <item>58:VE:委内瑞拉</item>
+        <item>1:VG:英属维京群岛</item>
+        <item>1:VI:美属维京群岛</item>
+        <item>84:VN:越南</item>
+        <item>678:VU:瓦努阿图</item>
+        <item>681:WF:瓦利斯和富图纳群岛</item>
+        <item>685:WS:萨摩亚</item>
+        <item>967:YE:也门</item>
+        <item>262:YT:马约特</item>
+        <item>27:ZA:南非</item>
+        <item>260:ZM:赞比亚</item>
+        <item>263:ZW:津巴布韦</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">开始</string>
+    <string name="com_accountkit_button_cancel">取消</string>
+    <string name="com_accountkit_button_confirm">确认</string>
+    <string name="com_accountkit_button_continue">继续</string>
+    <string name="com_accountkit_button_log_in">登录</string>
+    <string name="com_accountkit_button_next">下一页</string>
+    <string name="com_accountkit_button_ok">确定</string>
+    <string name="com_accountkit_button_resend">发送新代码</string>
+    <string name="com_accountkit_button_resend_sms">重新发送短信</string>
+    <string name="com_accountkit_button_send">发送</string>
+    <string name="com_accountkit_button_send_code_in_fb">通过 Facebook 发送代码</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">轻触 Facebook 中的“发送验证码”，向与您输入的手机号码相关联的 Facebook 帐户发送通知。</string>
+    <string name="com_accountkit_button_start">开始</string>
+    <string name="com_accountkit_button_start_over">重试</string>
+    <string name="com_accountkit_button_submit">提交</string>
+    <string name="com_accountkit_check_email">打开邮件</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        轻触 %1$s 接受 Facebook 的&lt;a href="%2$s">条款&lt;/a>、&lt;a href="%3$s">数据使用政策&lt;/a>和允许使用&lt;a href="%4$s">cookie&lt;/a>。
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        轻触 %1$s 接受 Facebook 的&lt;a href="%2$s">条款&lt;/a>、&lt;a href="%3$s">数据使用政策&lt;/a>和 %6$s 的&lt;a href="%5$s">隐私权政策&lt;/a>，并允许使用 &lt;a href="%4$s">cookie&lt;/a>。
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        轻触 %1$s 接受 Facebook 的&lt;a href="%2$s">条款&lt;/a>、&lt;a href="%3$s">数据使用政策&lt;/a>和 %7$s 的&lt;a href="%5$s">隐私权政策&lt;/a>及&lt;a href="%6$s">服务条款&lt;/a>，并允许使用 &lt;a href="%4$s">cookie&lt;/a>。
+    </string>
+    <string name="com_accountkit_confirmation_code_text">重新发送代码</string>
+    <string name="com_accountkit_confirmation_code_title">输入你的代码</string>
+    <string name="com_accountkit_email_invalid">电子邮件不正确。请重试。</string>
+    <string name="com_accountkit_email_loading_title">正在发送电子邮件…</string>
+    <string name="com_accountkit_email_login_retry_title">确认您的邮箱</string>
+    <string name="com_accountkit_email_login_text">
+        轻触 %1$s 获取 Facebook Account Kit 的确认电子邮件，以便您在没有 Facebook 帐户的情况下使用 %2$s。&lt;a href="%3$s">了解 Facebook 如何使用您的个人信息&lt;/a>。
+    </string>
+    <string name="com_accountkit_email_login_title">输入你的电子邮箱</string>
+    <string name="com_accountkit_email_not_received">重新发送邮件</string>
+    <string name="com_accountkit_email_verify_title">打开我们发送的邮件并确认你的地址</string>
+    <string name="com_accountkit_error_title">抱歉，出错了。</string>
+    <string name="com_accountkit_facebook_code_entry_title">输入从 Facebook 获取的验证码</string>
+    <string name="com_accountkit_phone_loading_title">发送代码…</string>
+    <string name="com_accountkit_phone_login_retry_title">确认电话号码</string>
+    <string name="com_accountkit_phone_login_text">
+        轻触 %1$s 获取 Facebook Account Kit 的确认短信，以便您在没有 Facebook 帐户的情况下使用 %2$s。可能需支付信息费和流量费。&lt;a href="%3$s">了解 Facebook 如何使用您的个人信息&lt;/a>。
+    </string>
+    <string name="com_accountkit_phone_login_title">输入电话号码</string>
+    <string name="com_accountkit_resend_email_text">发送新邮件</string>
+    <string name="com_accountkit_resend_title">很抱歉。请尝试以下方法继续操作。</string>
+    <string name="com_accountkit_return_title">即将回到 %1$s…</string>
+    <string name="com_accountkit_sent_title">已发送！</string>
+    <string name="com_accountkit_success_title">完成！</string>
+    <string name="com_accountkit_toolbar_title">登录 %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        我们无法验证你的代码。\n请重试：
+    </string>
+    <string name="com_accountkit_verify_title">正在验证你的代码…</string>
+</resources>

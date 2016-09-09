@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AccountKit.AgreementText" parent="Base.AccountKit.AgreementText">
+        <item name="android:typeface">sans</item>
+    </style>
+    <style name="AccountKit.Button" parent="Base.AccountKit.Button">
+        <item name="android:typeface">sans</item>
+    </style>
+    <style name="AccountKit.InputText" parent="Base.AccountKit.InputText">
+        <item name="android:typeface">sans</item>
+    </style>
+    <style name="AccountKit.Text" parent="Base.AccountKit.Text">
+        <item name="android:typeface">sans</item>
+    </style>
+    <style name="AccountKit.TitleText" parent="Base.AccountKit.TitleText">
+        <item name="android:typeface">sans</item>
+    </style>
+</resources>

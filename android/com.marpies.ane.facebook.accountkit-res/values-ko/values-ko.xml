@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:안도라</item>
+        <item>971:AE:아랍에미리트</item>
+        <item>93:AF:아프가니스탄</item>
+        <item>1:AG:앤티가</item>
+        <item>1:AI:앙귈라</item>
+        <item>355:AL:알바니아</item>
+        <item>374:AM:아르메니아</item>
+        <item>244:AO:앙골라</item>
+        <item>54:AR:아르헨티나</item>
+        <item>1:AS:미국령 사모아</item>
+        <item>43:AT:오스트리아</item>
+        <item>61:AU:호주</item>
+        <item>297:AW:아루바</item>
+        <item>994:AZ:아제르바이잔</item>
+        <item>387:BA:보스니아 헤르체고비나</item>
+        <item>1:BB:바베이도스</item>
+        <item>880:BD:방글라데시</item>
+        <item>32:BE:벨기에</item>
+        <item>226:BF:부르키나파소</item>
+        <item>359:BG:불가리아</item>
+        <item>973:BH:바레인</item>
+        <item>257:BI:부룬디</item>
+        <item>229:BJ:베냉</item>
+        <item>1:BM:버뮤다</item>
+        <item>673:BN:브루나이</item>
+        <item>591:BO:볼리비아</item>
+        <item>599:BQ:보네르, 신트외스타티우스 및 사바</item>
+        <item>55:BR:브라질</item>
+        <item>1:BS:바하마</item>
+        <item>975:BT:부탄</item>
+        <item>267:BW:보츠와나</item>
+        <item>375:BY:벨라루스</item>
+        <item>501:BZ:벨리즈</item>
+        <item>1:CA:캐나다</item>
+        <item>243:CD:콩고 민주 공화국</item>
+        <item>236:CF:중앙아프리카공화국</item>
+        <item>242:CG:콩고 공화국</item>
+        <item>41:CH:스위스</item>
+        <item>225:CI:코트디부아르</item>
+        <item>682:CK:쿡 제도</item>
+        <item>56:CL:칠레</item>
+        <item>237:CM:카메룬</item>
+        <item>86:CN:중국</item>
+        <item>57:CO:콜롬비아</item>
+        <item>506:CR:코스타리카</item>
+        <item>53:CU:쿠바</item>
+        <item>238:CV:카보베르데</item>
+        <item>599:CW:퀴라소</item>
+        <item>357:CY:키프로스</item>
+        <item>420:CZ:체코 공화국</item>
+        <item>49:DE:독일</item>
+        <item>253:DJ:지부티</item>
+        <item>45:DK:덴마크</item>
+        <item>1:DM:도미니카</item>
+        <item>1:DO:도미니카 공화국</item>
+        <item>213:DZ:알제리</item>
+        <item>593:EC:에콰도르</item>
+        <item>372:EE:에스토니아</item>
+        <item>20:EG:이집트</item>
+        <item>212:EH:서사하라</item>
+        <item>291:ER:에리트레아</item>
+        <item>34:ES:스페인</item>
+        <item>251:ET:에티오피아</item>
+        <item>358:FI:핀란드</item>
+        <item>679:FJ:피지</item>
+        <item>500:FK:포클랜드 제도</item>
+        <item>691:FM:미크로네시아연방</item>
+        <item>298:FO:페로 제도</item>
+        <item>33:FR:프랑스</item>
+        <item>241:GA:가봉</item>
+        <item>44:GB:영국</item>
+        <item>1:GD:그레나다</item>
+        <item>995:GE:조지아</item>
+        <item>594:GF:프랑스령 기아나</item>
+        <item>44:GG:건지</item>
+        <item>233:GH:가나</item>
+        <item>350:GI:지브롤터</item>
+        <item>299:GL:그린란드</item>
+        <item>220:GM:감비아</item>
+        <item>224:GN:기니</item>
+        <item>590:GP:과들루프</item>
+        <item>240:GQ:적도 기니</item>
+        <item>30:GR:그리스</item>
+        <item>502:GT:과테말라</item>
+        <item>1:GU:괌</item>
+        <item>245:GW:기니비사우</item>
+        <item>592:GY:가이아나</item>
+        <item>852:HK:홍콩</item>
+        <item>504:HN:온두라스</item>
+        <item>385:HR:크로아티아</item>
+        <item>509:HT:아이티</item>
+        <item>36:HU:헝가리</item>
+        <item>62:ID:인도네시아</item>
+        <item>353:IE:아일랜드</item>
+        <item>972:IL:이스라엘</item>
+        <item>44:IM:맨 섬</item>
+        <item>91:IN:인도</item>
+        <item>246:IO:영국령 인도양식민지</item>
+        <item>964:IQ:이라크</item>
+        <item>98:IR:이란</item>
+        <item>354:IS:아이슬란드</item>
+        <item>39:IT:이탈리아</item>
+        <item>44:JE:저지</item>
+        <item>1:JM:자메이카</item>
+        <item>962:JO:요르단</item>
+        <item>81:JP:일본</item>
+        <item>254:KE:케냐</item>
+        <item>996:KG:키르기즈스탄</item>
+        <item>855:KH:캄보디아</item>
+        <item>686:KI:키리바시</item>
+        <item>269:KM:코모로</item>
+        <item>1:KN:세인트 크리스토퍼 네비스</item>
+        <item>850:KP:북한</item>
+        <item>82:KR:대한민국</item>
+        <item>965:KW:쿠웨이트</item>
+        <item>1:KY:케이맨 제도</item>
+        <item>7:KZ:카자흐스탄</item>
+        <item>856:LA:라오스</item>
+        <item>961:LB:레바논</item>
+        <item>1:LC:세인트 루시아</item>
+        <item>423:LI:리히텐슈타인</item>
+        <item>94:LK:스리랑카</item>
+        <item>231:LR:라이베리아</item>
+        <item>266:LS:레소토</item>
+        <item>370:LT:리투아니아</item>
+        <item>352:LU:룩셈부르크</item>
+        <item>371:LV:라트비아</item>
+        <item>218:LY:리비아</item>
+        <item>212:MA:모로코</item>
+        <item>377:MC:모나코</item>
+        <item>373:MD:몰도바</item>
+        <item>382:ME:몬테네그로</item>
+        <item>261:MG:마다가스카르</item>
+        <item>692:MH:마셜 제도</item>
+        <item>389:MK:마케도니아</item>
+        <item>223:ML:말리</item>
+        <item>95:MM:미얀마</item>
+        <item>976:MN:몽골</item>
+        <item>853:MO:마카오</item>
+        <item>1:MP:북마리아나 제도</item>
+        <item>596:MQ:마르티니크</item>
+        <item>222:MR:모리타니아</item>
+        <item>1:MS:몬세라트</item>
+        <item>356:MT:몰타</item>
+        <item>230:MU:모리셔스</item>
+        <item>960:MV:몰디브</item>
+        <item>265:MW:말라위</item>
+        <item>52:MX:멕시코</item>
+        <item>60:MY:말레이시아</item>
+        <item>258:MZ:모잠비크</item>
+        <item>264:NA:나미비아</item>
+        <item>687:NC:뉴칼레도니아</item>
+        <item>227:NE:니제르</item>
+        <item>672:NF:노퍽 섬</item>
+        <item>234:NG:나이지리아</item>
+        <item>505:NI:니카라과</item>
+        <item>31:NL:네덜란드</item>
+        <item>47:NO:노르웨이</item>
+        <item>977:NP:네팔</item>
+        <item>674:NR:나우루</item>
+        <item>683:NU:니우에</item>
+        <item>64:NZ:뉴질랜드</item>
+        <item>968:OM:오만</item>
+        <item>507:PA:파나마</item>
+        <item>51:PE:페루</item>
+        <item>689:PF:프랑스령 폴리네시아</item>
+        <item>675:PG:파푸아뉴기니</item>
+        <item>63:PH:필리핀</item>
+        <item>92:PK:파키스탄</item>
+        <item>48:PL:폴란드</item>
+        <item>508:PM:생피에르앤드미클롱</item>
+        <item>1:PR:푸에르토리코</item>
+        <item>970:PS:팔레스타인</item>
+        <item>351:PT:포르투갈</item>
+        <item>680:PW:팔라우</item>
+        <item>595:PY:파라과이</item>
+        <item>974:QA:카타르</item>
+        <item>262:RE:레위니옹</item>
+        <item>40:RO:루마니아</item>
+        <item>381:RS:세르비아</item>
+        <item>7:RU:러시아</item>
+        <item>250:RW:르완다</item>
+        <item>966:SA:사우디아라비아</item>
+        <item>677:SB:솔로몬 제도</item>
+        <item>248:SC:세이셸</item>
+        <item>249:SD:수단</item>
+        <item>46:SE:스웨덴</item>
+        <item>65:SG:싱가포르</item>
+        <item>290:SH:세인트 헬레나</item>
+        <item>386:SI:슬로베니아</item>
+        <item>421:SK:슬로바키아</item>
+        <item>232:SL:시에라리온</item>
+        <item>378:SM:산 마리노</item>
+        <item>221:SN:세네갈</item>
+        <item>252:SO:소말리아</item>
+        <item>597:SR:수리남</item>
+        <item>211:SS:남수단</item>
+        <item>239:ST:상투메 프린시페</item>
+        <item>503:SV:엘살바도르</item>
+        <item>1:SX:신트마르텐</item>
+        <item>963:SY:시리아</item>
+        <item>268:SZ:스와질란드</item>
+        <item>1:TC:터크스 케이커스 제도</item>
+        <item>235:TD:차드</item>
+        <item>228:TG:토고</item>
+        <item>66:TH:태국</item>
+        <item>992:TJ:타지키스탄</item>
+        <item>690:TK:토켈라우</item>
+        <item>670:TL:동티모르</item>
+        <item>993:TM:투르크메니스탄</item>
+        <item>216:TN:튀니지</item>
+        <item>676:TO:통가</item>
+        <item>90:TR:터키</item>
+        <item>1:TT:트리니다드토바고</item>
+        <item>688:TV:투발루</item>
+        <item>886:TW:대만</item>
+        <item>255:TZ:탄자니아</item>
+        <item>380:UA:우크라이나</item>
+        <item>256:UG:우간다</item>
+        <item>1:US:미국</item>
+        <item>598:UY:우루과이</item>
+        <item>998:UZ:우즈베키스탄</item>
+        <item>1:VC:세인트 빈센트 그레나딘</item>
+        <item>58:VE:베네수엘라</item>
+        <item>1:VG:영국령 버진 제도</item>
+        <item>1:VI:미국령 버진 제도</item>
+        <item>84:VN:베트남</item>
+        <item>678:VU:바누아투</item>
+        <item>681:WF:월리스푸투나</item>
+        <item>685:WS:사모아</item>
+        <item>967:YE:예멘</item>
+        <item>262:YT:마요트</item>
+        <item>27:ZA:남아프리카공화국</item>
+        <item>260:ZM:잠비아</item>
+        <item>263:ZW:짐바브웨</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">시작</string>
+    <string name="com_accountkit_button_cancel">취소</string>
+    <string name="com_accountkit_button_confirm">확인</string>
+    <string name="com_accountkit_button_continue">계속</string>
+    <string name="com_accountkit_button_log_in">로그인</string>
+    <string name="com_accountkit_button_next">다음</string>
+    <string name="com_accountkit_button_ok">확인</string>
+    <string name="com_accountkit_button_resend">새 코드 보내기</string>
+    <string name="com_accountkit_button_resend_sms">SMS 다시 보내기</string>
+    <string name="com_accountkit_button_send">보내기</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook 코드 보내기</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Facebook 코드 보내기 버튼을 누르면 입력하신 전화번호와 연결된 Facebook 계정으로 알림을 보내드립니다.</string>
+    <string name="com_accountkit_button_start">시작</string>
+    <string name="com_accountkit_button_start_over">다시 시도</string>
+    <string name="com_accountkit_button_submit">제출</string>
+    <string name="com_accountkit_check_email">이메일 열기</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        %1$s 버튼을 눌러 Facebook의 &lt;a href="%2$s">약관&lt;/a>, &lt;a href="%3$s">데이터 정책&lt;/a>, &lt;a href="%4$s">쿠키 사용&lt;/a>에 동의합니다.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        %1$s 버튼을 눌러 Facebook의 &lt;a href="%2$s">약관&lt;/a>, &lt;a href="%3$s">데이터 정책&lt;/a>, &lt;a href="%4$s">쿠키 사용&lt;/a> 및 %6$s의 &lt;a href="%5$s">개인정보취급방침&lt;/a>에 동의합니다.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        %1$s 버튼을 눌러 Facebook의 &lt;a href="%2$s">약관&lt;/a>, &lt;a href="%3$s">데이터 정책&lt;/a>, &lt;a href="%4$s">쿠키 사용&lt;/a> 및 %7$s의 &lt;a href="%5$s">개인정보취급방침&lt;/a>, &lt;a href="%6$s">서비스 약관&lt;/a>에 동의합니다.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">코드 재전송</string>
+    <string name="com_accountkit_confirmation_code_title">코드 입력</string>
+    <string name="com_accountkit_email_invalid">올바른 이메일이 아닙니다. 다시 시도해보세요.</string>
+    <string name="com_accountkit_email_loading_title">이메일 보내는 중…</string>
+    <string name="com_accountkit_email_login_retry_title">이메일을 확인하세요</string>
+    <string name="com_accountkit_email_login_text">
+        %1$s 버튼을 누르면 Facebook Account Kit에서 이메일 인증을 받을 수 있습니다. 인증을 받으면 Facebook 계정 정보 없이도 %2$s 앱을 이용할 수 있습니다. &lt;a href="%3$s">Facebook에서 사용자 정보를 이용하는 방식에 대해 알아보기&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">이메일 주소 입력</string>
+    <string name="com_accountkit_email_not_received">이메일 다시 보내기</string>
+    <string name="com_accountkit_email_verify_title">Facebook에서 보낸 이메일을 열고 주소를 확인하세요</string>
+    <string name="com_accountkit_error_title">죄송합니다. 문제가 발생했습니다.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook에서 전송한 코드를 입력하세요</string>
+    <string name="com_accountkit_phone_loading_title">코드를 전송하는 중…</string>
+    <string name="com_accountkit_phone_login_retry_title">휴대폰 번호 확인</string>
+    <string name="com_accountkit_phone_login_text">
+        %1$s 버튼을 누르면 Facebook Account Kit에서 SMS 인증을 받을 수 있습니다. 인증을 받으면 Facebook 계정 정보 없이도 %2$s 앱을 이용할 수 있습니다. 메시지 및 데이터 요금이 부과될 수 있습니다. &lt;a href="%3$s">Facebook에서 사용자 정보를 이용하는 방식에 대해 알아보기&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">휴대폰 번호 입력</string>
+    <string name="com_accountkit_resend_email_text">새 이메일 보내기</string>
+    <string name="com_accountkit_resend_title">죄송합니다. 계속하려면 다른 방법으로 코드를 요청하세요.</string>
+    <string name="com_accountkit_return_title">%1$s에 이동하는 중…</string>
+    <string name="com_accountkit_sent_title">보냈습니다!</string>
+    <string name="com_accountkit_success_title">완료!</string>
+    <string name="com_accountkit_toolbar_title">%1$s에 로그인</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        코드를 확인할 수 없습니다.\n다시 시도:
+    </string>
+    <string name="com_accountkit_verify_title">코드를 인증하는 중…</string>
+</resources>

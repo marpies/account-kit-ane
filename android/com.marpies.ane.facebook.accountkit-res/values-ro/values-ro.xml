@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Andorra</item>
+        <item>971:AE:Emiratele Arabe Unite</item>
+        <item>93:AF:Afganistan</item>
+        <item>1:AG:Antigua</item>
+        <item>1:AI:Anguilla</item>
+        <item>355:AL:Albania</item>
+        <item>374:AM:Armenia</item>
+        <item>244:AO:Angola</item>
+        <item>54:AR:Argentina</item>
+        <item>1:AS:Samoa Americană</item>
+        <item>43:AT:Austria</item>
+        <item>61:AU:Australia</item>
+        <item>297:AW:Aruba</item>
+        <item>994:AZ:Azerbaidjan</item>
+        <item>387:BA:Bosnia şi Herţegovina</item>
+        <item>1:BB:Barbados</item>
+        <item>880:BD:Bangladesh</item>
+        <item>32:BE:Belgia</item>
+        <item>226:BF:Burkina Faso</item>
+        <item>359:BG:Bulgaria</item>
+        <item>973:BH:Bahrain</item>
+        <item>257:BI:Burundi</item>
+        <item>229:BJ:Benin</item>
+        <item>1:BM:Bermuda</item>
+        <item>673:BN:Brunei</item>
+        <item>591:BO:Bolivia</item>
+        <item>599:BQ:Bonaire, Sint Eustatius şi Saba</item>
+        <item>55:BR:Brazilia</item>
+        <item>1:BS:Bahamas</item>
+        <item>975:BT:Bhutan</item>
+        <item>267:BW:Botswana</item>
+        <item>375:BY:Belarus</item>
+        <item>501:BZ:Belize</item>
+        <item>1:CA:Canada</item>
+        <item>243:CD:Republica Democrată Congo</item>
+        <item>236:CF:Republica Centrafricană</item>
+        <item>242:CG:Republica Congo</item>
+        <item>41:CH:Elveţia</item>
+        <item>225:CI:Coasta de Fildeş</item>
+        <item>682:CK:Insulele Cook</item>
+        <item>56:CL:Chile</item>
+        <item>237:CM:Camerun</item>
+        <item>86:CN:China</item>
+        <item>57:CO:Columbia</item>
+        <item>506:CR:Costa Rica</item>
+        <item>53:CU:Cuba</item>
+        <item>238:CV:Capul Verde</item>
+        <item>599:CW:Curaçao</item>
+        <item>357:CY:Cipru</item>
+        <item>420:CZ:Republica Cehă</item>
+        <item>49:DE:Germania</item>
+        <item>253:DJ:Djibouti</item>
+        <item>45:DK:Danemarca</item>
+        <item>1:DM:Dominica</item>
+        <item>1:DO:Republica Dominicană</item>
+        <item>213:DZ:Algeria</item>
+        <item>593:EC:Ecuador</item>
+        <item>372:EE:Estonia</item>
+        <item>20:EG:Egipt</item>
+        <item>212:EH:Sahara de Vest</item>
+        <item>291:ER:Eritreea</item>
+        <item>34:ES:Spania</item>
+        <item>251:ET:Etiopia</item>
+        <item>358:FI:Finlanda</item>
+        <item>679:FJ:Fiji</item>
+        <item>500:FK:Insulele Falkland (Malvine)</item>
+        <item>691:FM:Statele Federate ale Microneziei</item>
+        <item>298:FO:Insulele Feroe</item>
+        <item>33:FR:Franţa</item>
+        <item>241:GA:Gabon</item>
+        <item>44:GB:Marea Britanie</item>
+        <item>1:GD:Grenada</item>
+        <item>995:GE:Georgia</item>
+        <item>594:GF:Guyana Franceză</item>
+        <item>44:GG:Guernsey</item>
+        <item>233:GH:Ghana</item>
+        <item>350:GI:Gibraltar</item>
+        <item>299:GL:Groenlanda</item>
+        <item>220:GM:Gambia</item>
+        <item>224:GN:Guineea</item>
+        <item>590:GP:Guadelupa</item>
+        <item>240:GQ:Guineea Ecuatorială</item>
+        <item>30:GR:Grecia</item>
+        <item>502:GT:Guatemala</item>
+        <item>1:GU:Guam</item>
+        <item>245:GW:Guineea-Bissau</item>
+        <item>592:GY:Guyana</item>
+        <item>852:HK:Hong Kong</item>
+        <item>504:HN:Honduras</item>
+        <item>385:HR:Croaţia</item>
+        <item>509:HT:Haiti</item>
+        <item>36:HU:Ungaria</item>
+        <item>62:ID:Indonezia</item>
+        <item>353:IE:Irlanda</item>
+        <item>972:IL:Israel</item>
+        <item>44:IM:Insula Man</item>
+        <item>91:IN:India</item>
+        <item>246:IO:Teritoriul Britanic din Oceanul Indian</item>
+        <item>964:IQ:Irak</item>
+        <item>98:IR:Iran</item>
+        <item>354:IS:Islanda</item>
+        <item>39:IT:Italia</item>
+        <item>44:JE:Jersey</item>
+        <item>1:JM:Jamaica</item>
+        <item>962:JO:Iordania</item>
+        <item>81:JP:Japonia</item>
+        <item>254:KE:Kenya</item>
+        <item>996:KG:Kârgâstan</item>
+        <item>855:KH:Cambodgia</item>
+        <item>686:KI:Kiribati</item>
+        <item>269:KM:Comore</item>
+        <item>1:KN:Sfântul Kitts şi Nevis</item>
+        <item>850:KP:Coreea de Nord</item>
+        <item>82:KR:Coreea de Sud</item>
+        <item>965:KW:Kuweit</item>
+        <item>1:KY:Insulele Cayman</item>
+        <item>7:KZ:Kazakhstan</item>
+        <item>856:LA:Laos</item>
+        <item>961:LB:Liban</item>
+        <item>1:LC:Sfânta Lucia</item>
+        <item>423:LI:Liechtenstein</item>
+        <item>94:LK:Sri Lanka</item>
+        <item>231:LR:Liberia</item>
+        <item>266:LS:Lesotho</item>
+        <item>370:LT:Lituania</item>
+        <item>352:LU:Luxemburg</item>
+        <item>371:LV:Letonia</item>
+        <item>218:LY:Libia</item>
+        <item>212:MA:Maroc</item>
+        <item>377:MC:Monaco</item>
+        <item>373:MD:Moldova</item>
+        <item>382:ME:Muntenegru</item>
+        <item>261:MG:Madagascar</item>
+        <item>692:MH:Insulele Marshall</item>
+        <item>389:MK:Macedonia</item>
+        <item>223:ML:Mali</item>
+        <item>95:MM:Myanmar</item>
+        <item>976:MN:Mongolia</item>
+        <item>853:MO:Macao</item>
+        <item>1:MP:Insulele Mariane de Nord</item>
+        <item>596:MQ:Martinica</item>
+        <item>222:MR:Mauritania</item>
+        <item>1:MS:Montserrat</item>
+        <item>356:MT:Malta</item>
+        <item>230:MU:Mauritius</item>
+        <item>960:MV:Maldive</item>
+        <item>265:MW:Malawi</item>
+        <item>52:MX:Mexic</item>
+        <item>60:MY:Malaezia</item>
+        <item>258:MZ:Mozambic</item>
+        <item>264:NA:Namibia</item>
+        <item>687:NC:Noua Caledonie</item>
+        <item>227:NE:Niger</item>
+        <item>672:NF:Insula Norfolk</item>
+        <item>234:NG:Nigeria</item>
+        <item>505:NI:Nicaragua</item>
+        <item>31:NL:Olanda</item>
+        <item>47:NO:Norvegia</item>
+        <item>977:NP:Nepal</item>
+        <item>674:NR:Nauru</item>
+        <item>683:NU:Niue</item>
+        <item>64:NZ:Noua Zeelandă</item>
+        <item>968:OM:Oman</item>
+        <item>507:PA:Panama</item>
+        <item>51:PE:Peru</item>
+        <item>689:PF:Polinezia Franceză</item>
+        <item>675:PG:Papua Noua Guinee</item>
+        <item>63:PH:Filipine</item>
+        <item>92:PK:Pakistan</item>
+        <item>48:PL:Polonia</item>
+        <item>508:PM:Sfântul Pierre şi Miquelon</item>
+        <item>1:PR:Puerto Rico</item>
+        <item>970:PS:Palestina</item>
+        <item>351:PT:Portugalia</item>
+        <item>680:PW:Palau</item>
+        <item>595:PY:Paraguay</item>
+        <item>974:QA:Qatar</item>
+        <item>262:RE:Réunion</item>
+        <item>40:RO:România</item>
+        <item>381:RS:Serbia</item>
+        <item>7:RU:Rusia</item>
+        <item>250:RW:Rwanda</item>
+        <item>966:SA:Arabia Saudită</item>
+        <item>677:SB:Insulele Solomon</item>
+        <item>248:SC:Seychelles</item>
+        <item>249:SD:Sudan</item>
+        <item>46:SE:Suedia</item>
+        <item>65:SG:Singapore</item>
+        <item>290:SH:Sfânta Elena</item>
+        <item>386:SI:Slovenia</item>
+        <item>421:SK:Slovacia</item>
+        <item>232:SL:Sierra Leone</item>
+        <item>378:SM:San Marino</item>
+        <item>221:SN:Senegal</item>
+        <item>252:SO:Somalia</item>
+        <item>597:SR:Surinam</item>
+        <item>211:SS:Sudanul de Sud</item>
+        <item>239:ST:São Tomé şi Príncipe</item>
+        <item>503:SV:El Salvador</item>
+        <item>1:SX:Sfântul Martin</item>
+        <item>963:SY:Siria</item>
+        <item>268:SZ:Swaziland</item>
+        <item>1:TC:Insulele Turks şi Caicos</item>
+        <item>235:TD:Ciad</item>
+        <item>228:TG:Togo</item>
+        <item>66:TH:Thailanda</item>
+        <item>992:TJ:Tadjikistan</item>
+        <item>690:TK:Tokelau</item>
+        <item>670:TL:Timorul de Est</item>
+        <item>993:TM:Turkmenistan</item>
+        <item>216:TN:Tunisia</item>
+        <item>676:TO:Tonga</item>
+        <item>90:TR:Turcia</item>
+        <item>1:TT:Trinidad şi Tobago</item>
+        <item>688:TV:Tuvalu</item>
+        <item>886:TW:Taiwan</item>
+        <item>255:TZ:Tanzania</item>
+        <item>380:UA:Ucraina</item>
+        <item>256:UG:Uganda</item>
+        <item>1:US:Statele Unite</item>
+        <item>598:UY:Uruguay</item>
+        <item>998:UZ:Uzbekistan</item>
+        <item>1:VC:Sfântul Vincenţiu şi Grenadinele</item>
+        <item>58:VE:Venezuela</item>
+        <item>1:VG:Insulele Virgine Britanice</item>
+        <item>1:VI:Insulele Virgine</item>
+        <item>84:VN:Vietnam</item>
+        <item>678:VU:Vanuatu</item>
+        <item>681:WF:Wallis şi Futuna</item>
+        <item>685:WS:Samoa</item>
+        <item>967:YE:Yemen</item>
+        <item>262:YT:Mayotte</item>
+        <item>27:ZA:Africa de Sud</item>
+        <item>260:ZM:Zambia</item>
+        <item>263:ZW:Zimbabwe</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">Începe</string>
+    <string name="com_accountkit_button_cancel">Renunță</string>
+    <string name="com_accountkit_button_confirm">Confirmă</string>
+    <string name="com_accountkit_button_continue">Continuă</string>
+    <string name="com_accountkit_button_log_in">Conectare</string>
+    <string name="com_accountkit_button_next">Continuare</string>
+    <string name="com_accountkit_button_ok">OK</string>
+    <string name="com_accountkit_button_resend">Trimite un cod nou</string>
+    <string name="com_accountkit_button_resend_sms">Retrimite SMS</string>
+    <string name="com_accountkit_button_send">Trimite</string>
+    <string name="com_accountkit_button_send_code_in_fb">Trimite un cod în Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Atinge „Trimite cod” pe Facebook pentru a trimite o notificare la contul de Facebook asociat numărului de telefon pe care l-ai introdus.</string>
+    <string name="com_accountkit_button_start">Începe</string>
+    <string name="com_accountkit_button_start_over">Încearcă din nou</string>
+    <string name="com_accountkit_button_submit">Trimite</string>
+    <string name="com_accountkit_check_email">Deschide e-mailul</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Atinge %1$s pentru a accepta &lt;a href="%2$s">Condițiile de utilizare&lt;/a>, &lt;a href="%3$s">Politica de utilizare a datelor&lt;/a> și &lt;a href="%4$s">utilizarea modulelor cookie&lt;/a> de la Facebook.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Atinge %1$s pentru a accepta &lt;a href="%2$s">Condițiile de utilizare&lt;/a>, &lt;a href="%3$s">Politica de utilizare a datelor&lt;/a> și &lt;a href="%4$s">utilizarea modulelor cookie&lt;/a> de la Facebook, precum și &lt;a href="%5$s">Politica de confidențialitate&lt;/a> de la %6$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Atinge %1$s pentru a accepta &lt;a href="%2$s">Condițiile de utilizare&lt;/a>, &lt;a href="%3$s">Politica de utilizare a datelor&lt;/a> și &lt;a href="%4$s">utilizarea modulelor cookie&lt;/a> de la Facebook, precum și &lt;a href="%5$s">Politica de confidențialitate&lt;/a> și &lt;a href="%6$s">Condițiile de utilizare&lt;/a> de la %7$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Retrimite codul</string>
+    <string name="com_accountkit_confirmation_code_title">Introdu codul</string>
+    <string name="com_accountkit_email_invalid">Acest e-mail nu este corect. Te rugăm să încerci din nou.</string>
+    <string name="com_accountkit_email_loading_title">Se trimite e-mailul…</string>
+    <string name="com_accountkit_email_login_retry_title">Confirmă adresa ta de e-mail</string>
+    <string name="com_accountkit_email_login_text">
+        Atinge %1$s pentru a primi o confirmare prin e-mail de la Account Kit oferit de Facebook, care te va ajuta să folosești %2$s. Nu ai nevoie de un cont de Facebook pentru a-l folosi. &lt;a href="%3$s">Află cum îți folosește Facebook datele&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">Introdu adresa ta de e-mail</string>
+    <string name="com_accountkit_email_not_received">Retrimite e-mailul</string>
+    <string name="com_accountkit_email_verify_title">Deschide e-mailul pe care l-am trimis și confirmă adresa ta</string>
+    <string name="com_accountkit_error_title">Ne pare rău, a apărut o problemă.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Introdu codul de la Facebook</string>
+    <string name="com_accountkit_phone_loading_title">Se trimite codul tău…</string>
+    <string name="com_accountkit_phone_login_retry_title">Confirmă numărul tău de telefon</string>
+    <string name="com_accountkit_phone_login_text">
+        Atinge %1$s pentru a primi o confirmare prin SMS de la Account Kit oferit de Facebook, care te va ajuta să folosești %2$s. Nu ai nevoie de un cont de Facebook pentru a-l folosi. Este posibil să se aplice tarifele de date și mesaje. &lt;a href="%3$s">Află cum îți folosește Facebook datele&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">Introdu numărul tău de telefon</string>
+    <string name="com_accountkit_resend_email_text">Trimite un e-mail nou</string>
+    <string name="com_accountkit_resend_title">Ne pare rău. Încearcă aceste opțiuni pentru a continua.</string>
+    <string name="com_accountkit_return_title">Te aducem înapoi la %1$s…</string>
+    <string name="com_accountkit_sent_title">Trimis!</string>
+    <string name="com_accountkit_success_title">Gata!</string>
+    <string name="com_accountkit_toolbar_title">Conectează-te la %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        Nu a reușit verificarea codului.\nTe rugăm să încerci din nou:
+    </string>
+    <string name="com_accountkit_verify_title">Verificăm codul tău…</string>
+</resources>

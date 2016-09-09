@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Andorra</item>
+        <item>971:AE:Birleşik Arap Emirlikleri</item>
+        <item>93:AF:Afganistan</item>
+        <item>1:AG:Antigua</item>
+        <item>1:AI:Anguilla</item>
+        <item>355:AL:Arnavutluk</item>
+        <item>374:AM:Ermenistan</item>
+        <item>244:AO:Angola</item>
+        <item>54:AR:Arjantin</item>
+        <item>1:AS:Amerikan Samoası</item>
+        <item>43:AT:Avusturya</item>
+        <item>61:AU:Avustralya</item>
+        <item>297:AW:Aruba</item>
+        <item>994:AZ:Azerbaycan</item>
+        <item>387:BA:Bosna Hersek</item>
+        <item>1:BB:Barbados</item>
+        <item>880:BD:Bangladeş</item>
+        <item>32:BE:Belçika</item>
+        <item>226:BF:Burkina Faso</item>
+        <item>359:BG:Bulgaristan</item>
+        <item>973:BH:Bahreyn</item>
+        <item>257:BI:Burundi</item>
+        <item>229:BJ:Benin</item>
+        <item>1:BM:Bermuda</item>
+        <item>673:BN:Brunei</item>
+        <item>591:BO:Bolivya</item>
+        <item>599:BQ:Bonaire, Sint Eustatius ve Saba</item>
+        <item>55:BR:Brezilya</item>
+        <item>1:BS:Bahamalar</item>
+        <item>975:BT:Butan</item>
+        <item>267:BW:Botsvana</item>
+        <item>375:BY:Beyaz Rusya</item>
+        <item>501:BZ:Belize</item>
+        <item>1:CA:Kanada</item>
+        <item>243:CD:Kongo Demokratik Cumhuriyeti</item>
+        <item>236:CF:Orta Afrika Cumhuriyeti</item>
+        <item>242:CG:Kongo Cumhuriyeti</item>
+        <item>41:CH:İsviçre</item>
+        <item>225:CI:Fildişi Sahili</item>
+        <item>682:CK:Cook Adaları</item>
+        <item>56:CL:Şili</item>
+        <item>237:CM:Kamerun</item>
+        <item>86:CN:Çin</item>
+        <item>57:CO:Kolombiya</item>
+        <item>506:CR:Kosta Rika</item>
+        <item>53:CU:Küba</item>
+        <item>238:CV:Yeşil Burun</item>
+        <item>599:CW:Curaçao</item>
+        <item>357:CY:Kıbrıs</item>
+        <item>420:CZ:Çek Cumhuriyeti</item>
+        <item>49:DE:Almanya</item>
+        <item>253:DJ:Cibuti</item>
+        <item>45:DK:Danimarka</item>
+        <item>1:DM:Dominika</item>
+        <item>1:DO:Dominik Cumhuriyeti</item>
+        <item>213:DZ:Cezayir</item>
+        <item>593:EC:Ekvador</item>
+        <item>372:EE:Estonya</item>
+        <item>20:EG:Mısır</item>
+        <item>212:EH:Batı Sahra</item>
+        <item>291:ER:Eritre</item>
+        <item>34:ES:İspanya</item>
+        <item>251:ET:Etiyopya</item>
+        <item>358:FI:Finlandiya</item>
+        <item>679:FJ:Fiji</item>
+        <item>500:FK:Falkland Adaları</item>
+        <item>691:FM:Mikronezya Federal Devletleri</item>
+        <item>298:FO:Faroe Adaları</item>
+        <item>33:FR:Fransa</item>
+        <item>241:GA:Gabon</item>
+        <item>44:GB:İngiltere</item>
+        <item>1:GD:Grenada</item>
+        <item>995:GE:Gürcistan</item>
+        <item>594:GF:Fransız Guyanası</item>
+        <item>44:GG:Guernsey</item>
+        <item>233:GH:Gana</item>
+        <item>350:GI:Cebelitarık</item>
+        <item>299:GL:Grönland</item>
+        <item>220:GM:Gambiya</item>
+        <item>224:GN:Gine</item>
+        <item>590:GP:Guadeloupe</item>
+        <item>240:GQ:Ekvator Ginesi</item>
+        <item>30:GR:Yunanistan</item>
+        <item>502:GT:Guatemala</item>
+        <item>1:GU:Guam</item>
+        <item>245:GW:Gine Bissau</item>
+        <item>592:GY:Guyana</item>
+        <item>852:HK:Hong Kong</item>
+        <item>504:HN:Honduras</item>
+        <item>385:HR:Hırvatistan</item>
+        <item>509:HT:Haiti</item>
+        <item>36:HU:Macaristan</item>
+        <item>62:ID:Endonezya</item>
+        <item>353:IE:İrlanda</item>
+        <item>972:IL:İsrail</item>
+        <item>44:IM:Man Adası</item>
+        <item>91:IN:Hindistan</item>
+        <item>246:IO:İngiliz Hint Okyanusu Bölgesi</item>
+        <item>964:IQ:Irak</item>
+        <item>98:IR:İran</item>
+        <item>354:IS:İzlanda</item>
+        <item>39:IT:İtalya</item>
+        <item>44:JE:Jersey</item>
+        <item>1:JM:Jamaika</item>
+        <item>962:JO:Ürdün</item>
+        <item>81:JP:Japonya</item>
+        <item>254:KE:Kenya</item>
+        <item>996:KG:Kırgızistan</item>
+        <item>855:KH:Kamboçya</item>
+        <item>686:KI:Kiribati</item>
+        <item>269:KM:Komor Adaları</item>
+        <item>1:KN:Saint Kitts ve Nevis</item>
+        <item>850:KP:Kuzey Kore</item>
+        <item>82:KR:Güney Kore</item>
+        <item>965:KW:Kuveyt</item>
+        <item>1:KY:Cayman Adaları</item>
+        <item>7:KZ:Kazakistan</item>
+        <item>856:LA:Laos</item>
+        <item>961:LB:Lübnan</item>
+        <item>1:LC:St. Lucia</item>
+        <item>423:LI:Lihtenştayn</item>
+        <item>94:LK:Sri Lanka</item>
+        <item>231:LR:Liberya</item>
+        <item>266:LS:Lesotho</item>
+        <item>370:LT:Litvanya</item>
+        <item>352:LU:Lüksemburg</item>
+        <item>371:LV:Letonya</item>
+        <item>218:LY:Libya</item>
+        <item>212:MA:Fas</item>
+        <item>377:MC:Monako</item>
+        <item>373:MD:Moldova</item>
+        <item>382:ME:Karadağ</item>
+        <item>261:MG:Madagaskar</item>
+        <item>692:MH:Marşal Adaları</item>
+        <item>389:MK:Makedonya</item>
+        <item>223:ML:Mali</item>
+        <item>95:MM:Myanmar</item>
+        <item>976:MN:Moğolistan</item>
+        <item>853:MO:Makao</item>
+        <item>1:MP:Kuzey Mariana Adaları</item>
+        <item>596:MQ:Martinik</item>
+        <item>222:MR:Moritanya</item>
+        <item>1:MS:Montserrat</item>
+        <item>356:MT:Malta</item>
+        <item>230:MU:Morityus</item>
+        <item>960:MV:Maldivler</item>
+        <item>265:MW:Malavi</item>
+        <item>52:MX:Meksika</item>
+        <item>60:MY:Malezya</item>
+        <item>258:MZ:Mozambik</item>
+        <item>264:NA:Namibya</item>
+        <item>687:NC:Yeni Kaledonya</item>
+        <item>227:NE:Nijer</item>
+        <item>672:NF:Norfolk Adası</item>
+        <item>234:NG:Nijerya</item>
+        <item>505:NI:Nikaragua</item>
+        <item>31:NL:Hollanda</item>
+        <item>47:NO:Norveç</item>
+        <item>977:NP:Nepal</item>
+        <item>674:NR:Nauru</item>
+        <item>683:NU:Niue</item>
+        <item>64:NZ:Yeni Zelanda</item>
+        <item>968:OM:Umman</item>
+        <item>507:PA:Panama</item>
+        <item>51:PE:Peru</item>
+        <item>689:PF:Fransız Polinezyası</item>
+        <item>675:PG:Papua Yeni Gine</item>
+        <item>63:PH:Filipinler</item>
+        <item>92:PK:Pakistan</item>
+        <item>48:PL:Polonya</item>
+        <item>508:PM:Saint Pierre ve Miquelon</item>
+        <item>1:PR:Porto Riko</item>
+        <item>970:PS:Filistin</item>
+        <item>351:PT:Portekiz</item>
+        <item>680:PW:Palau</item>
+        <item>595:PY:Paraguay</item>
+        <item>974:QA:Katar</item>
+        <item>262:RE:Réunion</item>
+        <item>40:RO:Romanya</item>
+        <item>381:RS:Sırbistan</item>
+        <item>7:RU:Rusya</item>
+        <item>250:RW:Ruanda</item>
+        <item>966:SA:Suudi Arabistan</item>
+        <item>677:SB:Solomon Adaları</item>
+        <item>248:SC:Seyşeller</item>
+        <item>249:SD:Sudan</item>
+        <item>46:SE:İsveç</item>
+        <item>65:SG:Singapur</item>
+        <item>290:SH:Saint Helena</item>
+        <item>386:SI:Slovenya</item>
+        <item>421:SK:Slovakya</item>
+        <item>232:SL:Sierra Leone</item>
+        <item>378:SM:San Marino</item>
+        <item>221:SN:Senegal</item>
+        <item>252:SO:Somali</item>
+        <item>597:SR:Surinam</item>
+        <item>211:SS:Güney Sudan</item>
+        <item>239:ST:Sao Tome ve Principe</item>
+        <item>503:SV:El Salvador</item>
+        <item>1:SX:Sint Maarten</item>
+        <item>963:SY:Suriye</item>
+        <item>268:SZ:Svaziland</item>
+        <item>1:TC:Turks ve Caicos Adaları</item>
+        <item>235:TD:Çad</item>
+        <item>228:TG:Togo</item>
+        <item>66:TH:Tayland</item>
+        <item>992:TJ:Tacikistan</item>
+        <item>690:TK:Tokelau</item>
+        <item>670:TL:Doğu Timor</item>
+        <item>993:TM:Türkmenistan</item>
+        <item>216:TN:Tunus</item>
+        <item>676:TO:Tonga</item>
+        <item>90:TR:Türkiye</item>
+        <item>1:TT:Trinidad ve Tobago</item>
+        <item>688:TV:Tuvalu</item>
+        <item>886:TW:Tayvan</item>
+        <item>255:TZ:Tanzanya</item>
+        <item>380:UA:Ukrayna</item>
+        <item>256:UG:Uganda</item>
+        <item>1:US:Amerika Birleşik Devletleri</item>
+        <item>598:UY:Uruguay</item>
+        <item>998:UZ:Özbekistan</item>
+        <item>1:VC:Saint Vincent ve Grenadinler</item>
+        <item>58:VE:Venezuela</item>
+        <item>1:VG:Britanya Virgin Adaları</item>
+        <item>1:VI:ABD Virgin Adaları</item>
+        <item>84:VN:Vietnam</item>
+        <item>678:VU:Vanuatu</item>
+        <item>681:WF:Wallis ve Futuna</item>
+        <item>685:WS:Samoa</item>
+        <item>967:YE:Yemen</item>
+        <item>262:YT:Mayotte</item>
+        <item>27:ZA:Güney Afrika</item>
+        <item>260:ZM:Zambiya</item>
+        <item>263:ZW:Zimbabve</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">Başla</string>
+    <string name="com_accountkit_button_cancel">İptal</string>
+    <string name="com_accountkit_button_confirm">Onayla</string>
+    <string name="com_accountkit_button_continue">Devam</string>
+    <string name="com_accountkit_button_log_in">Giriş Yap</string>
+    <string name="com_accountkit_button_next">İleri</string>
+    <string name="com_accountkit_button_ok">Tamam</string>
+    <string name="com_accountkit_button_resend">Yeni Kod Gönder</string>
+    <string name="com_accountkit_button_resend_sms">SMS\'i Yeniden Gönder</string>
+    <string name="com_accountkit_button_send">Gönder</string>
+    <string name="com_accountkit_button_send_code_in_fb">Kodu Facebook\'ta Gönder</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Girdiğiniz telefon numarasıyla bağlantılı Facebook hesabına bildirim göndermek için Facebook\'ta Kodu Gönder\'e dokunun.</string>
+    <string name="com_accountkit_button_start">Başlangıç</string>
+    <string name="com_accountkit_button_start_over">Tekrar Dene</string>
+    <string name="com_accountkit_button_submit">Gönder</string>
+    <string name="com_accountkit_check_email">E-postanı aç</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Facebook &lt;a href="%2$s">Koşulları&lt;/a>, &lt;a href="%3$s">Veri İlkesi&lt;/a> ve &lt;a href="%4$s">çerez kullanımını&lt;/a> kabul etmek için %1$s düğmesine dokunun.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Facebook &lt;a href="%2$s">Koşulları&lt;/a>, &lt;a href="%3$s">Veri İlkesi&lt;/a> ve &lt;a href="%4$s">çerez kullanımı&lt;/a> ile %6$s &lt;a href="%5$s">Gizlilik İlkesi&lt;/a>\'ni kabul etmek için %1$s düğmesine dokunun.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Facebook &lt;a href="%2$s">Koşulları&lt;/a>, &lt;a href="%3$s">Veri İlkesi&lt;/a> ve &lt;a href="%4$s">çerez kullanımını&lt;/a> ile %7$s &lt;a href="%5$s">Gizlilik İlkesi&lt;/a> ve &lt;a href="%6$s">Hizmet Koşulları&lt;/a>\'nı kabul etmek için %1$s düğmesine dokunun.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Kodu Tekrar Gönder</string>
+    <string name="com_accountkit_confirmation_code_title">Kodunuzu girin</string>
+    <string name="com_accountkit_email_invalid">Bu e-posta hatalı. Lütfen tekrar dene.</string>
+    <string name="com_accountkit_email_loading_title">E-posta gönderiliyor…</string>
+    <string name="com_accountkit_email_login_retry_title">E-posta adresinizi onaylayın</string>
+    <string name="com_accountkit_email_login_text">
+        %2$s kullanmaya başlamak isterseniz, Facebook\'un sunduğu Account Kit\'ten e-posta onayı almak için %1$s düğmesine dokunun. Bunu kullanabilmek için bir Facebook hesabınızın olması gerekmez. &lt;a href="%3$s">Facebook\'un bilgilerinizi nasıl kullandığını öğrenin&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">E-posta adresini gir</string>
+    <string name="com_accountkit_email_not_received">E-postayı Tekrar Gönder</string>
+    <string name="com_accountkit_email_verify_title">Gönderdiğimiz e-postayı aç ve adresini onayla</string>
+    <string name="com_accountkit_error_title">Üzgünüz, bir sorun oluştu.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook\'tan gelen kodu girin</string>
+    <string name="com_accountkit_phone_loading_title">Kodun gönderiliyor…</string>
+    <string name="com_accountkit_phone_login_retry_title">Telefon numaranı onayla</string>
+    <string name="com_accountkit_phone_login_text">
+        %2$s kullanmaya başlamak isterseniz, Facebook\'un sunduğu Account Kit\'ten SMS onayı almak için %1$s düğmesine dokunun. Bunu kullanabilmek için bir Facebook hesabınızın olması gerekmez. Mesaj ve veri ücretleri geçerli olabilir. &lt;a href="%3$s">Facebook\'un bilgilerinizi nasıl kullandığını öğrenin&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">Telefon numaranı gir</string>
+    <string name="com_accountkit_resend_email_text">Yeni E-posta Gönder</string>
+    <string name="com_accountkit_resend_title">Üzgünüz. Devam etmek için bu seçenekleri deneyin.</string>
+    <string name="com_accountkit_return_title">Tekrar %1$s uygulamasına yönlendiriliyorsunuz…</string>
+    <string name="com_accountkit_sent_title">Gönderildi!</string>
+    <string name="com_accountkit_success_title">Bitti!</string>
+    <string name="com_accountkit_toolbar_title">%1$s Uygulamasına Giriş Yap</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        Kodunuzu doğrulayamadık.\nLütfen tekrar deneyin:
+    </string>
+    <string name="com_accountkit_verify_title">Kodun doğrulanıyor…</string>
+</resources>

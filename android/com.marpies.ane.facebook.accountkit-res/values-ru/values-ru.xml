@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Андорра</item>
+        <item>971:AE:Объединенные Арабские Эмираты</item>
+        <item>93:AF:Афганистан</item>
+        <item>1:AG:Антигуа</item>
+        <item>1:AI:Ангилья</item>
+        <item>355:AL:Албания</item>
+        <item>374:AM:Армения</item>
+        <item>244:AO:Ангола</item>
+        <item>54:AR:Аргентина</item>
+        <item>1:AS:Восточное Самоа</item>
+        <item>43:AT:Австрия</item>
+        <item>61:AU:Австралия</item>
+        <item>297:AW:Аруба</item>
+        <item>994:AZ:Азербайджан</item>
+        <item>387:BA:Босния и Герцеговина</item>
+        <item>1:BB:Барбадос</item>
+        <item>880:BD:Бангладеш</item>
+        <item>32:BE:Бельгия</item>
+        <item>226:BF:Буркина-Фасо</item>
+        <item>359:BG:Болгария</item>
+        <item>973:BH:Бахрейн</item>
+        <item>257:BI:Бурунди</item>
+        <item>229:BJ:Бенин</item>
+        <item>1:BM:Бермуды</item>
+        <item>673:BN:Бруней</item>
+        <item>591:BO:Боливия</item>
+        <item>599:BQ:Бонайре, Синт-Эстатиус и Саба</item>
+        <item>55:BR:Бразилия</item>
+        <item>1:BS:Багамские острова</item>
+        <item>975:BT:Бутан</item>
+        <item>267:BW:Ботсвана</item>
+        <item>375:BY:Беларусь</item>
+        <item>501:BZ:Белиз</item>
+        <item>1:CA:Канада</item>
+        <item>243:CD:Демократическая Республика Конго</item>
+        <item>236:CF:ЦАР</item>
+        <item>242:CG:Республика Конго</item>
+        <item>41:CH:Швейцария</item>
+        <item>225:CI:Кот д\'Ивуар</item>
+        <item>682:CK:Острова Кука</item>
+        <item>56:CL:Чили</item>
+        <item>237:CM:Камерун</item>
+        <item>86:CN:Китай</item>
+        <item>57:CO:Колумбия</item>
+        <item>506:CR:Коста-Рика</item>
+        <item>53:CU:Куба</item>
+        <item>238:CV:Кабо-Верде</item>
+        <item>599:CW:Кюрасао</item>
+        <item>357:CY:Кипр</item>
+        <item>420:CZ:Чехия</item>
+        <item>49:DE:Германия</item>
+        <item>253:DJ:Джибути</item>
+        <item>45:DK:Дания</item>
+        <item>1:DM:Доминика</item>
+        <item>1:DO:Доминиаканская Республика</item>
+        <item>213:DZ:Алжир</item>
+        <item>593:EC:Эквадор</item>
+        <item>372:EE:Эстония</item>
+        <item>20:EG:Египет</item>
+        <item>212:EH:Западная Сахара</item>
+        <item>291:ER:Эритрея</item>
+        <item>34:ES:Испания</item>
+        <item>251:ET:Эфиопия</item>
+        <item>358:FI:Финляндия</item>
+        <item>679:FJ:Фиджи</item>
+        <item>500:FK:Фолклендские острова</item>
+        <item>691:FM:Федеративные Штаты Микронезии</item>
+        <item>298:FO:Фарерские острова</item>
+        <item>33:FR:Франция</item>
+        <item>241:GA:Габон</item>
+        <item>44:GB:Соединенное королевство</item>
+        <item>1:GD:Гренада</item>
+        <item>995:GE:Грузия</item>
+        <item>594:GF:Французская Гвиана</item>
+        <item>44:GG:Гернси</item>
+        <item>233:GH:Гана</item>
+        <item>350:GI:Гибралтар</item>
+        <item>299:GL:Гренландия</item>
+        <item>220:GM:Гамбия</item>
+        <item>224:GN:Гвинея</item>
+        <item>590:GP:Гваделупа</item>
+        <item>240:GQ:Экваториальная Гвинея</item>
+        <item>30:GR:Греция</item>
+        <item>502:GT:Гватемала</item>
+        <item>1:GU:Гуам</item>
+        <item>245:GW:Гвинея-Бисау</item>
+        <item>592:GY:Гайана</item>
+        <item>852:HK:Гонконг</item>
+        <item>504:HN:Гондурас</item>
+        <item>385:HR:Хорватия</item>
+        <item>509:HT:Гаити</item>
+        <item>36:HU:Венгрия</item>
+        <item>62:ID:Индонезия</item>
+        <item>353:IE:Ирландия</item>
+        <item>972:IL:Израиль</item>
+        <item>44:IM:Остров Мэн</item>
+        <item>91:IN:Индия</item>
+        <item>246:IO:Британская территория в Индийском океане.</item>
+        <item>964:IQ:Ирак</item>
+        <item>98:IR:Иран</item>
+        <item>354:IS:Исландия</item>
+        <item>39:IT:Италия</item>
+        <item>44:JE:Джерси</item>
+        <item>1:JM:Ямайка</item>
+        <item>962:JO:Иордания</item>
+        <item>81:JP:Япония</item>
+        <item>254:KE:Кения</item>
+        <item>996:KG:Киргизия</item>
+        <item>855:KH:Камбоджа</item>
+        <item>686:KI:Кирибати</item>
+        <item>269:KM:Коморские острова</item>
+        <item>1:KN:Сент-Китс и Невис</item>
+        <item>850:KP:Северная Корея</item>
+        <item>82:KR:Южная Корея</item>
+        <item>965:KW:Кувейт</item>
+        <item>1:KY:Каймановы острова</item>
+        <item>7:KZ:Казахстан</item>
+        <item>856:LA:Лаос</item>
+        <item>961:LB:Ливан</item>
+        <item>1:LC:Сент-Люсия</item>
+        <item>423:LI:Лихтеншетйн</item>
+        <item>94:LK:Шри-Ланка</item>
+        <item>231:LR:Либерия</item>
+        <item>266:LS:Лесото</item>
+        <item>370:LT:Литва</item>
+        <item>352:LU:Люксембург</item>
+        <item>371:LV:Латвия</item>
+        <item>218:LY:Ливия</item>
+        <item>212:MA:Морокко</item>
+        <item>377:MC:Монако</item>
+        <item>373:MD:Молдавия</item>
+        <item>382:ME:Черногория</item>
+        <item>261:MG:Мадагаскар</item>
+        <item>692:MH:Маршалловы острова</item>
+        <item>389:MK:Македония</item>
+        <item>223:ML:Мали</item>
+        <item>95:MM:Мьянма</item>
+        <item>976:MN:Монголия</item>
+        <item>853:MO:Макао</item>
+        <item>1:MP:Северные Марианские острова</item>
+        <item>596:MQ:Мартиника</item>
+        <item>222:MR:Мавритания</item>
+        <item>1:MS:Монтсеррат</item>
+        <item>356:MT:Мальта</item>
+        <item>230:MU:Маврикий</item>
+        <item>960:MV:Мальдивы</item>
+        <item>265:MW:Малави</item>
+        <item>52:MX:Мексика</item>
+        <item>60:MY:Малайзия</item>
+        <item>258:MZ:Мозамбик</item>
+        <item>264:NA:Намибия</item>
+        <item>687:NC:Новая Каледония</item>
+        <item>227:NE:Нигер</item>
+        <item>672:NF:Остров Норфолк</item>
+        <item>234:NG:Нигерия</item>
+        <item>505:NI:Никарагуа</item>
+        <item>31:NL:Нидерланды</item>
+        <item>47:NO:Норвегия</item>
+        <item>977:NP:Непал</item>
+        <item>674:NR:Науру</item>
+        <item>683:NU:Ниуэ</item>
+        <item>64:NZ:Новая Зеландия</item>
+        <item>968:OM:Оман</item>
+        <item>507:PA:Панама</item>
+        <item>51:PE:Перу</item>
+        <item>689:PF:Французская Полинезия</item>
+        <item>675:PG:Папуа – Новая Гвинея</item>
+        <item>63:PH:Филиппины</item>
+        <item>92:PK:Пакистан</item>
+        <item>48:PL:Польша</item>
+        <item>508:PM:Сен-Пьер и Микелон</item>
+        <item>1:PR:Пуэрто-Рико</item>
+        <item>970:PS:Палестина</item>
+        <item>351:PT:Португалия</item>
+        <item>680:PW:Палау</item>
+        <item>595:PY:Парагвай</item>
+        <item>974:QA:Катар</item>
+        <item>262:RE:Реюньон</item>
+        <item>40:RO:Румыния</item>
+        <item>381:RS:Сербия</item>
+        <item>7:RU:Россия</item>
+        <item>250:RW:Руанда</item>
+        <item>966:SA:Саудовская Аравия</item>
+        <item>677:SB:Соломоновы острова</item>
+        <item>248:SC:Сейшелы</item>
+        <item>249:SD:Судан</item>
+        <item>46:SE:Швеция</item>
+        <item>65:SG:Сингапур</item>
+        <item>290:SH:Остров Святой Елены</item>
+        <item>386:SI:Словения</item>
+        <item>421:SK:Словакия</item>
+        <item>232:SL:Сьерра-Леоне</item>
+        <item>378:SM:Сан-Марино</item>
+        <item>221:SN:Сенегал</item>
+        <item>252:SO:Сомали</item>
+        <item>597:SR:Суринам</item>
+        <item>211:SS:Южный Судан</item>
+        <item>239:ST:Сан-Томе и Принсипи</item>
+        <item>503:SV:Сальвадор</item>
+        <item>1:SX:Сент-Маартен</item>
+        <item>963:SY:Сирия</item>
+        <item>268:SZ:Свазиленд</item>
+        <item>1:TC:Острова Теркс и Кайкос</item>
+        <item>235:TD:Чад</item>
+        <item>228:TG:Того</item>
+        <item>66:TH:Таиланд</item>
+        <item>992:TJ:Таджикистан</item>
+        <item>690:TK:Токелау</item>
+        <item>670:TL:Восточный Тимор</item>
+        <item>993:TM:Туркмения</item>
+        <item>216:TN:Тунис</item>
+        <item>676:TO:Тонга</item>
+        <item>90:TR:Турция</item>
+        <item>1:TT:Тринидад и Тобаго</item>
+        <item>688:TV:Тувалу</item>
+        <item>886:TW:Тайвань</item>
+        <item>255:TZ:Танзания</item>
+        <item>380:UA:Украина</item>
+        <item>256:UG:Уганда</item>
+        <item>1:US:США</item>
+        <item>598:UY:Уругвай</item>
+        <item>998:UZ:Узбекистан</item>
+        <item>1:VC:Сен-Винсент и Гренадины</item>
+        <item>58:VE:Венесуэла</item>
+        <item>1:VG:Британские Виргинские острова</item>
+        <item>1:VI:Американские Виргинские острова</item>
+        <item>84:VN:Вьетнам</item>
+        <item>678:VU:Вануату</item>
+        <item>681:WF:Уоллис и Футуна</item>
+        <item>685:WS:Самоа</item>
+        <item>967:YE:Йемен</item>
+        <item>262:YT:Майотта</item>
+        <item>27:ZA:ЮАР</item>
+        <item>260:ZM:Замбия</item>
+        <item>263:ZW:Зимбабве</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">Начать</string>
+    <string name="com_accountkit_button_cancel">Отмена</string>
+    <string name="com_accountkit_button_confirm">Подтвердить</string>
+    <string name="com_accountkit_button_continue">Продолжить</string>
+    <string name="com_accountkit_button_log_in">Вход</string>
+    <string name="com_accountkit_button_next">Далее</string>
+    <string name="com_accountkit_button_ok">OK</string>
+    <string name="com_accountkit_button_resend">Отправить новый код</string>
+    <string name="com_accountkit_button_resend_sms">Еще раз отправить SMS</string>
+    <string name="com_accountkit_button_send">Отправить</string>
+    <string name="com_accountkit_button_send_code_in_fb">Отправить код Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Коснитесь Отправить код на Facebook, чтобы отправить уведомление в аккаунт на Facebook, привязанный к номеру телефона, который вы указали.</string>
+    <string name="com_accountkit_button_start">Старт</string>
+    <string name="com_accountkit_button_start_over">Попробуйте еще раз</string>
+    <string name="com_accountkit_button_submit">Отправить</string>
+    <string name="com_accountkit_check_email">Откройте эл. письмо</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Коснитесь %1$s, чтобы принять &lt;a href="%2$s">Условия&lt;/a>, &lt;a href="%3$s">Политику использования данных&lt;/a> и &lt;a href="%4$s">файлов «cookie»&lt;/a> Facebook.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Коснитесь %1$s, чтобы принять &lt;a href="%2$s">Условия&lt;/a>, &lt;a href="%3$s">Политику использования данных&lt;/a> и &lt;a href="%4$s">файлов «cookie»&lt;/a> Facebook, а также &lt;a href="%5$s">Политику конфиденциальности&lt;/a> %6$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Коснитесь %1$s, чтобы принять &lt;a href="%2$s">Условия&lt;/a>, &lt;a href="%3$s">Политику использования данных&lt;/a> и &lt;a href="%4$s">файлов «cookie»&lt;/a> Facebook, а также &lt;a href="%5$s">Политику конфиденциальности&lt;/a> и &lt;a href="%6$s">Пользовательское соглашение&lt;/a> %7$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Отправить код повторно</string>
+    <string name="com_accountkit_confirmation_code_title">Введите код</string>
+    <string name="com_accountkit_email_invalid">Неверный эл. адрес. Попробуйте еще раз.</string>
+    <string name="com_accountkit_email_loading_title">Отправка…</string>
+    <string name="com_accountkit_email_login_retry_title">Подтвердите правильность своего эл. адреса</string>
+    <string name="com_accountkit_email_login_text">
+        Коснитесь %1$s, чтобы получить эл. письмо с подтверждением со стороны Account Kit от Facebook для использования %2$s. Вам не обязательно иметь аккаунт на Facebook, чтобы использовать его. &lt;a href="%3$s">Узнайте, как Facebook использует вашу информацию&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">Введите свой эл. адрес</string>
+    <string name="com_accountkit_email_not_received">Повторная отправка эл. письма</string>
+    <string name="com_accountkit_email_verify_title">Откройте эл. письмо, которое мы вам отправили, и подтвердите свой эл. адрес</string>
+    <string name="com_accountkit_error_title">Извините, что-то пошло не так.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Введите код, полученный от Facebook</string>
+    <string name="com_accountkit_phone_loading_title">Выполняется отправка кода…</string>
+    <string name="com_accountkit_phone_login_retry_title">Подтвердите свой номер телефона</string>
+    <string name="com_accountkit_phone_login_text">
+        Коснитесь %1$s, чтобы получить SMS-подтверждение со стороны Account Kit от Facebook для использования %2$s. Вам не обязательно иметь аккаунт на Facebook, чтобы использовать его. Может взиматься плата за передачу сообщений и данных. &lt;a href="%3$s">Узнайте, как Facebook использует вашу информацию&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">Введите свой номер телефона</string>
+    <string name="com_accountkit_resend_email_text">Отправить письмо заново</string>
+    <string name="com_accountkit_resend_title">Приносим извинения. Попробуйте сделать следующее.</string>
+    <string name="com_accountkit_return_title">Возврат к %1$s…</string>
+    <string name="com_accountkit_sent_title">Отправлено!</string>
+    <string name="com_accountkit_success_title">Готово!</string>
+    <string name="com_accountkit_toolbar_title">Выполните вход в %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        Нам не удалось проверить ваш код.\nПопробуйте еще раз:
+    </string>
+    <string name="com_accountkit_verify_title">Выполняется проверка вашего кода…</string>
+</resources>

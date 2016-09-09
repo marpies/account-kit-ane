@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:अन्डोरा</item>
+        <item>971:AE:संयुक्त अरब अमिरात</item>
+        <item>93:AF:अफगाणिस्तान</item>
+        <item>1:AG:अँटीगुआ</item>
+        <item>1:AI:अँग्विला</item>
+        <item>355:AL:अल्बानिया</item>
+        <item>374:AM:अर्मेनिया</item>
+        <item>244:AO:अंगोला</item>
+        <item>54:AR:अर्जेंटिना</item>
+        <item>1:AS:अमेरिकन सामोआ</item>
+        <item>43:AT:ऑस्ट्रिया</item>
+        <item>61:AU:ऑस्ट्रेलिया</item>
+        <item>297:AW:अरुबा</item>
+        <item>994:AZ:अझरबैजान</item>
+        <item>387:BA:बोस्निया आणि हर्झेगोविना</item>
+        <item>1:BB:बार्बाडोस</item>
+        <item>880:BD:बांग्लादेश</item>
+        <item>32:BE:बेल्जियम</item>
+        <item>226:BF:बुर्कीना फासो</item>
+        <item>359:BG:बल्गेरिया</item>
+        <item>973:BH:बहारीन</item>
+        <item>257:BI:बुरुंडी</item>
+        <item>229:BJ:बेनिन</item>
+        <item>1:BM:बर्म्युडा</item>
+        <item>673:BN:ब्रुनेई</item>
+        <item>591:BO:बोलिविया</item>
+        <item>599:BQ:बोनेअर, सीन्त युस्तशिअस आणि साबा</item>
+        <item>55:BR:ब्राझील</item>
+        <item>1:BS:बहामा</item>
+        <item>975:BT:भूतान</item>
+        <item>267:BW:बोत्स्वाना</item>
+        <item>375:BY:बेलारूस</item>
+        <item>501:BZ:बेलिझ</item>
+        <item>1:CA:कॅनडा</item>
+        <item>243:CD:काँगो डेमोक्रेटिक रिपब्लिक</item>
+        <item>236:CF:मध्य ऑफ्रिका रिपब्लिक</item>
+        <item>242:CG:काँगोचे प्रजासत्ताक</item>
+        <item>41:CH:स्वित्झरलॅंड</item>
+        <item>225:CI:कोट डी आयव्होयर</item>
+        <item>682:CK:कूक द्वीपसमूह</item>
+        <item>56:CL:चिली</item>
+        <item>237:CM:कॅमेरून</item>
+        <item>86:CN:चीन</item>
+        <item>57:CO:कोलंबिया</item>
+        <item>506:CR:कोस्टा रिका</item>
+        <item>53:CU:क्युबा</item>
+        <item>238:CV:केप वर्डे</item>
+        <item>599:CW:कुराकाव</item>
+        <item>357:CY:सायप्रस</item>
+        <item>420:CZ:चेक प्रजासत्ताक</item>
+        <item>49:DE:जर्मनी</item>
+        <item>253:DJ:जिबूती</item>
+        <item>45:DK:डेन्मार्क</item>
+        <item>1:DM:डोमिनिका</item>
+        <item>1:DO:डॉमिनिकन प्रजासत्ताक</item>
+        <item>213:DZ:अल्जेरिया</item>
+        <item>593:EC:इक्वेडोर</item>
+        <item>372:EE:इस्टोनिया</item>
+        <item>20:EG:इजिप्त</item>
+        <item>212:EH:पश्चिमी सहारा</item>
+        <item>291:ER:एरिट्रेआ</item>
+        <item>34:ES:स्पेन</item>
+        <item>251:ET:इथिओपिया</item>
+        <item>358:FI:फिनलंड</item>
+        <item>679:FJ:फिजी</item>
+        <item>500:FK:फॉकलंड बेटे</item>
+        <item>691:FM:फेडेरेशन स्टेट्स ऑफ मायक्रोनेशिया</item>
+        <item>298:FO:फेरो द्वीपसमूह</item>
+        <item>33:FR:फ्रान्स</item>
+        <item>241:GA:गाबोन</item>
+        <item>44:GB:युनायटेड किंगडम</item>
+        <item>1:GD:ग्रेनाडा</item>
+        <item>995:GE:जॉर्जिया</item>
+        <item>594:GF:फ्रेंच गुआना</item>
+        <item>44:GG:गर्न्सी</item>
+        <item>233:GH:घाना</item>
+        <item>350:GI:जिब्राल्टर</item>
+        <item>299:GL:ग्रीनलँड</item>
+        <item>220:GM:गम्बिआ</item>
+        <item>224:GN:गिनी</item>
+        <item>590:GP:ग्वाडेलोप</item>
+        <item>240:GQ:विषुववृत्तीय गिनी</item>
+        <item>30:GR:ग्रीस</item>
+        <item>502:GT:ग्वाटेमाला</item>
+        <item>1:GU:गुआम</item>
+        <item>245:GW:गिनी - बिसाउ</item>
+        <item>592:GY:गयाना</item>
+        <item>852:HK:हॉंग कॉंग</item>
+        <item>504:HN:होन्डुरास</item>
+        <item>385:HR:क्रोएशिआ</item>
+        <item>509:HT:हैती</item>
+        <item>36:HU:हंगेरी</item>
+        <item>62:ID:इंडोनेशिया</item>
+        <item>353:IE:आयर्लंड</item>
+        <item>972:IL:इस्राइल</item>
+        <item>44:IM:इस्ले ऑफ मॅन</item>
+        <item>91:IN:भारत</item>
+        <item>246:IO:ब्रिटिश हिंद महासागरीय क्षेत्र</item>
+        <item>964:IQ:इराक</item>
+        <item>98:IR:इराण</item>
+        <item>354:IS:आयलँड</item>
+        <item>39:IT:इटली</item>
+        <item>44:JE:जर्सी</item>
+        <item>1:JM:जमैका</item>
+        <item>962:JO:जॉर्डन</item>
+        <item>81:JP:जपान</item>
+        <item>254:KE:केनिया</item>
+        <item>996:KG:किरगीझस्तान</item>
+        <item>855:KH:कंबोडिया</item>
+        <item>686:KI:किरिबाटी</item>
+        <item>269:KM:कोमोरोस</item>
+        <item>1:KN:सेंट किट्स आणि नेविस</item>
+        <item>850:KP:उत्तर कोरिया</item>
+        <item>82:KR:साउथ कोरिया</item>
+        <item>965:KW:कुवेत</item>
+        <item>1:KY:केमॅन बेटे</item>
+        <item>7:KZ:कझाकिस्तान</item>
+        <item>856:LA:लाओस</item>
+        <item>961:LB:लेबेनॉन</item>
+        <item>1:LC:सेंट.लुसिया</item>
+        <item>423:LI:लिश्टनस्टाइन</item>
+        <item>94:LK:श्रीलंका</item>
+        <item>231:LR:लायबेरिया</item>
+        <item>266:LS:लेसोथो</item>
+        <item>370:LT:लिथुआनिया</item>
+        <item>352:LU:लक्झेम्बर्ग</item>
+        <item>371:LV:लॅटव्हिया</item>
+        <item>218:LY:लिबिया</item>
+        <item>212:MA:मोरोक्को</item>
+        <item>377:MC:मोनॅको</item>
+        <item>373:MD:मोल्दोवा</item>
+        <item>382:ME:मॉन्टेनेग्रो</item>
+        <item>261:MG:मादागास्कर</item>
+        <item>692:MH:मार्शल बेटे</item>
+        <item>389:MK:मॅसेडोनिया</item>
+        <item>223:ML:माली</item>
+        <item>95:MM:म्यानमार</item>
+        <item>976:MN:मंगोलिया</item>
+        <item>853:MO:मकाऊ</item>
+        <item>1:MP:उत्तरी मारियाना बेटे</item>
+        <item>596:MQ:मार्टीनिक</item>
+        <item>222:MR:मौरीतानिया</item>
+        <item>1:MS:मॉंट्सेर्राट</item>
+        <item>356:MT:माल्टा</item>
+        <item>230:MU:मॉरिशस</item>
+        <item>960:MV:मालदिव</item>
+        <item>265:MW:मलावी</item>
+        <item>52:MX:मेक्सिको</item>
+        <item>60:MY:मलेशिया</item>
+        <item>258:MZ:मोझाम्बिक</item>
+        <item>264:NA:नामिबिया</item>
+        <item>687:NC:न्यू कॅलिडोनिया</item>
+        <item>227:NE:नायजर</item>
+        <item>672:NF:नॉरफोक द्वीप</item>
+        <item>234:NG:नायजेरिया</item>
+        <item>505:NI:निकाराग्वा</item>
+        <item>31:NL:नेदरलँड्स</item>
+        <item>47:NO:नॉर्वे</item>
+        <item>977:NP:नेपाळ</item>
+        <item>674:NR:नाउरू</item>
+        <item>683:NU:नीयू</item>
+        <item>64:NZ:न्यूझीलंड</item>
+        <item>968:OM:ओमान</item>
+        <item>507:PA:पनामा</item>
+        <item>51:PE:पेरु</item>
+        <item>689:PF:फ्रेंच पॉलिनेशिआ</item>
+        <item>675:PG:पापुआ न्यु गिनी</item>
+        <item>63:PH:फिलिपिन्स</item>
+        <item>92:PK:पाकिस्तान</item>
+        <item>48:PL:पोलंड</item>
+        <item>508:PM:सेंट पिएरे आणि मिक्वेलॉन</item>
+        <item>1:PR:पुर्तो रिको</item>
+        <item>970:PS:पॅलेस्टिन</item>
+        <item>351:PT:पोर्तुगाल</item>
+        <item>680:PW:पलाऊ</item>
+        <item>595:PY:पॅराग्वे</item>
+        <item>974:QA:कतार</item>
+        <item>262:RE:स्नेहसम्मेलन</item>
+        <item>40:RO:रोमानिया</item>
+        <item>381:RS:सर्बिया</item>
+        <item>7:RU:रशिया</item>
+        <item>250:RW:रवांडा</item>
+        <item>966:SA:सौदी अरब</item>
+        <item>677:SB:सोलोमन बेटे</item>
+        <item>248:SC:सेशेल्स</item>
+        <item>249:SD:सुदान</item>
+        <item>46:SE:स्वीडन</item>
+        <item>65:SG:सिंगापूर</item>
+        <item>290:SH:सेंट हेलेना</item>
+        <item>386:SI:स्लोवेनिया</item>
+        <item>421:SK:स्लोव्हाकिया</item>
+        <item>232:SL:सिएरा  लिऑन</item>
+        <item>378:SM:सॅन मरिनो</item>
+        <item>221:SN:सेनेगल</item>
+        <item>252:SO:सोमालिया</item>
+        <item>597:SR:सुरीनामे</item>
+        <item>211:SS:दक्षिण सुदान</item>
+        <item>239:ST:साओ टोम आणि प्रिन्सिपे</item>
+        <item>503:SV:एल साल्वाडोर</item>
+        <item>1:SX:सिंट मार्टेन</item>
+        <item>963:SY:सिरीया</item>
+        <item>268:SZ:स्‍वाझिलँड</item>
+        <item>1:TC:टर्क्स आणि काईकोस बेटे</item>
+        <item>235:TD:चाड</item>
+        <item>228:TG:टोगो</item>
+        <item>66:TH:थायलंड</item>
+        <item>992:TJ:ताझिकीस्तान</item>
+        <item>690:TK:टोकेलाऊ</item>
+        <item>670:TL:तिमोर-लेस्ते</item>
+        <item>993:TM:तुर्कमेनिस्तान</item>
+        <item>216:TN:ट्युनिशिया</item>
+        <item>676:TO:टोंगा</item>
+        <item>90:TR:तुर्की</item>
+        <item>1:TT:त्रिनिदाद आणि टोबॅगो</item>
+        <item>688:TV:टूवालू</item>
+        <item>886:TW:तैवान</item>
+        <item>255:TZ:टांझानिया</item>
+        <item>380:UA:युक्रेन</item>
+        <item>256:UG:युगांडा</item>
+        <item>1:US:युनायटेड स्टेट्स</item>
+        <item>598:UY:उरुग्वे</item>
+        <item>998:UZ:उझबेकिस्तान</item>
+        <item>1:VC:सेंट विन्सेंट आणि ग्रेनाडाइन्‍स</item>
+        <item>58:VE:व्हेनेझुएला</item>
+        <item>1:VG:ब्रिटिश व्हर्जिन बेटे</item>
+        <item>1:VI:यूएस व्हर्जिन बेटे</item>
+        <item>84:VN:व्हिएतनाम</item>
+        <item>678:VU:व्हानुआतू</item>
+        <item>681:WF:वालिस व फुतुना</item>
+        <item>685:WS:सामोआ</item>
+        <item>967:YE:येमेन</item>
+        <item>262:YT:मायोत</item>
+        <item>27:ZA:दक्षिण अफ्रिका</item>
+        <item>260:ZM:झांबिया</item>
+        <item>263:ZW:झिंबाब्वे</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">आरंभ करा</string>
+    <string name="com_accountkit_button_cancel">रद्द करा</string>
+    <string name="com_accountkit_button_confirm">पुष्टी करा</string>
+    <string name="com_accountkit_button_continue">सुरू ठेवा</string>
+    <string name="com_accountkit_button_log_in">लॉग इन करा</string>
+    <string name="com_accountkit_button_next">पुढील</string>
+    <string name="com_accountkit_button_ok">ठीक</string>
+    <string name="com_accountkit_button_resend">नवीन कोड पाठवा</string>
+    <string name="com_accountkit_button_resend_sms">SMS परत पाठवा</string>
+    <string name="com_accountkit_button_send">पाठवा</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook मध्ये कोड पाठवा</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">आपण प्रविष्‍ट केलेल्‍या फोन नंबरशी लिंक असलेल्‍या Facebook खात्‍यावर सूचना पाठवण्‍यासाठी Facebook मध्‍ये कोड पाठवा टॅप करा.</string>
+    <string name="com_accountkit_button_start">सुरू करा</string>
+    <string name="com_accountkit_button_start_over">पुन्‍हा प्रयत्‍न करा</string>
+    <string name="com_accountkit_button_submit">सादर करा</string>
+    <string name="com_accountkit_check_email">आपला ईमेल उघडा</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Facebook च्या &lt;a href="%2$s"> अटी&lt;/a>,  &lt;a href="%3$s">डेटा धोरण&lt;/a> आणि &lt;a href="%4$s">कुकी वापर&lt;/a> स्वीकारण्यासाठी %1$s वर टॅप करा.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Facebook च्या  &lt;a href="%2$s">अटी&lt;/a>, &lt;a href="%3$s">डेटा धोरण&lt;/a>, &lt;a href="%4$s">कुकी वापर&lt;/a> आणि %6$s चे &lt;a href="%5$s">गोपनीयता धोरण&lt;/a> स्वीकारण्यासाठी %1$s वर टॅप करा.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Facebook च्या  &lt;a href="%2$s">अटी&lt;/a>,  &lt;a href="%3$s">डेटा धोरण&lt;/a>, &lt;a href="%4$s">कुकी वापर&lt;/a>, &lt;a href="%5$s">गोपनीयता धोरण&lt;/a> स्वीकारण्यासाठी आणि %7$s च्या &lt;a href="%6$s">सेवेच्या अटीं&lt;/a> साठी %1$s वर टॅप करा.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">नवीन कोड पाठवा</string>
+    <string name="com_accountkit_confirmation_code_title">आपला कोड प्रविष्‍ट करा</string>
+    <string name="com_accountkit_email_invalid">हा ईमेल चुकीचा आहे. कृपया पुन्हा प्रयत्न करा.</string>
+    <string name="com_accountkit_email_loading_title">ईमेल पाठवित आहे</string>
+    <string name="com_accountkit_email_login_retry_title">आपल्या ईमेलची पुष्टी करा</string>
+    <string name="com_accountkit_email_login_text">
+      आपल्‍याला %2$s वापरण्‍यात मदत करण्‍यासाठी Facebook द्वारे असलेल्‍या खाते किटवरून ईमेल पुष्‍टी मिळवण्‍यासाठी %1$s टॅप करा. आपल्‍याला हे वापरण्‍यासाठी Facebook खात्‍याची गरज नाही. &lt;a href="%3$s">Facebook आपली माहिती कसे वापरते याविषयी जाणून घ्‍या&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">आपला ईमेल पत्‍ता प्रविष्‍ट करा</string>
+    <string name="com_accountkit_email_not_received">ईमेल पुन्‍हा पाठवा</string>
+    <string name="com_accountkit_email_verify_title">आम्‍ही पाठवलेला ईमेल उघडा आणि आपल्‍या पत्‍त्‍याची पुष्‍टी करा</string>
+    <string name="com_accountkit_error_title">आम्‍ही क्षमस्‍व आहोत, काहीतरी चूक झाली.</string>
+    <string name="com_accountkit_facebook_code_entry_title">आपला कोड Facebook वरून प्रविष्‍ट करा</string>
+    <string name="com_accountkit_phone_loading_title">आपला कोड पाठवत आहे…</string>
+    <string name="com_accountkit_phone_login_retry_title">आपल्‍या फोन नंबरची पुष्‍टी करा</string>
+    <string name="com_accountkit_phone_login_text">
+        आपल्‍याला %2$s वापरण्‍यात मदत करण्‍यासाठी Facebook द्वारे असलेल्‍या खाते किटवरून SMS पुष्‍टी मिळवण्‍यासाठी %1$s टॅप करा. आपल्‍याला हे वापरण्‍यासाठी Facebook खात्‍याची गरज नाही. संदेश आणि डेटा शुल्‍क लागू होण्‍याची शक्‍यता आहे. &lt;a href="%3$s">Facebook आपली माहिती कसे वापरते याविषयी जाणून घ्‍या&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">आपला फोन नंबर प्रविष्‍ट करा</string>
+    <string name="com_accountkit_resend_email_text">नवीन ईमेल पाठवा</string>
+    <string name="com_accountkit_resend_title">आम्‍ही क्षमस्‍व आहोत. पुढे सुरू ठेवण्‍यासाठी हे पर्याय वापरून पहा.</string>
+    <string name="com_accountkit_return_title">आपल्‍याला पुन्‍हा %1$s येथे नेत आहे…</string>
+    <string name="com_accountkit_sent_title">पाठविले!</string>
+    <string name="com_accountkit_success_title">पूर्ण झाले!</string>
+    <string name="com_accountkit_toolbar_title">%1$s मध्‍ये लॉग इन करा</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        आपल्‍या कोडची आम्‍ही पडताळणी करू शकलो नाही. कृपया पुन्हा प्रयत्न करा:
+    </string>
+    <string name="com_accountkit_verify_title">आपल्‍या कोडची पडताळणी करत आहे…</string>
+</resources>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:أندورا</item>
+        <item>971:AE:الإمارات العربية المتحدة</item>
+        <item>93:AF:أفغانستان</item>
+        <item>1:AG:أنتيجوا</item>
+        <item>1:AI:أنغويلا</item>
+        <item>355:AL:ألبانيا</item>
+        <item>374:AM:أرمينيا</item>
+        <item>244:AO:أنغولا</item>
+        <item>54:AR:الأرجنتين</item>
+        <item>1:AS:ساموا الأمريكية</item>
+        <item>43:AT:النمسا</item>
+        <item>61:AU:أستراليا</item>
+        <item>297:AW:أروبا</item>
+        <item>994:AZ:أذربيجان</item>
+        <item>387:BA:البوسنة والهرسك</item>
+        <item>1:BB:بربادوس</item>
+        <item>880:BD:بنغلادش</item>
+        <item>32:BE:بلجيكا</item>
+        <item>226:BF:بوركينا فاسو</item>
+        <item>359:BG:بلغاريا</item>
+        <item>973:BH:البحرين</item>
+        <item>257:BI:بوروندي</item>
+        <item>229:BJ:بنين</item>
+        <item>1:BM:برمودا</item>
+        <item>673:BN:بروني</item>
+        <item>591:BO:بوليفيا</item>
+        <item>599:BQ:بونير، سانت اوستاتيوس وسابا</item>
+        <item>55:BR:البرازيل</item>
+        <item>1:BS:باهاماس</item>
+        <item>975:BT:بوتان</item>
+        <item>267:BW:بوتسوانا</item>
+        <item>375:BY:بيلاروسيا</item>
+        <item>501:BZ:بليز</item>
+        <item>1:CA:كندا</item>
+        <item>243:CD:جمهورية الكونغو الديمقراطية</item>
+        <item>236:CF:جمهورية أفريقيا الوسطى</item>
+        <item>242:CG:جمهورية الكونغو</item>
+        <item>41:CH:سويسرا</item>
+        <item>225:CI:ساحل العاج</item>
+        <item>682:CK:جزر كوك</item>
+        <item>56:CL:تشيلي</item>
+        <item>237:CM:الكاميرون</item>
+        <item>86:CN:الصين</item>
+        <item>57:CO:كولومبيا</item>
+        <item>506:CR:كوستاريكا</item>
+        <item>53:CU:كوبا</item>
+        <item>238:CV:الرأس الأخضر</item>
+        <item>599:CW:كوراساو</item>
+        <item>357:CY:قبرص</item>
+        <item>420:CZ:جمهورية التشيك</item>
+        <item>49:DE:ألمانيا</item>
+        <item>253:DJ:جيبوتي</item>
+        <item>45:DK:الدنمرك</item>
+        <item>1:DM:دومينيكا</item>
+        <item>1:DO:جمهورية الدومنيكان</item>
+        <item>213:DZ:الجزائر</item>
+        <item>593:EC:الإكوادور</item>
+        <item>372:EE:إستونيا</item>
+        <item>20:EG:مصر</item>
+        <item>212:EH:الصحراء الغربية</item>
+        <item>291:ER:ارتيريا</item>
+        <item>34:ES:إسبانيا</item>
+        <item>251:ET:إثيوبيا</item>
+        <item>358:FI:فينلندا</item>
+        <item>679:FJ:فيجي</item>
+        <item>500:FK:جزر فوكلاند</item>
+        <item>691:FM:ولايات ميكرونيسيا المتحدة</item>
+        <item>298:FO:جزر فارو</item>
+        <item>33:FR:فرنسا</item>
+        <item>241:GA:الغابون</item>
+        <item>44:GB:المملكة المتحدة</item>
+        <item>1:GD:غرينادا</item>
+        <item>995:GE:جورجيا</item>
+        <item>594:GF:غوايانا الفرنسية</item>
+        <item>44:GG:جيرنزي</item>
+        <item>233:GH:غانا</item>
+        <item>350:GI:جبل طارق</item>
+        <item>299:GL:غرينلاند</item>
+        <item>220:GM:غامبيا</item>
+        <item>224:GN:غينيا</item>
+        <item>590:GP:غوادلوب</item>
+        <item>240:GQ:غينيا الاستوائية</item>
+        <item>30:GR:اليونان</item>
+        <item>502:GT:غواتيمالا</item>
+        <item>1:GU:غوام</item>
+        <item>245:GW:غينيا بيساو</item>
+        <item>592:GY:غويانا</item>
+        <item>852:HK:هونغ كونغ</item>
+        <item>504:HN:هندوراس</item>
+        <item>385:HR:كرواتيا</item>
+        <item>509:HT:هايتي</item>
+        <item>36:HU:المجر</item>
+        <item>62:ID:إندونيسيا</item>
+        <item>353:IE:أيرلندا</item>
+        <item>972:IL:اسرائيل</item>
+        <item>44:IM:جزيرة مان</item>
+        <item>91:IN:الهند</item>
+        <item>246:IO:إقليم المحيط الهندي البريطاني</item>
+        <item>964:IQ:العراق</item>
+        <item>98:IR:إيران</item>
+        <item>354:IS:آيسلندا</item>
+        <item>39:IT:إيطاليا</item>
+        <item>44:JE:جيرسي</item>
+        <item>1:JM:جامايكا</item>
+        <item>962:JO:الأردن</item>
+        <item>81:JP:اليابان</item>
+        <item>254:KE:كينيا</item>
+        <item>996:KG:قيرغيزستان</item>
+        <item>855:KH:كمبوديا</item>
+        <item>686:KI:كيريباتي</item>
+        <item>269:KM:جزر القمر</item>
+        <item>1:KN:سانت كيتس ونيفس</item>
+        <item>850:KP:كوريا الشمالية</item>
+        <item>82:KR:كوريا الجنوبية</item>
+        <item>965:KW:الكويت</item>
+        <item>1:KY:جزر كايمان</item>
+        <item>7:KZ:كازاخستان</item>
+        <item>856:LA:لاوس</item>
+        <item>961:LB:لبنان</item>
+        <item>1:LC:سانت لوسيا</item>
+        <item>423:LI:ليختنشتاين</item>
+        <item>94:LK:سري لانكا</item>
+        <item>231:LR:ليبيريا</item>
+        <item>266:LS:ليسوتو</item>
+        <item>370:LT:ليتوانيا</item>
+        <item>352:LU:لوكسمبورغ</item>
+        <item>371:LV:لاتفيا</item>
+        <item>218:LY:ليبيا</item>
+        <item>212:MA:المغرب</item>
+        <item>377:MC:موناكو</item>
+        <item>373:MD:مولدوفا</item>
+        <item>382:ME:مونتينيجرو</item>
+        <item>261:MG:مدغشقر</item>
+        <item>692:MH:جزر مارشال</item>
+        <item>389:MK:مقدونيا</item>
+        <item>223:ML:مالي</item>
+        <item>95:MM:ميانمار</item>
+        <item>976:MN:منغوليا</item>
+        <item>853:MO:مكاوي</item>
+        <item>1:MP:جزر ماريانا الشمالية</item>
+        <item>596:MQ:مارتينيك</item>
+        <item>222:MR:موريتانيا</item>
+        <item>1:MS:مونتسيرات</item>
+        <item>356:MT:مالطا</item>
+        <item>230:MU:موريتيوس</item>
+        <item>960:MV:المالديف</item>
+        <item>265:MW:مالاوي</item>
+        <item>52:MX:المكسيك</item>
+        <item>60:MY:ماليزيا</item>
+        <item>258:MZ:موزمبيق</item>
+        <item>264:NA:ناميبيا</item>
+        <item>687:NC:كاليدونيا الجديدة</item>
+        <item>227:NE:النيجر</item>
+        <item>672:NF:جزيرة نورفولك</item>
+        <item>234:NG:نيجيريا</item>
+        <item>505:NI:نيكاراجوا</item>
+        <item>31:NL:هولندا</item>
+        <item>47:NO:النرويج</item>
+        <item>977:NP:نيبال</item>
+        <item>674:NR:ناورو</item>
+        <item>683:NU:نيوي</item>
+        <item>64:NZ:نيوزيلندا</item>
+        <item>968:OM:عمان</item>
+        <item>507:PA:باناما</item>
+        <item>51:PE:بيرو</item>
+        <item>689:PF:بولينسيا الفرنسية</item>
+        <item>675:PG:بابوا غينيا الجديدة</item>
+        <item>63:PH:الفلبين</item>
+        <item>92:PK:باكستان</item>
+        <item>48:PL:بولندا</item>
+        <item>508:PM:سانت بيير وميكولون</item>
+        <item>1:PR:بورتو ريكو</item>
+        <item>970:PS:فلسطين</item>
+        <item>351:PT:البرتغال</item>
+        <item>680:PW:بالاو</item>
+        <item>595:PY:باراغواي</item>
+        <item>974:QA:قطر</item>
+        <item>262:RE:جزيرة ريونيون</item>
+        <item>40:RO:رومانيا</item>
+        <item>381:RS:صربيا</item>
+        <item>7:RU:روسيا</item>
+        <item>250:RW:رواندا</item>
+        <item>966:SA:المملكة العربية السعودية</item>
+        <item>677:SB:جزر سليمان</item>
+        <item>248:SC:سيشيل</item>
+        <item>249:SD:السودان</item>
+        <item>46:SE:السويد</item>
+        <item>65:SG:سنغافورة</item>
+        <item>290:SH:سانت هيلينا</item>
+        <item>386:SI:سلوفينيا</item>
+        <item>421:SK:سلوفاكيا</item>
+        <item>232:SL:سيراليون</item>
+        <item>378:SM:سان مارينو</item>
+        <item>221:SN:السنغال</item>
+        <item>252:SO:الصومال</item>
+        <item>597:SR:سورينام</item>
+        <item>211:SS:جنوب السودان</item>
+        <item>239:ST:ساو تومي وبرينسيبي</item>
+        <item>503:SV:السلفادور</item>
+        <item>1:SX:سانت مارتن</item>
+        <item>963:SY:سوريا</item>
+        <item>268:SZ:سوازيلند</item>
+        <item>1:TC:جزر توركس وكايكوس</item>
+        <item>235:TD:تشاد</item>
+        <item>228:TG:توغو</item>
+        <item>66:TH:تايلاندا</item>
+        <item>992:TJ:طاجيكستان</item>
+        <item>690:TK:توكيلو</item>
+        <item>670:TL:تيمور-ليشتي</item>
+        <item>993:TM:تركمانستان</item>
+        <item>216:TN:تونس</item>
+        <item>676:TO:تونغا</item>
+        <item>90:TR:تركيا</item>
+        <item>1:TT:ترينيداد وتوباغو</item>
+        <item>688:TV:توفالو</item>
+        <item>886:TW:تايوان</item>
+        <item>255:TZ:تانزانيا</item>
+        <item>380:UA:أوكرانيا</item>
+        <item>256:UG:أوغندا</item>
+        <item>1:US:الولايات المتحدة</item>
+        <item>598:UY:الأوروغواي</item>
+        <item>998:UZ:أوزبكستان</item>
+        <item>1:VC:سانت فنسنت وجزر غرينادين</item>
+        <item>58:VE:فنزويلا</item>
+        <item>1:VG:الجزر العذراء البريطانية</item>
+        <item>1:VI:الجزر العذراء الأمريكية</item>
+        <item>84:VN:فيتنام</item>
+        <item>678:VU:فانواتو</item>
+        <item>681:WF:واليس وفوتونا</item>
+        <item>685:WS:ساموا</item>
+        <item>967:YE:اليمن</item>
+        <item>262:YT:مايوت</item>
+        <item>27:ZA:جنوب أفريقيا</item>
+        <item>260:ZM:زامبيا</item>
+        <item>263:ZW:زمبابوي</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">بدء</string>
+    <string name="com_accountkit_button_cancel">إلغاء</string>
+    <string name="com_accountkit_button_confirm">تأكيد</string>
+    <string name="com_accountkit_button_continue">متابعة</string>
+    <string name="com_accountkit_button_log_in">تسجيل الدخول</string>
+    <string name="com_accountkit_button_next">التالي</string>
+    <string name="com_accountkit_button_ok">موافق</string>
+    <string name="com_accountkit_button_resend">إرسال رمز جديد</string>
+    <string name="com_accountkit_button_resend_sms">إعادة إرسال رسالة SMS</string>
+    <string name="com_accountkit_button_send">إرسال</string>
+    <string name="com_accountkit_button_send_code_in_fb">إرسال الرمز على فيسبوك</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">اضغط على "إرسال الرمز" في فيسبوك لإرسال إشعار إلى حساب فيسبوك المرتبط برقم الهاتف الذي أدخلته.</string>
+    <string name="com_accountkit_button_start">بدء</string>
+    <string name="com_accountkit_button_start_over">حاول مرة أخرى</string>
+    <string name="com_accountkit_button_submit">تقديم</string>
+    <string name="com_accountkit_check_email">فتح البريد الإلكتروني</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+     اضغط على %1$s لقبول &lt;a href="%2$s">شروط&lt;/a> &lt;a href="%3$s">سياسة بيانات&lt;/a> و&lt;a href="%4$s">استخدام ملفات تعريف الارتباط&lt;/a> لفيسبوك.
+  </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+    اضغط على %1$s لقبول &lt;a href="%2$s">شروط&lt;/a> &lt;a href="%3$s">خصوصية بيانات&lt;/a> و&lt;a href="%4$s">استخدام ملفات تعريف الارتباط&lt;/a> لفيسبوك و&lt;a href="%5$s">سياسة خصوصية&lt;/a> %6$s.
+  </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+    اضغط على %1$s لقبول &lt;a href="%2$s">شروط&lt;/a> &lt;a href="%3$s">خصوصية بيانات&lt;/a> و&lt;a href="%4$s">استخدام ملفات تعريف الارتباط&lt;/a> لفيسبوك و&lt;a href="%5$s">سياسة خصوصية&lt;/a> و&lt;a href="%6$s">شروط خدمة&lt;/a> %7$s.
+  </string>
+    <string name="com_accountkit_confirmation_code_text">إعادة إرسال الرمز</string>
+    <string name="com_accountkit_confirmation_code_title">أدخل الرمز</string>
+    <string name="com_accountkit_email_invalid">عنوان البريد الإلكتروني غير صحيح. يرجى المحاولة مرة أخرى.</string>
+    <string name="com_accountkit_email_loading_title">جارٍ إرسال بريد إلكتروني…</string>
+    <string name="com_accountkit_email_login_retry_title">قم بتأكيد بريدك الإلكتروني</string>
+    <string name="com_accountkit_email_login_text">
+      اضغط على %1$s للحصول على رسالة تأكيد عبر البريد الإلكتروني من Account Kit by Facebook لمساعدتك على استخدام %2$s. لا يتطلب الأمر وجود حساب فيسبوك لاستخدامه. &lt;a href="%3$s">تعرف على كيفية استخدام فيسبوك لمعلوماتك&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">أدخل عنوان بريدك الإلكتروني</string>
+    <string name="com_accountkit_email_not_received">إعادة إرسال البريد الإلكتروني</string>
+    <string name="com_accountkit_email_verify_title">افتح البريد الإلكتروني الذي تم إرساله وقم بتأكيد عنوانك</string>
+    <string name="com_accountkit_error_title">عذراً، حدث خطأ ما.</string>
+    <string name="com_accountkit_facebook_code_entry_title">أدخل الرمز الذي تم إرساله من فيسبوك</string>
+    <string name="com_accountkit_phone_loading_title">جارٍ إرسال الرمز…</string>
+    <string name="com_accountkit_phone_login_retry_title">تأكيد رقم هاتفك</string>
+    <string name="com_accountkit_phone_login_text">
+    اضغط على %1$s للحصول على رسالة تأكيد عبر SMS من Account Kit by Facebook لمساعدتك على استخدام %2$s. لا يتطلب الأمر وجود حساب فيسبوك لاستخدامه. يتم تطبيق أسعار الرسائل وبيانات الاتصال. &lt;a href="%3$s">تعرف على كيفية استخدام فيسبوك لمعلوماتك&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">أدخل رقم هاتفك</string>
+    <string name="com_accountkit_resend_email_text">إرسال بريد إلكتروني جديد</string>
+    <string name="com_accountkit_resend_title">نأسف لذلك. جرّب هذه الخيارات للمتابعة.</string>
+    <string name="com_accountkit_return_title">عودة إلى %1$s…</string>
+    <string name="com_accountkit_sent_title">تم الإرسال!</string>
+    <string name="com_accountkit_success_title">تم!</string>
+    <string name="com_accountkit_toolbar_title">تسجيل الدخول إلى %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        تعذر علينا\ التحقق من رمزك. يرجى إعادة المحاولة:
+    </string>
+    <string name="com_accountkit_verify_title">جارٍ التحقق من الرمز…</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2014-present, Facebook, Inc. All rights reserved.
+
+    You are hereby granted a non-exclusive, worldwide, royalty-free license to use,
+    copy, modify, and distribute this software in source code or binary form for use
+    in connection with the web services and APIs provided by Facebook.
+
+    As with any software that integrates with the Facebook platform, your use of
+    this software is subject to the Facebook Developer Principles and Policies
+    [http://developers.facebook.com/policy/]. This copyright notice shall be
+    included in all copies or substantial portions of the software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+    FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+    COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+    IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="208dp"
+    android:height="208dp"
+    android:viewportHeight="208"
+    android:viewportWidth="208">
+
+    <path
+        android:pathData="M104,204 C159.228,204,204,159.228,204,104 C204,48.7715,159.228,4,104,4
+C48.7715,4,4,48.7715,4,104 C4,159.228,48.7715,204,104,204 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="8" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M97.9577,149.07 L110.042,149.07 Q111.042,149.07,111.042,150.07 L111.042,
+        162.155 Q111.042,163.155,110.042,163.155 L97.9577,163.155
+Q96.9577,163.155,96.9577,162.155 L96.9577,150.07 Q96.9577,149.07,97.9577,149.07
+Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M97.9577,149.07 L110.042,149.07 Q111.042,149.07,111.042,150.07 L111.042,
+        162.155
+Q111.042,163.155,110.042,163.155 L97.9577,163.155
+Q96.9577,163.155,96.9577,162.155 L96.9577,150.07 Q96.9577,149.07,97.9577,149.07
+Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M96.9577,44.8451 L111.042,44.8451 L107.521,137.803 L100.479,137.803 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1" />
+</vector>

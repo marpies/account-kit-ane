@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Ανδόρρα</item>
+        <item>971:AE:Ηνωμένα Αραβικά Εμιράτα</item>
+        <item>93:AF:Αφγανιστάν</item>
+        <item>1:AG:Αντίγκουα</item>
+        <item>1:AI:Ανγκουίλα</item>
+        <item>355:AL:Αλβανία</item>
+        <item>374:AM:Αρμενία</item>
+        <item>244:AO:Αγκόλα</item>
+        <item>54:AR:Αργεντινή</item>
+        <item>1:AS:Αμερικανική Σαμόα</item>
+        <item>43:AT:Αυστρία</item>
+        <item>61:AU:Αυστραλία</item>
+        <item>297:AW:Αρούμπα</item>
+        <item>994:AZ:Αζερμπαϊτζάν</item>
+        <item>387:BA:Βοσνία και Ερζεγοβίνη</item>
+        <item>1:BB:Μπαρμπάντος</item>
+        <item>880:BD:Μπαγκλαντές</item>
+        <item>32:BE:Βέλγιο</item>
+        <item>226:BF:Μπουρκίνα Φάσο</item>
+        <item>359:BG:Βουλγαρία</item>
+        <item>973:BH:Μπαχρέιν</item>
+        <item>257:BI:Μπουρούντι</item>
+        <item>229:BJ:Μπενίν</item>
+        <item>1:BM:Βερμούδες</item>
+        <item>673:BN:Μπρουνέι</item>
+        <item>591:BO:Βολιβία</item>
+        <item>599:BQ:Mπονέρ, Άγιος Ευστάθιος και Σάμπα</item>
+        <item>55:BR:Βραζιλία</item>
+        <item>1:BS:Μπαχάμες</item>
+        <item>975:BT:Μπουτάν</item>
+        <item>267:BW:Μποτσουάνα</item>
+        <item>375:BY:Λευκορωσία</item>
+        <item>501:BZ:Μπελίζε</item>
+        <item>1:CA:Καναδάς</item>
+        <item>243:CD:Λαϊκή Δημοκρατία του Κονγκό</item>
+        <item>236:CF:Κεντρική Αφρικανική Δημοκρατία</item>
+        <item>242:CG:Δημοκρατία του Κονγκό</item>
+        <item>41:CH:Ελβετία</item>
+        <item>225:CI:Ακτή Ελεφαντοστού</item>
+        <item>682:CK:Νήσοι Κουκ</item>
+        <item>56:CL:Χιλή</item>
+        <item>237:CM:Καμερούν</item>
+        <item>86:CN:Κίνα</item>
+        <item>57:CO:Κολομβία</item>
+        <item>506:CR:Κόστα Ρίκα</item>
+        <item>53:CU:Κούβα</item>
+        <item>238:CV:Πράσινο Ακρωτήριο</item>
+        <item>599:CW:Κουρασάο</item>
+        <item>357:CY:Κύπρος</item>
+        <item>420:CZ:Δημοκρατία της Τσεχίας</item>
+        <item>49:DE:Γερμανία</item>
+        <item>253:DJ:Τζιμπουτί</item>
+        <item>45:DK:Δανία</item>
+        <item>1:DM:Ντομίνικα</item>
+        <item>1:DO:Δομινικανή Δημοκρατία</item>
+        <item>213:DZ:Αλγερία</item>
+        <item>593:EC:Εκουαδόρ</item>
+        <item>372:EE:Εσθονία</item>
+        <item>20:EG:Αίγυπτος</item>
+        <item>212:EH:Δυτική Σαχάρα</item>
+        <item>291:ER:Ερυθραία</item>
+        <item>34:ES:Ισπανία</item>
+        <item>251:ET:Αιθιοπία</item>
+        <item>358:FI:Φινλανδία</item>
+        <item>679:FJ:Φίτζι</item>
+        <item>500:FK:Νήσοι Φόκλαντ</item>
+        <item>691:FM:Ομόσπονδες Πολιτείες της Μικρονησίας</item>
+        <item>298:FO:Νησιά Φερόες</item>
+        <item>33:FR:Γαλλία</item>
+        <item>241:GA:Γκαμπόν</item>
+        <item>44:GB:Ηνωμένο Βασίλειο</item>
+        <item>1:GD:Γρενάδα</item>
+        <item>995:GE:Γεωργία</item>
+        <item>594:GF:Γαλλική Γουιάνα</item>
+        <item>44:GG:Γκέρνσεϊ</item>
+        <item>233:GH:Γκάνα</item>
+        <item>350:GI:Γιβραλτάρ</item>
+        <item>299:GL:Γροιλανδία</item>
+        <item>220:GM:Γκάμπια</item>
+        <item>224:GN:Γουινέα</item>
+        <item>590:GP:Γουαδελούπη</item>
+        <item>240:GQ:Ισημερινή Γουινέα</item>
+        <item>30:GR:Ελλάδα</item>
+        <item>502:GT:Γουατεμάλα</item>
+        <item>1:GU:Γκουάμ</item>
+        <item>245:GW:Γουϊνέα-Μπισσάου</item>
+        <item>592:GY:Γουιάνα</item>
+        <item>852:HK:Χονγκ Κονγκ</item>
+        <item>504:HN:Ονδούρα</item>
+        <item>385:HR:Κροατία</item>
+        <item>509:HT:Αϊτή</item>
+        <item>36:HU:Ουγγαρία</item>
+        <item>62:ID:Ινδονησία</item>
+        <item>353:IE:Ιρλανδία</item>
+        <item>972:IL:Ισραήλ</item>
+        <item>44:IM:Νησί του Μαν</item>
+        <item>91:IN:Ινδία</item>
+        <item>246:IO:Βρετανικό Έδαφος Ινδικού Ωκεανού</item>
+        <item>964:IQ:Ιράκ</item>
+        <item>98:IR:Ιράν</item>
+        <item>354:IS:Ισλανδία</item>
+        <item>39:IT:Ιταλία</item>
+        <item>44:JE:Τζέρζι</item>
+        <item>1:JM:Τζαμάικα</item>
+        <item>962:JO:Ιορδανία</item>
+        <item>81:JP:Ιαπωνία</item>
+        <item>254:KE:Κένυα</item>
+        <item>996:KG:Κιργιστάν</item>
+        <item>855:KH:Καμπότζη</item>
+        <item>686:KI:Κιριμπάτι</item>
+        <item>269:KM:Κομόρες</item>
+        <item>1:KN:Άγιος Χριστόφορος και Νέβις</item>
+        <item>850:KP:Βόρεια Κορέα</item>
+        <item>82:KR:Νότια Κορέα</item>
+        <item>965:KW:Κουβέιτ</item>
+        <item>1:KY:Νησιά Καϊμάν</item>
+        <item>7:KZ:Καζακστάν</item>
+        <item>856:LA:Λάος</item>
+        <item>961:LB:Λίβανος</item>
+        <item>1:LC:Αγία Λουκία</item>
+        <item>423:LI:Λιχτενστάιν</item>
+        <item>94:LK:Σρι Λάνκα</item>
+        <item>231:LR:Λιβερία</item>
+        <item>266:LS:Λεσότο</item>
+        <item>370:LT:Λιθουανία</item>
+        <item>352:LU:Λουξεμβούργο</item>
+        <item>371:LV:Λετονία</item>
+        <item>218:LY:Λιβύη</item>
+        <item>212:MA:Μαρόκο</item>
+        <item>377:MC:Μονακό</item>
+        <item>373:MD:Μολδαβία</item>
+        <item>382:ME:Μαυροβούνιο</item>
+        <item>261:MG:Μαδαγασκάρη</item>
+        <item>692:MH:Νήσοι Μάρσαλ</item>
+        <item>389:MK:πΓΔΜ</item>
+        <item>223:ML:Μάλι</item>
+        <item>95:MM:Μιανμάρ</item>
+        <item>976:MN:Μογγολία</item>
+        <item>853:MO:Μακάο</item>
+        <item>1:MP:Βόρειες Μαριάνες Νήσοι</item>
+        <item>596:MQ:Μαρτινίκα</item>
+        <item>222:MR:Μαυριτανία</item>
+        <item>1:MS:Μοντσεράτ</item>
+        <item>356:MT:Μάλτα</item>
+        <item>230:MU:Μαυρίκιος</item>
+        <item>960:MV:Μαλδίβες</item>
+        <item>265:MW:Μαλάουι</item>
+        <item>52:MX:Μεξικό</item>
+        <item>60:MY:Μαλαισία</item>
+        <item>258:MZ:Μοζαμβίκη</item>
+        <item>264:NA:Ναμίμπια</item>
+        <item>687:NC:Νέα Καληδονία</item>
+        <item>227:NE:Νίγηρας</item>
+        <item>672:NF:Νήσος Νόρφολκ</item>
+        <item>234:NG:Νιγηρία</item>
+        <item>505:NI:Νικαράγουα</item>
+        <item>31:NL:Ολλανδία</item>
+        <item>47:NO:Νορβηγία</item>
+        <item>977:NP:Νεπάλ</item>
+        <item>674:NR:Ναουρού</item>
+        <item>683:NU:Νιούε</item>
+        <item>64:NZ:Νέα Ζηλανδία</item>
+        <item>968:OM:Ομάν</item>
+        <item>507:PA:Παναμάς</item>
+        <item>51:PE:Περού</item>
+        <item>689:PF:Γαλλική Πολυνησία</item>
+        <item>675:PG:Παπούα Νέα Γουινέα</item>
+        <item>63:PH:Φιλιππίνες</item>
+        <item>92:PK:Πακιστάν</item>
+        <item>48:PL:Πολωνία</item>
+        <item>508:PM:Σεν Πιέρ και Μικελόν</item>
+        <item>1:PR:Πουέρτο Ρίκο</item>
+        <item>970:PS:Παλαιστίνη</item>
+        <item>351:PT:Πορτογαλία</item>
+        <item>680:PW:Παλάου</item>
+        <item>595:PY:Παραγουάη</item>
+        <item>974:QA:Κατάρ</item>
+        <item>262:RE:Ρεϊνιόν</item>
+        <item>40:RO:Ρουμανία</item>
+        <item>381:RS:Σερβία</item>
+        <item>7:RU:Ρωσία</item>
+        <item>250:RW:Ρουάντα</item>
+        <item>966:SA:Σαουδική Αραβία</item>
+        <item>677:SB:Νησιά του Σολωμόντα</item>
+        <item>248:SC:Σεϋχέλλες</item>
+        <item>249:SD:Σουδάν</item>
+        <item>46:SE:Σουηδία</item>
+        <item>65:SG:Σιγκαπούρη</item>
+        <item>290:SH:Αγία Ελένη</item>
+        <item>386:SI:Σλοβενία</item>
+        <item>421:SK:Σλοβακία</item>
+        <item>232:SL:Σιέρα Λεόνε</item>
+        <item>378:SM:Σαν Μαρίνο</item>
+        <item>221:SN:Σενεγάλη</item>
+        <item>252:SO:Σομαλία</item>
+        <item>597:SR:Σουρινάμ</item>
+        <item>211:SS:Νότιο Σουδάν</item>
+        <item>239:ST:Σάο Τομέ και Πρίνσιπε</item>
+        <item>503:SV:Ελ Σαλβαδόρ</item>
+        <item>1:SX:Άγιος Μαρτίνος</item>
+        <item>963:SY:Συρία</item>
+        <item>268:SZ:Σουαζιλάνδη</item>
+        <item>1:TC:Νήσοι Τερκ και Κάικος</item>
+        <item>235:TD:Τσαντ</item>
+        <item>228:TG:Τόγκο</item>
+        <item>66:TH:Ταϊλάνδη</item>
+        <item>992:TJ:Τατζικιστάν</item>
+        <item>690:TK:Τοκελάου</item>
+        <item>670:TL:Ανατολικό Τιμόρ</item>
+        <item>993:TM:Τουρκμενιστάν</item>
+        <item>216:TN:Τυνησία</item>
+        <item>676:TO:Τόνγκα</item>
+        <item>90:TR:Τουρκία</item>
+        <item>1:TT:Τρινιντάντ και Τομπάγκο</item>
+        <item>688:TV:Τουβαλού</item>
+        <item>886:TW:Ταϊβάν</item>
+        <item>255:TZ:Τανζανία</item>
+        <item>380:UA:Ουκρανία</item>
+        <item>256:UG:Ουγκάντα</item>
+        <item>1:US:Ηνωμένες Πολιτείες</item>
+        <item>598:UY:Ουρουγουάη</item>
+        <item>998:UZ:Ουζμπεκιστάν</item>
+        <item>1:VC:Άγιος Βικέντιος και Γρεναδίνες</item>
+        <item>58:VE:Βενεζουέλα</item>
+        <item>1:VG:Βρετανικές Παρθένοι Νήσοι</item>
+        <item>1:VI:Αμερικανικές Παρθένοι Νήσοι</item>
+        <item>84:VN:Βιετνάμ</item>
+        <item>678:VU:Βανουάτου</item>
+        <item>681:WF:Ουάλις και Φουτούνα</item>
+        <item>685:WS:Σαμόα</item>
+        <item>967:YE:Υεμένη</item>
+        <item>262:YT:Μαγιότ</item>
+        <item>27:ZA:Νότια Αφρική</item>
+        <item>260:ZM:Ζάμπια</item>
+        <item>263:ZW:Ζιμπάμπουε</item>
+    </string-array>
+    <string name="com_accountkit_button_begin">Έναρξη</string>
+    <string name="com_accountkit_button_cancel">Άκυρο</string>
+    <string name="com_accountkit_button_confirm">Επιβεβαίωση</string>
+    <string name="com_accountkit_button_continue">Συνέχεια</string>
+    <string name="com_accountkit_button_log_in">Σύνδεση</string>
+    <string name="com_accountkit_button_next">Επόμενο</string>
+    <string name="com_accountkit_button_ok">OK</string>
+    <string name="com_accountkit_button_resend">Αποστολή νέου κωδικού</string>
+    <string name="com_accountkit_button_resend_sms">Επανάληψη αποστολής SMS</string>
+    <string name="com_accountkit_button_send">Αποστολή</string>
+    <string name="com_accountkit_button_send_code_in_fb">Αποστολή κωδικού στο Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Πατήστε Στείλτε τον κωδικό στο Facebook για να σταλεί μια ειδοποίηση στο λογαριασμό Facebook που είναι συνδεδεμένος με τον αριθμό τηλεφώνου τον οποίο καταχωρήσατε.</string>
+    <string name="com_accountkit_button_start">Έναρξη</string>
+    <string name="com_accountkit_button_start_over">Προσπαθήστε ξανά.</string>
+    <string name="com_accountkit_button_submit">Υποβολή</string>
+    <string name="com_accountkit_check_email">Ανοίξτε το email σας</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Πατήστε %1$s για να δηλώσετε ότι συμφωνείτε με τους &lt;a href="%2$s">Όρους&lt;/a>, την &lt;a href="%3$s">Πολιτική δεδομένων&lt;/a> και τη &lt;a href="%4$s">χρήση των cookies&lt;/a> του Facebook.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Πατήστε %1$s για να δηλώσετε ότι συμφωνείτε με τους &lt;a href="%2$s">Όρους&lt;/a>, την &lt;a href="%3$s">Πολιτική δεδομένων&lt;/a>, τη &lt;a href="%4$s">χρήση των cookies&lt;/a> και την &lt;a href="%5$s">Πολιτική απορρήτου&lt;/a> του Facebook του %6$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Πατήστε %1$s για να δηλώσετε ότι συμφωνείτε με τους &lt;a href="%2$s">Όρους&lt;/a>, την &lt;a href="%3$s">Πολιτική δεδομένων&lt;/a>, τη &lt;a href="%4$s">χρήση των cookies&lt;/a>, την &lt;a href="%5$s">Πολιτική απορρήτου&lt;/a> και τους &lt;a href="%6$s">Όρους της υπηρεσίας&lt;/a> του Facebook του %7$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Ξαναστείλτε τον κωδικό</string>
+    <string name="com_accountkit_confirmation_code_title">Εισαγάγετε τον κωδικό σας</string>
+    <string name="com_accountkit_email_invalid">Αυτό το email δεν είναι σωστό. Προσπαθήστε ξανά.</string>
+    <string name="com_accountkit_email_loading_title">Αποστολή email…</string>
+    <string name="com_accountkit_email_login_retry_title">Επιβεβαιώστε το email σας</string>
+    <string name="com_accountkit_email_login_text">
+      Πατήστε %1$s για να λάβετε μια επιβεβαίωση μέσω email από το Account Kit του Facebook, ώστε να χρησιμοποιήσετε το %2$s. Δεν χρειάζεστε λογαριασμό στο Facebook. &lt;a href="%3$s">Μάθετε πώς χρησιμοποιεί τα στοιχεία σας το Facebook&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">Γράψτε τη διεύθυνση email σας</string>
+    <string name="com_accountkit_email_not_received">Επανάληψη αποστολής email</string>
+    <string name="com_accountkit_email_verify_title">Ανοίξτε το email που σας στείλαμε και επιβεβαιώστε τη διεύθυνσή σας</string>
+    <string name="com_accountkit_error_title">Λυπούμαστε, παρουσιάστηκε κάποιο πρόβλημα.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Εισαγάγετε τον κωδικό σας από το Facebook</string>
+    <string name="com_accountkit_phone_loading_title">Γίνεται αποστολή του κωδικού σας…</string>
+    <string name="com_accountkit_phone_login_retry_title">Επιβεβαιώστε τον αριθμό τηλεφώνου σας</string>
+    <string name="com_accountkit_phone_login_text">
+        Πατήστε %1$s για να λάβετε μια επιβεβαίωση μέσω SMS από το Account Kit του Facebook, ώστε να χρησιμοποιήσετε το %2$s. Δεν χρειάζεστε λογαριασμό στο Facebook. Ίσως ισχύουν χρεώσεις μηνυμάτων και δεδομένων. &lt;a href="%3$s">Μάθετε πώς χρησιμοποιεί τα στοιχεία σας το Facebook&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">Γράψτε τον αριθμό τηλεφώνου σας</string>
+    <string name="com_accountkit_resend_email_text">Αποστολή νέου email</string>
+    <string name="com_accountkit_resend_title">Λυπούμαστε. Δοκιμάστε αυτές τις επιλογές για να συνεχίσετε.</string>
+    <string name="com_accountkit_return_title">Επιστροφή στο %1$s…</string>
+    <string name="com_accountkit_sent_title">Στάλθηκε!</string>
+    <string name="com_accountkit_success_title">Ολοκληρώθηκε!</string>
+    <string name="com_accountkit_toolbar_title">Συνδεθείτε στο %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        Δεν μπορέσαμε να\nεπαληθεύσουμε τον κωδικό σας.\nΠροσπαθήστε ξανά:
+    </string>
+    <string name="com_accountkit_verify_title">Γίνεται επαλήθευση του κωδικού σας…</string>
+</resources>
