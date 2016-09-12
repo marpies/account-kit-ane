@@ -1,4 +1,4 @@
-/*
+/**
  * Copyright 2016 Marcel Piestansky (http://marpies.com)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,13 +14,20 @@
  * limitations under the License.
  */
 
-package com.marpies.ane.facebook.accountkit.data;
+package com.marpies.ane.facebook.accountkit.utils;
 
-public class AccountKitEvent {
+public class StringUtils {
 
-	public static final String INIT = "init";
-	public static final String LOGIN_SUCCESS = "loginSuccess";
-	public static final String LOGIN_CANCEL = "loginCancel";
-	public static final String LOGIN_ERROR = "loginError";
+	public static String getEventErrorJSON( final int listenerID, String errorMessage ) {
+		return String.format( "{ \"listenerID\": %d, \"errorMessage\": \"%s\" }",
+				listenerID,
+				/* The error message may contain line breaks - these need
+				 * to be removed so that JSON parsing errors do not occur */
+				removeLineBreaks( errorMessage ) );
+	}
+
+	private static String removeLineBreaks( String message ) {
+		return message.replace( "\n", "" ).replace( "\r", "" );
+	}
 
 }

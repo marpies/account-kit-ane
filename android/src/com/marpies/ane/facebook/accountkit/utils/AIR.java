@@ -56,6 +56,10 @@ public class AIR {
 		mContext.getActivity().startActivity( intent );
 	}
 
+	public static void startActivityForResult( Intent intent, int requestCode ) {
+		mContext.getActivity().startActivityForResult( intent, requestCode );
+	}
+
 	/**
 	 *
 	 *

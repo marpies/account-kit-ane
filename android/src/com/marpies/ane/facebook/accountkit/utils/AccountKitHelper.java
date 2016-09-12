@@ -17,11 +17,13 @@
 package com.marpies.ane.facebook.accountkit.utils;
 
 import com.facebook.accountkit.AccountKit;
+import com.facebook.accountkit.ui.AccountKitActivity;
 import com.marpies.ane.facebook.accountkit.data.AccountKitEvent;
 
 public class AccountKitHelper implements AccountKit.InitializeCallback {
 
 	private String mResponseType;
+	private String mAuthorizationCode;
 
 	private static AccountKitHelper mInstance = new AccountKitHelper();
 
@@ -51,6 +53,25 @@ public class AccountKitHelper implements AccountKit.InitializeCallback {
 	public void onInitialized() {
 		AIR.log( "AccountKitHelper::onInitialized" );
 		AIR.dispatchEvent( AccountKitEvent.INIT );
+	}
+
+	public AccountKitActivity.ResponseType getResponseType() {
+		if( mResponseType == null ) throw new IllegalStateException( "AccountKitHelper must be initialized with response type first." );
+
+		if( isAccessTokenResponse() ) return AccountKitActivity.ResponseType.TOKEN;
+		return AccountKitActivity.ResponseType.CODE;
+	}
+
+	public boolean isAccessTokenResponse() {
+		return "accessToken".equals( mResponseType );
+	}
+
+	public String getAuthorizationCode() {
+		return mAuthorizationCode;
+	}
+
+	public void setAuthorizationCode( String authorizationCode ) {
+		mAuthorizationCode = authorizationCode;
 	}
 
 }

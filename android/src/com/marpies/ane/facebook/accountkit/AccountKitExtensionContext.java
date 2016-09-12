@@ -31,6 +31,7 @@ public class AccountKitExtensionContext extends FREContext {
 		Map<String, FREFunction> functions = new HashMap<String, FREFunction>();
 
 		functions.put( "init", new InitFunction() );
+		functions.put( "login", new LoginFunction() );
 
 		return functions;
 	}

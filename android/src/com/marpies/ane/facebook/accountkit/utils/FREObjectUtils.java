@@ -172,4 +172,60 @@ public class FREObjectUtils {
 		return null;
 	}
 
+	public static String getStringProperty( FREObject object, String propertyName ) {
+		try {
+			FREObject propertyValue = object.getProperty( propertyName );
+			if( propertyValue == null ) return null;
+			return getString( propertyValue );
+		} catch( FRETypeMismatchException e ) {
+			e.printStackTrace();
+		} catch( FREInvalidObjectException e ) {
+			e.printStackTrace();
+		} catch( FREASErrorException e ) {
+			e.printStackTrace();
+		} catch( FRENoSuchNameException e ) {
+			e.printStackTrace();
+		} catch( FREWrongThreadException e ) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+
+	public static String[] getArrayStringProperty( FREObject object, String propertyName ) {
+		try {
+			FREObject propertyValue = object.getProperty( propertyName );
+			if( propertyValue == null ) return null;
+			return getArrayOfString( (FREArray)propertyValue );
+		} catch( FRETypeMismatchException e ) {
+			e.printStackTrace();
+		} catch( FREInvalidObjectException e ) {
+			e.printStackTrace();
+		} catch( FREASErrorException e ) {
+			e.printStackTrace();
+		} catch( FRENoSuchNameException e ) {
+			e.printStackTrace();
+		} catch( FREWrongThreadException e ) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+
+	public static Boolean getBooleanProperty( FREObject object, String propertyName ) {
+		try {
+			FREObject propertyValue = object.getProperty( propertyName );
+			return getBoolean( propertyValue );
+		} catch( FRETypeMismatchException e ) {
+			e.printStackTrace();
+		} catch( FREInvalidObjectException e ) {
+			e.printStackTrace();
+		} catch( FREASErrorException e ) {
+			e.printStackTrace();
+		} catch( FRENoSuchNameException e ) {
+			e.printStackTrace();
+		} catch( FREWrongThreadException e ) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+
 }
