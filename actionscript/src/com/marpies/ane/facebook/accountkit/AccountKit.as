@@ -38,6 +38,9 @@ package com.marpies.ane.facebook.accountkit {
 
         /* Event codes */
         private static const INIT:String = "init";
+        private static const LOGIN_SUCCESS:String = "loginSuccess";
+        private static const LOGIN_CANCEL:String = "loginCancel";
+        private static const LOGIN_ERROR:String = "loginError";
 
         /* Callbacks */
         private static var mCallbackMap:Dictionary;
@@ -112,6 +115,21 @@ package com.marpies.ane.facebook.accountkit {
         }
 
         /**
+         *
+         * @param configuration
+         * @param callback
+         */
+        public static function login( configuration:AKConfiguration, callback:Function ):void {
+            if( !isSupported ) return;
+            validateExtensionContext();
+
+            CONFIG::ane {
+                if( callback === null ) throw new ArgumentError( "Parameter callback cannot be null." );
+                mContext.call( "login", configuration, registerCallback( callback ) );
+            }
+        }
+
+        /**
          * Disposes native extension context.
          */
         public static function dispose():void {
@@ -159,6 +177,9 @@ package com.marpies.ane.facebook.accountkit {
          */
 
         private static function onStatus( event:StatusEvent ):void {
+            var json:Object;
+            var callback:Function;
+            var loginResult:AKLoginResult;
             switch( event.code ) {
                 case INIT:
                     if( mInitCallback !== null ) {
@@ -166,6 +187,39 @@ package com.marpies.ane.facebook.accountkit {
                         mInitCallback = null;
                     }
                     return;
+                case LOGIN_SUCCESS:
+                    json = JSON.parse( event.level );
+                    loginResult = new AKLoginResult();
+                    if( "accessToken" in json ) {
+                        loginResult.mAccessToken = AKAccessToken.fromJSON( json.accessToken );
+                    }
+                    if( "authCode" in json ) {
+                        loginResult.mAuthorizationCode = json.authCode;
+                    }
+                    loginResult.mAuthorizationState = json.authState;
+                    triggerLoginCallback( json.callbackId, loginResult );
+                    return;
+                case LOGIN_CANCEL:
+                    loginResult = new AKLoginResult();
+                    loginResult.mCancelled = true;
+                    triggerLoginCallback( int( event.level ), loginResult );
+                    return;
+                case LOGIN_ERROR:
+                    json = JSON.parse( event.level );
+                    loginResult = new AKLoginResult();
+                    loginResult.mErrorMessage = json.errorMessage;
+                    triggerLoginCallback( json.listenerID, loginResult );
+                    return;
+            }
+        }
+
+        /**
+         * Triggers callback with login result.
+         */
+        private static function triggerLoginCallback( callbackId:int, result:AKLoginResult ):void {
+            var callback:Function = getCallback( callbackId );
+            if( callback !== null ) {
+                callback( result );
             }
         }
 
@@ -196,13 +250,15 @@ package com.marpies.ane.facebook.accountkit {
         }
 
         /**
-         * Gets registered callback with given ID.
+         * Gets registered callback with given ID. It is removed from the map immediately if it exists.
          * @param callbackID ID of the callback to retrieve.
          * @return Callback registered with given ID, or <code>null</code> if no such callback exists.
          */
         private static function getCallback( callbackID:int ):Function {
             if( callbackID == -1 || !(callbackID in mCallbackMap) ) return null;
-            return mCallbackMap[callbackID];
+            var callback:Function = mCallbackMap[callbackID];
+            unregisterCallback( callbackID );
+            return callback;
         }
 
         /**
