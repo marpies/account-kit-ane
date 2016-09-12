@@ -9,6 +9,7 @@ package com.marpies.ane.facebook.accountkit {
         private var mInitialAuthState:String;
         private var mInitialEmail:String;
         private var mDefaultCountryCode:String;
+        private var mPhoneNumberCountryCode:String;
         private var mInitialPhoneNumber:String;
         private var mEnableFacebookNotification:Boolean;
         private var mTitleType:String;
@@ -101,10 +102,21 @@ package com.marpies.ane.facebook.accountkit {
         }
 
         /**
-         * @private
+         * Initial phone number's country code.
          */
-        public function set initialPhoneNumber( value:String ):void {
-            mInitialPhoneNumber = value;
+        public function get initialPhoneNumberCountryCode():String {
+            return mPhoneNumberCountryCode;
+        }
+
+        /**
+         * Pre-fill the user's phone number in the SMS login flow.
+         */
+        public function setInitialPhoneNumber( countryCode:String, phoneNumber:String ):void {
+            if( countryCode === null ) throw new ArgumentError( "Parameter countryCode cannot be null." );
+            if( phoneNumber === null ) throw new ArgumentError( "Parameter phoneNumber cannot be null." );
+
+            mPhoneNumberCountryCode = countryCode;
+            mInitialPhoneNumber = phoneNumber;
         }
 
         /**
