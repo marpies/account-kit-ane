@@ -172,6 +172,19 @@ package com.marpies.ane.facebook.accountkit {
          */
 
         /**
+         * Current access token, or <code>null</code> if it does not exist.
+         */
+        public static function get accessToken():AKAccessToken {
+            if( !isSupported || !initExtensionContext() ) return null;
+
+            CONFIG::ane {
+                var json:String = mContext.call( "getAccessToken" ) as String;
+                return AKAccessToken.fromJSON( JSON.parse( json ) );
+            }
+            return null;
+        }
+
+        /**
          * Extension version.
          */
         public static function get version():String {

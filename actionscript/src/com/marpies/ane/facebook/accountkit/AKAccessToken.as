@@ -52,6 +52,13 @@ package com.marpies.ane.facebook.accountkit {
         }
 
         /**
+         * String output.
+         */
+        public function toString():String {
+            return "{AKAccessToken token: " + mToken + " accountId: " + mAccountId + "}";
+        }
+
+        /**
          * The AccountKit account id associated with this access token.
          */
         public function get accountId():String {
