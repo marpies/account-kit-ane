@@ -115,9 +115,26 @@ package com.marpies.ane.facebook.accountkit {
         }
 
         /**
+         * Starts the login process with the given configuration.
          *
-         * @param configuration
-         * @param callback
+         * @param configuration Configuration object.
+         * @param callback Function with the following signature:
+         * <listing version="3.0">
+         * function onAccountKitLoginResult( result:AKLoginResult ):void {
+         *     if( result.wasCancelled ) {
+         *         // login cancelled
+         *     } else if( result.errorMessage != null ) {
+         *         // error logging in
+         *     } else {
+         *         // success
+         *         trace( result.authorizationState );
+         *         trace( result.accessToken );
+         *         trace( result.authorizationCode );
+         *     }
+         * };
+         * </listing>
+         *
+         * @see com.marpies.ane.facebook.accountkit.AKConfiguration
          */
         public static function login( configuration:AKConfiguration, callback:Function ):void {
             if( !isSupported ) return;
