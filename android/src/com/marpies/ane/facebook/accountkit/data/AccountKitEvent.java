@@ -22,5 +22,6 @@ public class AccountKitEvent {
 	public static final String LOGIN_SUCCESS = "loginSuccess";
 	public static final String LOGIN_CANCEL = "loginCancel";
 	public static final String LOGIN_ERROR = "loginError";
+	public static final String ACCOUNT_REQUEST = "accountRequest";
 
 }
