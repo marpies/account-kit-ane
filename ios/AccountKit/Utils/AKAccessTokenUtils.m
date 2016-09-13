@@ -24,7 +24,7 @@
     json[@"accountId"] = accessToken.accountID;
     json[@"applicationId"] = accessToken.applicationID;
     json[@"token"] = accessToken.tokenString;
-    json[@"lastRefreshTime"] = @([accessToken lastRefresh].timeIntervalSince1970);
+    json[@"lastRefreshTime"] = @([accessToken lastRefresh].timeIntervalSince1970 * 1000); // Multiply to get milliseconds
     json[@"tokenRefreshIntervalInSeconds"] = @(accessToken.tokenRefreshInterval);
     return [MPStringUtils getJSONString:json];;
 }
