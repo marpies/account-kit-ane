@@ -66,6 +66,36 @@
     }
 }
 
+- (void) getCurrentAccount:(int) callbackId {
+    /* Querying account when user is not logged in results in (error == nil) and (account.id == nil)
+     * so we do not even make that request and respond with an error right away */
+    if( [mAccountKit currentAccessToken] == nil ) {
+        [AIRAccountKit log:@"AccountKitHelper | cannot request account, no user is logged in"];
+        [AIRAccountKit dispatchEvent:AK_ACCOUNT_REQUEST withMessage:[MPStringUtils getEventErrorJSONString:callbackId errorMessage:@"User is not logged in."]];
+        return;
+    }
+    [mAccountKit requestAccount:^(id<AKFAccount>  _Nullable account, NSError * _Nullable error) {
+        if( error == nil ) {
+            [AIRAccountKit log:@"AccountKitHelper | success retrieving account info"];
+            NSMutableDictionary* response = [NSMutableDictionary dictionary];
+            response[@"id"] = [account accountID];
+            if( [account emailAddress] != nil ) {
+                response[@"email"] = [account emailAddress];
+            }
+            /* Even though [account phoneNumber] may not be nil, its properties (phoneNumber, countryCode) may be nil so we must check it */
+            if( ([account phoneNumber] != nil) && ([[account phoneNumber] phoneNumber] != nil) && ([[account phoneNumber] countryCode] != nil) ) {
+                response[@"phoneNumber"] = [[account phoneNumber] phoneNumber];
+                response[@"phoneNumberCountryCode"] = [[account phoneNumber] countryCode];
+            }
+            response[@"callbackId"] = @(callbackId);
+            [AIRAccountKit dispatchEvent:AK_ACCOUNT_REQUEST withMessage:[MPStringUtils getJSONString:response]];
+        } else {
+            [AIRAccountKit log:[NSString stringWithFormat:@"AccountKitHelper | error retrieving account info: %@", error.localizedDescription]];
+            [AIRAccountKit dispatchEvent:AK_ACCOUNT_REQUEST withMessage:[MPStringUtils getEventErrorJSONString:callbackId errorMessage:error.localizedDescription]];
+        }
+    }];
+}
+
 - (void) logout {
     [AIRAccountKit log:@"AccountKitHelper::logout"];
     [mAccountKit logOut];

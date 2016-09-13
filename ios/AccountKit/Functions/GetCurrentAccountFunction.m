@@ -14,15 +14,13 @@
  * limitations under the License.
  */
 
-#ifndef AccountKitEvent_h
-#define AccountKitEvent_h
+#import "GetCurrentAccountFunction.h"
+#import <AIRExtHelpers/MPFREObjectUtils.h>
+#import "AIRAccountKit.h"
 
-#import <Foundation/Foundation.h>
-
-static NSString* const AK_INIT = @"init";
-static NSString* const AK_LOGIN_SUCCESS = @"loginSuccess";
-static NSString* const AK_LOGIN_CANCEL = @"loginCancel";
-static NSString* const AK_LOGIN_ERROR = @"loginError";
-static NSString* const AK_ACCOUNT_REQUEST = @"accountRequest";
-
-#endif /* AccountKitEvent_h */
+FREObject fbak_getCurrentAccount( FREContext context, void* functionData, uint32_t argc, FREObject argv[] ) {
+    [AIRAccountKit log:@"AccountKit::getCurrentAccount"];
+    int callbackId = [MPFREObjectUtils getInt:argv[0]];
+    [[[AIRAccountKit sharedInstance] helper] getCurrentAccount:callbackId];
+    return nil;
+}

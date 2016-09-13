@@ -22,6 +22,7 @@
 
 - (nullable id) initWithResponseType:(nonnull NSString*) responseType;
 - (void) loginWithConfiguration:(nonnull FREObject) config callbackId:(int) callbackId;
+- (void) getCurrentAccount:(int) callbackId;
 - (void) logout;
 - (nullable NSString*) getAccessTokenJSON;
 

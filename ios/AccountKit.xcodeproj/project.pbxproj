@@ -17,6 +17,7 @@
 		C3E0755F1D874FA3000D87E4 /* GetAccessTokenFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E0755E1D874FA3000D87E4 /* GetAccessTokenFunction.m */; };
 		C3E075621D882140000D87E4 /* GetSdkVersionFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E075611D882140000D87E4 /* GetSdkVersionFunction.m */; };
 		C3E075651D88292A000D87E4 /* LogoutFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E075641D88292A000D87E4 /* LogoutFunction.m */; };
+		C3E075681D883415000D87E4 /* GetCurrentAccountFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E075671D883415000D87E4 /* GetCurrentAccountFunction.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +54,8 @@
 		C3E075611D882140000D87E4 /* GetSdkVersionFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetSdkVersionFunction.m; sourceTree = "<group>"; };
 		C3E075631D88292A000D87E4 /* LogoutFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LogoutFunction.h; sourceTree = "<group>"; };
 		C3E075641D88292A000D87E4 /* LogoutFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LogoutFunction.m; sourceTree = "<group>"; };
+		C3E075661D883415000D87E4 /* GetCurrentAccountFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GetCurrentAccountFunction.h; sourceTree = "<group>"; };
+		C3E075671D883415000D87E4 /* GetCurrentAccountFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetCurrentAccountFunction.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +97,8 @@
 			children = (
 				C3073AE11BE2C77C00EC89B7 /* InitFunction.h */,
 				C3073AE21BE2C77C00EC89B7 /* InitFunction.m */,
+				C3E075661D883415000D87E4 /* GetCurrentAccountFunction.h */,
+				C3E075671D883415000D87E4 /* GetCurrentAccountFunction.m */,
 				C31977A31D870AD200BBEF05 /* LoginFunction.h */,
 				C31977A41D870AD200BBEF05 /* LoginFunction.m */,
 				C3E0755D1D874FA3000D87E4 /* GetAccessTokenFunction.h */,
@@ -205,6 +210,7 @@
 				C3E075651D88292A000D87E4 /* LogoutFunction.m in Sources */,
 				C3E075621D882140000D87E4 /* GetSdkVersionFunction.m in Sources */,
 				C31977AB1D872A8E00BBEF05 /* AKAccessTokenUtils.m in Sources */,
+				C3E075681D883415000D87E4 /* GetCurrentAccountFunction.m in Sources */,
 				C319779E1D82B42300BBEF05 /* AccountKitHelper.m in Sources */,
 				C3E0755F1D874FA3000D87E4 /* GetAccessTokenFunction.m in Sources */,
 			);
