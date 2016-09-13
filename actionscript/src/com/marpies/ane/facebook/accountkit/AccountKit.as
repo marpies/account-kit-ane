@@ -179,6 +179,7 @@ package com.marpies.ane.facebook.accountkit {
 
             CONFIG::ane {
                 var json:String = mContext.call( "getAccessToken" ) as String;
+                if( json === null ) return null;
                 return AKAccessToken.fromJSON( JSON.parse( json ) );
             }
             return null;
