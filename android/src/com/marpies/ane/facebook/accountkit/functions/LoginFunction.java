@@ -89,8 +89,6 @@ public class LoginFunction extends BaseFunction implements IActivityResultCallba
 				} else if( loginResult.getAuthorizationCode() != null ) {
 					addToResponse( response, "authCode", loginResult.getAuthorizationCode() );
 					AIR.log( "AccountKit | login got auth code: " + loginResult.getAuthorizationCode() );
-					/* Store the auth code, official sample app uses loginResult.getAuthorizationCode().substring( 0, 10 ) */
-					AccountKitHelper.getInstance().setAuthorizationCode( loginResult.getAuthorizationCode() );
 				}
 
 				AIR.log( "AccountKit | success logging in" );

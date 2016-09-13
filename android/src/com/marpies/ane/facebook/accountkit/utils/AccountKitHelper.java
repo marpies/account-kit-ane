@@ -23,7 +23,6 @@ import com.marpies.ane.facebook.accountkit.data.AccountKitEvent;
 public class AccountKitHelper implements AccountKit.InitializeCallback {
 
 	private String mResponseType;
-	private String mAuthorizationCode;
 
 	private static AccountKitHelper mInstance = new AccountKitHelper();
 
@@ -64,14 +63,6 @@ public class AccountKitHelper implements AccountKit.InitializeCallback {
 
 	public boolean isAccessTokenResponse() {
 		return "accessToken".equals( mResponseType );
-	}
-
-	public String getAuthorizationCode() {
-		return mAuthorizationCode;
-	}
-
-	public void setAuthorizationCode( String authorizationCode ) {
-		mAuthorizationCode = authorizationCode;
 	}
 
 }
