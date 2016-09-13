@@ -147,6 +147,17 @@ package com.marpies.ane.facebook.accountkit {
         }
 
         /**
+         * Logs out currently logged in account.
+         */
+        public static function logout():void {
+            if( !isSupported || !initExtensionContext() ) return;
+
+            CONFIG::ane {
+                mContext.call( "logout" );
+            }
+        }
+
+        /**
          * Disposes native extension context.
          */
         public static function dispose():void {
