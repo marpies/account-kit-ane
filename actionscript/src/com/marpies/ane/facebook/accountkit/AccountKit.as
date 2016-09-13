@@ -41,6 +41,7 @@ package com.marpies.ane.facebook.accountkit {
         private static const LOGIN_SUCCESS:String = "loginSuccess";
         private static const LOGIN_CANCEL:String = "loginCancel";
         private static const LOGIN_ERROR:String = "loginError";
+        private static const ACCOUNT_REQUEST:String = "accountRequest";
 
         /* Callbacks */
         private static var mCallbackMap:Dictionary;
@@ -147,6 +148,29 @@ package com.marpies.ane.facebook.accountkit {
         }
 
         /**
+         * Asynchronously returns Account Kit account information.
+         *
+         * @param callback Function with the following signature.
+         * <listing version="3.0">
+         * function onAccountKitAccountRetrieved( account:AKAccount, errorMessage:String ):void {
+         *     if( errorMessage == null ) {
+         *         trace( account.id, account.email, account.phoneNumber );
+         *     } else {
+         *         trace( errorMessage );
+         *     }
+         * };
+         * </listing>
+         */
+        public static function getCurrentAccount( callback:Function ):void {
+            if( !isSupported || !initExtensionContext() ) return;
+
+            CONFIG::ane {
+                if( callback === null ) throw new ArgumentError( "Parameter callback cannot be null." );
+                mContext.call( "getCurrentAccount", registerCallback( callback ) );
+            }
+        }
+
+        /**
          * Logs out currently logged in account.
          */
         public static function logout():void {
@@ -232,7 +256,6 @@ package com.marpies.ane.facebook.accountkit {
 
         private static function onStatus( event:StatusEvent ):void {
             var json:Object;
-            var callback:Function;
             var loginResult:AKLoginResult;
             switch( event.code ) {
                 case INIT:
@@ -263,6 +286,19 @@ package com.marpies.ane.facebook.accountkit {
                     loginResult = new AKLoginResult();
                     loginResult.mErrorMessage = json.errorMessage;
                     triggerLoginCallback( json.listenerID, loginResult );
+                    return;
+                case ACCOUNT_REQUEST:
+                    json = JSON.parse( event.level );
+                    var callbackId:int = ("callbackId" in json) ? json.callbackId : (("listenerID" in json) ? json.listenerID : -1);
+                    var callback:Function = getCallback( callbackId );
+                    if( callback !== null ) {
+                        if( "errorMessage" in json ) {
+                            callback( null, json.errorMessage );
+                        } else {
+                            var account:AKAccount = AKAccount.fromJSON( json );
+                            callback( account, null );
+                        }
+                    }
                     return;
             }
         }
