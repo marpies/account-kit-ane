@@ -14,15 +14,11 @@
  * limitations under the License.
  */
 
-#import <Foundation/Foundation.h>
-#import <AccountKit/AccountKit.h>
-#import <AIRExtHelpers/FlashRuntimeExtensions.h>
+#import "LogoutFunction.h"
+#import <AIRExtHelpers/MPFREObjectUtils.h>
+#import "AIRAccountKit.h"
 
-@interface AccountKitHelper : NSObject<AKFViewControllerDelegate>
-
-- (nullable id) initWithResponseType:(nonnull NSString*) responseType;
-- (void) loginWithConfiguration:(nonnull FREObject) config callbackId:(int) callbackId;
-- (void) logout;
-- (nullable NSString*) getAccessTokenJSON;
-
-@end
+FREObject fbak_logout( FREContext context, void* functionData, uint32_t argc, FREObject argv[] ) {
+    [[[AIRAccountKit sharedInstance] helper] logout];
+    return nil;
+}

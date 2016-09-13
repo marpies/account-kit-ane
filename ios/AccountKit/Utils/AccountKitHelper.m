@@ -66,6 +66,11 @@
     }
 }
 
+- (void) logout {
+    [AIRAccountKit log:@"AccountKitHelper::logout"];
+    [mAccountKit logOut];
+}
+
 - (NSString*) getAccessTokenJSON {
     id<AKFAccessToken> accessToken = [mAccountKit currentAccessToken];
     if( accessToken == nil ) return nil;
