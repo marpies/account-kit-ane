@@ -16,7 +16,7 @@
 -->
 
 <resources>
-    <string name="FACEBOOK_APP_ID">{app_id}</string>
-    <string name="ACCOUNT_KIT_CLIENT_TOKEN">client_token</string>
-    <string name="ak_login_protocol_scheme">ak{app_id}</string>
+    <string name="FACEBOOK_APP_ID">{FACEBOOK_APP_ID}</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">{ACCOUNT_KIT_CLIENT_TOKEN}</string>
+    <string name="ak_login_protocol_scheme">ak{FACEBOOK_APP_ID}</string>
 </resources>
