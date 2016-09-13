@@ -11,7 +11,10 @@
 		C319779A1D82B3FE00BBEF05 /* AccountKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C31977981D82B3FE00BBEF05 /* AccountKit.framework */; };
 		C319779E1D82B42300BBEF05 /* AccountKitHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = C319779D1D82B42300BBEF05 /* AccountKitHelper.m */; };
 		C31977A11D82B55800BBEF05 /* AIRAccountKit.m in Sources */ = {isa = PBXBuildFile; fileRef = C31977A01D82B55800BBEF05 /* AIRAccountKit.m */; };
+		C31977A51D870AD200BBEF05 /* LoginFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C31977A41D870AD200BBEF05 /* LoginFunction.m */; };
+		C31977AB1D872A8E00BBEF05 /* AKAccessTokenUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C31977AA1D872A8E00BBEF05 /* AKAccessTokenUtils.m */; };
 		C37509FA1C79388900516C15 /* AIRExtHelpers.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C37509F91C79388900516C15 /* AIRExtHelpers.framework */; };
+		C3E0755F1D874FA3000D87E4 /* GetAccessTokenFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E0755E1D874FA3000D87E4 /* GetAccessTokenFunction.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,8 +39,14 @@
 		C319779F1D82B55800BBEF05 /* AIRAccountKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRAccountKit.h; sourceTree = "<group>"; };
 		C31977A01D82B55800BBEF05 /* AIRAccountKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRAccountKit.m; sourceTree = "<group>"; };
 		C31977A21D82EC8400BBEF05 /* AccountKitEvent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AccountKitEvent.h; sourceTree = "<group>"; };
+		C31977A31D870AD200BBEF05 /* LoginFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginFunction.h; sourceTree = "<group>"; };
+		C31977A41D870AD200BBEF05 /* LoginFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginFunction.m; sourceTree = "<group>"; };
+		C31977A91D872A8E00BBEF05 /* AKAccessTokenUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AKAccessTokenUtils.h; path = Utils/AKAccessTokenUtils.h; sourceTree = "<group>"; };
+		C31977AA1D872A8E00BBEF05 /* AKAccessTokenUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AKAccessTokenUtils.m; path = Utils/AKAccessTokenUtils.m; sourceTree = "<group>"; };
 		C35331DE1B7BCE8A003A7521 /* libAccountKit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libAccountKit.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		C37509F91C79388900516C15 /* AIRExtHelpers.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AIRExtHelpers.framework; sourceTree = "<group>"; };
+		C3E0755D1D874FA3000D87E4 /* GetAccessTokenFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GetAccessTokenFunction.h; sourceTree = "<group>"; };
+		C3E0755E1D874FA3000D87E4 /* GetAccessTokenFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetAccessTokenFunction.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +88,10 @@
 			children = (
 				C3073AE11BE2C77C00EC89B7 /* InitFunction.h */,
 				C3073AE21BE2C77C00EC89B7 /* InitFunction.m */,
+				C31977A31D870AD200BBEF05 /* LoginFunction.h */,
+				C31977A41D870AD200BBEF05 /* LoginFunction.m */,
+				C3E0755D1D874FA3000D87E4 /* GetAccessTokenFunction.h */,
+				C3E0755E1D874FA3000D87E4 /* GetAccessTokenFunction.m */,
 			);
 			path = Functions;
 			sourceTree = "<group>";
@@ -88,6 +101,8 @@
 			children = (
 				C319779C1D82B42300BBEF05 /* AccountKitHelper.h */,
 				C319779D1D82B42300BBEF05 /* AccountKitHelper.m */,
+				C31977A91D872A8E00BBEF05 /* AKAccessTokenUtils.h */,
+				C31977AA1D872A8E00BBEF05 /* AKAccessTokenUtils.m */,
 			);
 			name = Utils;
 			sourceTree = "<group>";
@@ -175,8 +190,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				C3073AE81BE2C77C00EC89B7 /* InitFunction.m in Sources */,
+				C31977A51D870AD200BBEF05 /* LoginFunction.m in Sources */,
 				C31977A11D82B55800BBEF05 /* AIRAccountKit.m in Sources */,
+				C31977AB1D872A8E00BBEF05 /* AKAccessTokenUtils.m in Sources */,
 				C319779E1D82B42300BBEF05 /* AccountKitHelper.m in Sources */,
+				C3E0755F1D874FA3000D87E4 /* GetAccessTokenFunction.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

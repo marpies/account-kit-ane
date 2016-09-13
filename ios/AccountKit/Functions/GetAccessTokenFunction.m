@@ -14,14 +14,12 @@
  * limitations under the License.
  */
 
-#import <Foundation/Foundation.h>
-#import <AccountKit/AccountKit.h>
-#import <AIRExtHelpers/FlashRuntimeExtensions.h>
+#import "GetAccessTokenFunction.h"
+#import <AIRExtHelpers/MPFREObjectUtils.h>
+#import "AIRAccountKit.h"
 
-@interface AccountKitHelper : NSObject<AKFViewControllerDelegate>
-
-- (nullable id) initWithResponseType:(nonnull NSString*) responseType;
-- (void) loginWithConfiguration:(nonnull FREObject) config callbackId:(int) callbackId;
-- (nullable NSString*) getAccessTokenJSON;
-
-@end
+FREObject fbak_getAccessToken( FREContext context, void* functionData, uint32_t argc, FREObject argv[] ) {
+    NSString* accessTokenJSON = [[[AIRAccountKit sharedInstance] helper] getAccessTokenJSON];
+    if( accessTokenJSON == nil ) return nil;
+    return [MPFREObjectUtils getFREObjectFromNSString:accessTokenJSON];
+}

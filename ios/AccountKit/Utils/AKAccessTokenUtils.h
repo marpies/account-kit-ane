@@ -15,13 +15,10 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <AccountKit/AccountKit.h>
-#import <AIRExtHelpers/FlashRuntimeExtensions.h>
+#import <AccountKit/AKFAccessToken.h>
 
-@interface AccountKitHelper : NSObject<AKFViewControllerDelegate>
+@interface AKAccessTokenUtils : NSObject
 
-- (nullable id) initWithResponseType:(nonnull NSString*) responseType;
-- (void) loginWithConfiguration:(nonnull FREObject) config callbackId:(int) callbackId;
-- (nullable NSString*) getAccessTokenJSON;
++ (nullable NSString*) toJSON:(nonnull id<AKFAccessToken>) accessToken;
 
 @end

@@ -20,6 +20,7 @@
 #import <AIRExtHelpers/MPFREObjectUtils.h>
 #import <AIRExtHelpers/MPStringUtils.h>
 #import "AccountKitEvent.h"
+#import "AKAccessTokenUtils.h"
 
 @implementation AccountKitHelper {
     AKFAccountKit* mAccountKit;
@@ -63,6 +64,12 @@
     else {
         [self loginWithPhoneNumber:phoneNumber countryCode:phoneNumberCountryCode authState:authState];
     }
+}
+
+- (NSString*) getAccessTokenJSON {
+    id<AKFAccessToken> accessToken = [mAccountKit currentAccessToken];
+    if( accessToken == nil ) return nil;
+    return [AKAccessTokenUtils toJSON:accessToken];
 }
 
 # pragma mark - Private API

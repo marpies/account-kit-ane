@@ -14,14 +14,19 @@
  * limitations under the License.
  */
 
-#import <Foundation/Foundation.h>
-#import <AccountKit/AccountKit.h>
-#import <AIRExtHelpers/FlashRuntimeExtensions.h>
+#import "AKAccessTokenUtils.h"
+#import <AIRExtHelpers/MPStringUtils.h>
 
-@interface AccountKitHelper : NSObject<AKFViewControllerDelegate>
+@implementation AKAccessTokenUtils
 
-- (nullable id) initWithResponseType:(nonnull NSString*) responseType;
-- (void) loginWithConfiguration:(nonnull FREObject) config callbackId:(int) callbackId;
-- (nullable NSString*) getAccessTokenJSON;
++ (NSString*) toJSON:(id<AKFAccessToken>) accessToken {
+    NSMutableDictionary* json = [NSMutableDictionary dictionary];
+    json[@"accountId"] = accessToken.accountID;
+    json[@"applicationId"] = accessToken.applicationID;
+    json[@"token"] = accessToken.tokenString;
+    json[@"lastRefreshTime"] = @([accessToken lastRefresh].timeIntervalSince1970);
+    json[@"tokenRefreshIntervalInSeconds"] = @(accessToken.tokenRefreshInterval);
+    return [MPStringUtils getJSONString:json];;
+}
 
 @end
