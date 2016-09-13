@@ -20,7 +20,7 @@
 
 @interface AIRAccountKit : NSObject
 
-@property AccountKitHelper* helper;
+@property (nonatomic, nullable) AccountKitHelper* helper;
 
 + (nonnull instancetype) sharedInstance;
 + (void) dispatchEvent:(nullable const NSString*) eventName;

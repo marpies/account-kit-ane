@@ -14,13 +14,15 @@
  * limitations under the License.
  */
 
-#import <Foundation/Foundation.h>
-#import <AccountKit/AccountKit.h>
-#import <AIRExtHelpers/FlashRuntimeExtensions.h>
+#import "LoginFunction.h"
+#import <AIRExtHelpers/MPFREObjectUtils.h>
+#import "AIRAccountKit.h"
 
-@interface AccountKitHelper : NSObject<AKFViewControllerDelegate>
-
-- (nullable id) initWithResponseType:(nonnull NSString*) responseType;
-- (void) loginWithConfiguration:(nonnull FREObject) config callbackId:(int) callbackId;
-
-@end
+FREObject fbak_login( FREContext context, void* functionData, uint32_t argc, FREObject argv[] ) {
+    FREObject config = argv[0];
+    int callbackId = [MPFREObjectUtils getInt:argv[1]];
+    
+    [AIRAccountKit log:@"AccountKit::login"];
+    [[[AIRAccountKit sharedInstance] helper] loginWithConfiguration:config callbackId:callbackId];
+    return nil;
+}

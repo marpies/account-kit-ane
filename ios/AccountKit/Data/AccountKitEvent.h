@@ -20,5 +20,8 @@
 #import <Foundation/Foundation.h>
 
 static NSString* const AK_INIT = @"init";
+static NSString* const AK_LOGIN_SUCCESS = @"loginSuccess";
+static NSString* const AK_LOGIN_CANCEL = @"loginCancel";
+static NSString* const AK_LOGIN_ERROR = @"loginError";
 
 #endif /* AccountKitEvent_h */
