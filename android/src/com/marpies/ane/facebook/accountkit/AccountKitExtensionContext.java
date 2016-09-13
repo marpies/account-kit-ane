@@ -34,6 +34,7 @@ public class AccountKitExtensionContext extends FREContext {
 		functions.put( "login", new LoginFunction() );
 		functions.put( "getAccessToken", new GetAccessTokenFunction() );
 		functions.put( "getSdkVersion", new GetSdkVersionFunction() );
+		functions.put( "logout", new LogoutFunction() );
 
 		return functions;
 	}
