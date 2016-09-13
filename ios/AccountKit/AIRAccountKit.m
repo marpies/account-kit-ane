@@ -18,6 +18,7 @@
 #import "Functions/InitFunction.h"
 #import "Functions/LoginFunction.h"
 #import "Functions/GetAccessTokenFunction.h"
+#import "Functions/GetSdkVersionFunction.h"
 
 static BOOL AIRAccountKitLogEnabled = NO;
 FREContext AIRAccountKitExtContext = nil;
@@ -65,7 +66,8 @@ static AIRAccountKit* AIRAccountKitSharedInstance = nil;
 FRENamedFunction airAccountKitExtFunctions[] = {
     { (const uint8_t*) "init",            0, fbak_init },
     { (const uint8_t*) "login",           0, fbak_login },
-    { (const uint8_t*) "getAccessToken",  0, fbak_getAccessToken }
+    { (const uint8_t*) "getAccessToken",  0, fbak_getAccessToken },
+    { (const uint8_t*) "getSdkVersion",   0, fbak_getSdkVersion }
 };
 
 void AccountKitContextInitializer( void* extData, const uint8_t* ctxType, FREContext ctx, uint32_t* numFunctionsToSet, const FRENamedFunction** functionsToSet ) {

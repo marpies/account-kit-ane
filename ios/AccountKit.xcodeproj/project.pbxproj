@@ -15,6 +15,7 @@
 		C31977AB1D872A8E00BBEF05 /* AKAccessTokenUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C31977AA1D872A8E00BBEF05 /* AKAccessTokenUtils.m */; };
 		C37509FA1C79388900516C15 /* AIRExtHelpers.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C37509F91C79388900516C15 /* AIRExtHelpers.framework */; };
 		C3E0755F1D874FA3000D87E4 /* GetAccessTokenFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E0755E1D874FA3000D87E4 /* GetAccessTokenFunction.m */; };
+		C3E075621D882140000D87E4 /* GetSdkVersionFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E075611D882140000D87E4 /* GetSdkVersionFunction.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +48,8 @@
 		C37509F91C79388900516C15 /* AIRExtHelpers.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AIRExtHelpers.framework; sourceTree = "<group>"; };
 		C3E0755D1D874FA3000D87E4 /* GetAccessTokenFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GetAccessTokenFunction.h; sourceTree = "<group>"; };
 		C3E0755E1D874FA3000D87E4 /* GetAccessTokenFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetAccessTokenFunction.m; sourceTree = "<group>"; };
+		C3E075601D882140000D87E4 /* GetSdkVersionFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GetSdkVersionFunction.h; sourceTree = "<group>"; };
+		C3E075611D882140000D87E4 /* GetSdkVersionFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetSdkVersionFunction.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +95,8 @@
 				C31977A41D870AD200BBEF05 /* LoginFunction.m */,
 				C3E0755D1D874FA3000D87E4 /* GetAccessTokenFunction.h */,
 				C3E0755E1D874FA3000D87E4 /* GetAccessTokenFunction.m */,
+				C3E075601D882140000D87E4 /* GetSdkVersionFunction.h */,
+				C3E075611D882140000D87E4 /* GetSdkVersionFunction.m */,
 			);
 			path = Functions;
 			sourceTree = "<group>";
@@ -192,6 +197,7 @@
 				C3073AE81BE2C77C00EC89B7 /* InitFunction.m in Sources */,
 				C31977A51D870AD200BBEF05 /* LoginFunction.m in Sources */,
 				C31977A11D82B55800BBEF05 /* AIRAccountKit.m in Sources */,
+				C3E075621D882140000D87E4 /* GetSdkVersionFunction.m in Sources */,
 				C31977AB1D872A8E00BBEF05 /* AKAccessTokenUtils.m in Sources */,
 				C319779E1D82B42300BBEF05 /* AccountKitHelper.m in Sources */,
 				C3E0755F1D874FA3000D87E4 /* GetAccessTokenFunction.m in Sources */,
