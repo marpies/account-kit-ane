@@ -186,6 +186,18 @@ package com.marpies.ane.facebook.accountkit {
         }
 
         /**
+         * Native AccountKit SDK version.
+         */
+        public static function get sdkVersion():String {
+            if( !isSupported || !initExtensionContext() ) return null;
+
+            CONFIG::ane {
+                return mContext.call( "getSdkVersion" ) as String;
+            }
+            return null;
+        }
+
+        /**
          * Extension version.
          */
         public static function get version():String {
