@@ -42,6 +42,10 @@ package com.marpies.ane.facebook.accountkit {
         private static const LOGIN_CANCEL:String = "loginCancel";
         private static const LOGIN_ERROR:String = "loginError";
         private static const ACCOUNT_REQUEST:String = "accountRequest";
+        private static const SET_PREFERENCE:String  = "setPreference";
+        private static const LOAD_PREFERENCE:String  = "loadPreference";
+        private static const DELETE_PREFERENCE:String  = "deletePreference";
+        private static const LOAD_PREFERENCES:String  = "loadPreferences";
 
         /* Callbacks */
         private static var mCallbackMap:Dictionary;
@@ -207,6 +211,15 @@ package com.marpies.ane.facebook.accountkit {
          */
 
         /**
+         * Returns object that provides operations on user's preferences.
+         *
+         * @see com.marpies.ane.facebook.accountkit.AKAccountPreferences
+         */
+        public static function get accountPreferences():AKAccountPreferences {
+            return AKAccountPreferences.getInstance();
+        }
+
+        /**
          * Current access token, or <code>null</code> if it does not exist.
          */
         public static function get accessToken():AKAccessToken {
@@ -255,6 +268,58 @@ package com.marpies.ane.facebook.accountkit {
         /**
          *
          *
+         * Internal API
+         *
+         *
+         */
+
+        /**
+         * @private
+         */
+        internal static function setPreference( key:String, value:String, callback:Function ):void {
+            if( !isSupported || !initExtensionContext() ) return;
+
+            CONFIG::ane {
+                mContext.call( "setPreference", key, value, registerCallback( callback ) );
+            }
+        }
+
+        /**
+         * @private
+         */
+        internal static function loadPreference( key:String, callback:Function ):void {
+            if( !isSupported || !initExtensionContext() ) return;
+
+            CONFIG::ane {
+                mContext.call( "loadPreference", key, registerCallback( callback ) );
+            }
+        }
+
+        /**
+         * @private
+         */
+        internal static function loadPreferences( callback:Function ):void {
+            if( !isSupported || !initExtensionContext() ) return;
+
+            CONFIG::ane {
+                mContext.call( "loadPreferences", registerCallback( callback ) );
+            }
+        }
+
+        /**
+         * @private
+         */
+        internal static function deletePreference( key:String, callback:Function ):void {
+            if( !isSupported || !initExtensionContext() ) return;
+
+            CONFIG::ane {
+                mContext.call( "deletePreference", key, registerCallback( callback ) );
+            }
+        }
+
+        /**
+         *
+         *
          * Private API
          *
          *
@@ -262,6 +327,8 @@ package com.marpies.ane.facebook.accountkit {
 
         private static function onStatus( event:StatusEvent ):void {
             var json:Object;
+            var callbackId:int = -1;
+            var callback:Function = null;
             var loginResult:AKLoginResult;
             switch( event.code ) {
                 case INIT:
@@ -295,8 +362,8 @@ package com.marpies.ane.facebook.accountkit {
                     return;
                 case ACCOUNT_REQUEST:
                     json = JSON.parse( event.level );
-                    var callbackId:int = ("callbackId" in json) ? json.callbackId : (("listenerID" in json) ? json.listenerID : -1);
-                    var callback:Function = getCallback( callbackId );
+                    callbackId = getCallbackIdFromJSON( json );
+                    callback = getCallback( callbackId );
                     if( callback !== null ) {
                         if( "errorMessage" in json ) {
                             callback( null, json.errorMessage );
@@ -306,7 +373,79 @@ package com.marpies.ane.facebook.accountkit {
                         }
                     }
                     return;
+                case SET_PREFERENCE:
+                    json = JSON.parse( event.level );
+                    callbackId = getCallbackIdFromJSON( json );
+                    callback = getCallback( callbackId );
+                    if( callback !== null ) {
+                        if( "errorMessage" in json ) {
+                            callback( null, null, json.errorMessage );
+                        } else {
+                            callback( json.key, json.value, null );
+                        }
+                    }
+                    return;
+                case LOAD_PREFERENCE:
+                    json = JSON.parse( event.level );
+                    callbackId = getCallbackIdFromJSON( json );
+                    callback = getCallback( callbackId );
+                    if( callback !== null ) {
+                        if( "errorMessage" in json ) {
+                            callback( null, null, json.errorMessage );
+                        } else {
+                            callback( json.key, json.value, null );
+                        }
+                    }
+                    return;
+                case LOAD_PREFERENCES:
+                    json = JSON.parse( event.level );
+                    callbackId = getCallbackIdFromJSON( json );
+                    callback = getCallback( callbackId );
+                    if( callback !== null ) {
+                        if( "errorMessage" in json ) {
+                            callback( null, json.errorMessage );
+                        } else {
+                            callback( getPreferencesMap( json.preferences ), null );
+                        }
+                    }
+                    return;
+                case DELETE_PREFERENCE:
+                    json = JSON.parse( event.level );
+                    callbackId = getCallbackIdFromJSON( json );
+                    callback = getCallback( callbackId );
+                    if( callback !== null ) {
+                        if( "errorMessage" in json ) {
+                            callback( null, json.errorMessage );
+                        } else {
+                            callback( json.key, null );
+                        }
+                    }
+                    return;
             }
+        }
+
+        /**
+         * Returns map of key/value from array ( ["key1", "value1", "key2", "value2"] )
+         */
+        private static function getPreferencesMap( preferences:Object ):Object {
+            if( preferences === null ) return null;
+            var prefsArray:Array = preferences as Array;
+            if( prefsArray === null && preferences is String ) {
+                prefsArray = JSON.parse( preferences as String ) as Array;
+            }
+            if( prefsArray === null ) return null;
+            var result:Object = {};
+            var length:int = prefsArray.length;
+            for( var i:int = 0; i < length; ) {
+                var key:String = prefsArray[i++];
+                var value:String = prefsArray[i++];
+                result[key] = value;
+            }
+            return result;
+        }
+
+        public static function getCallbackIdFromJSON( json:Object ):int {
+            return ("callbackId" in json) ? json.callbackId : (("listenerID" in json) ? json.listenerID : -1);
         }
 
         /**
