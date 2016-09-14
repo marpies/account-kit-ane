@@ -243,7 +243,13 @@ package com.marpies.ane.facebook.accountkit {
          * Supported on iOS and Android.
          */
         public static function get isSupported():Boolean {
-            return iOS || ANDROID;
+            if( !iOS && !ANDROID ) return false;
+            if( !initExtensionContext() ) return false;
+            var result:Boolean;
+            CONFIG::ane {
+                result = mContext.call( "isSupported" ) as Boolean;
+            }
+            return result;
         }
 
         /**
