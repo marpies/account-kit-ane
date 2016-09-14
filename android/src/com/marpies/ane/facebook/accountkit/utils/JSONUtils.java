@@ -14,18 +14,21 @@
  * limitations under the License.
  */
 
-package com.marpies.ane.facebook.accountkit.data;
+package com.marpies.ane.facebook.accountkit.utils;
 
-public class AccountKitEvent {
+import org.json.JSONException;
+import org.json.JSONObject;
 
-	public static final String INIT = "init";
-	public static final String LOGIN_SUCCESS = "loginSuccess";
-	public static final String LOGIN_CANCEL = "loginCancel";
-	public static final String LOGIN_ERROR = "loginError";
-	public static final String ACCOUNT_REQUEST = "accountRequest";
-	public static final String SET_PREFERENCE = "setPreference";
-	public static final String LOAD_PREFERENCE = "loadPreference";
-	public static final String DELETE_PREFERENCE = "deletePreference";
-	public static final String LOAD_PREFERENCES = "loadPreferences";
+public class JSONUtils {
+
+	public static void addToJSON( JSONObject response, String key, Object value ) {
+		if( key != null && value != null ) {
+			try {
+				response.put( key, value );
+			} catch( JSONException e ) {
+				e.printStackTrace();
+			}
+		}
+	}
 
 }

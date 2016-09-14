@@ -37,6 +37,10 @@ public class AccountKitExtensionContext extends FREContext {
 		functions.put( "logout", new LogoutFunction() );
 		functions.put( "getCurrentAccount", new GetCurrentAccountFunction() );
 		functions.put( "isSupported", new IsSupportedFunction() );
+		functions.put( "setPreference", new SetPreferenceFunction() );
+		functions.put( "loadPreference", new LoadPreferenceFunction() );
+		functions.put( "deletePreference", new DeletePreferenceFunction() );
+		functions.put( "loadPreferences", new LoadPreferencesFunction() );
 
 		return functions;
 	}
