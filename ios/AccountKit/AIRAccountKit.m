@@ -22,6 +22,10 @@
 #import "Functions/LogoutFunction.h"
 #import "Functions/GetCurrentAccountFunction.h"
 #import "Functions/IsSupportedFunction.h"
+#import "Functions/SetPreferenceFunction.h"
+#import "Functions/LoadPreferenceFunction.h"
+#import "Functions/LoadPreferencesFunction.h"
+#import "Functions/DeletePreferenceFunction.h"
 
 static BOOL AIRAccountKitLogEnabled = NO;
 FREContext AIRAccountKitExtContext = nil;
@@ -73,7 +77,11 @@ FRENamedFunction airAccountKitExtFunctions[] = {
     { (const uint8_t*) "getSdkVersion",     0, fbak_getSdkVersion },
     { (const uint8_t*) "getCurrentAccount", 0, fbak_getCurrentAccount },
     { (const uint8_t*) "logout",            0, fbak_logout },
-    { (const uint8_t*) "isSupported",       0, fbak_isSupported }
+    { (const uint8_t*) "isSupported",       0, fbak_isSupported },
+    { (const uint8_t*) "setPreference",     0, fbak_setPreference },
+    { (const uint8_t*) "deletePreference",  0, fbak_deletePreference },
+    { (const uint8_t*) "loadPreference",    0, fbak_loadPreference },
+    { (const uint8_t*) "loadPreferences",   0, fbak_loadPreferences },
 };
 
 void AccountKitContextInitializer( void* extData, const uint8_t* ctxType, FREContext ctx, uint32_t* numFunctionsToSet, const FRENamedFunction** functionsToSet ) {

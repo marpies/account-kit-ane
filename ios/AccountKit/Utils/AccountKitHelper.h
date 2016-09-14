@@ -18,12 +18,17 @@
 #import <AccountKit/AccountKit.h>
 #import <AIRExtHelpers/FlashRuntimeExtensions.h>
 
-@interface AccountKitHelper : NSObject<AKFViewControllerDelegate>
+@interface AccountKitHelper : NSObject<AKFViewControllerDelegate, AKFAccountPreferencesDelegate>
 
 - (nullable id) initWithResponseType:(nonnull NSString*) responseType;
 - (void) loginWithConfiguration:(nonnull FREObject) config callbackId:(int) callbackId;
 - (void) getCurrentAccount:(int) callbackId;
 - (void) logout;
 - (nullable NSString*) getAccessTokenJSON;
+
+- (void) setPreference:(nonnull NSString*) key value:(nonnull NSString*) value callbackId:(int) callbackId;
+- (void) deletePreference:(nonnull NSString*) key callbackId:(int) callbackId;
+- (void) loadPreference:(nonnull NSString*) key callbackId:(int) callbackId;
+- (void) loadPreferences:(int) callbackId;
 
 @end

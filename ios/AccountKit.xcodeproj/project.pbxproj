@@ -19,6 +19,10 @@
 		C3E075651D88292A000D87E4 /* LogoutFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E075641D88292A000D87E4 /* LogoutFunction.m */; };
 		C3E075681D883415000D87E4 /* GetCurrentAccountFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E075671D883415000D87E4 /* GetCurrentAccountFunction.m */; };
 		C3F3E1401D8996F100657886 /* IsSupportedFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3F3E13F1D8996F100657886 /* IsSupportedFunction.m */; };
+		C3F3E1431D89B87900657886 /* SetPreferenceFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3F3E1421D89B87900657886 /* SetPreferenceFunction.m */; };
+		C3F3E1491D89D86000657886 /* LoadPreferenceFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3F3E1481D89D86000657886 /* LoadPreferenceFunction.m */; };
+		C3F3E14C1D89D8B400657886 /* LoadPreferencesFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3F3E14B1D89D8B400657886 /* LoadPreferencesFunction.m */; };
+		C3F3E14F1D89D8F800657886 /* DeletePreferenceFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = C3F3E14E1D89D8F800657886 /* DeletePreferenceFunction.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -59,6 +63,14 @@
 		C3E075671D883415000D87E4 /* GetCurrentAccountFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GetCurrentAccountFunction.m; sourceTree = "<group>"; };
 		C3F3E13E1D8996F100657886 /* IsSupportedFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IsSupportedFunction.h; sourceTree = "<group>"; };
 		C3F3E13F1D8996F100657886 /* IsSupportedFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IsSupportedFunction.m; sourceTree = "<group>"; };
+		C3F3E1411D89B87900657886 /* SetPreferenceFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SetPreferenceFunction.h; sourceTree = "<group>"; };
+		C3F3E1421D89B87900657886 /* SetPreferenceFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SetPreferenceFunction.m; sourceTree = "<group>"; };
+		C3F3E1471D89D86000657886 /* LoadPreferenceFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadPreferenceFunction.h; sourceTree = "<group>"; };
+		C3F3E1481D89D86000657886 /* LoadPreferenceFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadPreferenceFunction.m; sourceTree = "<group>"; };
+		C3F3E14A1D89D8B400657886 /* LoadPreferencesFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadPreferencesFunction.h; sourceTree = "<group>"; };
+		C3F3E14B1D89D8B400657886 /* LoadPreferencesFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadPreferencesFunction.m; sourceTree = "<group>"; };
+		C3F3E14D1D89D8F800657886 /* DeletePreferenceFunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeletePreferenceFunction.h; sourceTree = "<group>"; };
+		C3F3E14E1D89D8F800657886 /* DeletePreferenceFunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeletePreferenceFunction.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +124,14 @@
 				C3E075641D88292A000D87E4 /* LogoutFunction.m */,
 				C3F3E13E1D8996F100657886 /* IsSupportedFunction.h */,
 				C3F3E13F1D8996F100657886 /* IsSupportedFunction.m */,
+				C3F3E1411D89B87900657886 /* SetPreferenceFunction.h */,
+				C3F3E1421D89B87900657886 /* SetPreferenceFunction.m */,
+				C3F3E1471D89D86000657886 /* LoadPreferenceFunction.h */,
+				C3F3E1481D89D86000657886 /* LoadPreferenceFunction.m */,
+				C3F3E14A1D89D8B400657886 /* LoadPreferencesFunction.h */,
+				C3F3E14B1D89D8B400657886 /* LoadPreferencesFunction.m */,
+				C3F3E14D1D89D8F800657886 /* DeletePreferenceFunction.h */,
+				C3F3E14E1D89D8F800657886 /* DeletePreferenceFunction.m */,
 			);
 			path = Functions;
 			sourceTree = "<group>";
@@ -209,14 +229,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3F3E1491D89D86000657886 /* LoadPreferenceFunction.m in Sources */,
 				C3073AE81BE2C77C00EC89B7 /* InitFunction.m in Sources */,
 				C31977A51D870AD200BBEF05 /* LoginFunction.m in Sources */,
+				C3F3E1431D89B87900657886 /* SetPreferenceFunction.m in Sources */,
 				C3F3E1401D8996F100657886 /* IsSupportedFunction.m in Sources */,
 				C31977A11D82B55800BBEF05 /* AIRAccountKit.m in Sources */,
 				C3E075651D88292A000D87E4 /* LogoutFunction.m in Sources */,
 				C3E075621D882140000D87E4 /* GetSdkVersionFunction.m in Sources */,
+				C3F3E14C1D89D8B400657886 /* LoadPreferencesFunction.m in Sources */,
 				C31977AB1D872A8E00BBEF05 /* AKAccessTokenUtils.m in Sources */,
 				C3E075681D883415000D87E4 /* GetCurrentAccountFunction.m in Sources */,
+				C3F3E14F1D89D8F800657886 /* DeletePreferenceFunction.m in Sources */,
 				C319779E1D82B42300BBEF05 /* AccountKitHelper.m in Sources */,
 				C3E0755F1D874FA3000D87E4 /* GetAccessTokenFunction.m in Sources */,
 			);

@@ -24,8 +24,7 @@
 
 @implementation AccountKitHelper {
     AKFAccountKit* mAccountKit;
-    UIViewController<AKFViewController>* mPendingLoginViewController;
-    NSString* mAuthorizationCode;
+    AKFAccountPreferences* mPreferences;
     int mCallbackId;
 }
 
@@ -105,6 +104,52 @@
     id<AKFAccessToken> accessToken = [mAccountKit currentAccessToken];
     if( accessToken == nil ) return nil;
     return [AKAccessTokenUtils toJSON:accessToken];
+}
+
+# pragma mark - Account preferences
+
+- (void) setPreference:(nonnull NSString*) key value:(nonnull NSString*) value callbackId:(int) callbackId {
+    mPreferences = [mAccountKit accountPreferences];
+    if( mPreferences == nil ) {
+        [AIRAccountKit dispatchEvent:AK_SET_PREFERENCE withMessage:[MPStringUtils getEventErrorJSONString:callbackId errorMessage:@"User is not logged in, cannot set preference."]];
+        return;
+    }
+    mPreferences.delegate = self;
+    mCallbackId = callbackId;
+    [mPreferences setPreferenceForKey:key value:value];
+}
+
+- (void) deletePreference:(nonnull NSString*) key callbackId:(int) callbackId {
+    mPreferences = [mAccountKit accountPreferences];
+    if( mPreferences == nil ) {
+        [AIRAccountKit dispatchEvent:AK_DELETE_PREFERENCE withMessage:[MPStringUtils getEventErrorJSONString:callbackId errorMessage:@"User is not logged in, cannot delete preference."]];
+        return;
+    }
+    mPreferences.delegate = self;
+    mCallbackId = callbackId;
+    [mPreferences deletePreferenceForKey:key];
+}
+
+- (void) loadPreference:(nonnull NSString*) key callbackId:(int) callbackId {
+    mPreferences = [mAccountKit accountPreferences];
+    if( mPreferences == nil ) {
+        [AIRAccountKit dispatchEvent:AK_LOAD_PREFERENCE withMessage:[MPStringUtils getEventErrorJSONString:callbackId errorMessage:@"User is not logged in, cannot load preference."]];
+        return;
+    }
+    mPreferences.delegate = self;
+    mCallbackId = callbackId;
+    [mPreferences loadPreferenceForKey:key];
+}
+
+- (void) loadPreferences:(int) callbackId {
+    mPreferences = [mAccountKit accountPreferences];
+    if( mPreferences == nil ) {
+        [AIRAccountKit dispatchEvent:AK_LOAD_PREFERENCES withMessage:[MPStringUtils getEventErrorJSONString:callbackId errorMessage:@"User is not logged in, cannot load preferences."]];
+        return;
+    }
+    mPreferences.delegate = self;
+    mCallbackId = callbackId;
+    [mPreferences loadPreferences];
 }
 
 # pragma mark - Private API
@@ -200,6 +245,118 @@
 - (void)viewControllerDidCancel:(UIViewController<AKFViewController> *)viewController {
     [AIRAccountKit log:@"AccountKit::viewControllerDidCancel"];
     [AIRAccountKit dispatchEvent:AK_LOGIN_CANCEL withMessage:[NSString stringWithFormat:@"%i", mCallbackId]];
+    mCallbackId = -1;
+}
+
+# pragma mark - AKFAccountPreferencesDelegate
+
+/*!
+ @abstract Notifies the delegate that a single preference was deleted.
+ 
+ @param accountPreferences The AKFAccountPreferences instance that deleted the preference.
+ @param key The key for the deleted preference.
+ @param error The error if the preference could not be deleted.
+ */
+- (void)accountPreferences:(nonnull AKFAccountPreferences *)accountPreferences
+ didDeletePreferenceForKey:(nonnull NSString *)key
+                     error:(nullable NSError *)error {
+    if( error != nil ) {
+        [AIRAccountKit log:[NSString stringWithFormat:@"AccountKit | failed to delete preference: %@", error.localizedDescription]];
+        [AIRAccountKit dispatchEvent:AK_DELETE_PREFERENCE withMessage:[MPStringUtils getEventErrorJSONString:mCallbackId errorMessage:error.localizedDescription]];
+    } else {
+        [AIRAccountKit log:@"AccountKit | successfully deleted preference"];
+        NSMutableDictionary* response = [NSMutableDictionary dictionary];
+        response[@"callbackId"] = @(mCallbackId);
+        response[@"key"] = key;
+        [AIRAccountKit dispatchEvent:AK_DELETE_PREFERENCE withMessage:[MPStringUtils getJSONString:response]];
+    }
+    mCallbackId = -1;
+}
+
+/*!
+ @abstract Notifies the delegate that preferences were loaded.
+ 
+ @param accountPreferences The AKFAccountPreferences instance that loaded the preferences.
+ @param preferences The dictionary of preferences.
+ @param error The error if the preferences could not be loaded.
+ */
+- (void)accountPreferences:(nonnull AKFAccountPreferences *)accountPreferences
+        didLoadPreferences:(nullable NSDictionary<NSString *, NSString *> *)preferences
+                     error:(nullable NSError *)error {
+    if( error != nil ) {
+        [AIRAccountKit log:[NSString stringWithFormat:@"AccountKit | failed to load preferences: %@", error.localizedDescription]];
+        [AIRAccountKit dispatchEvent:AK_LOAD_PREFERENCES withMessage:[MPStringUtils getEventErrorJSONString:mCallbackId errorMessage:error.localizedDescription]];
+    } else {
+        [AIRAccountKit log:@"AccountKit | successfully loaded preferences"];
+        NSDictionary* prefs = (preferences == nil) ? [NSDictionary dictionary] : [preferences copy];
+        NSMutableArray* prefsArray = [NSMutableArray array];
+        for( NSString* key in prefs ) {
+            [prefsArray addObject:key];
+            [prefsArray addObject:preferences[key]];
+        }
+        NSMutableDictionary* response = [NSMutableDictionary dictionary];
+        response[@"callbackId"] = @(mCallbackId);
+        response[@"preferences"] = prefsArray;
+        [AIRAccountKit dispatchEvent:AK_LOAD_PREFERENCES withMessage:[MPStringUtils getJSONString:response]];
+    }
+    mCallbackId = -1;
+}
+
+/*!
+ @abstract Notifies the delegate that a single preference was loaded.
+ 
+ @param accountPreferences The AKFAccountPreferences instance that loaded the preference.
+ @param key The key for the loaded preference.
+ @param value The value for the loaded preference.
+ @param error The error if the preference could not be loaded.
+ */
+- (void)accountPreferences:(nonnull AKFAccountPreferences *)accountPreferences
+   didLoadPreferenceForKey:(nonnull NSString *)key
+                     value:(nullable NSString *)value
+                     error:(nullable NSError *)error {
+    if( error != nil ) {
+        [AIRAccountKit log:[NSString stringWithFormat:@"AccountKit | failed to load preference: %@", error.localizedDescription]];
+        [AIRAccountKit dispatchEvent:AK_LOAD_PREFERENCE withMessage:[MPStringUtils getEventErrorJSONString:mCallbackId errorMessage:error.localizedDescription]];
+    } else {
+        if( value == nil ) {
+            [AIRAccountKit log:[NSString stringWithFormat:@"Value for key '%@' not found.", key]];
+            [AIRAccountKit dispatchEvent:AK_LOAD_PREFERENCE withMessage:[MPStringUtils getEventErrorJSONString:mCallbackId errorMessage:[NSString stringWithFormat:@"Value for key '%@' not found.", key]]];
+        } else {
+            [AIRAccountKit log:@"AccountKit | successfully loaded preference"];
+            NSMutableDictionary* response = [NSMutableDictionary dictionary];
+            response[@"callbackId"] = @(mCallbackId);
+            response[@"key"] = key;
+            response[@"value"] = value;
+            [AIRAccountKit dispatchEvent:AK_LOAD_PREFERENCE withMessage:[MPStringUtils getJSONString:response]];
+        }
+    }
+    mCallbackId = -1;
+
+}
+
+/*!
+ @abstract Notifies the delegate that a single preference was set.
+ 
+ @param accountPreferences The AKFAccountPreferences instance that set the preference.
+ @param key The key for the set preference.
+ @param value The value for the set preference.
+ @param error The error if the preference could not be set.
+ */
+- (void)accountPreferences:(nonnull AKFAccountPreferences *)accountPreferences
+    didSetPreferenceForKey:(nonnull NSString *)key
+                     value:(nonnull NSString *)value
+                     error:(nullable NSError *)error {
+    if( error != nil ) {
+        [AIRAccountKit log:[NSString stringWithFormat:@"AccountKit | failed to set preference: %@", error.localizedDescription]];
+        [AIRAccountKit dispatchEvent:AK_SET_PREFERENCE withMessage:[MPStringUtils getEventErrorJSONString:mCallbackId errorMessage:error.localizedDescription]];
+    } else {
+        [AIRAccountKit log:@"AccountKit | successfully set preference"];
+        NSMutableDictionary* response = [NSMutableDictionary dictionary];
+        response[@"callbackId"] = @(mCallbackId);
+        response[@"key"] = key;
+        response[@"value"] = value;
+        [AIRAccountKit dispatchEvent:AK_SET_PREFERENCE withMessage:[MPStringUtils getJSONString:response]];
+    }
     mCallbackId = -1;
 }
 

@@ -24,5 +24,9 @@ static NSString* const AK_LOGIN_SUCCESS = @"loginSuccess";
 static NSString* const AK_LOGIN_CANCEL = @"loginCancel";
 static NSString* const AK_LOGIN_ERROR = @"loginError";
 static NSString* const AK_ACCOUNT_REQUEST = @"accountRequest";
+static NSString* const AK_SET_PREFERENCE = @"setPreference";
+static NSString* const AK_LOAD_PREFERENCE = @"loadPreference";
+static NSString* const AK_DELETE_PREFERENCE = @"deletePreference";
+static NSString* const AK_LOAD_PREFERENCES = @"loadPreferences";
 
 #endif /* AccountKitEvent_h */
