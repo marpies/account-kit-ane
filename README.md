@@ -9,6 +9,19 @@ Development of this extension is supported by [Master Tigra, Inc.](https://githu
 * iOS `v4.15.0`
 * Android `v4.15.0`
 
+## Features
+
+* User-friendly login via email or SMS
+* Storing custom preferences per user
+* Retrieving AccountKit account data
+
+## AIR SDK bugs
+
+Note: AIR SDK currently lacks a feature that negatively affects this extension's usability. Due to that you are required to make a minor modification to the SDK on your machine, and the extension cannot run on Android 4. Please, leave a vote in the bug reports below to help the usability of this and other extensions:
+
+* [Bug 4189538 - Outdated Android AppCompat resources](https://bugbase.adobe.com/index.cfm?event=bug&id=4189538)
+* [Bug 4189540 - Specify extra parameters to aapt tool when creating APK](https://bugbase.adobe.com/index.cfm?event=bug&id=4189540) 
+
 ## Getting started
 
 Start by creating a Facebook app in the [Facebook developer dashboard](https://developers.facebook.com/apps/). Next, add AccountKit product from the dashboard menu on the left. Write down your Facebook app ID and AccountKit client token.
@@ -200,10 +213,89 @@ private function onAccountKitLoginResult( result:AKLoginResult ):void {
 }
 ```
 
+### Account details
+
+To retrieve details about current account, call:
+
+```as3
+AccountKit.getCurrentAccount( onAccountKitAccountRetrieved );
+
+private function onAccountKitAccountRetrieved( account:AKAccount, errorMessage:String ):void {
+    if( errorMessage != null ) {
+        trace( "Error getting account info: " + errorMessage );
+    } else {
+        trace( "Account id: " + account.id );
+        trace( "Account email: " + account.email );
+        trace( "Account phoneNumber: " + account.phoneNumber );
+        trace( "Account phoneNumberCountryCode: " + account.phoneNumberCountryCode );
+    }
+}
+```
+
+### User preferences
+
+You may store up to 100 key/value pairs per user. A key is a string of up to 100 characters; allowed characters are uppercase and lowercase letters, numerals, and the underscore. A value is a string of up to 1000 characters.
+
+To interact with user preferences, get the [AKAccountPreferences](actionscript/src/com/marpies/ane/facebook/accountkit/AKAccountPreferences.as) object using `AccountKit.accountPreferences`. To set a user preference, call:
+```as3
+AccountKit.accountPreferences.setPreference( "key", "value", onAccountKitPreferenceSet );
+
+private function onAccountKitPreferenceSet( key:String, value:String, errorMessage:String ):void {
+    if( errorMessage != null ) {
+        trace( "Error setting pref: " + errorMessage );
+    } else {
+        trace( "Set pref: " + key + " -> " + value );
+    }
+}
+```
+
+To load a preference, call:
+```as3
+AccountKit.accountPreferences.loadPreference( "key", onAccountKitPreferenceLoaded );
+
+private function onAccountKitPreferenceLoaded( key:String, value:String, errorMessage:String ):void {
+    if( errorMessage != null ) {
+        trace( "Error loading pref: " + errorMessage );
+    } else {
+        trace( "Loaded pref: " + key + " -> " + value );
+    }
+}
+```
+
+To delete a preference, call:
+```as3
+AccountKit.accountPreferences.deletePreference( "key", onAccountKitPreferenceLoaded );
+
+private function onAccountKitPreferenceDeleted( key:String, errorMessage:String ):void {
+    if( errorMessage != null ) {
+        trace( "Error deleting pref: " + errorMessage );
+    } else {
+        trace( "Deleted pref: " + key );
+    }
+}
+```
+
+To load all preferences, call:
+
+```as3
+AccountKit.accountPreferences.loadPreferences( onAccountKitPreferencesLoaded );
+
+private function onAccountKitPreferencesLoaded( preferences:Object, errorMessage:String ):void {
+    if( errorMessage != null ) {
+        trace( "Error loading pref: " + errorMessage );
+    } else {
+        trace( "Loaded all preferences:" );
+        for( var key:String in preferences ) {
+            trace( "Preference", key, "has value", preferences[key] );
+        }
+    }
+}
+```
+
 ## Requirements
 
 * iOS 7+
-* Android 5+
+* Android 5+ (your app will work on Android 4, but the AccountKit functionality will not be available)
 * Adobe AIR 20+
 
 ## Documentation
@@ -214,4 +306,10 @@ ANT build scripts are available in the [build](build/) directory. Edit [build.pr
 
 ## Author
 
-The ANE is being developed by [Marcel Piestansky](https://twitter.com/marpies) and is distributed under [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+The ANE has been developed by [Marcel Piestansky](https://twitter.com/marpies) and is distributed under [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+## Changelog
+
+#### September 14, 2016 (v1.0.0)
+
+* Public release
