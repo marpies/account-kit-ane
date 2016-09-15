@@ -12,7 +12,7 @@ Development of this extension is supported by [Master Tigra, Inc.](https://githu
 ## Features
 
 * User-friendly login via email or SMS
-* Storing custom preferences per user
+* Storing custom user preferences
 * Retrieving AccountKit account data
 
 ## AIR SDK bugs
