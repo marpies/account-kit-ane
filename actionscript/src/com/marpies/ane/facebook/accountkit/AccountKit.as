@@ -249,7 +249,7 @@ package com.marpies.ane.facebook.accountkit {
          * Extension version.
          */
         public static function get version():String {
-            return "1.0.0";
+            return "1.0.1";
         }
 
         /**
