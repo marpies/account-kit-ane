@@ -27,7 +27,7 @@ public class IsSupportedFunction extends BaseFunction {
 	public FREObject call( FREContext context, FREObject[] args ) {
 		super.call( context, args );
 
-		boolean isSupported = Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP;
+		boolean isSupported = Build.VERSION.SDK_INT >= Build.VERSION_CODES.ICE_CREAM_SANDWICH;
 		try {
 			return FREObject.newObject( isSupported );
 		} catch( FREWrongThreadException e ) {
