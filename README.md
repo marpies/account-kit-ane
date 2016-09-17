@@ -84,6 +84,9 @@ For iOS support, look for the `iPhone` element and make sure it contains the fol
         <key>AccountKitClientToken</key>
         <string>{ACCOUNT_KIT_CLIENT_TOKEN}</string>
 
+        <key>AccountKitFacebookAppEventsEnabled</key>
+        <integer>1</integer>
+
         <key>MinimumOSVersion</key>
         <string>7.0</string>
         ]]>
@@ -96,6 +99,8 @@ In the snippet above, replace:
 
 * `{FACEBOOK_APP_ID}` with your Facebook app ID
 * `{ACCOUNT_KIT_CLIENT_TOKEN}` with your AccountKit client token
+
+Note the preference `AccountKitFacebookAppEventsEnabled` requires [Facebook SDK](https://github.com/marpies/AIRFacebook-ANE) to be included in your app; alternatively you can set the value to `0` to disable event logging made by AccountKit SDK.
 
 For Android support, modify `manifestAdditions` element so that it contains the following meta-data and activities. Note the meta-data `com.facebook.accountkit.FacebookAppEventsEnabled` requires [Facebook SDK](https://github.com/marpies/AIRFacebook-ANE) to be included in your app; alternatively you can set the value to `false` to disable event logging made by AccountKit SDK.
 
@@ -156,7 +161,7 @@ Finally, add the [AccountKit ANE](bin/com.marpies.ane.facebook.accountkit.ane) o
 
 Initialize the extension using the `init` method that accepts the following parameters:
 
-* `loginType` - determines whether you app receives access token or authorization code only, see [AKResponseType class](actionscript/src/com/marpies/ane/facebook/accountkit/AKResponseType.as)
+* `responseType` - determines whether your app receives access token or authorization code only as the login response, see [AKResponseType class](actionscript/src/com/marpies/ane/facebook/accountkit/AKResponseType.as)
 * `initCallback` - function that will be called when the SDK is initialized
 * `showLogs` - set to `true` to enable extension logs
 
