@@ -20,7 +20,11 @@ Development of this extension is supported by [Master Tigra, Inc.](https://githu
 Note: AIR SDK currently lacks a feature that negatively affects this extension's usability. Due to that you are required to make a minor modification to the SDK on your machine. Please, leave a vote in the bug reports below to help the usability of this and other extensions:
 
 * [Bug 4189538 - Outdated Android AppCompat resources](https://bugbase.adobe.com/index.cfm?event=bug&id=4189538)
-* [Bug 4189540 - Specify extra parameters to aapt tool when creating APK](https://bugbase.adobe.com/index.cfm?event=bug&id=4189540) 
+* [Bug 4189540 - Specify extra parameters to aapt tool when creating APK](https://bugbase.adobe.com/index.cfm?event=bug&id=4189540)
+
+Including this and other extensions in your app increases the number of method references that must be stored in Android dex file. AIR currently supports a single dex file and since the number of such references is limited to a little over 65k, it is possible to exceed the limit by including several native extensions. This will prohibit you from building your app for Android, unless you reduce the number of features the app provides. Please, leave a vote in the report below to help adding multidex support to AIR:
+
+* [Bug 4190396 - Multidex support for Adobe AIR](https://bugbase.adobe.com/index.cfm?event=bug&id=4190396)
 
 ## Getting started
 
