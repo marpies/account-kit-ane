@@ -18,7 +18,7 @@ package com.marpies.ane.facebook.accountkit.functions;
 
 import android.content.Intent;
 import com.adobe.air.AndroidActivityWrapper;
-import com.adobe.air.IActivityResultCallback;
+import com.adobe.air.IAKActivityResultCallback;
 import com.adobe.fre.*;
 import com.facebook.accountkit.AccountKitLoginResult;
 import com.facebook.accountkit.PhoneNumber;
@@ -30,7 +30,7 @@ import com.marpies.ane.facebook.accountkit.utils.*;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-public class LoginFunction extends BaseFunction implements IActivityResultCallback {
+public class LoginFunction extends BaseFunction implements IAKActivityResultCallback {
 
 	private static final int AK_APP_REQUEST_CODE = 4871;
 
