@@ -237,15 +237,17 @@
         <item>260:ZM:Zambia</item>
         <item>263:ZW:Zimbabue</item>
     </string-array>
+    <string name="com_accountkit_account_verified">Se ha verificado la cuenta.</string>
     <string name="com_accountkit_button_begin">Empezar</string>
     <string name="com_accountkit_button_cancel">Cancelar</string>
     <string name="com_accountkit_button_confirm">Confirmar</string>
     <string name="com_accountkit_button_continue">Continuar</string>
+    <string name="com_accountkit_button_edit">EDITAR</string>
     <string name="com_accountkit_button_log_in">Iniciar sesión</string>
     <string name="com_accountkit_button_next">Siguiente</string>
     <string name="com_accountkit_button_ok">Aceptar</string>
-    <string name="com_accountkit_button_resend">Enviar código nuevo</string>
-    <string name="com_accountkit_button_resend_sms">Volver a enviar SMS</string>
+    <string name="com_accountkit_button_resend_code_in">Volver a enviar el código en %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Volver a enviar el código</string>
     <string name="com_accountkit_button_send">Enviar</string>
     <string name="com_accountkit_button_send_code_in_fb">Enviar código en Facebook</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">Toca Enviar código en Facebook para enviar una notificación a la cuenta de Facebook vinculada al número de teléfono que has introducido.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">Volver a intentarlo</string>
     <string name="com_accountkit_button_submit">Enviar</string>
     <string name="com_accountkit_check_email">Abre tu correo electrónico</string>
+    <string name="com_accountkit_code_sent_to">Hemos enviado el código a\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Toca %1$s para aceptar las &lt;a href="%2$s">Condiciones&lt;/a>, la &lt;a href="%3$s">Política de datos&lt;/a> y el &lt;a href="%4$s">Uso de cookies&lt;/a> de Facebook.
     </string>
@@ -261,6 +264,15 @@
     </string>
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Toca %1$s para aceptar las &lt;a href="%2$s">Condiciones&lt;/a>, la &lt;a href="%3$s">Política de datos&lt;/a>, el &lt;a href="%4$s">Uso de cookies&lt;/a> de Facebook, y la &lt;a href="%5$s">Política de privacidad&lt;/a> y las &lt;a href="%6$s">Condiciones del servicio&lt;/a> de %7$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Toca %1$s para aceptar las &lt;a href="%2$s">Condiciones&lt;/a>, la &lt;a href="%3$s">Política de datos&lt;/a> y el &lt;a href="%4$s">Uso de cookies&lt;/a> de Facebook, y la &lt;a href="%5$s">Política de privacidad&lt;/a> y las &lt;a href="%6$s">Condiciones del servicio&lt;/a> de %7$s. &lt;a href="%8$s">Más información&lt;/a> sobre cómo se ha verificado tu cuenta.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Toca %1$s para aceptar las &lt;a href="%2$s">Condiciones&lt;/a>, la &lt;a href="%3$s">Política de datos&lt;/a> y el &lt;a href="%4$s">Uso de cookies&lt;/a> de Facebook, y la &lt;a href="%5$s">Política de privacidad&lt;/a> de %6$s. &lt;a href="%7$s">Más información&lt;/a> sobre cómo se ha verificado tu cuenta.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Toca %1$s para aceptar las &lt;a href="%2$s">Condiciones&lt;/a>, la &lt;a href="%3$s">Política de datos&lt;/a> y el &lt;a href="%4$s">Uso de cookies&lt;/a> de Facebook. &lt;a href="%5$s">Más información&lt;/a> sobre cómo se ha verificado tu cuenta.
     </string>
     <string name="com_accountkit_confirmation_code_text">Volver a enviar el código</string>
     <string name="com_accountkit_confirmation_code_title">Introduce el código</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">Abre el correo electrónico que te hemos enviado y confirma tu dirección</string>
     <string name="com_accountkit_error_title">Se ha producido un error.</string>
     <string name="com_accountkit_facebook_code_entry_title">Introduce tu código de Facebook</string>
+    <string name="com_accountkit_logging_in">Iniciando sesión…</string>
     <string name="com_accountkit_phone_loading_title">Enviando tu código…</string>
     <string name="com_accountkit_phone_login_retry_title">Confirma tu número de teléfono</string>
     <string name="com_accountkit_phone_login_text">
-        Toca %1$s para recibir un SMS de confirmación de Account Kit de Facebook y obtener ayuda sobre el uso de %2$s. No necesitas tener una cuenta de Facebook para utilizarlo. Se pueden aplicar cargos por mensajes y datos. &lt;a href="%3$s">Obtén información sobre cómo usa tus datos Facebook&lt;/a>.
+      Toca %1$s para verificar tu cuenta con Account Kit, que usa la tecnología de Facebook.  No necesitas una cuenta de Facebook para usar Account Kit.  Es posible que se envíe un SMS para verificar el número. Pueden aplicarse cargos por mensajes y datos. &lt;a href="%2$s">Obtén información sobre cómo usa tus datos Facebook&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Escribe tu número de teléfono</string>
+    <string name="com_accountkit_resend_check">Comprueba el número antes de volver a enviar el código.</string>
     <string name="com_accountkit_resend_email_text">Enviar un nuevo correo electrónico</string>
     <string name="com_accountkit_resend_title">Lo sentimos. Pruebas las siguientes opciones para continuar.</string>
     <string name="com_accountkit_return_title">Se te está redirigiendo a %1$s…</string>

@@ -21,36 +21,57 @@
 
 <com.facebook.accountkit.ui.ConstrainedLinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    style="@style/AccountKit.Container"
-    >
-    <Button
-        android:id="@+id/com_accountkit_resend_button"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/com_accountkit_button_resend_sms"
-        style="@style/AccountKit.Button"
-        />
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/com_accountkit_vertical_spacer_small_height"
-        />
-    <Button
-        android:id="@+id/com_accountkit_send_in_fb_button"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/com_accountkit_button_send_code_in_fb"
-        style="@style/AccountKit.Button"
-        />
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/com_accountkit_vertical_spacer_small_height"
-        />
+    style="@style/AccountKit.Container">
+
     <TextView
-        android:id="@+id/com_accountkit_button_send_code_in_fb_disclosure"
+        android:id="@+id/com_accountkit_accountkit_resend_check"
+        style="@style/AccountKit.AgreementText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
-        android:text="@string/com_accountkit_button_send_code_in_fb_disclosure"
-        style="@style/AccountKit.AgreementText"
-        />
+        android:text="@string/com_accountkit_resend_check" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/com_accountkit_vertical_spacer_small_height" />
+
+    <Button
+        android:id="@+id/com_accountkit_resend_button"
+        style="@style/AccountKit.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/com_accountkit_button_resend_sms" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/com_accountkit_vertical_spacer_small_height" />
+
+    <LinearLayout
+        android:id="@+id/com_accountkit_send_in_fb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/com_accountkit_send_in_fb_button"
+            style="@style/AccountKit.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/com_accountkit_button_send_code_in_fb" />
+
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/com_accountkit_vertical_spacer_small_height" />
+
+        <TextView
+            android:id="@+id/com_accountkit_button_send_code_in_fb_disclosure"
+            style="@style/AccountKit.AgreementText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/com_accountkit_button_send_code_in_fb_disclosure" />
+    </LinearLayout>
+
 </com.facebook.accountkit.ui.ConstrainedLinearLayout>

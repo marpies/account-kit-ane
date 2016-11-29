@@ -237,15 +237,17 @@
         <item>260:ZM:贊比亞</item>
         <item>263:ZW:津巴布韋</item>
     </string-array>
+    <string name="com_accountkit_account_verified">帳戶驗證成功！</string>
     <string name="com_accountkit_button_begin">開始</string>
     <string name="com_accountkit_button_cancel">取消</string>
     <string name="com_accountkit_button_confirm">確認</string>
     <string name="com_accountkit_button_continue">繼續</string>
+    <string name="com_accountkit_button_edit">編輯</string>
     <string name="com_accountkit_button_log_in">登入</string>
     <string name="com_accountkit_button_next">下一步</string>
     <string name="com_accountkit_button_ok">確定</string>
-    <string name="com_accountkit_button_resend">傳送新代碼</string>
-    <string name="com_accountkit_button_resend_sms">重新傳送短訊</string>
+    <string name="com_accountkit_button_resend_code_in">將於 %1$s 秒內重新傳送代碼</string>
+    <string name="com_accountkit_button_resend_sms">重新傳送代碼</string>
     <string name="com_accountkit_button_send">傳送</string>
     <string name="com_accountkit_button_send_code_in_fb">在 Facebook 內傳送代碼</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">在 Facebook 內點按「傳送代碼」，以便將通知傳送至與您輸入的手機號碼連結的 Facebook 帳戶。</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">再試一次</string>
     <string name="com_accountkit_button_submit">送出</string>
     <string name="com_accountkit_check_email">開啟您的電郵</string>
+    <string name="com_accountkit_code_sent_to">我們已傳送代碼至\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         點按 %1$s 以接受 Facebook 的&lt;a href="%2$s">條款&lt;/a>、&lt;a href="%3$s">數據使用政策&lt;/a>以及 &lt;a href="%4$s">Cookie 使用&lt;/a>。
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         點按 %1$s 以接受 Facebook 的&lt;a href="%2$s">條款&lt;/a>、&lt;a href="%3$s">數據使用政策&lt;/a>、&lt;a href="%4$s">Cookie 使用&lt;/a>以及 %7$s 的&lt;a href="%5$s">私隱政策&lt;/a>及&lt;a href="%6$s">服務條款&lt;/a>。
     </string>
-    <string name="com_accountkit_confirmation_code_text">重新傳送代碼</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        點按 %1$s 以接受 Facebook 的&lt;a href="%2$s">使用條款&lt;/a>、&lt;a href="%3$s">數據使用政策&lt;/a>、&lt;a href="%4$s">Cookie 使用規定&lt;/a>，以及 %7$s 的&lt;a href="%5$s">私隱政策&lt;/a>及&lt;a href="%6$s">服務條款&lt;/a>。&lt;a href="%8$s">深入瞭解&lt;/a>帳戶的驗證流程。
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        點按 %1$s 以接受 Facebook 的&lt;a href="%2$s">使用條款&lt;/a>、&lt;a href="%3$s">數據使用政策&lt;/a>、&lt;a href="%4$s">Cookie 使用規定&lt;/a>以及 %6$s 的&lt;a href="%5$s">私隱政策&lt;/a>。&lt;a href="%7$s">深入瞭解&lt;/a>帳戶的驗證流程。
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        點按 %1$s 以接受 Facebook 的&lt;a href="%2$s">使用條款&lt;/a>、&lt;a href="%3$s">數據使用政策&lt;/a> 與 &lt;a href="%4$s">Cookie 使用規定&lt;/a>。&lt;a href="%5$s">深入瞭解&lt;/a>帳戶的驗證流程。
+    </string>
+    <string name="com_accountkit_confirmation_code_text">沒有收到代碼嗎？</string>
     <string name="com_accountkit_confirmation_code_title">輸入您的代碼</string>
     <string name="com_accountkit_email_invalid">此電郵有誤。請稍後再試。</string>
     <string name="com_accountkit_email_loading_title">電郵傳送中…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">請開啟我們傳送給您的電郵以確認您的電郵地址</string>
     <string name="com_accountkit_error_title">抱歉，發生問題。</string>
     <string name="com_accountkit_facebook_code_entry_title">輸入您的 Facebook 代碼</string>
+    <string name="com_accountkit_logging_in">正在登入…</string>
     <string name="com_accountkit_phone_loading_title">正在傳送您的代碼…</string>
     <string name="com_accountkit_phone_login_retry_title">確認您的手機號碼</string>
     <string name="com_accountkit_phone_login_text">
-        點按「%1$s」即可收到 Facebook Account Kit 的確認短訊，以便您使用 %2$s。您不需 Facebook 帳戶就能使用該工具。可能會產生短訊及數據傳輸費用。&lt;a href="%3$s">瞭解 Facebook 如何使用您的資料&lt;/a>。
+      點按 %1$s 以使用 Facebook 支援的 Account Kit 驗證您的帳戶。即使沒有 Facebook 帳戶也能使用 Account Kit。我們會傳送短訊給您以便驗證您的號碼。可能會產生短訊及數據傳輸費用。&lt;a href="%2$s">深入瞭解 Facebook 如何使用您的資料&lt;/a>。
     </string>
     <string name="com_accountkit_phone_login_title">輸入您的手機號碼</string>
+    <string name="com_accountkit_resend_check">請於重新傳送代碼前先檢查您的號碼。</string>
     <string name="com_accountkit_resend_email_text">傳送新電郵</string>
     <string name="com_accountkit_resend_title">很抱歉，請嘗試這些選項以便繼續操作。</string>
     <string name="com_accountkit_return_title">正在返回 %1$s…</string>

@@ -49,7 +49,7 @@
         android:layout_weight="1"
         android:digits="1234567890"
         android:ems="10"
-        android:imeOptions="actionDone"
+        android:imeOptions="actionNext"
         android:inputType="number"
         android:maxLength="21"
         android:singleLine="true"

@@ -237,15 +237,17 @@
         <item>260:ZM:Zambia</item>
         <item>263:ZW:Zimbabwe</item>
     </string-array>
+    <string name="com_accountkit_account_verified">Cont verificat!</string>
     <string name="com_accountkit_button_begin">Începe</string>
     <string name="com_accountkit_button_cancel">Renunță</string>
     <string name="com_accountkit_button_confirm">Confirmă</string>
     <string name="com_accountkit_button_continue">Continuă</string>
+    <string name="com_accountkit_button_edit">EDITARE</string>
     <string name="com_accountkit_button_log_in">Conectare</string>
     <string name="com_accountkit_button_next">Continuare</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend">Trimite un cod nou</string>
-    <string name="com_accountkit_button_resend_sms">Retrimite SMS</string>
+    <string name="com_accountkit_button_resend_code_in">Retrimite codul peste %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Retrimite codul</string>
     <string name="com_accountkit_button_send">Trimite</string>
     <string name="com_accountkit_button_send_code_in_fb">Trimite un cod în Facebook</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">Atinge „Trimite cod” pe Facebook pentru a trimite o notificare la contul de Facebook asociat numărului de telefon pe care l-ai introdus.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">Încearcă din nou</string>
     <string name="com_accountkit_button_submit">Trimite</string>
     <string name="com_accountkit_check_email">Deschide e-mailul</string>
+    <string name="com_accountkit_code_sent_to">Am trimis codul la\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Atinge %1$s pentru a accepta &lt;a href="%2$s">Condițiile de utilizare&lt;/a>, &lt;a href="%3$s">Politica de utilizare a datelor&lt;/a> și &lt;a href="%4$s">utilizarea modulelor cookie&lt;/a> de la Facebook.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Atinge %1$s pentru a accepta &lt;a href="%2$s">Condițiile de utilizare&lt;/a>, &lt;a href="%3$s">Politica de utilizare a datelor&lt;/a> și &lt;a href="%4$s">utilizarea modulelor cookie&lt;/a> de la Facebook, precum și &lt;a href="%5$s">Politica de confidențialitate&lt;/a> și &lt;a href="%6$s">Condițiile de utilizare&lt;/a> de la %7$s.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Retrimite codul</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Atinge %1$s pentru a accepta &lt;a href="%2$s">Condițiile de utilizare&lt;/a>, &lt;a href="%3$s">Politica de utilizare a datelor&lt;/a>, &lt;a href="%4$s">utilizarea modulelor cookie&lt;/a> de la Facebook, precum și &lt;a href="%5$s">Politica de confidențialitate&lt;/a> și &lt;a href="%6$s">Condițiile de utilizare&lt;/a> de la %7$s. &lt;a href="%8$s">Află mai multe&lt;/a> despre modul în care ți-a fost verificat contul.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Atinge %1$s pentru a accepta &lt;a href="%2$s">Condițiile de utilizare&lt;/a>, &lt;a href="%3$s">Politica de utilizare a datelor&lt;/a>, &lt;a href="%4$s">utilizarea modulelor cookie&lt;/a> de la Facebook, precum și &lt;a href="%5$s">Politica de confidențialitate&lt;/a> de la %6$s. &lt;a href="%7$s">Află mai multe&lt;/a> despre modul în care ți-a fost verificat contul.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Atinge %1$s pentru a accepta &lt;a href="%2$s">Condițiile de utilizare&lt;/a>, &lt;a href="%3$s">Politica de utilizare a datelor&lt;/a> și &lt;a href="%4$s">utilizarea modulelor cookie&lt;/a> de la Facebook. &lt;a href="%5$s">Află mai multe&lt;/a> despre modul în care ți-a fost verificat contul.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Nu ai primit codul?</string>
     <string name="com_accountkit_confirmation_code_title">Introdu codul</string>
     <string name="com_accountkit_email_invalid">Acest e-mail nu este corect. Te rugăm să încerci din nou.</string>
     <string name="com_accountkit_email_loading_title">Se trimite e-mailul…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">Deschide e-mailul pe care l-am trimis și confirmă adresa ta</string>
     <string name="com_accountkit_error_title">Ne pare rău, a apărut o problemă.</string>
     <string name="com_accountkit_facebook_code_entry_title">Introdu codul de la Facebook</string>
+    <string name="com_accountkit_logging_in">Conectare…</string>
     <string name="com_accountkit_phone_loading_title">Se trimite codul tău…</string>
     <string name="com_accountkit_phone_login_retry_title">Confirmă numărul tău de telefon</string>
     <string name="com_accountkit_phone_login_text">
-        Atinge %1$s pentru a primi o confirmare prin SMS de la Account Kit oferit de Facebook, care te va ajuta să folosești %2$s. Nu ai nevoie de un cont de Facebook pentru a-l folosi. Este posibil să se aplice tarifele de date și mesaje. &lt;a href="%3$s">Află cum îți folosește Facebook datele&lt;/a>.
+      Atinge %1$s pentru a efectua verificarea contului folosind Account Kit oferit de Facebook.  Pentru a folosi Account Kit nu ai nevoie de un cont de Facebook.  Este posibil să-ți fie trimis un SMS pentru a-ți verifica numărul. Este posibil să se aplice tarifele pentru mesaje și date. &lt;a href="%2$s">Află cum îți folosește Facebook datele&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Introdu numărul tău de telefon</string>
+    <string name="com_accountkit_resend_check">Te rugăm să verifici numărul înainte de a retrimite codul.</string>
     <string name="com_accountkit_resend_email_text">Trimite un e-mail nou</string>
     <string name="com_accountkit_resend_title">Ne pare rău. Încearcă aceste opțiuni pentru a continua.</string>
     <string name="com_accountkit_return_title">Te aducem înapoi la %1$s…</string>

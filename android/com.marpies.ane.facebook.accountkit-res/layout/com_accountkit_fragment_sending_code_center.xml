@@ -24,6 +24,7 @@
     style="@style/AccountKit.IconContainer"
     >
     <ProgressBar
+        android:id="@+id/com_accountkit_sending_progress"
         android:layout_width="@dimen/com_accountkit_progress_bar_size"
         android:layout_height="@dimen/com_accountkit_progress_bar_size"
         android:layout_gravity="center_horizontal"

@@ -237,15 +237,17 @@
         <item>260:ZM:ज़ाम्बिया</item>
         <item>263:ZW:ज़िम्बाब्वे</item>
     </string-array>
+    <string name="com_accountkit_account_verified">खाता सत्यापित!</string>
     <string name="com_accountkit_button_begin">शुरू करें</string>
     <string name="com_accountkit_button_cancel">रद्द करें</string>
     <string name="com_accountkit_button_confirm">पुष्टि करें</string>
     <string name="com_accountkit_button_continue">जारी रखें</string>
+    <string name="com_accountkit_button_edit">संपादित करें</string>
     <string name="com_accountkit_button_log_in">लॉग इन करें</string>
     <string name="com_accountkit_button_next">अगला</string>
     <string name="com_accountkit_button_ok">ठीक</string>
-    <string name="com_accountkit_button_resend">नया कोड भेजें</string>
-    <string name="com_accountkit_button_resend_sms">SMS फिर से भेजें</string>
+    <string name="com_accountkit_button_resend_code_in">%1$s में कोड फिर से भेजें</string>
+    <string name="com_accountkit_button_resend_sms">कोड फिर से भेजें</string>
     <string name="com_accountkit_button_send">भेजें</string>
     <string name="com_accountkit_button_send_code_in_fb">Facebook में कोड भेजें</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">अपने द्वारा डाले गए फ़ोन नंबर से लिंक किए गए Facebook खाते पर सूचना भेजने के लिए Facebook में कोड भेजें टैप करें.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">फिर से प्रयास करें</string>
     <string name="com_accountkit_button_submit">सबमिट करें</string>
     <string name="com_accountkit_check_email">अपना ईमेल खोलें</string>
+    <string name="com_accountkit_code_sent_to">हमने कोड %1$s पर भेजा है</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Facebook की &lt;a href="%2$s">शर्तों&lt;/a>, &lt;a href="%3$s">डेटा नीति&lt;/a> और &lt;a href="%4$s">कुकी उपयोग&lt;/a> को स्वीकार करने के लिए %1$s टैप करें.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Facebook की &lt;a href="%2$s">शर्तों&lt;/a>, &lt;a href="%3$s">डेटा नीति&lt;/a>, &lt;a href="%4$s">कुकी उपयोग&lt;/a> और %7$s की &lt;a href="%5$s">गोपनीयता नीति&lt;/a> और &lt;a href="%6$s">सेवा की शर्तों&lt;/a> को स्वीकार करने के लिए %1$s टैप करें.
     </string>
-    <string name="com_accountkit_confirmation_code_text">कोड पुनः भेजें</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Facebook की &lt;a href="%2$s">शर्तों&lt;/a>, &lt;a href="%3$s">डेटा नीति&lt;/a>, &lt;a href="%4$s">कुकी उपयोग&lt;/a> और %7$s की &lt;a href="%5$s">गोपनीयता नीति&lt;/a> और &lt;a href="%6$s">सेवा की शर्तों&lt;/a> को स्वीकार करने के लिए %1$s पर टैप करें. इस बारे में &lt;a href="%8$s">और जानें&lt;/a> कि आपका खाता कैसे सत्यापित किया गया था.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Facebook की &lt;a href="%2$s">शर्तों&lt;/a>, &lt;a href="%3$s">डेटा नीति&lt;/a>, &lt;a href="%4$s">कुकी उपयोग&lt;/a> और %6$s की &lt;a href="%5$s">गोपनीयता नीति&lt;/a> को स्वीकार करने के लिए %1$s पर टैप करें. इस बारे में &lt;a href="%7$s">और जानें&lt;/a> कि आपका खाता कैसे सत्यापित किया गया था.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Facebook की &lt;a href="%2$s">शर्तों&lt;/a>, &lt;a href="%3$s">डेटा नीति&lt;/a> और &lt;a href="%4$s">कुकी उपयोग&lt;/a> को स्वीकार करने के लिए %1$s पर टैप करें. इस बारे में &lt;a href="%5$s">और जानें&lt;/a> कि आपका खाता कैसे सत्यापित किया गया था.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">कोड नहीं मिला?</string>
     <string name="com_accountkit_confirmation_code_title">अपना कोड डालें</string>
     <string name="com_accountkit_email_invalid">यह ईमेल गलत है. कृपया फिर से कोशिश करें.</string>
     <string name="com_accountkit_email_loading_title">ईमेल भेजा जा रहा है…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">हमारे द्वारा भेजा गया ईमेल खोलें और अपना पता कन्फ़र्म करें</string>
     <string name="com_accountkit_error_title">हमें खेद है, कुछ गड़बड़ी हुई.</string>
     <string name="com_accountkit_facebook_code_entry_title">Facebook से अपना कोड डालें</string>
+    <string name="com_accountkit_logging_in">लॉग इन हो रहा है…</string>
     <string name="com_accountkit_phone_loading_title">आपका कोड भेजा जा रहा है…</string>
     <string name="com_accountkit_phone_login_retry_title">अपना फ़ोन नंबर कन्फ़र्म करें</string>
     <string name="com_accountkit_phone_login_text">
-        %2$s के उपयोग में मदद पाने के लिए %1$s टैप करके Facebook द्वारा Account Kit से SMS कन्फ़र्मेशन प्राप्त करें. इसका उपयोग करने के लिए आपका Facebook खाता होना आवश्यक नहीं है. संदेश और डेटा दरें लागू हो सकती हैं. &lt;a href="%3$s">जानें कि Facebook आपकी जानकारी का कैसे उपयोग करता है&lt;/a>.
+      Facebook द्वारा संचालित Account Kit से अपना खाता सत्यापित करने के लिए %1$s पर टैप करें.  Account Kit का उपयोग करने के लिए आपको Facebook खाता नहीं चाहिए.  आपका नंबर सत्यापित करने के लिए एक SMS भेजा जा सकता है. संदेश और डेटा दरें लागू हो सकती हैं. &lt;a href="%2$s">जानें कि Facebook आपकी जानकारी का कैसे उपयोग करता है&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">अपना फ़ोन नंबर डालें</string>
+    <string name="com_accountkit_resend_check">कोड फिर से भेजने से पहले कृपया नंबर जाँचें.</string>
     <string name="com_accountkit_resend_email_text">नया ईमेल भेजें</string>
     <string name="com_accountkit_resend_title">हमें खेद है. जारी रखने के लिए ये विकल्प आज़माएँ.</string>
     <string name="com_accountkit_return_title">आपको वापस %1$s पर ले जाया जा रहा है…</string>

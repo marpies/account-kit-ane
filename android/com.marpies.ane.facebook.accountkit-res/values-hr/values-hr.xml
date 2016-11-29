@@ -237,15 +237,17 @@
         <item>260:ZM:Zambija</item>
         <item>263:ZW:Zimbabve</item>
     </string-array>
+    <string name="com_accountkit_account_verified">Korisnički račun provjeren!</string>
     <string name="com_accountkit_button_begin">Počni</string>
     <string name="com_accountkit_button_cancel">Odustani</string>
     <string name="com_accountkit_button_confirm">Potvrdi</string>
     <string name="com_accountkit_button_continue">Nastavi</string>
+    <string name="com_accountkit_button_edit">UREDI</string>
     <string name="com_accountkit_button_log_in">Prijava</string>
     <string name="com_accountkit_button_next">Dalje</string>
     <string name="com_accountkit_button_ok">U redu</string>
-    <string name="com_accountkit_button_resend">Pošalji novi kod</string>
-    <string name="com_accountkit_button_resend_sms">Ponovno pošalji SMS</string>
+    <string name="com_accountkit_button_resend_code_in">Ponovno pošalji kod za %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Ponovno pošalji kod</string>
     <string name="com_accountkit_button_send">Pošalji</string>
     <string name="com_accountkit_button_send_code_in_fb">Pošalji kod na Facebooku</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">Dodirnite Pošalji kod na Facebooku da biste poslali obavijest na Facebookov račun povezan s telefonskim brojem koji ste unijeli.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">Pokušajte ponovno</string>
     <string name="com_accountkit_button_submit">Pošalji</string>
     <string name="com_accountkit_check_email">Otvorite e-poštu</string>
+    <string name="com_accountkit_code_sent_to">Poslali smo kod na broj\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Dodirnite %1$s da biste prihvatili Facebookove &lt;a href="%2$s">uvjete&lt;/a>, &lt;a href="%3$s">pravilnik o podacima&lt;/a> i &lt;a href="%4$s">korištenje kolačića&lt;/a>.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Dodirnite %1$s da biste prihvatili Facebookove &lt;a href="%2$s">uvjete&lt;/a>, &lt;a href="%3$s">pravilnik o podacima&lt;/a>, &lt;a href="%4$s">korištenje kolačića&lt;/a> i &lt;a href="%5$s">pravila zaštite podataka&lt;/a> te &lt;a href="%6$s">uvjete pružanja usluge&lt;/a> za %7$s.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Pošalji novi kod</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Dodirnite %1$s da biste prihvatili Facebookove &lt;a href="%2$s">uvjete&lt;/a>, &lt;a href="%3$s">pravila o upotrebi podataka&lt;/a>, &lt;a href="%4$s">upotrebu kolačića&lt;/a>, &lt;a href="%5$s">pravila zaštite privatnosti&lt;/a> i &lt;a href="%6$s">uvjete upotrebe usluge&lt;/a> za %7$s. &lt;a href="%8$s">Dodatne informacije&lt;/a> o načinu potvrde računa.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Dodirnite %1$s da biste prihvatili Facebookove &lt;a href="%2$s">uvjete&lt;/a>, &lt;a href="%3$s">pravila o upotrebi podataka&lt;/a>, &lt;a href="%4$s">upotrebu kolačića&lt;/a> i &lt;a href="%5$s">pravila zaštite privatnosti&lt;/a> za %6$s. &lt;a href="%7$s">Dodatne informacije&lt;/a> o načinu potvrde računa.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Dodirnite %1$s da biste prihvatili Facebookove &lt;a href="%2$s">uvjete&lt;/a>, &lt;a href="%3$s">pravila o upotrebi podataka&lt;/a> i &lt;a href="%4$s">upotrebu kolačića&lt;/a>. &lt;a href="%5$s">Dodatne informacije&lt;/a> o načinu potvrde računa.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Niste dobili kod?</string>
     <string name="com_accountkit_confirmation_code_title">Unesite kod</string>
     <string name="com_accountkit_email_invalid">Pogrešna adresa e-pošte. Pokušajte ponovno.</string>
     <string name="com_accountkit_email_loading_title">Slanje e-pošte…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">Otvorite poruku e-pošte koju smo vam poslali i potvrdite svoju adresu</string>
     <string name="com_accountkit_error_title">Nažalost, nešto nije u redu.</string>
     <string name="com_accountkit_facebook_code_entry_title">Unesite kod s Facebooka</string>
+    <string name="com_accountkit_logging_in">Prijava…</string>
     <string name="com_accountkit_phone_loading_title">Slanje koda…</string>
     <string name="com_accountkit_phone_login_retry_title">Potvrdite telefonski broj</string>
     <string name="com_accountkit_phone_login_text">
-        Dotaknite %1$s da bi vam Facebookov Account Kit SMS-om poslao potvrdu da biste mogli lakše upotrebljavati %2$s. Za to vam nije potreban račun za Facebook. Naplaćuju se naknade za poruke i podatkovni promet. &lt;a href="%3$s">Saznajte na koji način Facebook upotrebljava vaše podatke&lt;/a>.
+      Dodirnite %1$s da biste pomoću Facebookova kompleta za račune provjerili račun.  Za korištenje kompleta za račune nije potreban Facebookov račun.  Možda će se poslati SMS radi potvrde broja. Naplaćuju se naknade za poruke i podatkovni promet. &lt;a href="%2$s">Saznajte na koji način Facebook upotrebljava vaše podatke&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Unesite telefonski broj</string>
+    <string name="com_accountkit_resend_check">Prije ponovnog slanja koda provjerite broj.</string>
     <string name="com_accountkit_resend_email_text">Pošalji novu poruku e-pošte</string>
     <string name="com_accountkit_resend_title">Žao nam je. Isprobajte ove mogućnosti da biste nastavili.</string>
     <string name="com_accountkit_return_title">Vraćate se na %1$s…</string>

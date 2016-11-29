@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="com_accountkit_title_min_height">78dp</dimen>
+    <dimen name="com_accountkit_vertical_spacer_large_height">24dp</dimen>
+</resources>

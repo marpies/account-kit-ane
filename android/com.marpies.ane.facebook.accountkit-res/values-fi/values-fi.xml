@@ -237,15 +237,17 @@
         <item>260:ZM:Sambia</item>
         <item>263:ZW:Zimbabwe</item>
     </string-array>
+    <string name="com_accountkit_account_verified">Käyttäjätili on vahvistettu!</string>
     <string name="com_accountkit_button_begin">Aloita</string>
     <string name="com_accountkit_button_cancel">Peruuta</string>
     <string name="com_accountkit_button_confirm">Vahvista</string>
     <string name="com_accountkit_button_continue">Jatka</string>
+    <string name="com_accountkit_button_edit">MUOKKAA</string>
     <string name="com_accountkit_button_log_in">Kirjaudu sisään</string>
     <string name="com_accountkit_button_next">Seuraava</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend">Lähetä uusi koodi</string>
-    <string name="com_accountkit_button_resend_sms">Lähetä tekstiviesti uudelleen</string>
+    <string name="com_accountkit_button_resend_code_in">Lähetä koodi uudelleen: %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Lähetä koodi uudelleen</string>
     <string name="com_accountkit_button_send">Lähetä</string>
     <string name="com_accountkit_button_send_code_in_fb">Lähetä koodi Facebookissa</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">Napauta Lähetä koodi Facebookissa, niin ilmoitus lähetetään antamaasi puhelinnumeroon linkitettyyn Facebook-käyttäjätiliin.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">Yritä uudelleen</string>
     <string name="com_accountkit_button_submit">Lähetä</string>
     <string name="com_accountkit_check_email">Avaa sähköpostisi</string>
+    <string name="com_accountkit_code_sent_to">Lähetimme koodin numeroon\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Hyväksy Facebookin &lt;a href="%2$s">käyttöehdot&lt;/a>, &lt;a href="%3$s">tietokäytäntö&lt;/a> ja &lt;a href="%4$s">evästeiden käyttöä koskeva käytäntö&lt;/a> valitsemalla %1$s.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Hyväksy Facebookin &lt;a href="%2$s">käyttöehdot&lt;/a>, &lt;a href="%3$s">tietokäytäntö&lt;/a> ja &lt;a href="%4$s">evästeiden käyttöä koskeva käytäntö&lt;/a> ja sovelluksen %7$s &lt;a href="%5$s">yksityisyyskäytäntö&lt;/a> ja &lt;a href="%6$s">käyttöehdot&lt;/a> valitsemalla %1$s.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Lähetä koodi uudelleen</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Hyväksy Facebookin &lt;a href="%2$s">käyttöehdot&lt;/a>, &lt;a href="%3$s">tietokäytäntö&lt;/a>, &lt;a href="%4$s">evästeiden käyttö&lt;/a> ja palvelun %7$s &lt;a href="%5$s">yksityisyyskäytäntö&lt;/a> ja &lt;a href="%6$s">käyttöehdot&lt;/a> valitsemalla %1$s. &lt;a href="%8$s">Lisätietoja&lt;/a> käyttäjätilin vahvistamisesta.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Hyväksy Facebookin &lt;a href="%2$s">käyttöehdot&lt;/a>, &lt;a href="%3$s">tietokäytäntö&lt;/a>, &lt;a href="%4$s">evästeiden käyttö&lt;/a> ja palvelun %6$s &lt;a href="%5$s">yksityisyyskäytäntö&lt;/a> valitsemalla %1$s. &lt;a href="%7$s">Lisätietoja&lt;/a> käyttäjätilin vahvistamisesta.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Hyväksy Facebookin &lt;a href="%2$s">käyttöehdot&lt;/a>, &lt;a href="%3$s">tietokäytäntö&lt;/a> ja &lt;a href="%4$s">evästeiden käyttö&lt;/a> valitsemalla %1$s. &lt;a href="%5$s">Lisätietoja&lt;/a> käyttäjätilin vahvistamisesta.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Etkö saanut koodia?</string>
     <string name="com_accountkit_confirmation_code_title">Anna koodi</string>
     <string name="com_accountkit_email_invalid">Sähköpostiosoite on virheellinen. Yritä uudelleen.</string>
     <string name="com_accountkit_email_loading_title">Lähetetään sähköpostiviestiä…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">Avaa lähettämämme sähköpostiviesti ja vahvista osoitteesi</string>
     <string name="com_accountkit_error_title">Valitettavasti tapahtui virhe.</string>
     <string name="com_accountkit_facebook_code_entry_title">Anna Facebookista saamasi koodi</string>
+    <string name="com_accountkit_logging_in">Kirjaudutaan sisään…</string>
     <string name="com_accountkit_phone_loading_title">Lähetetään koodiasi…</string>
     <string name="com_accountkit_phone_login_retry_title">Vahvista puhelinnumerosi</string>
     <string name="com_accountkit_phone_login_text">
-        Valitsemalla %1$s saat Account Kit by Facebookilta tekstiviestivahvistuksen, jonka avulla voit käyttää palvelua %2$s. Käyttö ei edellytä Facebook-käyttäjätiliä. Viesteistä ja tiedonsiirrosta voidaan periä veloitus. &lt;a href="%3$s">Katso, miten Facebook käyttää tietojasi&lt;/a>.
+      Vahvista Facebookin Account Kit -käyttäjätilisi napauttamalla %1$s.  Account Kitin käyttämiseen ei vaadita Facebook-käyttäjätiliä.  Puhelinnumerosi voidaan vahvistaa tekstiviestillä. Viestistä ja tiedonsiirrosta voidaan periä maksu. &lt;a href="%2$s">Katso, miten Facebook käyttää tietojasi&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Anna puhelinnumerosi</string>
+    <string name="com_accountkit_resend_check">Tarkista numero ennen koodin uudelleenlähettämistä.</string>
     <string name="com_accountkit_resend_email_text">Lähetä uusi sähköposti</string>
     <string name="com_accountkit_resend_title">Pahoittelemme. Jatka kokeilemalla näitä vaihtoehtoja.</string>
     <string name="com_accountkit_return_title">Siirryt takaisin kohteeseen %1$s…</string>

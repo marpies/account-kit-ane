@@ -239,7 +239,7 @@
     </string-array>
     <declare-styleable name="AspectFrameLayout"><attr format="dimension" name="com_accountkit_aspect_height"/><attr format="dimension" name="com_accountkit_aspect_width"/></declare-styleable>
     <declare-styleable name="ConstrainedLinearLayout"><attr format="dimension" name="com_accountkit_max_height"/><attr format="dimension" name="com_accountkit_max_width"/><attr format="dimension" name="com_accountkit_min_height"/></declare-styleable>
-    <declare-styleable name="Theme.AccountKit.GranularStyle"><attr format="reference" name="com_accountkit_background"/><attr format="color" name="com_accountkit_background_color"/><attr format="color" name="com_accountkit_button_background_color"/><attr format="color" name="com_accountkit_button_border_color"/><attr format="color" name="com_accountkit_button_disabled_background_color"/><attr format="color" name="com_accountkit_button_disabled_border_color"/><attr format="color" name="com_accountkit_button_disabled_text_color"/><attr format="color" name="com_accountkit_button_pressed_background_color"/><attr format="color" name="com_accountkit_button_pressed_border_color"/><attr format="color" name="com_accountkit_button_pressed_text_color"/><attr format="color" name="com_accountkit_button_text_color"/><attr format="integer" name="com_accountkit_content_body_layout_weight"/><attr format="integer" name="com_accountkit_content_bottom_layout_weight"/><attr format="integer" name="com_accountkit_content_footer_layout_weight"/><attr format="integer" name="com_accountkit_content_header_layout_weight"/><attr format="integer" name="com_accountkit_content_layout_weight"/><attr format="integer" name="com_accountkit_content_text_layout_weight"/><attr format="integer" name="com_accountkit_content_top_layout_weight"/><attr format="dimension" name="com_accountkit_content_margin_start"/><attr format="dimension" name="com_accountkit_content_margin_end"/><attr format="dimension" name="com_accountkit_content_max_width"/><attr format="dimension" name="com_accountkit_content_min_height"/><attr format="color" name="com_accountkit_header_background_color"/><attr format="color" name="com_accountkit_header_text_color"/><attr format="color" name="com_accountkit_icon_color"/><attr format="color" name="com_accountkit_input_accent_color"/><attr format="color" name="com_accountkit_input_background_color"/><attr format="color" name="com_accountkit_input_border_color"/><attr format="color" name="com_accountkit_input_text_color"/><attr format="color" name="com_accountkit_text_color"/><attr format="color" name="com_accountkit_title_text_color"/><attr format="dimension" name="com_accountkit_toolbar_elevation"/></declare-styleable>
+    <declare-styleable name="Theme.AccountKit.GranularStyle"><attr format="reference" name="com_accountkit_background"/><attr format="color" name="com_accountkit_background_color"/><attr format="color" name="com_accountkit_button_background_color"/><attr format="color" name="com_accountkit_button_border_color"/><attr format="color" name="com_accountkit_button_disabled_background_color"/><attr format="color" name="com_accountkit_button_disabled_border_color"/><attr format="color" name="com_accountkit_button_disabled_text_color"/><attr format="color" name="com_accountkit_button_pressed_background_color"/><attr format="color" name="com_accountkit_button_pressed_border_color"/><attr format="color" name="com_accountkit_button_pressed_text_color"/><attr format="color" name="com_accountkit_button_text_color"/><attr format="color" name="com_accountkit_border_button_background_color"/><attr format="color" name="com_accountkit_border_button_text_color"/><attr format="color" name="com_accountkit_border_button_disabled_text_color"/><attr format="integer" name="com_accountkit_content_body_layout_weight"/><attr format="integer" name="com_accountkit_content_bottom_layout_weight"/><attr format="integer" name="com_accountkit_content_footer_layout_weight"/><attr format="integer" name="com_accountkit_content_header_layout_weight"/><attr format="integer" name="com_accountkit_content_layout_weight"/><attr format="integer" name="com_accountkit_content_text_layout_weight"/><attr format="integer" name="com_accountkit_content_top_layout_weight"/><attr format="dimension" name="com_accountkit_content_margin_start"/><attr format="dimension" name="com_accountkit_content_margin_end"/><attr format="dimension" name="com_accountkit_content_max_width"/><attr format="dimension" name="com_accountkit_content_min_height"/><attr format="color" name="com_accountkit_header_background_color"/><attr format="color" name="com_accountkit_header_text_color"/><attr format="color" name="com_accountkit_icon_color"/><attr format="color" name="com_accountkit_input_accent_color"/><attr format="color" name="com_accountkit_input_background_color"/><attr format="color" name="com_accountkit_input_border_color"/><attr format="color" name="com_accountkit_input_text_color"/><attr format="color" name="com_accountkit_text_color"/><attr format="color" name="com_accountkit_title_text_color"/><attr format="dimension" name="com_accountkit_toolbar_elevation"/></declare-styleable>
     <declare-styleable name="Theme.AccountKit.Style"><attr format="color" name="com_accountkit_primary_color"/><attr format="color" name="com_accountkit_primary_text_color"/><attr format="color" name="com_accountkit_secondary_color"/><attr format="color" name="com_accountkit_secondary_text_color"/><attr format="color" name="com_accountkit_status_bar_color"/></declare-styleable>
     <dimen name="com_accountkit_agreement_text_size">11sp</dimen>
     <dimen name="com_accountkit_button_text_size">12sp</dimen>
@@ -267,19 +267,19 @@
     <dimen name="com_accountkit_spinner_item_padding_top">3dp</dimen>
     <dimen name="com_accountkit_spinner_triangle_margin">2dp</dimen>
     <dimen name="com_accountkit_text_size">11sp</dimen>
-    <dimen name="com_accountkit_title_min_height">78dp</dimen>
     <dimen name="com_accountkit_title_text_size">16sp</dimen>
-    <dimen name="com_accountkit_vertical_spacer_large_height">24dp</dimen>
     <dimen name="com_accountkit_vertical_spacer_small_height">12dp</dimen>
+    <string name="com_accountkit_account_verified">Account Verified!</string>
     <string name="com_accountkit_button_begin">Begin</string>
     <string name="com_accountkit_button_cancel">Cancel</string>
     <string name="com_accountkit_button_confirm">Confirm</string>
     <string name="com_accountkit_button_continue">Continue</string>
+    <string name="com_accountkit_button_edit">EDIT</string>
     <string name="com_accountkit_button_log_in">Log In</string>
     <string name="com_accountkit_button_next">Next</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend">Send New Code</string>
-    <string name="com_accountkit_button_resend_sms">Resend SMS</string>
+    <string name="com_accountkit_button_resend_code_in">Resend code in %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Resend Code</string>
     <string name="com_accountkit_button_send">Send</string>
     <string name="com_accountkit_button_send_code_in_fb">Send Code in Facebook</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">Tap Send Code in Facebook to send a notification to the Facebook account linked to the phone number you entered.</string>
@@ -287,6 +287,7 @@
     <string name="com_accountkit_button_start_over">Try Again</string>
     <string name="com_accountkit_button_submit">Submit</string>
     <string name="com_accountkit_check_email">Open your Email</string>
+    <string name="com_accountkit_code_sent_to">We sent the code to\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Tap %1$s to accept Facebook\'s &lt;a href="%2$s">Terms&lt;/a>, &lt;a href="%3$s">Data Policy&lt;/a> and &lt;a href="%4$s">cookie use&lt;/a>.
     </string>
@@ -296,7 +297,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Tap %1$s to accept Facebook\'s &lt;a href="%2$s">Terms&lt;/a>, &lt;a href="%3$s">Data Policy&lt;/a>, &lt;a href="%4$s">cookie use&lt;/a> and the &lt;a href="%5$s">Privacy Policy&lt;/a> and &lt;a href="%6$s">Terms of Service&lt;/a> of %7$s.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Send New Code</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Tap %1$s to accept Facebook\'s &lt;a href="%2$s">Terms&lt;/a>, &lt;a href="%3$s">Data Policy&lt;/a>, &lt;a href="%4$s">cookie use&lt;/a> and the &lt;a href="%5$s">Privacy Policy&lt;/a> and &lt;a href="%6$s">Terms of Service&lt;/a> of %7$s. &lt;a href="%8$s">Learn more&lt;/a> about how your account was verified.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Tap %1$s to accept Facebook\'s &lt;a href="%2$s">Terms&lt;/a>, &lt;a href="%3$s">Data Policy&lt;/a>, &lt;a href="%4$s">cookie use&lt;/a> and the &lt;a href="%5$s">Privacy Policy&lt;/a> of %6$s. &lt;a href="%7$s">Learn more&lt;/a> about how your account was verified.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Tap %1$s to accept Facebook\'s &lt;a href="%2$s">Terms&lt;/a>, &lt;a href="%3$s">Data Policy&lt;/a> and &lt;a href="%4$s">cookie use&lt;/a>. &lt;a href="%5$s">Learn more&lt;/a> about how your account was verified.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Didn\'t get code?</string>
     <string name="com_accountkit_confirmation_code_title">Enter your code</string>
     <string name="com_accountkit_email_invalid">
         This email is incorrect. Please try again.
@@ -311,12 +321,14 @@
     <string name="com_accountkit_email_verify_title">Open the email and confirm your address</string>
     <string name="com_accountkit_error_title">We\'re sorry, something went wrong.</string>
     <string name="com_accountkit_facebook_code_entry_title">Enter your code from Facebook</string>
-    <string name="com_accountkit_phone_loading_title">Sending your code…</string>
+    <string name="com_accountkit_logging_in">Logging in…</string>
+    <string name="com_accountkit_phone_loading_title">Verifying your number…</string>
     <string name="com_accountkit_phone_login_retry_title">Confirm your phone number</string>
     <string name="com_accountkit_phone_login_text">
-    Tap %1$s to get an SMS confirmation from Account Kit by Facebook to help you use %2$s. You don\'t need a Facebook account to use it. Message and data rates may apply. &lt;a href="%3$s">Learn how Facebook uses your info&lt;/a>.
+        Tap %1$s to verify your account with Account Kit powered by Facebook. You don’t need a Facebook account to use Account Kit. An SMS may be sent to verify your number. Message and data rates may apply. &lt;a href="%2$s">Learn how Facebook uses your info&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Enter your phone number</string>
+    <string name="com_accountkit_resend_check">Please check the number before resending code.</string>
     <string name="com_accountkit_resend_email_text">Send New Email</string>
     <string name="com_accountkit_resend_title">We\'re sorry. Try these options to continue.</string>
     <string name="com_accountkit_return_title">Taking you back to %1$s…</string>
@@ -332,6 +344,15 @@
         <item name="colorControlNormal">?attr/com_accountkit_header_text_color</item>
     </style>
     <style name="AccountKit.AgreementText" parent="Base.AccountKit.AgreementText"/>
+    <style name="AccountKit.BorderButton" parent="AccountKit.Button">
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">14sp</item>
+    </style>
     <style name="AccountKit.Button" parent="Base.AccountKit.Button"/>
     <style name="AccountKit.Container" parent="Base.AccountKit.Container"/>
     <style name="AccountKit.FragmentContainer" parent="Base.AccountKit.FragmentContainer"/>
@@ -432,6 +453,9 @@
         <item name="com_accountkit_button_background_color">
             ?attr/com_accountkit_primary_color
         </item>
+        <item name="com_accountkit_border_button_background_color">
+            @android:color/transparent
+        </item>
         <item name="com_accountkit_button_text_color">?attr/com_accountkit_primary_text_color</item>
         <item name="com_accountkit_content_body_layout_weight">
             ?attr/com_accountkit_content_layout_weight
@@ -500,6 +524,12 @@
         </item>
         <item name="com_accountkit_button_pressed_text_color">
             ?attr/com_accountkit_header_text_color
+        </item>
+        <item name="com_accountkit_border_button_text_color">
+            ?attr/com_accountkit_button_background_color
+        </item>
+        <item name="com_accountkit_border_button_disabled_text_color">
+            ?attr/com_accountkit_button_disabled_background_color
         </item>
         <item name="com_accountkit_input_accent_color">
             ?attr/com_accountkit_input_text_color

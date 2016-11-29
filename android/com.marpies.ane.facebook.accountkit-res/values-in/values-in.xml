@@ -237,15 +237,17 @@
         <item>260:ZM:Zambia</item>
         <item>263:ZW:Zimbabwe</item>
     </string-array>
+    <string name="com_accountkit_account_verified">Akun Diverifikasi!</string>
     <string name="com_accountkit_button_begin">Mulai</string>
     <string name="com_accountkit_button_cancel">Batalkan</string>
     <string name="com_accountkit_button_confirm">Konfirmasi</string>
     <string name="com_accountkit_button_continue">Lanjutkan</string>
+    <string name="com_accountkit_button_edit">SUNTING</string>
     <string name="com_accountkit_button_log_in">Masuk</string>
     <string name="com_accountkit_button_next">Berikutnya</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend">Kirimkan Kode Baru</string>
-    <string name="com_accountkit_button_resend_sms">Kirim ulang SMS</string>
+    <string name="com_accountkit_button_resend_code_in">Kirim ulang kode dalam %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Kirim Ulang Kode</string>
     <string name="com_accountkit_button_send">Kirim</string>
     <string name="com_accountkit_button_send_code_in_fb">Kirim Kode di Facebook</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">Ketuk Kirim Kode di Facebook untuk mengirimkan pemberitahuan ke akun Facebook yang ditautkan dengan nomor telepon yang Anda masukkan.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">Coba Lagi</string>
     <string name="com_accountkit_button_submit">Ajukan</string>
     <string name="com_accountkit_check_email">Buka email Anda</string>
+    <string name="com_accountkit_code_sent_to">Kami mengirimkan kode ke\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Ketuk %1$s untuk menerima &lt;a href="%2$s">Ketentuan&lt;/a>, &lt;a href="%3$s">Kebijakan Data&lt;/a>, dan &lt;a href="%4$s">penggunaan kuki&lt;/a> Facebook.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Ketuk %1$s untuk menerima &lt;a href="%2$s">Ketentuan&lt;/a>, &lt;a href="%3$s">Kebijakan Data&lt;/a>, &lt;a href="%4$s">penggunaan kuki&lt;/a>, dan &lt;a href="%5$s">Kebijakan Privasi&lt;/a> serta &lt;a href="%6$s">Ketentuan Layanan&lt;/a> Facebook tentang %7$s.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Kirim Ulang Kode</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Ketuk %1$s untuk menerima &lt;a href="%2$s">Ketentuan&lt;/a>, &lt;a href="%3$s">Kebijakan Data&lt;/a>, &lt;a href="%4$s">penggunaan kuki&lt;/a>, serta &lt;a href="%5$s">Kebijakan Privasi&lt;/a> dan &lt;a href="%6$s">Ketentuan Layanan&lt;/a> Facebook tentang %7$s. &lt;a href="%8$s">Pelajari selengkapnya&lt;/a> tentang verifikasi akun Anda.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Ketuk %1$s untuk menerima &lt;a href="%2$s">Ketentuan&lt;/a>, &lt;a href="%3$s">Kebijakan Data&lt;/a>, &lt;a href="%4$s">penggunaan kuki&lt;/a>, dan &lt;a href="%5$s">Kebijakan Privasi&lt;/a> Facebook tentang %6$s. &lt;a href="%7$s">Pelajari selengkapnya&lt;/a> tentang verifikasi akun Anda.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Ketuk %1$s untuk menerima &lt;a href="%2$s">Ketentuan&lt;/a>, &lt;a href="%3$s">Kebijakan Data&lt;/a>, dan &lt;a href="%4$s">penggunaan kuki&lt;/a> Facebook. &lt;a href="%5$s">Pelajari selengkapnya&lt;/a> tentang verifikasi akun Anda.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Tidak mendapatkan kode?</string>
     <string name="com_accountkit_confirmation_code_title">Ketikkan kode Anda</string>
     <string name="com_accountkit_email_invalid">Email ini salah. Silakan coba lagi.</string>
     <string name="com_accountkit_email_loading_title">Mengirimkan email…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">Buka email yang kami kirimkan dan konfirmasikan alamat Anda</string>
     <string name="com_accountkit_error_title">Mohon maaf, ada masalah.</string>
     <string name="com_accountkit_facebook_code_entry_title">Masukkan kode Anda dari Facebook</string>
+    <string name="com_accountkit_logging_in">Masuk…</string>
     <string name="com_accountkit_phone_loading_title">Mengirimkan kode Anda…</string>
     <string name="com_accountkit_phone_login_retry_title">Konfirmasikan nomor telepon Anda</string>
     <string name="com_accountkit_phone_login_text">
-        Ketuk %1$s untuk mendapatkan konfirmasi SMS dari Account Kit oleh Facebook untuk membantu Anda menggunakan %2$s. Anda tidak memerlukan akun Facebook untuk menggunakannya. Mungkin berlaku biaya pengiriman pesan dan data. &lt;a href="%3$s">Pelajari bagaimana Facebook menggunakan info Anda&lt;/a>.
+      Ketuk %1$s untuk memverifikasi akun Anda dengan Account Kit yang didukung oleh Facebook.  Anda tidak memerlukan akun Facebook untuk menggunakan Account Kit.  Sebuah SMS mungkin akan dikirim untuk memverifikasi nomor Anda. Mungkin berlaku biaya pengiriman pesan dan data. &lt;a href="%2$s">Pelajari cara Facebook menggunakan info Anda&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Masukkan nomor telepon Anda</string>
+    <string name="com_accountkit_resend_check">Harap periksa nomor sebelum mengirim ulang kode.</string>
     <string name="com_accountkit_resend_email_text">Kirim Email Baru</string>
     <string name="com_accountkit_resend_title">Kami mohon maaf. Coba opsi ini untuk melanjutkan.</string>
     <string name="com_accountkit_return_title">Mengembalikan Anda ke %1$s…</string>
