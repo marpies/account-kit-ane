@@ -6,8 +6,8 @@ Development of this extension is supported by [Master Tigra, Inc.](https://githu
 
 ## Native SDK versions
 
-* iOS `v4.15.0`
-* Android `v4.15.0`
+* iOS `v4.17.0`
+* Android `v4.17.0`
 
 ## Features
 
@@ -20,11 +20,7 @@ Development of this extension is supported by [Master Tigra, Inc.](https://githu
 Note: AIR SDK currently lacks a feature that negatively affects this extension's usability. Due to that you are required to make a minor modification to the SDK on your machine. Please, leave a vote in the bug reports below to help the usability of this and other extensions:
 
 * [Bug 4189538 - Outdated Android AppCompat resources](https://bugbase.adobe.com/index.cfm?event=bug&id=4189538)
-* [Bug 4189540 - Specify extra parameters to aapt tool when creating APK](https://bugbase.adobe.com/index.cfm?event=bug&id=4189540)
-
-Including this and other extensions in your app increases the number of method references that must be stored in Android dex file. AIR currently supports a single dex file and since the number of such references is limited to a little over 65k, it is possible to exceed the limit by including several native extensions. This will prohibit you from building your app for Android, unless you reduce the number of features the app provides. Please, leave a vote in the report below to help adding multidex support to AIR:
-
-* [Bug 4190396 - Multidex support for Adobe AIR](https://bugbase.adobe.com/index.cfm?event=bug&id=4190396)
+* [Bug 4189540 - Specify extra parameters to aapt tool when creating APK](https://bugbase.adobe.com/index.cfm?event=bug&id=4189540) 
 
 ## Getting started
 
@@ -88,9 +84,6 @@ For iOS support, look for the `iPhone` element and make sure it contains the fol
         <key>AccountKitClientToken</key>
         <string>{ACCOUNT_KIT_CLIENT_TOKEN}</string>
 
-        <key>AccountKitFacebookAppEventsEnabled</key>
-        <integer>1</integer>
-
         <key>MinimumOSVersion</key>
         <string>7.0</string>
         ]]>
@@ -103,8 +96,6 @@ In the snippet above, replace:
 
 * `{FACEBOOK_APP_ID}` with your Facebook app ID
 * `{ACCOUNT_KIT_CLIENT_TOKEN}` with your AccountKit client token
-
-Note the preference `AccountKitFacebookAppEventsEnabled` requires [Facebook SDK](https://github.com/marpies/AIRFacebook-ANE) to be included in your app; alternatively you can set the value to `0` to disable event logging made by AccountKit SDK.
 
 For Android support, modify `manifestAdditions` element so that it contains the following meta-data and activities. Note the meta-data `com.facebook.accountkit.FacebookAppEventsEnabled` requires [Facebook SDK](https://github.com/marpies/AIRFacebook-ANE) to be included in your app; alternatively you can set the value to `false` to disable event logging made by AccountKit SDK.
 
@@ -165,7 +156,7 @@ Finally, add the [AccountKit ANE](bin/com.marpies.ane.facebook.accountkit.ane) o
 
 Initialize the extension using the `init` method that accepts the following parameters:
 
-* `responseType` - determines whether your app receives access token or authorization code only as the login response, see [AKResponseType class](actionscript/src/com/marpies/ane/facebook/accountkit/AKResponseType.as)
+* `loginType` - determines whether you app receives access token or authorization code only, see [AKResponseType class](actionscript/src/com/marpies/ane/facebook/accountkit/AKResponseType.as)
 * `initCallback` - function that will be called when the SDK is initialized
 * `showLogs` - set to `true` to enable extension logs
 
@@ -276,7 +267,7 @@ private function onAccountKitPreferenceLoaded( key:String, value:String, errorMe
 
 To delete a preference, call:
 ```as3
-AccountKit.accountPreferences.deletePreference( "key", onAccountKitPreferenceLoaded );
+AccountKit.accountPreferences.deletePreference( "key", onAccountKitPreferenceDeleted );
 
 private function onAccountKitPreferenceDeleted( key:String, errorMessage:String ):void {
     if( errorMessage != null ) {
@@ -321,6 +312,11 @@ ANT build scripts are available in the [build](build/) directory. Edit [build.pr
 The ANE has been developed by [Marcel Piestansky](https://twitter.com/marpies) and is distributed under [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
 ## Changelog
+
+#### November 29, 2016 (v1.1.0)
+
+* UPDATED AccountKit SDKs to v4.17.0 for both iOS and Android
+* FIXED iOS login callback for `AKLoginType.PHONE`
 
 #### September 16, 2016 (v1.0.1)
 
