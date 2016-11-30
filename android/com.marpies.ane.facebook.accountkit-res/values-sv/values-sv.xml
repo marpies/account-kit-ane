@@ -237,15 +237,17 @@
         <item>260:ZM:Zambia</item>
         <item>263:ZW:Zimbabwe</item>
     </string-array>
+    <string name="com_accountkit_account_verified">Kontot har verifierats!</string>
     <string name="com_accountkit_button_begin">Börja</string>
     <string name="com_accountkit_button_cancel">Avbryt</string>
     <string name="com_accountkit_button_confirm">Bekräfta</string>
     <string name="com_accountkit_button_continue">Fortsätt</string>
+    <string name="com_accountkit_button_edit">REDIGERA</string>
     <string name="com_accountkit_button_log_in">Logga in</string>
     <string name="com_accountkit_button_next">Nästa</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend">Skicka ny kod</string>
-    <string name="com_accountkit_button_resend_sms">Skicka om sms:et</string>
+    <string name="com_accountkit_button_resend_code_in">Skicka om koden: %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Skicka koden igen</string>
     <string name="com_accountkit_button_send">Skicka</string>
     <string name="com_accountkit_button_send_code_in_fb">Skicka kod på Facebook</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">Tryck på Skicka kod på Facebook om du vill skicka en avisering till Facebook-kontot som är kopplat till det telefonnummer du angett.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">Försök igen</string>
     <string name="com_accountkit_button_submit">Skicka</string>
     <string name="com_accountkit_check_email">Öppna din e-post</string>
+    <string name="com_accountkit_code_sent_to">Vi har skickat koden till\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Tryck på %1$s för att godkänna Facebooks &lt;a href="%2$s">villkor&lt;/a>, &lt;a href="%3$s">datapolicy&lt;/a> och &lt;a href="%4$s">cookiesanvändning&lt;/a>.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Tryck på %1$s för att godkänna Facebooks &lt;a href="%2$s">villkor&lt;/a>, &lt;a href="%3$s">datapolicy&lt;/a>, &lt;a href="%4$s">cookiesanvändning&lt;/a> samt &lt;a href="%5$s">sekretesspolicyn&lt;/a> och &lt;a href="%6$s">användarvillkoren&lt;/a> för %7$s.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Skicka koden igen</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Tryck på %1$s för att godkänna Facebook &lt;a href="%2$s">användarvillkor&lt;/a>, &lt;a href="%3$s">datapolicy&lt;/a>, &lt;a href="%4$s">cookies-användning&lt;/a> och &lt;a href="%5$s">sekretesspolicy&lt;/a> samt &lt;a href="%6$s">användarvillkoren&lt;/a> för %7$s. &lt;a href="%8$s">Läs mer&lt;/a> om hur ditt konto verifieras.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Tryck på %1$s för att godkänna Facebooks &lt;a href="%2$s">användarvillkor&lt;/a>, &lt;a href="%3$s">datapolicy&lt;/a>, &lt;a href="%4$s">cookies-användning&lt;/a> och &lt;a href="%5$s">sekretesspolicy&lt;/a> för %6$s. &lt;a href="%7$s">Läs mer&lt;/a> om hur ditt konto verifieras.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Tryck på %1$s för att godkänna Facebooks &lt;a href="%2$s">användarvillkor&lt;/a>, &lt;a href="%3$s">datapolicy&lt;/a> och &lt;a href="%4$s">cookies-användning&lt;/a>. &lt;a href="%5$s">Läs mer&lt;/a> om hur ditt konto verifieras.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Fick du inte koden?</string>
     <string name="com_accountkit_confirmation_code_title">Skriv in din kod</string>
     <string name="com_accountkit_email_invalid">Den här e-postadressen är fel. Försök igen.</string>
     <string name="com_accountkit_email_loading_title">Skickar e-post …</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">Öppna e-postmeddelandet som vi skickade och bekräfta din adress</string>
     <string name="com_accountkit_error_title">Ett fel har uppstått.</string>
     <string name="com_accountkit_facebook_code_entry_title">Ange din kod från Facebook</string>
+    <string name="com_accountkit_logging_in">Loggar in…</string>
     <string name="com_accountkit_phone_loading_title">Skickar din kod…</string>
     <string name="com_accountkit_phone_login_retry_title">Bekräfta ditt telefonnummer</string>
     <string name="com_accountkit_phone_login_text">
-        Tryck på %1$s för att få en sms-bekräftelse från Account Kit från Facebook som hjälper dig att använda %2$s. Du behöver inte att ett Facebook-konto för att göra detta. Meddelande- och dataavgifter kan tillkomma. &lt;a href="%3$s">Läs om hur Facebook använder din info&lt;/a>.
+      Tryck på %1$s och verifiera kontot med Account Kit från Facebook.  Du behöver inget Facebook-konto för att använda Account Kit.  Du kan få ett sms för att verifiera ditt nummer. Meddelande- och dataavgifter kan tillkomma. &lt;a href="%2$s">Läs om hur Facebook använder din info&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Ange ditt telefonnummer</string>
+    <string name="com_accountkit_resend_check">Kontrollera numret innan du skickar om koden.</string>
     <string name="com_accountkit_resend_email_text">Skicka ny e-post</string>
     <string name="com_accountkit_resend_title">Vi ber om ursäkt. Testa de här alternativen om du vill fortsätta.</string>
     <string name="com_accountkit_return_title">Tar dig tillbaka till %1$s…</string>

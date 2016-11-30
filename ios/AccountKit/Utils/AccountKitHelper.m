@@ -173,6 +173,7 @@
     [[[[[UIApplication sharedApplication] delegate] window] rootViewController] presentViewController:vc animated:YES completion:^{
         [AIRAccountKit log:@"AccountKit phone login view controller shown"];
     }];
+    vc.delegate = self;
 }
 
 - (AKFResponseType) getResponseType:(NSString*) responseType {

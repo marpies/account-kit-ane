@@ -237,15 +237,17 @@
         <item>260:ZM:झांबिया</item>
         <item>263:ZW:झिंबाब्वे</item>
     </string-array>
+    <string name="com_accountkit_account_verified">खात्याची पडताळणी केली!</string>
     <string name="com_accountkit_button_begin">आरंभ करा</string>
     <string name="com_accountkit_button_cancel">रद्द करा</string>
     <string name="com_accountkit_button_confirm">पुष्टी करा</string>
     <string name="com_accountkit_button_continue">सुरू ठेवा</string>
+    <string name="com_accountkit_button_edit">संपादित करा</string>
     <string name="com_accountkit_button_log_in">लॉग इन करा</string>
     <string name="com_accountkit_button_next">पुढील</string>
     <string name="com_accountkit_button_ok">ठीक</string>
-    <string name="com_accountkit_button_resend">नवीन कोड पाठवा</string>
-    <string name="com_accountkit_button_resend_sms">SMS परत पाठवा</string>
+    <string name="com_accountkit_button_resend_code_in">%1$s मध्ये कोड पुन्हा पाठवा</string>
+    <string name="com_accountkit_button_resend_sms">कोड पुन्हा पाठवा</string>
     <string name="com_accountkit_button_send">पाठवा</string>
     <string name="com_accountkit_button_send_code_in_fb">Facebook मध्ये कोड पाठवा</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">आपण प्रविष्‍ट केलेल्‍या फोन नंबरशी लिंक असलेल्‍या Facebook खात्‍यावर सूचना पाठवण्‍यासाठी Facebook मध्‍ये कोड पाठवा टॅप करा.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">पुन्‍हा प्रयत्‍न करा</string>
     <string name="com_accountkit_button_submit">सादर करा</string>
     <string name="com_accountkit_check_email">आपला ईमेल उघडा</string>
+    <string name="com_accountkit_code_sent_to">आम्ही %1$s वर कोड पाठविला आहे</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Facebook च्या &lt;a href="%2$s"> अटी&lt;/a>,  &lt;a href="%3$s">डेटा धोरण&lt;/a> आणि &lt;a href="%4$s">कुकी वापर&lt;/a> स्वीकारण्यासाठी %1$s वर टॅप करा.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Facebook च्या  &lt;a href="%2$s">अटी&lt;/a>,  &lt;a href="%3$s">डेटा धोरण&lt;/a>, &lt;a href="%4$s">कुकी वापर&lt;/a>, &lt;a href="%5$s">गोपनीयता धोरण&lt;/a> स्वीकारण्यासाठी आणि %7$s च्या &lt;a href="%6$s">सेवेच्या अटीं&lt;/a> साठी %1$s वर टॅप करा.
     </string>
-    <string name="com_accountkit_confirmation_code_text">नवीन कोड पाठवा</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Facebook च्‍या &lt;a href="%2$s">अटी&lt;/a>, &lt;a href="%3$s">डेटा धोरण&lt;/a>, &lt;a href="%4$s">कुकी वापर&lt;/a> आणि &lt;a href="%5$s">गोपनीयता धोरण&lt;/a> आणि &lt;a href="%6$s">%7$s च्‍या सेवा अटी&lt;/a> स्‍वीकारण्‍यासाठी %1$s टॅप करा. आपल्‍या खात्‍याची पडताळणी कशी केली होती याविषयी&lt;a href="%8$s">अधिक जाणून घ्‍या&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Facebook च्‍या &lt;a href="%2$s">अटी&lt;/a>, &lt;a href="%3$s">डेटा धोरण&lt;/a>, &lt;a href="%4$s">कुकी वापर&lt;/a> आणि %6$s चे &lt;a href="%5$s">गोपनीयता धोरण&lt;/a> स्‍वीकारण्‍यासाठी %1$s टॅप करा. आपल्‍या खात्‍याची पडताळणी कशी केली होती याविषयी&lt;a href="%7$s">अधिक जाणून घ्‍या&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Facebook च्‍या &lt;a href="%2$s">अटी&lt;/a>, &lt;a href="%3$s">डेटा धोरण&lt;/a> आणि &lt;a href="%4$s">कुकी वापर&lt;/a> स्‍वीकारण्‍यासाठी %1$s टॅप करा. आपल्‍या खात्‍याची पडताळणी कशी झाली होती&lt;a href="%5$s">याविषयी अधिक जाणून घ्‍या&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">कोड प्राप्त झाला नाही?</string>
     <string name="com_accountkit_confirmation_code_title">आपला कोड प्रविष्‍ट करा</string>
     <string name="com_accountkit_email_invalid">हा ईमेल चुकीचा आहे. कृपया पुन्हा प्रयत्न करा.</string>
     <string name="com_accountkit_email_loading_title">ईमेल पाठवित आहे</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">आम्‍ही पाठवलेला ईमेल उघडा आणि आपल्‍या पत्‍त्‍याची पुष्‍टी करा</string>
     <string name="com_accountkit_error_title">आम्‍ही क्षमस्‍व आहोत, काहीतरी चूक झाली.</string>
     <string name="com_accountkit_facebook_code_entry_title">आपला कोड Facebook वरून प्रविष्‍ट करा</string>
+    <string name="com_accountkit_logging_in">लॉग इन करत आहे…</string>
     <string name="com_accountkit_phone_loading_title">आपला कोड पाठवत आहे…</string>
     <string name="com_accountkit_phone_login_retry_title">आपल्‍या फोन नंबरची पुष्‍टी करा</string>
     <string name="com_accountkit_phone_login_text">
-        आपल्‍याला %2$s वापरण्‍यात मदत करण्‍यासाठी Facebook द्वारे असलेल्‍या खाते किटवरून SMS पुष्‍टी मिळवण्‍यासाठी %1$s टॅप करा. आपल्‍याला हे वापरण्‍यासाठी Facebook खात्‍याची गरज नाही. संदेश आणि डेटा शुल्‍क लागू होण्‍याची शक्‍यता आहे. &lt;a href="%3$s">Facebook आपली माहिती कसे वापरते याविषयी जाणून घ्‍या&lt;/a>.
+      Facebook द्वारे समर्थित Account Kit सह आपल्या खात्याची पडताळणी करण्‍यासाठी %1$s टॅप करा.  आपल्याला Account Kit वापरण्यासाठी Facebook खात्याची गरज नाही.  आपल्या नंबरची पडताळणी करण्यासाठी कदाचित SMS पाठविला जाऊ शकतो. संदेश आणि डेटा शुल्‍क लागू होण्‍याची शक्‍यता आहे. &lt;a href="%2$s">Facebook आपली माहिती कसे वापरते याविषयी जाणून घ्‍या&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">आपला फोन नंबर प्रविष्‍ट करा</string>
+    <string name="com_accountkit_resend_check">कृपया कोड पुन्हा पाठवण्यापुर्वी नंबर तपासा.</string>
     <string name="com_accountkit_resend_email_text">नवीन ईमेल पाठवा</string>
     <string name="com_accountkit_resend_title">आम्‍ही क्षमस्‍व आहोत. पुढे सुरू ठेवण्‍यासाठी हे पर्याय वापरून पहा.</string>
     <string name="com_accountkit_return_title">आपल्‍याला पुन्‍हा %1$s येथे नेत आहे…</string>

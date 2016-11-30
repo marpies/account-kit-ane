@@ -74,6 +74,11 @@ typedef NS_ENUM(NSUInteger, AKFLoginFlowState)
    @abstract An error is being presented.
    */
   AKFLoginFlowStateError,
+
+  /*!
+   @abstract Resend code screen is being entered
+   */
+  AKFLoginFlowStateResendCode,
 };
 
 extern const NSUInteger AKFLoginFlowStateCount;

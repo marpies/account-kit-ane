@@ -237,15 +237,17 @@
         <item>260:ZM:ஜாம்பியா</item>
         <item>263:ZW:ஜிம்பாப்வே</item>
     </string-array>
+    <string name="com_accountkit_account_verified">கணக்குச் சரிபார்க்கப்பட்டது!</string>
     <string name="com_accountkit_button_begin">தொடங்கு</string>
     <string name="com_accountkit_button_cancel">ரத்துசெய்</string>
     <string name="com_accountkit_button_confirm">உறுதிசெய்</string>
     <string name="com_accountkit_button_continue">தொடரவும்</string>
+    <string name="com_accountkit_button_edit">திருத்தவும்.</string>
     <string name="com_accountkit_button_log_in">உள்நுழை</string>
     <string name="com_accountkit_button_next">அடுத்து</string>
     <string name="com_accountkit_button_ok">சரி</string>
-    <string name="com_accountkit_button_resend">புதிய குறியீட்டை அனுப்பு</string>
-    <string name="com_accountkit_button_resend_sms">SMS ஐ மீண்டும் அனுப்பு</string>
+    <string name="com_accountkit_button_resend_code_in">%1$s இல் குறியீட்டை மீண்டும் அனுப்பு</string>
+    <string name="com_accountkit_button_resend_sms">குறியீட்டை மீண்டும் அனுப்பு</string>
     <string name="com_accountkit_button_send">அனுப்பு</string>
     <string name="com_accountkit_button_send_code_in_fb">Facebook இல் குறியீட்டை அனுப்பு</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">நீங்கள் உள்ளிட்ட ஃபோன் எண்ணுடன் இணைந்துள்ள Facebook கணக்கிற்கு அறிவிப்பை அனுப்ப, Facebook இல் குறியீட்டை அனுப்பு என்பதைத் தட்டவும்.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">மீண்டும் முயற்சிக்கவும்</string>
     <string name="com_accountkit_button_submit">சமர்ப்பி</string>
     <string name="com_accountkit_check_email">மின்னஞ்சலைத் திறக்கவும்</string>
+    <string name="com_accountkit_code_sent_to">%1$sக்கு குறியீட்டை அனுப்பியுள்ளோம்</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Facebook இன் &lt;a href="%2$s">விதிமுறைகள்&lt;/a>, &lt;a href="%3$s">தரவுக் கொள்கை&lt;/a> மற்றும் &lt;a href="%4$s">குக்கீ பயன்பாட்டை&lt;/a> ஏற்க, %1$s என்பதைத் தட்டவும்.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Facebook இன் &lt;a href="%2$s">விதிமுறைகள்&lt;/a>, &lt;a href="%3$s">தரவுக் கொள்கை&lt;/a>, &lt;a href="%4$s">குக்கீ பயன்பாடு&lt;/a> மற்றும் %7$s இன் &lt;a href="%5$s">தனியுரிமைக் கொள்கை&lt;/a>, &lt;a href="%6$s">சேவை விதிமுறைகளை&lt;/a> ஏற்க, %1$s என்பதைத் தட்டவும்.
     </string>
-    <string name="com_accountkit_confirmation_code_text">புதிய குறியீட்டை அனுப்பு</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Facebook இன் &lt;a href="%2$s">விதிமுறைகள்&lt;/a>, &lt;a href="%3$s">தரவுக் கொள்கை&lt;/a>, &lt;a href="%4$s">குக்கீ பயன்பாடு&lt;/a> மற்றும் %7$s இன் &lt;a href="%5$s">தனியுரிமைக் கொள்கை&lt;/a> மற்றும் &lt;a href="%6$s">சேவை விதிமுறைகள்&lt;/a> ஆகியவற்றை ஏற்க, %1$s என்பதைத் தட்டவும். உங்கள் கணக்கு எப்படிச் சரிபார்க்கப்பட்டது என்பதைப் பற்றி &lt;a href="%8$s">மேலும் அறியவும்&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Facebook இன் &lt;a href="%2$s">விதிமுறைகள்&lt;/a>, &lt;a href="%3$s">தரவுக் கொள்கை&lt;/a>, &lt;a href="%4$s">குக்கீ பயன்பாடு&lt;/a> மற்றும் %6$s இன் &lt;a href="%5$s">தனியுரிமைக் கொள்கை&lt;/a> ஆகியவற்றை ஏற்க, %1$s என்பதைத் தட்டவும். உங்கள் கணக்கு எப்படிச் சரிபார்க்கப்பட்டது என்பதைப் பற்றி &lt;a href="%7$s">மேலும் அறியவும்&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Facebook இன் &lt;a href="%2$s">விதிமுறைகள்&lt;/a>, &lt;a href="%3$s">தரவுக் கொள்கை&lt;/a> மற்றும் &lt;a href="%4$s">குக்கீ பயன்பாடு&lt;/a> ஆகியவற்றை ஏற்க, %1$s என்பதைத் தட்டவும். உங்கள் கணக்கு எப்படிச் சரிபார்க்கப்பட்டது என்பதைப் பற்றி &lt;a href="%5$s">மேலும் அறியவும்&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">குறியீட்டைப் பெறவில்லையா?</string>
     <string name="com_accountkit_confirmation_code_title">குறியீட்டை உள்ளிடவு்:</string>
     <string name="com_accountkit_email_invalid">இந்த மின்னஞ்சல் தவறானது. மீண்டும் முயற்சிக்கவும்.</string>
     <string name="com_accountkit_email_loading_title">மின்னஞ்சலை அனுப்புகிறது…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">நாங்கள் அனுப்பிய மின்னஞ்சலைத் திறந்து, உங்கள் முகவரியை உறுதிசெய்யவும்</string>
     <string name="com_accountkit_error_title">ஏதோ தவறாகிவிட்டது.</string>
     <string name="com_accountkit_facebook_code_entry_title">Facebook இலிருந்து குறியீட்டை உள்ளிடவும்</string>
+    <string name="com_accountkit_logging_in">உள்நுழைகிறது…</string>
     <string name="com_accountkit_phone_loading_title">உங்களுக்கான குறியீட்டை அனுப்புகிறது…</string>
     <string name="com_accountkit_phone_login_retry_title">ஃபோன் எண்ணை உறுதிசெய்யவும்</string>
     <string name="com_accountkit_phone_login_text">
-        %2$s ஐப் பயன்படுத்துவதற்காக, Facebook வழங்கும் அக்கவுண்ட் கிட்டிலிருந்து SMS உறுதிப்படுத்தலைப் பெற, %1$s ஐத் தட்டவும். இதைப் பயன்படுத்த உங்களுக்கு Facebook கணக்கு தேவையில்லை. செய்தி மற்றும் தரவுக் கட்டணங்கள் விதிக்கப்படலாம். &lt;a href="%3$s">உங்கள் தகவலை Facebook பயன்படுத்தும் விதம் பற்றி மேலும் அறிக&lt;/a>.
+      Facebook வழங்கும் Account Kit ஐப் பயன்படுத்தி உங்கள் கணக்கைச் சரிபார்க்க, %1$s ஐத் தட்டவும்.  Account Kit ஐப் பயன்படுத்துவதற்கு, Facebook கணக்கு தேவையில்லை.  உங்கள் எண்ணைச் சரிபார்ப்பதற்கு SMS அனுப்பப்படலாம். செய்தி மற்றும் டேட்டா கட்டணங்கள் விதிக்கப்படலாம். &lt;a href="%2$s">உங்கள் தகவலை Facebook பயன்படுத்தும் விதம் பற்றி மேலும் அறிக&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">ஃபோன் எண்ணை உள்ளிடவும்</string>
+    <string name="com_accountkit_resend_check">குறியீட்டை மீண்டும் அனுப்புவதற்கு முன், எண்ணைச் சரிபார்க்கவும்.</string>
     <string name="com_accountkit_resend_email_text">புதிய மின்னஞ்சலை அனுப்பு</string>
     <string name="com_accountkit_resend_title">வருந்துகிறோம். தொடர, இந்த விருப்பங்களை முயற்சிக்கவும்.</string>
     <string name="com_accountkit_return_title">%1$s க்குத் திரும்பச்செல்கிறது…</string>

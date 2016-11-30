@@ -80,14 +80,14 @@
         <!-- take the .jar -->
         <unzip src="temp/android/aar/classes.jar" dest="temp/android/aar/classes" />
         <delete file="temp/android/aar/classes/classes.jar" />
-        <zip basedir="temp/android/aar/classes" destfile="temp/android/aar/classes/reziped.jar" />
-        <copy file="temp/android/aar/classes/reziped.jar" tofile="temp/android/lib${name}.jar" overwrite="true" />
+        <zip basedir="temp/android/aar/classes" destfile="temp/android/aar/reziped.jar" />
+        <move file="temp/android/aar/reziped.jar" tofile="temp/android/lib${name}.jar" overwrite="true" />
         <!-- copy resources -->
         <copy todir="temp/android/com.marpies.ane.facebook.accountkit-res/">
             <fileset dir="../android/com.marpies.ane.facebook.accountkit-res/"/>
         </copy>
         <!-- copy account-kit-sdk jar -->
-        <copy file="../android/libs/account-kit-sdk-4.15.0.jar" tofile="temp/android/account-kit-sdk-4.15.0.jar" overwrite="true" />
+        <copy file="../android/libs/account-kit-sdk-4.17.0.jar" tofile="temp/android/account-kit-sdk-4.17.0.jar" overwrite="true" />
         <!-- clean up -->
         <delete dir="temp/android/aar" />
         <delete dir="../android/build" />

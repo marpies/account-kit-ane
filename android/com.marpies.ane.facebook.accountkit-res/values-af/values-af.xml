@@ -237,15 +237,17 @@
         <item>260:ZM:Zambië</item>
         <item>263:ZW:Zimbabwe</item>
     </string-array>
+    <string name="com_accountkit_account_verified">Rekening geverifieer!</string>
     <string name="com_accountkit_button_begin">Begin</string>
     <string name="com_accountkit_button_cancel">Kanselleer</string>
     <string name="com_accountkit_button_confirm">Bevestig</string>
     <string name="com_accountkit_button_continue">Gaan voort</string>
+    <string name="com_accountkit_button_edit">REDIGEER</string>
     <string name="com_accountkit_button_log_in">Meld aan</string>
     <string name="com_accountkit_button_next">Volgende</string>
     <string name="com_accountkit_button_ok">Goed</string>
-    <string name="com_accountkit_button_resend">Stuur nuwe kode</string>
-    <string name="com_accountkit_button_resend_sms">Stuur weer SMS</string>
+    <string name="com_accountkit_button_resend_code_in">Stuur weer kode oor %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Stuur weer kode</string>
     <string name="com_accountkit_button_send">Stuur</string>
     <string name="com_accountkit_button_send_code_in_fb">Stuur kode in Facebook</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">Tik Stuur kode in Facebook om \'n kennisgewing na die Facebook-rekening te stuur wat met die foonnommer verbind is wat jy ingevoer het.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">Probeer weer</string>
     <string name="com_accountkit_button_submit">Dien in</string>
     <string name="com_accountkit_check_email">Maak jou e-pos oop</string>
+    <string name="com_accountkit_code_sent_to">Ons het die kode gestuur na\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Tik %1$s om Facebook se &lt;a href="%2$s">Bepalings&lt;/a>, &lt;a href="%3$s">Databeleid&lt;/a> en &lt;a href="%4$s">koekiegebruik&lt;/a> te aanvaar.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Tik %1$s om Facebook se &lt;a href="%2$s">Bepalings&lt;/a>, &lt;a href="%3$s">Databeleid&lt;/a>, &lt;a href="%4$s">koekiegebruik&lt;/a> en die &lt;a href="%5$s">Privaatheidsbeleid&lt;/a> en &lt;a href="%6$s">Diensbepalings&lt;/a> van %7$s te aanvaar.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Stuur nuwe kode</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Tik %1$s om Facebook se &lt;a href="%2$s">bepalings&lt;/a>, &lt;a href="%3$s">databeleid&lt;/a>, &lt;a href="%4$s">koekiegebruik&lt;/a> en die &lt;a href="%5$s">privaatheidsbeleid&lt;/a> en &lt;a href="%6$s">diensbepalings&lt;/a> van %7$s te aanvaar. &lt;a href="%8$s">Kom meer te wete&lt;/a> oor hoe jou rekening geverifieer is.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Tik %1$s om Facebook se &lt;a href="%2$s">bepalings&lt;/a>, &lt;a href="%3$s">databeleid&lt;/a>, &lt;a href="%4$s">koekiegebruik&lt;/a> en die &lt;a href="%5$s">privaatheidsbeleid&lt;/a> van %6$s te aanvaar. &lt;a href="%7$s">Kom meer te wete&lt;/a> oor hoe jou rekening geverifieer is.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Tik %1$s om Facebook se &lt;a href="%2$s">bepalings&lt;/a>, &lt;a href="%3$s">databeleid&lt;/a> en &lt;a href="%4$s">koekiegebruik&lt;/a> te aanvaar. &lt;a href="%5$s">Kom meer te wete&lt;/a> oor hoe jou rekening geverifieer is.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Het nie kode gekry nie?</string>
     <string name="com_accountkit_confirmation_code_title">Voer jou kode in</string>
     <string name="com_accountkit_email_invalid">Hierdie e-pos is verkeerd. Probeer asseblief weer.</string>
     <string name="com_accountkit_email_loading_title">Stuur tans e-pos…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">Maak die e-pos oop wat ons gestuur het en bevestig jou adres</string>
     <string name="com_accountkit_error_title">Ons is jammer, iets het verkeerd gegaan.</string>
     <string name="com_accountkit_facebook_code_entry_title">Voer jou kode van Facebook in</string>
+    <string name="com_accountkit_logging_in">Meld tans aan…</string>
     <string name="com_accountkit_phone_loading_title">Stuur tans jou kode…</string>
     <string name="com_accountkit_phone_login_retry_title">Bevestig jou foonnommer</string>
     <string name="com_accountkit_phone_login_text">
-        Tik %1$s om \'n SMS-bevestiging vanaf Account Kit deur Facebook te kry om jou te help om %2$s te gebruik. Jy hoef nie \'n Facebook-rekening te hê om dit te gebruik nie. Boodskap- en datatariewe kan dalk geld. &lt;a href="%3$s">Leer hoe Facebook jou inligting gebruik&lt;/a>.
+      Tik %1$s om jou rekening met Account Kit te verifieer wat deur Facebook aangedryf word.  Jy het nie \'n Facebook-rekening nodig om Account Kit te gebruik nie.  \'n SMS kan dalk gestuur word om jou nommer te verifieer. Boodskap- en datatariewe kan dalk geld. &lt;a href="%2$s">Leer hoe Facebook jou inligting gebruik&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Voer jou foonnommer in</string>
+    <string name="com_accountkit_resend_check">Kontroleer asseblief die nommer voordat die kode weer gestuur word.</string>
     <string name="com_accountkit_resend_email_text">Stuur nuwe e-pos</string>
     <string name="com_accountkit_resend_title">Ons is jammer. Probeer hierdie opsies om voort te gaan.</string>
     <string name="com_accountkit_return_title">Neem jou tans terug na %1$s…</string>

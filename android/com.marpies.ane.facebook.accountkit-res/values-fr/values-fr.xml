@@ -237,15 +237,17 @@
         <item>260:ZM:Zambie</item>
         <item>263:ZW:Zimbabwe</item>
     </string-array>
+    <string name="com_accountkit_account_verified">Compte vérifié !</string>
     <string name="com_accountkit_button_begin">Commencer</string>
     <string name="com_accountkit_button_cancel">Annuler</string>
     <string name="com_accountkit_button_confirm">Confirmer</string>
     <string name="com_accountkit_button_continue">Continuer</string>
+    <string name="com_accountkit_button_edit">MODIFIER</string>
     <string name="com_accountkit_button_log_in">Connexion</string>
     <string name="com_accountkit_button_next">Suivant</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend">Envoyer un nouveau code</string>
-    <string name="com_accountkit_button_resend_sms">Renvoyer le SMS</string>
+    <string name="com_accountkit_button_resend_code_in">Renvoyer le code dans %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Renvoyer le code</string>
     <string name="com_accountkit_button_send">Envoyer</string>
     <string name="com_accountkit_button_send_code_in_fb">Envoyer le code dans Facebook</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">Appuyez sur Envoyer le code dans Facebook pour envoyer une notification au compte Facebook associé au numéro de téléphone que vous avez saisi.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">Réessayer</string>
     <string name="com_accountkit_button_submit">Soumettre</string>
     <string name="com_accountkit_check_email">Ouvrez votre e-mail</string>
+    <string name="com_accountkit_code_sent_to">Nous avons envoyé le code à\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Appuyez sur %1$s pour accepter les &lt;a href="%2$s">conditions&lt;/a>, la &lt;a href="%3$s">politique d\'utilisation des données&lt;/a> et d\'&lt;a href="%4$s">utilisation des cookies&lt;/a> de Facebook.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Appuyez sur %1$s pour accepter les &lt;a href="%2$s">conditions&lt;/a>, la &lt;a href="%3$s">politique d\'utilisation des données&lt;/a> et d\'&lt;a href="%4$s">utilisation des cookies&lt;/a>, ainsi que la &lt;a href="%5$s">politique de confidentialité&lt;/a> et les &lt;a href="%6$s">conditions d\'utilisation&lt;/a> de %7$s.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Renvoyer le code</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Appuyez sur %1$s pour accepter les &lt;a href="%2$s">conditions d’utilisation&lt;/a> de Facebook, sa &lt;a href="%3$s">politique d’utilisation des données&lt;/a> et &lt;a href="%4$s">des cookies&lt;/a>, ainsi que la &lt;a href="%5$s">politique de confidentialité&lt;/a> et les &lt;a href="%6$s">conditions d’utilisation&lt;/a> de %7$s. &lt;a href="%8$s">En savoir plus&lt;/a> sur la manière dont votre compte a été vérifié.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Appuyez sur %1$s pour accepter les &lt;a href="%2$s">conditions d’utilisation&lt;/a> de Facebook, sa &lt;a href="%3$s">politique d’utilisation des données&lt;/a> et &lt;a href="%4$s">des cookies&lt;/a>, ainsi que la &lt;a href="%5$s">politique de confidentialité&lt;/a> de %6$s. &lt;a href="%7$s">En savoir plus&lt;/a> sur la manière dont votre compte a été vérifié.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Appuyez sur %1$s pour accepter les &lt;a href="%2$s">conditions d’utilisation&lt;/a> de Facebook, sa &lt;a href="%3$s">politique d’utilisation des données&lt;/a> et &lt;a href="%4$s">des cookies&lt;/a>. &lt;a href="%5$s">En savoir plus&lt;/a> sur la manière dont votre compte a été vérifié.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Vous n’avez pas reçu le code ?</string>
     <string name="com_accountkit_confirmation_code_title">Saisissez votre code</string>
     <string name="com_accountkit_email_invalid">Cette adresse e-mail est incorrecte. Veuillez réessayer.</string>
     <string name="com_accountkit_email_loading_title">Envoi de l\'e-mail…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">Ouvrez l\'e-mail que nous avons envoyé et confirmez votre adresse</string>
     <string name="com_accountkit_error_title">Désolés, une erreur s\'est produite.</string>
     <string name="com_accountkit_facebook_code_entry_title">Saisissez le code envoyé par Facebook</string>
+    <string name="com_accountkit_logging_in">Connexion…</string>
     <string name="com_accountkit_phone_loading_title">Envoi de votre code en cours…</string>
     <string name="com_accountkit_phone_login_retry_title">Confirmez votre numéro de téléphone</string>
     <string name="com_accountkit_phone_login_text">
-        Appuyez sur %1$s pour recevoir un code de confirmation par texto de Account Kit par Facebook, qui, une fois saisi, vous permettra d’utiliser %2$s. Vous n’avez pas besoin d’un compte Facebook pour l’utiliser. Des frais de messagerie et de données peuvent s’appliquer. &lt;a href="%3$s">Découvrez comment Facebook utilise vos informations&lt;/a>.
+      Appuyez sur %1$s pour vérifier votre compte avec Account Kit par Facebook.  Vous n’avez pas besoin d’un compte Facebook pour utiliser Account Kit.  Vous recevrez peut-être un SMS pour vérifier votre numéro. Frais de message et de données applicables. &lt;a href="%2$s">Découvrez comment Facebook utilise vos informations&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Saisissez votre numéro de téléphone</string>
+    <string name="com_accountkit_resend_check">Veuillez vérifier le numéro avant de renvoyer le code.</string>
     <string name="com_accountkit_resend_email_text">Envoyer un e-mail</string>
     <string name="com_accountkit_resend_title">Nous sommes désolés ! Essayez les options ci-dessous pour continuer.</string>
     <string name="com_accountkit_return_title">Retour à %1$s…</string>

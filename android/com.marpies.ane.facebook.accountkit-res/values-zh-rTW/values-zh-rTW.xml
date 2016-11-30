@@ -237,15 +237,17 @@
         <item>260:ZM:尚比亞</item>
         <item>263:ZW:辛巴威</item>
     </string-array>
+    <string name="com_accountkit_account_verified">帳號驗證成功！</string>
     <string name="com_accountkit_button_begin">開始</string>
     <string name="com_accountkit_button_cancel">取消</string>
     <string name="com_accountkit_button_confirm">確認</string>
     <string name="com_accountkit_button_continue">繼續</string>
+    <string name="com_accountkit_button_edit">編輯</string>
     <string name="com_accountkit_button_log_in">登入</string>
     <string name="com_accountkit_button_next">繼續</string>
     <string name="com_accountkit_button_ok">確定</string>
-    <string name="com_accountkit_button_resend">發送新驗證碼</string>
-    <string name="com_accountkit_button_resend_sms">重發簡訊</string>
+    <string name="com_accountkit_button_resend_code_in">%1$s 後重新傳送驗證碼</string>
+    <string name="com_accountkit_button_resend_sms">重新傳送驗證碼</string>
     <string name="com_accountkit_button_send">發送</string>
     <string name="com_accountkit_button_send_code_in_fb">透過 Facebook 傳送驗證碼</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">在 Facebook 中點按「傳送代碼」，以傳送通知到與您電話號碼連結的 Facebook 帳號。</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">再試一次</string>
     <string name="com_accountkit_button_submit">提交</string>
     <string name="com_accountkit_check_email">開啟電子郵件</string>
+    <string name="com_accountkit_code_sent_to">我們已將驗證碼傳送到\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         如接受 Facebook 的&lt;a href="%2$s">使用條款&lt;/a>、&lt;a href="%3$s">資料政策&lt;/a>和 &lt;a href="%4$s">Cookie 的使用&lt;/a>，請點按 %1$s。
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         如接受 Facebook 的&lt;a href="%2$s">使用條款&lt;/a>、&lt;a href="%3$s">資料政策&lt;/a>、&lt;a href="%4$s">Cookie 的使用&lt;/a>和 %7$s 的&lt;a href="%5$s">隱私政策&lt;/a>及&lt;a href="%6$s">服務條款&lt;/a>，請點按 %1$s。
     </string>
-    <string name="com_accountkit_confirmation_code_text">重新傳送代碼</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        如接受 Facebook 的&lt;a href="%2$s">使用條款&lt;/a>、&lt;a href="%3$s">資料政策&lt;/a>、&lt;a href="%4$s">Cookie 的使用&lt;/a>以及 %7$s 的&lt;a href="%5$s">隱私政策&lt;/a>和&lt;a href="%6$s">服務條款&lt;/a>，請點按 %1$s。&lt;a href="%8$s">深入瞭解&lt;/a>帳號驗證方式。
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        如接受 Facebook 的&lt;a href="%2$s">使用條款&lt;/a>、&lt;a href="%3$s">資料政策&lt;/a>、&lt;a href="%4$s">Cookie 的使用&lt;/a>和 %6$s 的&lt;a href="%5$s">隱私政策&lt;/a>，請點按 %1$s。&lt;a href="%7$s">深入瞭解&lt;/a>帳號驗證方式。
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        如接受 Facebook 的&lt;a href="%2$s">使用條款&lt;/a>、&lt;a href="%3$s">資料政策&lt;/a>和 &lt;a href="%4$s">Cookie 的使用&lt;/a>，請點按 %1$s。&lt;a href="%5$s">深入瞭解&lt;/a>帳號驗證方式。
+    </string>
+    <string name="com_accountkit_confirmation_code_text">沒有收到驗證碼嗎？</string>
     <string name="com_accountkit_confirmation_code_title">輸入代碼</string>
     <string name="com_accountkit_email_invalid">電子郵件地址有誤。請再試一次。</string>
     <string name="com_accountkit_email_loading_title">正在傳送電子郵件……</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">開啟我們發送的電子郵件並確認地址</string>
     <string name="com_accountkit_error_title">抱歉，有些地方出錯了。</string>
     <string name="com_accountkit_facebook_code_entry_title">輸入 Facebook 代碼</string>
+    <string name="com_accountkit_logging_in">正在登入…</string>
     <string name="com_accountkit_phone_loading_title">正在發送確認碼…</string>
     <string name="com_accountkit_phone_login_retry_title">確認手機電話號碼</string>
     <string name="com_accountkit_phone_login_text">
-        點按%1$s後，Facebook Account Kit 便會發送確認簡訊給您，因此您不必透過 Facebook 帳號也能使用 %2$s。您可能需要支付簡訊及數據傳輸費用。&lt;a href="%3$s">瞭解 Facebook 使用個資的方式&lt;/a>。
+      點按 %1$s 以使用 Facebook Account Kit 驗證帳號。您不必擁有 Facebook 帳號也能使用 Account Kit。您可能會收到一則簡訊以便驗證電話號碼。您可能需要支付簡訊及數據傳輸費用。&lt;a href="%2$s">瞭解 Facebook 使用個資的方式&lt;/a>。
     </string>
     <string name="com_accountkit_phone_login_title">輸入手機電話號碼</string>
+    <string name="com_accountkit_resend_check">請在重新傳送驗證碼前檢查電話號碼。</string>
     <string name="com_accountkit_resend_email_text">發送新電子郵件</string>
     <string name="com_accountkit_resend_title">非常抱歉！請嘗試以下選項以繼續。</string>
     <string name="com_accountkit_return_title">正在將您帶回 %1$s…</string>

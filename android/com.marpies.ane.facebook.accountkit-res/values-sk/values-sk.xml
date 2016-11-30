@@ -237,15 +237,17 @@
         <item>260:ZM:Zambia</item>
         <item>263:ZW:Zimbabwe</item>
     </string-array>
+    <string name="com_accountkit_account_verified">Účet je overený!</string>
     <string name="com_accountkit_button_begin">Začať</string>
     <string name="com_accountkit_button_cancel">Zrušiť</string>
     <string name="com_accountkit_button_confirm">Potvrdiť</string>
     <string name="com_accountkit_button_continue">Pokračovať</string>
+    <string name="com_accountkit_button_edit">UPRAVIŤ</string>
     <string name="com_accountkit_button_log_in">Prihlásiť sa</string>
     <string name="com_accountkit_button_next">Ďalej</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend">Poslať nový kód</string>
-    <string name="com_accountkit_button_resend_sms">Poslať SMS znova</string>
+    <string name="com_accountkit_button_resend_code_in">Poslať kód znova o %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Poslať kód znova</string>
     <string name="com_accountkit_button_send">Poslať</string>
     <string name="com_accountkit_button_send_code_in_fb">Poslať kód vo Facebooku</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">Ťuknite na Poslať kód na Facebooku, ak chcete, aby sa poslalo upozornenie na účet na Facebooku prepojený s telefónnym číslom, ktoré ste zadali.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">Skúsiť znova</string>
     <string name="com_accountkit_button_submit">Odoslať</string>
     <string name="com_accountkit_check_email">Otvorte svoj e-mail</string>
+    <string name="com_accountkit_code_sent_to">Kód sme poslali na číslo\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Ťuknutím na %1$s vyjadríte súhlas s &lt;a href="%2$s">Podmienkami&lt;/a> Facebooku a jeho &lt;a href="%3$s">Zásadami využívania údajov&lt;/a> vrátane &lt;a href="%4$s">používania cookies&lt;/a>.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Ťuknutím na %1$s vyjadríte súhlas s &lt;a href="%2$s">Podmienkami&lt;/a> Facebooku a jeho &lt;a href="%3$s">Zásadami využívania údajov&lt;/a> vrátane &lt;a href="%4$s">používania cookies&lt;/a>, a tiež so &lt;a href="%5$s">Zásadami ochrany súkromia&lt;/a> a &lt;a href="%6$s">Zmluvnými podmienkami&lt;/a> služby %7$s.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Poslať nový kód</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Ťuknutím na %1$s vyjadrite súhlas s &lt;a href="%2$s">Podmienkami&lt;/a> Facebooku, jeho &lt;a href="%3$s">Zásadami využívania údajov&lt;/a> vrátane &lt;a href="%4$s">používania cookies&lt;/a> a so &lt;a href="%5$s">Zásadami ochrany súkromia&lt;/a> a &lt;a href="%6$s">Podmienkami služby&lt;/a> %7$s. &lt;a href="%8$s">Prečítajte si viac&lt;/a> o tom, ako bol overený váš účet.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Ťuknutím na %1$s vyjadrite súhlas s &lt;a href="%2$s">Podmienkami&lt;/a> Facebooku, jeho &lt;a href="%3$s">Zásadami využívania údajov&lt;/a> vrátane &lt;a href="%4$s">používania cookies&lt;/a> a so &lt;a href="%5$s">Zásadami ochrany súkromia&lt;/a> služby %6$s. &lt;a href="%7$s">Prečítajte si viac&lt;/a> o tom, ako bol overený váš účet.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Ťuknutím na %1$s vyjadrite súhlas s &lt;a href="%2$s">Podmienkami&lt;/a> Facebooku a jeho &lt;a href="%3$s">Zásadami využívania údajov&lt;/a> vrátane &lt;a href="%4$s">používania cookies&lt;/a>. &lt;a href="%5$s">Prečítajte si viac&lt;/a> o tom, ako bol overený váš účet.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Nedostali ste kód?</string>
     <string name="com_accountkit_confirmation_code_title">Zadajte svoj kód</string>
     <string name="com_accountkit_email_invalid">Táto e-mailová adresa je nesprávna. Skúste znova.</string>
     <string name="com_accountkit_email_loading_title">Posiela sa e-mail…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">Otvorte e-mail, ktorý sme vám poslali, a potvrďte svoju adresu</string>
     <string name="com_accountkit_error_title">Ľutujeme, vyskytol sa nejaký problém.</string>
     <string name="com_accountkit_facebook_code_entry_title">Zadajte svoj kód od Facebooku</string>
+    <string name="com_accountkit_logging_in">Prihlasovanie…</string>
     <string name="com_accountkit_phone_loading_title">Posiela sa vám kód…</string>
     <string name="com_accountkit_phone_login_retry_title">Potvrďte svoje telefónne číslo</string>
     <string name="com_accountkit_phone_login_text">
-        Ťuknite na %1$s, aby ste dostali potvrdzujúcu SMS od služby Account Kit by Facebook, ktorá vám pomôže použiť %2$s. Na použitie nepotrebujete mať účet na Facebooku. Môžu sa účtovať poplatky za SMS a dáta. &lt;a href="%3$s">Prečítajte si, ako Facebook používa vaše informácie&lt;/a>.
+      Ťuknite na %1$s na overenie svojho účtu pomocou softvéru Account Kit powered by Facebook.  Na použitie Account Kitu nepotrebujete mať účet na Facebooku.  Na overenie vášho čísla vám môže byť zaslaná SMS. Môžu sa na to vzťahovať poplatky za SMS a dáta. &lt;a href="%2$s">Prečítajte si, ako Facebook používa vaše informácie&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Zadajte svoje telefónne číslo</string>
+    <string name="com_accountkit_resend_check">Pred opätovným poslaním kódu skontrolujte číslo.</string>
     <string name="com_accountkit_resend_email_text">Poslať nový e-mail</string>
     <string name="com_accountkit_resend_title">Ľutujeme. Na pokračovanie vyskúšajte tieto možnosti.</string>
     <string name="com_accountkit_return_title">Prechádzate späť na %1$s…</string>

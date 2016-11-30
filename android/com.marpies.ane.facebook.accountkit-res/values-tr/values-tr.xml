@@ -237,15 +237,17 @@
         <item>260:ZM:Zambiya</item>
         <item>263:ZW:Zimbabve</item>
     </string-array>
+    <string name="com_accountkit_account_verified">Hesap Doğrulandı!</string>
     <string name="com_accountkit_button_begin">Başla</string>
     <string name="com_accountkit_button_cancel">İptal</string>
     <string name="com_accountkit_button_confirm">Onayla</string>
     <string name="com_accountkit_button_continue">Devam</string>
+    <string name="com_accountkit_button_edit">DÜZENLE</string>
     <string name="com_accountkit_button_log_in">Giriş Yap</string>
     <string name="com_accountkit_button_next">İleri</string>
     <string name="com_accountkit_button_ok">Tamam</string>
-    <string name="com_accountkit_button_resend">Yeni Kod Gönder</string>
-    <string name="com_accountkit_button_resend_sms">SMS\'i Yeniden Gönder</string>
+    <string name="com_accountkit_button_resend_code_in">Kodu %1$s sonra tekrar gönder</string>
+    <string name="com_accountkit_button_resend_sms">Kodu Tekrar Gönder</string>
     <string name="com_accountkit_button_send">Gönder</string>
     <string name="com_accountkit_button_send_code_in_fb">Kodu Facebook\'ta Gönder</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">Girdiğiniz telefon numarasıyla bağlantılı Facebook hesabına bildirim göndermek için Facebook\'ta Kodu Gönder\'e dokunun.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">Tekrar Dene</string>
     <string name="com_accountkit_button_submit">Gönder</string>
     <string name="com_accountkit_check_email">E-postanı aç</string>
+    <string name="com_accountkit_code_sent_to">Kodu şu numaraya gönderdik\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Facebook &lt;a href="%2$s">Koşulları&lt;/a>, &lt;a href="%3$s">Veri İlkesi&lt;/a> ve &lt;a href="%4$s">çerez kullanımını&lt;/a> kabul etmek için %1$s düğmesine dokunun.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Facebook &lt;a href="%2$s">Koşulları&lt;/a>, &lt;a href="%3$s">Veri İlkesi&lt;/a> ve &lt;a href="%4$s">çerez kullanımını&lt;/a> ile %7$s &lt;a href="%5$s">Gizlilik İlkesi&lt;/a> ve &lt;a href="%6$s">Hizmet Koşulları&lt;/a>\'nı kabul etmek için %1$s düğmesine dokunun.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Kodu Tekrar Gönder</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Facebook &lt;a href="%2$s">Koşulları&lt;/a>, &lt;a href="%3$s">Veri İlkesi&lt;/a> ve &lt;a href="%4$s">çerez kullanımı&lt;/a> ile %7$s &lt;a href="%5$s">Gizlilik İlkesi&lt;/a> ve &lt;a href="%6$s">Hizmet Koşulları&lt;/a>\'nı kabul etmek için %1$s düğmesine dokunun. Hesabınızın nasıl doğrulandığı hakkında &lt;a href="%8$s">daha fazla bilgi alın&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Facebook &lt;a href="%2$s">Koşulları&lt;/a>, &lt;a href="%3$s">Veri İlkesi&lt;/a> ve &lt;a href="%4$s">çerez kullanımı&lt;/a> ile %6$s &lt;a href="%5$s">Gizlilik İlkesini&lt;/a> kabul etmek için %1$s düğmesine dokunun. Hesabınızın nasıl doğrulandığı hakkında &lt;a href="%7$s">daha fazla bilgi alın&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Facebook &lt;a href="%2$s">Koşulları&lt;/a>, &lt;a href="%3$s">Veri İlkesi&lt;/a> ve &lt;a href="%4$s">çerez kullanımını&lt;/a> kabul etmek için %1$s düğmesine dokunun. Hesabınızın nasıl doğrulandığı hakkında &lt;a href="%5$s">daha fazla bilgi alın&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Kodu almadınız mı?</string>
     <string name="com_accountkit_confirmation_code_title">Kodunuzu girin</string>
     <string name="com_accountkit_email_invalid">Bu e-posta hatalı. Lütfen tekrar dene.</string>
     <string name="com_accountkit_email_loading_title">E-posta gönderiliyor…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">Gönderdiğimiz e-postayı aç ve adresini onayla</string>
     <string name="com_accountkit_error_title">Üzgünüz, bir sorun oluştu.</string>
     <string name="com_accountkit_facebook_code_entry_title">Facebook\'tan gelen kodu girin</string>
+    <string name="com_accountkit_logging_in">Giriş yapılıyor…</string>
     <string name="com_accountkit_phone_loading_title">Kodun gönderiliyor…</string>
     <string name="com_accountkit_phone_login_retry_title">Telefon numaranı onayla</string>
     <string name="com_accountkit_phone_login_text">
-        %2$s kullanmaya başlamak isterseniz, Facebook\'un sunduğu Account Kit\'ten SMS onayı almak için %1$s düğmesine dokunun. Bunu kullanabilmek için bir Facebook hesabınızın olması gerekmez. Mesaj ve veri ücretleri geçerli olabilir. &lt;a href="%3$s">Facebook\'un bilgilerinizi nasıl kullandığını öğrenin&lt;/a>.
+      Facebook\'un desteğiyle Account Kit\'teki hesabınızı doğrulamak için %1$s düğmesine dokunun.  Account Kit\'i kullanmak için bir Facebook hesabınızın olması gerekmez.  Numaranızın doğrulanması için bir SMS gönderilebilir. Mesaj ve veri ücretleri geçerli olabilir. &lt;a href="%2$s">Facebook\'un bilgilerinizi nasıl kullandığını öğrenin&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Telefon numaranı gir</string>
+    <string name="com_accountkit_resend_check">Lütfen kodu tekrar göndermeden önce numarayı kontrol edin.</string>
     <string name="com_accountkit_resend_email_text">Yeni E-posta Gönder</string>
     <string name="com_accountkit_resend_title">Üzgünüz. Devam etmek için bu seçenekleri deneyin.</string>
     <string name="com_accountkit_return_title">Tekrar %1$s uygulamasına yönlendiriliyorsunuz…</string>

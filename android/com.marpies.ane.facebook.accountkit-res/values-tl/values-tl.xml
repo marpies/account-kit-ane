@@ -237,15 +237,17 @@
         <item>260:ZM:Zambia</item>
         <item>263:ZW:Zimbabwe</item>
     </string-array>
+    <string name="com_accountkit_account_verified">Na-verify na ang Account!</string>
     <string name="com_accountkit_button_begin">Umpisahan</string>
     <string name="com_accountkit_button_cancel">Kanselahin</string>
     <string name="com_accountkit_button_confirm">Kumpirmahin</string>
     <string name="com_accountkit_button_continue">Magpatuloy</string>
+    <string name="com_accountkit_button_edit">I-EDIT</string>
     <string name="com_accountkit_button_log_in">Mag-log In</string>
     <string name="com_accountkit_button_next">Susunod</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend">Magpadala ng Bagong Code</string>
-    <string name="com_accountkit_button_resend_sms">Ipadala muli ang SMS</string>
+    <string name="com_accountkit_button_resend_code_in">Ipadala muli ang code sa loob %1$s</string>
+    <string name="com_accountkit_button_resend_sms">Ipadala Muli ang Code</string>
     <string name="com_accountkit_button_send">Ipadala</string>
     <string name="com_accountkit_button_send_code_in_fb">Ipadala ang Code sa Facebook</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">I-tap ang Ipadala ang Code sa Facebook upang magpadala ng notification sa Facebook account na naka-link sa numero ng teleponong inilagay mo.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">Subukang Muli</string>
     <string name="com_accountkit_button_submit">Isumite</string>
     <string name="com_accountkit_check_email">Buksan ang iyong email</string>
+    <string name="com_accountkit_code_sent_to">Ipinadala namin ang code sa\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         I-tap ang %1$s para tanggapin ang &lt;a href="%2$s">Mga Tuntunin&lt;/a> ng Facebook, &lt;a href="%3$s">Patakaran ng Data&lt;/a> at &lt;a href="%4$s">paggamit ng cookie&lt;/a>.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         I-tap ang %1$s para tanggapin ang &lt;a href="%2$s">Mga Tuntunin&lt;/a> ng Facebook, &lt;a href="%3$s">Patakaran ng Data&lt;/a>, &lt;a href="%4$s">paggamit ng cookie&lt;/a> at ang &lt;a href="%5$s">Patakaran sa Pagkapribado&lt;/a> at &lt;a href="%6$s">Mga Tuntunin ng Serbisyo&lt;/a> ng %7$s.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Magpadala ng Bagong Code</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        I-tap ang %1$s para tanggapin ang &lt;a href="%2$s">Mga Tuntunin&lt;/a> ng Facebook, &lt;a href="%3$s">Patakaran sa Data&lt;/a>, &lt;a href="%4$s">paggamit ng cookie&lt;/a> at ang &lt;a href="%5$s">Patakaran sa Pagkapribado&lt;/a> at &lt;a href="%6$s">Mga Tuntunin ng Serbisyo&lt;/a> ng %7$s. &lt;a href="%8$s">Alamin pa&lt;/a> ang tungkol sa kung paano na-verify ang iyong account.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        I-tap ang %1$s para tanggapin ang &lt;a href="%2$s">Mga Tuntunin&lt;/a> ng Facebook, &lt;a href="%3$s">Patakaran sa Data&lt;/a>, &lt;a href="%4$s">paggamit ng cookie&lt;/a> at ang &lt;a href="%5$s">Patakaran sa Pagkapribado&lt;/a> ng %6$s. &lt;a href="%7$s">Alamin pa&lt;/a> ang tungkol sa kung paano na-verify ang iyong account.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        I-tap ang %1$s para tanggapin ang &lt;a href="%2$s">Mga Tuntunin&lt;/a> ng Facebook, &lt;a href="%3$s">Patakaran sa Pagkapribado&lt;/a> at &lt;a href="%4$s">paggamit sa cookie&lt;/a>. &lt;a href="%5$s">Alamin pa&lt;/a> ang tungkol sa kung paano na-verify ang iyong account.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Hindi nakuha ang code?</string>
     <string name="com_accountkit_confirmation_code_title">Ilagay ang iyong code</string>
     <string name="com_accountkit_email_invalid">Mali ang email na ito. Pakisubukang muli.</string>
     <string name="com_accountkit_email_loading_title">Ipinapadala ang email…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">Buksan ang email na ipinadala namin at kumpirmahin ang iyong address</string>
     <string name="com_accountkit_error_title">Humihingi kami ng paumanhin, nagkaroon ng problema.</string>
     <string name="com_accountkit_facebook_code_entry_title">Ilagay ang iyong code mula sa Facebook</string>
+    <string name="com_accountkit_logging_in">Nagla-log in…</string>
     <string name="com_accountkit_phone_loading_title">Ipinapadala ang iyong code…</string>
     <string name="com_accountkit_phone_login_retry_title">Kumpirmahin ang numero ng iyong telepono</string>
     <string name="com_accountkit_phone_login_text">
-        I-tap ang %1$s para makakuha ng kumpirmasyon sa SMS mula sa Account Kit ng Facebook para tulungan kang gamitin ang %2$s. Hindi mo kailangan ng isang Facebook account para gamitin ito. Maaaring maglapat ng mga singil sa mensahe at data. &lt;a href="%3$s">Alamin kung paano ginagamit ng Facebook ang iyong impormasyon&lt;/a>.
+      I-tap ang %1$s para i-verify ang iyong account sa Account Kit na pinapagana ng Facebook.  Hindi mo kailangan ng Facebook account para gamitin ang Account Kit.  Maaaring magpadala ng isang SMS para i-verify ang iyong numero. Maaaring maglapat ng mga singil sa mensahe at data. &lt;a href="%2$s">Alamin kung paano ginagamit ng Facebook ang iyong impormasyon&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Ilagay ang numero ng iyong telepono</string>
+    <string name="com_accountkit_resend_check">Pakitingnan ang numero bago ipadala muli ang code.</string>
     <string name="com_accountkit_resend_email_text">Magpadala ng Bagong Email</string>
     <string name="com_accountkit_resend_title">Paumanhin. Subukan ang mga opsyong ito upang magpatuloy.</string>
     <string name="com_accountkit_return_title">Dadalhin ka muli pabalik sa %1$s…</string>

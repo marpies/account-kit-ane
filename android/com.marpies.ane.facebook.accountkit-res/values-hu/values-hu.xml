@@ -237,15 +237,17 @@
         <item>260:ZM:Zambia</item>
         <item>263:ZW:Zimbabwe</item>
     </string-array>
+    <string name="com_accountkit_account_verified">A fiók ellenőrzése megtörtént!</string>
     <string name="com_accountkit_button_begin">Kezdés</string>
     <string name="com_accountkit_button_cancel">Mégsem</string>
     <string name="com_accountkit_button_confirm">Visszaigazolás</string>
     <string name="com_accountkit_button_continue">Folytatás</string>
+    <string name="com_accountkit_button_edit">MÓDOSÍTÁS</string>
     <string name="com_accountkit_button_log_in">Bejelentkezés</string>
     <string name="com_accountkit_button_next">Tovább</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend">Új kód küldése</string>
-    <string name="com_accountkit_button_resend_sms">SMS újraküldése</string>
+    <string name="com_accountkit_button_resend_code_in">A kód újraküldése %1$s múlva</string>
+    <string name="com_accountkit_button_resend_sms">Kód újraküldése</string>
     <string name="com_accountkit_button_send">Küldd el.</string>
     <string name="com_accountkit_button_send_code_in_fb">Kód küldése a Facebook</string>
     <string name="com_accountkit_button_send_code_in_fb_disclosure">A Kód küldése a Facebook pontra koppintva értesítést küldhetsz a megadott telefonszámhoz kapcsolt Facebook-fióknak.</string>
@@ -253,6 +255,7 @@
     <string name="com_accountkit_button_start_over">Újra</string>
     <string name="com_accountkit_button_submit">Küldés</string>
     <string name="com_accountkit_check_email">Nyisd meg a levelezésedet.</string>
+    <string name="com_accountkit_code_sent_to">A kódot a következő elérhetőségedre küldtük el\n%1$s</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Koppints a %1$s gombra a Facebook &lt;a href="%2$s">használati feltételeinek&lt;/a>, &lt;a href="%3$s">adatkezelési szabályzatának&lt;/a> és &lt;a href="%4$s">a cookie-k használatáról szóló tájékoztatásának&lt;/a> elfogadásához.
     </string>
@@ -262,7 +265,16 @@
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
         Koppints a %1$s gombra a Facebook &lt;a href="%2$s">használati feltételeinek&lt;/a>, &lt;a href="%3$s">adatkezelési szabályzatának&lt;/a>, &lt;a href="%4$s">a cookie-k használatáról szóló tájékoztatásának&lt;/a>, valamint a(z) %7$s &lt;a href="%5$s">adatvédelmi szabályzatának&lt;/a> és &lt;a href="%6$s">használati feltételeinek&lt;/a> elfogadásához.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Kód újraküldése</string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Koppints a(z) %1$s gombra a Facebook &lt;a href="%2$s">használati feltételeinek&lt;/a>, &lt;a href="%3$s">adatkezelési szabályzatának&lt;/a> és &lt;a href="%4$s">a cookie-k használatáról szóló tájékoztatásának&lt;/a>, valamint a(z) %7$s &lt;a href="%5$s">adatvédelmi szabályzatának&lt;/a> és &lt;a href="%6$s">használati feltételeinek&lt;/a> elfogadásához. &lt;a href="%8$s">További tudnivalók&lt;/a> arról, hogyan történt a fiókod ellenőrzése.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Koppints a(z) %1$s gombra a Facebook &lt;a href="%2$s">használati feltételeinek&lt;/a>, &lt;a href="%3$s">adatkezelési szabályzatának&lt;/a> és &lt;a href="%4$s">a cookie-k használatáról szóló tájékoztatásának&lt;/a>, valamint a(z) %6$s &lt;a href="%5$s">adatvédelmi szabályzatának&lt;/a> elfogadásához. &lt;a href="%7$s">További tudnivalók&lt;/a> arról, hogyan történt a fiókod ellenőrzése.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Koppints a(z) %1$s gombra a Facebook &lt;a href="%2$s">használati feltételeinek&lt;/a>, &lt;a href="%3$s">adatkezelési szabályzatának&lt;/a> és &lt;a href="%4$s">a cookie-k használatáról szóló tájékoztatásának&lt;/a> elfogadásához. &lt;a href="%5$s">További tudnivalók&lt;/a> arról, hogyan történt a fiókod ellenőrzése.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Nem kaptad meg a kódot?</string>
     <string name="com_accountkit_confirmation_code_title">Írd be a kódot</string>
     <string name="com_accountkit_email_invalid">Ez az e-mail cím helytelen. Kérjük, próbáld meg újra.</string>
     <string name="com_accountkit_email_loading_title">E-mail küldése…</string>
@@ -275,12 +287,14 @@
     <string name="com_accountkit_email_verify_title">Nyisd meg az általunk küldött e-mailt, és erősítsd meg a címedet.</string>
     <string name="com_accountkit_error_title">Sajnos hiba történt.</string>
     <string name="com_accountkit_facebook_code_entry_title">Írd be a Facebooktól kapott kódot.</string>
+    <string name="com_accountkit_logging_in">Bejelentkezés…</string>
     <string name="com_accountkit_phone_loading_title">A kód elküldése folyamatban van…</string>
     <string name="com_accountkit_phone_login_retry_title">Erősítsd meg a telefonszámodat.</string>
     <string name="com_accountkit_phone_login_text">
-        A(z) %1$s gombra koppintva a Facebook Account Kit SMS-ben küldött értesítéssel könnyítheti meg a(z) %2$s használatát. A használathoz nincs szükséged Facebook-fiókra. Ez üzenet- és adatforgalmi szolgáltatási díjakkal járhat. &lt;a href="%3$s">Tájékoztatás arról, hogyan használja a Facebook az adataidat&lt;/a>.
+      Koppints a(z) %1$s gombra, ha szeretnéd elvégezni a fiókod ellenőrzését a Facebook technológiájával működő Account Kitben.  Az Account Kit használatához nem kell Facebook-fiókkal rendelkezned.  A számod megerősítése céljából SMS-t küldhet a rendszer. Ez üzenet- és adatforgalmi szolgáltatási díjakkal járhat. &lt;a href="%2$s">Tájékoztatás arról, hogyan használja a Facebook az adataidat&lt;/a>.
     </string>
     <string name="com_accountkit_phone_login_title">Add meg a telefonszámodat.</string>
+    <string name="com_accountkit_resend_check">Kérjük, a kód újraküldése előtt ellenőrizd a számot.</string>
     <string name="com_accountkit_resend_email_text">Új e-mail küldése</string>
     <string name="com_accountkit_resend_title">Elnézést kérünk. A folytatáshoz próbálkozz ezekkel a lehetőségekkel.</string>
     <string name="com_accountkit_return_title">Visszalépés: %1$s…</string>
