@@ -1,4 +1,4 @@
-<extension xmlns="http://ns.adobe.com/air/extension/22.0">
+<extension xmlns="http://ns.adobe.com/air/extension/23.0">
   <id>com.marpies.ane.facebook.accountkit</id>
   <versionNumber>1.2.0</versionNumber>
   <platforms>

@@ -1,4 +1,4 @@
-<platform xmlns="http://ns.adobe.com/air/extension/22.0">
+<platform xmlns="http://ns.adobe.com/air/extension/23.0">
 
     <packagedDependencies>
         <packagedDependency>account-kit-sdk-4.17.0.jar</packagedDependency>
