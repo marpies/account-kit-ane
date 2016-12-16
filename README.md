@@ -28,14 +28,18 @@ Start by creating a Facebook app in the [Facebook developer dashboard](https://d
 
 ### Modify Android resources
 
+*(skip this step if you target iOS only)*
+
 AccountKit SDK for Android requires Android resources which contain your Facebook app ID and AccountKit client token. These resources are part of the extension package and must be specified when building APK file, thus you will need to repackage the extension with resources that hold your information. If you do not intend to target Android platform then use the [extension package from the bin directory](bin/) and skip over to **Additions to AIR descriptor** section. To modify the resources, open the file [strings.xml](android/com.marpies.ane.facebook.accountkit-res/values/strings.xml) and replace the placeholders with actual values from the developer dashboard:
 
 * `{FACEBOOK_APP_ID}` with your Facebook app ID
 * `{ACCOUNT_KIT_CLIENT_TOKEN}` with your AccountKit client token
 
-Update [build.properties](build/build.properties) variables `air.sdk` and `gradle.exec` to point to AIR SDK 22+ root directory and to [Gradle](https://gradle.org/gradle-download/) executable. Navigate to the [build](build/) directory from the command line and run `ant all` to build and package the extension.
+Update [build.properties](build/build.properties) variables `air.sdk` and `gradle.exec` to point to AIR SDK 23+ root directory and to [Gradle](https://gradle.org/gradle-download/) executable. Navigate to the [build](build/) directory from the command line and run `ant all` to build and package the extension.
 
 ### Modify AIR SDK library
+
+*(skip this step if you target iOS only)*
 
 The AccountKit SDK for Android uses AppCompat resources for styling UI activities presented to the user. AIR SDK uses older version of these resources which must be removed from the AIR SDK to avoid conflict with newer version. Since the following steps directly modify the SDK, I suggest you create a copy of the SDK directory, mark it as patched and only use it for apps where AccountKit ANE is included.
 
