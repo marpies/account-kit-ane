@@ -15,13 +15,6 @@ Development of this extension is supported by [Master Tigra, Inc.](https://githu
 * Storing custom user preferences
 * Retrieving AccountKit account data
 
-## AIR SDK bugs
-
-Note: AIR SDK currently lacks a feature that negatively affects this extension's usability. Due to that you are required to make a minor modification to the SDK on your machine. Please, leave a vote in the bug reports below to help the usability of this and other extensions:
-
-* [Bug 4189538 - Outdated Android AppCompat resources](https://bugbase.adobe.com/index.cfm?event=bug&id=4189538)
-* [Bug 4189540 - Specify extra parameters to aapt tool when creating APK](https://bugbase.adobe.com/index.cfm?event=bug&id=4189540) 
-
 ## Getting started
 
 Start by creating a Facebook app in the [Facebook developer dashboard](https://developers.facebook.com/apps/). Next, add AccountKit product from the dashboard menu on the left. Write down your Facebook app ID and AccountKit client token.
