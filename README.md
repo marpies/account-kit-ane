@@ -36,8 +36,8 @@ Update [build.properties](build/build.properties) variables `air.sdk` and `gradl
 
 The AccountKit SDK for Android uses AppCompat resources for styling UI activities presented to the user. AIR SDK uses older version of these resources which must be removed from the AIR SDK to avoid conflict with newer version. Since the following steps directly modify the SDK, I suggest you create a copy of the SDK directory, mark it as patched and only use it for apps where AccountKit ANE is included.
 
-1. Download `runtimeClasses.jar` for your AIR SDK version from the [air_sdk_patch](air_sdk_patch/) directory. Copy and paste it to `AIR_SDK_patched/lib/android/lib`, replacing the existing file.   
-2. Download `adt.jar` for your AIR SDK version from the [air_sdk_patch](air_sdk_patch/) directory. Copy and paste it to `AIR_SDK_patched/lib`, replacing the existing file.   
+1. Download `adt.jar` for your AIR SDK version from the [air_sdk_patch](air_sdk_patch/) directory. Copy and paste it to `AIR_SDK_patched/lib`, replacing the existing file.
+2. (*Skip this step if using AIR 25+*) Download `runtimeClasses.jar` for your AIR SDK version from the [air_sdk_patch](air_sdk_patch/) directory. Copy and paste it to `AIR_SDK_patched/lib/android/lib`, replacing the existing file.
 
 ### Additions to AIR descriptor
 
