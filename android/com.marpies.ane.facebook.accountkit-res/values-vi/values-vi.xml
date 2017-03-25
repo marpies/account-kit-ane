@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">Đăng nhập</string>
     <string name="com_accountkit_button_next">Tiếp</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend_code_in">Gửi lại mã sau %1$s</string>
+    <string name="com_accountkit_button_resend_code_in">Gửi lại mã theo %1$d</string>
     <string name="com_accountkit_button_resend_sms">Gửi lại mã</string>
     <string name="com_accountkit_button_send">Gửi</string>
-    <string name="com_accountkit_button_send_code_in_fb">Gửi mã trong Facebook</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">Nhấn vào Gửi mã trong Facebook để gửi thông báo đến tài khoản Facebook được liên kết với số điện thoại bạn đã nhập.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Nhận mã trên Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Nhấn vào "Nhận mã trên Facebook" để nhận mã của bạn dưới dạng thông báo trên Facebook.</string>
     <string name="com_accountkit_button_start">Bắt đầu</string>
     <string name="com_accountkit_button_start_over">Thử lại</string>
     <string name="com_accountkit_button_submit">Gửi</string>
     <string name="com_accountkit_check_email">Mở email của bạn</string>
-    <string name="com_accountkit_code_sent_to">Chúng tôi đã gửi mã đến\n%1$s</string>
+    <string name="com_accountkit_code_sent_to">Xác minh %1$s là số di động của bạn.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Nhấn %1$s để chấp nhận &lt;a href="%2$s">Điều khoản&lt;/a>, &lt;a href="%3$s">Chính sách dữ liệu&lt;/a> và &lt;a href="%4$s">sử dụng cookie&lt;/a> của Facebook.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Nhấn vào %1$s để chấp nhận &lt;a href="%2$s">Điều khoản&lt;/a>, &lt;a href="%3$s">Chính sách dữ liệu&lt;/a> và &lt;a href="%4$s">sử dụng cookie&lt;/a> của Facebook. &lt;a href="%5$s">Tìm hiểu thêm&lt;/a> về cách tài khoản được xác minh.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Bạn chưa nhận được mã?</string>
+    <string name="com_accountkit_confirmation_code_text">Tôi không nhận được mã</string>
     <string name="com_accountkit_confirmation_code_title">Nhập mã của bạn</string>
     <string name="com_accountkit_email_invalid">Email này không chính xác. Vui lòng thử lại.</string>
     <string name="com_accountkit_email_loading_title">Đang gửi email…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">Nhập địa chỉ email của bạn</string>
     <string name="com_accountkit_email_not_received">Gửi lại email</string>
-    <string name="com_accountkit_email_verify_title">Hãy mở email mà chúng tôi đã gửi và xác nhận địa chỉ của bạn</string>
-    <string name="com_accountkit_error_title">Rất tiếc, đã xảy ra lỗi.</string>
+    <string name="com_accountkit_email_verify_title">Mở email và xác nhận địa chỉ email của bạn</string>
+    <string name="com_accountkit_enter_code_sent_to">Nhập mã đã được gửi tới %1$s</string>
+    <string name="com_accountkit_error_title">Đã xảy ra sự cố hệ thống. Vui lòng thử lại.</string>
     <string name="com_accountkit_facebook_code_entry_title">Nhập mã của bạn từ Facebook</string>
-    <string name="com_accountkit_logging_in">Iniciando sesión…</string>
+    <string name="com_accountkit_logging_in">Đang đăng nhập…</string>
+    <string name="com_accountkit_phone_error_title">Vui lòng nhập số di động hợp lệ.</string>
     <string name="com_accountkit_phone_loading_title">Đang gửi mã của bạn…</string>
-    <string name="com_accountkit_phone_login_retry_title">Xác nhận số điện thoại của bạn</string>
+    <string name="com_accountkit_phone_login_retry_title">Xác nhận số di động của bạn</string>
     <string name="com_accountkit_phone_login_text">
-      Toca "%1$s" para verificar tu cuenta con Account Kit desarrollado por Facebook.  No necesitas una cuenta de Facebook para usar Account Kit.  Es posible que se envíe un SMS para verificar tu número. Pueden aplicarse cargos por mensajes y datos. &lt;a href="%2$s">Obtén más información sobre cómo Facebook usa tu información&lt;/a>.
+        Nhấn vào %1$s để xác minh tài khoản bằng Account Kit của Facebook. Bạn không cần có tài khoản Facebook để sử dụng Account Kit. Chúng tôi có thể gửi SMS để xác minh số của bạn. Bạn có thể phải chịu cước tin nhắn và dữ liệu. &lt;a href="%2$s">Tìm hiểu cách Facebook sử dụng thông tin của bạn&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">Nhập số điện thoại của bạn</string>
+    <string name="com_accountkit_phone_login_title">Nhập số di động của bạn</string>
     <string name="com_accountkit_resend_check">Vui lòng kiểm tra số trước khi gửi lại mã.</string>
     <string name="com_accountkit_resend_email_text">Gửi email mới</string>
-    <string name="com_accountkit_resend_title">Chúng tôi rất tiếc. Hãy thử những tùy chọn này để tiếp tục.</string>
+    <string name="com_accountkit_resend_title">Kiểm tra SMS chứa mã trong tin nhắn của bạn.</string>
     <string name="com_accountkit_return_title">Đưa bạn quay lại %1$s…</string>
     <string name="com_accountkit_sent_title">Đã gửi!</string>
     <string name="com_accountkit_success_title">Xong!</string>

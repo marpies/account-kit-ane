@@ -246,24 +246,24 @@
     <string name="com_accountkit_button_log_in">تسجيل الدخول</string>
     <string name="com_accountkit_button_next">التالي</string>
     <string name="com_accountkit_button_ok">موافق</string>
-    <string name="com_accountkit_button_resend_code_in">إعادة إرسال الرمز خلال %1$s</string>
-    <string name="com_accountkit_button_resend_sms">إعادة إرسال الرمز</string>
+    <string name="com_accountkit_button_resend_code_in">إرسال الرمز مرة أخرى خلال %1$d</string>
+    <string name="com_accountkit_button_resend_sms">إرسال الرمز مرة أخرى</string>
     <string name="com_accountkit_button_send">إرسال</string>
-    <string name="com_accountkit_button_send_code_in_fb">إرسال الرمز على فيسبوك</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">اضغط على "إرسال الرمز" في فيسبوك لإرسال إشعار إلى حساب فيسبوك المرتبط برقم الهاتف الذي أدخلته.</string>
+    <string name="com_accountkit_button_send_code_in_fb">الحصول على الرمز على فيسبوك</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">اضغط على "الحصول على الرمز على فيسبوك" لتلقي الرمز كإشعار على فيسبوك.</string>
     <string name="com_accountkit_button_start">بدء</string>
     <string name="com_accountkit_button_start_over">حاول مرة أخرى</string>
     <string name="com_accountkit_button_submit">تقديم</string>
     <string name="com_accountkit_check_email">فتح البريد الإلكتروني</string>
-    <string name="com_accountkit_code_sent_to">أرسلنا الرمز إلى \n%1$s</string>
+    <string name="com_accountkit_code_sent_to">يرجى تأكيد أن رقم هاتفك المحمول هو %1$s.</string>
     <string name="com_accountkit_confirmation_code_agreement">
-     اضغط على %1$s لقبول &lt;a href="%2$s">شروط&lt;/a> &lt;a href="%3$s">سياسة بيانات&lt;/a> و&lt;a href="%4$s">استخدام ملفات تعريف الارتباط&lt;/a> لفيسبوك.
+     اضغط على %1$s لقبول &lt;a href="%2$s">شروط&lt;/a>&lt;a href="%3$s">سياسة بيانات&lt;/a> و&lt;a href="%4$s">استخدام ملفات تعريف الارتباط&lt;/a> لفيسبوك.
     </string>
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
-    اضغط على %1$s لقبول &lt;a href="%2$s">شروط&lt;/a> &lt;a href="%3$s">خصوصية بيانات&lt;/a> و&lt;a href="%4$s">استخدام ملفات تعريف الارتباط&lt;/a> لفيسبوك و&lt;a href="%5$s">سياسة خصوصية&lt;/a> %6$s.
+    اضغط على %1$s لقبول &lt;a href="%2$s">شروط&lt;/a>&lt;a href="%3$s">خصوصية بيانات&lt;/a> و&lt;a href="%4$s">استخدام ملفات تعريف الارتباط&lt;/a> لفيسبوك و&lt;a href="%5$s">سياسة خصوصية&lt;/a> %6$s.
     </string>
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
-    اضغط على %1$s لقبول &lt;a href="%2$s">شروط&lt;/a> &lt;a href="%3$s">خصوصية بيانات&lt;/a> و&lt;a href="%4$s">استخدام ملفات تعريف الارتباط&lt;/a> لفيسبوك و&lt;a href="%5$s">سياسة خصوصية&lt;/a> و&lt;a href="%6$s">شروط خدمة&lt;/a> %7$s.
+    اضغط على %1$s لقبول &lt;a href="%2$s">شروط&lt;/a>&lt;a href="%3$s">خصوصية بيانات&lt;/a> و&lt;a href="%4$s">استخدام ملفات تعريف الارتباط&lt;/a> لفيسبوك و&lt;a href="%5$s">سياسة خصوصية&lt;/a> و&lt;a href="%6$s">شروط خدمة&lt;/a> %7$s.
     </string>
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
         اضغط على %1$s لقبول &lt;a href="%2$s">شروط&lt;/a> و&lt;a href="%3$s">سياسة بيانات&lt;/a> و&lt;a href="%4$s">استخدام ملفات تعريف الارتباط&lt;/a> لفيسبوك و&lt;a href="%5$s">سياسة خصوصية&lt;/a> و&lt;a href="%6$s">شروط خدمة&lt;/a> %7$s. يمكنك &lt;a href="%8$s">التعرف على المزيد&lt;/a> عن كيفية التحقق من الحساب الخاص بك.
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         اضغط على %1$s لقبول &lt;a href="%2$s">شروط&lt;/a> و&lt;a href="%3$s">سياسة بيانات&lt;/a> و&lt;a href="%4$s">استخدام ملفات تعريف الارتباط&lt;/a> لفيسبوك. يمكنك &lt;a href="%5$s">التعرف على المزيد&lt;/a> عن كيفية التحقق من المحتوى الخاص بك.
     </string>
-    <string name="com_accountkit_confirmation_code_text">ألم تحصل على الرمز؟</string>
+    <string name="com_accountkit_confirmation_code_text">لم أحصل على الرمز</string>
     <string name="com_accountkit_confirmation_code_title">أدخل الرمز</string>
     <string name="com_accountkit_email_invalid">عنوان البريد الإلكتروني غير صحيح. يرجى المحاولة مرة أخرى.</string>
     <string name="com_accountkit_email_loading_title">جارٍ إرسال بريد إلكتروني…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">أدخل عنوان بريدك الإلكتروني</string>
     <string name="com_accountkit_email_not_received">إعادة إرسال البريد الإلكتروني</string>
-    <string name="com_accountkit_email_verify_title">افتح البريد الإلكتروني الذي تم إرساله وقم بتأكيد عنوانك</string>
-    <string name="com_accountkit_error_title">عذراً، حدث خطأ ما.</string>
+    <string name="com_accountkit_email_verify_title">افتح رسالة البريد الإلكتروني وقم بتأكيد عنوان بريدك الإلكتروني</string>
+    <string name="com_accountkit_enter_code_sent_to">أدخل الرمز الذي تم إرساله إلى %1$s</string>
+    <string name="com_accountkit_error_title">حدث خطأ في النظام. يرجى إعادة المحاولة.</string>
     <string name="com_accountkit_facebook_code_entry_title">أدخل الرمز الذي تم إرساله من فيسبوك</string>
     <string name="com_accountkit_logging_in">جارٍ تسجيل الدخول…</string>
+    <string name="com_accountkit_phone_error_title">يُرجى إدخال رقم هاتف محمول صالح.</string>
     <string name="com_accountkit_phone_loading_title">جارٍ إرسال الرمز…</string>
-    <string name="com_accountkit_phone_login_retry_title">تأكيد رقم هاتفك</string>
+    <string name="com_accountkit_phone_login_retry_title">تأكيد رقم الهاتف المحمول</string>
     <string name="com_accountkit_phone_login_text">
       اضغط على %1$s للتحقق من حسابك لدى Account Kit برعاية فيسبوك.  لا يتطلب الأمر وجود حساب فيسبوك لاستخدام Account Kit.  قد يتم إرسال رسالة SMS للتحقق من رقمك. تُطبق أسعار الرسائل وبيانات الاتصال. &lt;a href="%2$s">تعرف على كيفية استخدام فيسبوك لمعلوماتك&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">أدخل رقم هاتفك</string>
+    <string name="com_accountkit_phone_login_title">إدخال رقم الهاتف المحمول</string>
     <string name="com_accountkit_resend_check">يرجى التحقق من الرقم قبل إعادة إرسال الرمز.</string>
     <string name="com_accountkit_resend_email_text">إرسال بريد إلكتروني جديد</string>
-    <string name="com_accountkit_resend_title">نأسف لذلك. جرّب هذه الخيارات للمتابعة.</string>
+    <string name="com_accountkit_resend_title">تفقد رسائلك للبحث عن رسالة SMS تحتوي على الرمز.</string>
     <string name="com_accountkit_return_title">عودة إلى %1$s…</string>
     <string name="com_accountkit_sent_title">تم الإرسال!</string>
     <string name="com_accountkit_success_title">تم!</string>

@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">ログイン</string>
     <string name="com_accountkit_button_next">次へ</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend_code_in">%1$sのコードを再送</string>
-    <string name="com_accountkit_button_resend_sms">コードを再送</string>
+    <string name="com_accountkit_button_resend_code_in">%1$d秒後にコードを再送信</string>
+    <string name="com_accountkit_button_resend_sms">コードを再送信</string>
     <string name="com_accountkit_button_send">送信</string>
-    <string name="com_accountkit_button_send_code_in_fb">Facebookにコードを送信</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">Facebookにコードを送信をタップすると、入力した電話番号に関連付けられているFacebookアカウントにお知らせが送信されます。</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebookでコードを取得</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">[Facebookでコードを取得]をタップすると、コードをFacebookの通知で受信します。</string>
     <string name="com_accountkit_button_start">開始</string>
     <string name="com_accountkit_button_start_over">もう一度試す</string>
     <string name="com_accountkit_button_submit">送信</string>
     <string name="com_accountkit_check_email">メールを開く</string>
-    <string name="com_accountkit_code_sent_to">%1$sにコードをお送りしました</string>
+    <string name="com_accountkit_code_sent_to">%1$sを正しい携帯電話番号として認証します。</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Facebookの&lt;a href="%2$s">利用規約&lt;/a>、&lt;a href="%3$s">データに関するポリシー&lt;/a>、&lt;a href="%4$s">Cookieの使用&lt;/a>に同意する場合は[%1$s]をタップしてください。
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         [%1$s]をタップして、Facebookの&lt;a href="%2$s">利用規約&lt;/a>、&lt;a href="%3$s">データに関するポリシー&lt;/a>、&lt;a href="%4$s">Cookieの使用&lt;/a>に合意します。アカウントの確認方法については、&lt;a href="%5$s">こちら&lt;/a>をご覧ください。
     </string>
-    <string name="com_accountkit_confirmation_code_text">コードが送られてきませんか?</string>
+    <string name="com_accountkit_confirmation_code_text">コードが送られてきませんでした</string>
     <string name="com_accountkit_confirmation_code_title">コードを入力してください</string>
     <string name="com_accountkit_email_invalid">メールに誤りがあります。もう一度お試しください。</string>
     <string name="com_accountkit_email_loading_title">メールを送信中…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">メールアドレスを入力</string>
     <string name="com_accountkit_email_not_received">メールを再送信</string>
-    <string name="com_accountkit_email_verify_title">Facebookから届いたメールを開き、メールアドレスを確認してください。</string>
-    <string name="com_accountkit_error_title">エラーが発生しました。</string>
+    <string name="com_accountkit_email_verify_title">メールを開いてメールアドレスを確認</string>
+    <string name="com_accountkit_enter_code_sent_to">%1$sに送信された確認コードを入力してください</string>
+    <string name="com_accountkit_error_title">システムエラーが発生しました。もう一度お試しください。</string>
     <string name="com_accountkit_facebook_code_entry_title">Facebookから送信されたコードを入力してください</string>
     <string name="com_accountkit_logging_in">ログインしています…</string>
+    <string name="com_accountkit_phone_error_title">正しい携帯電話番号を入力してください。</string>
     <string name="com_accountkit_phone_loading_title">コードを送信しています…</string>
-    <string name="com_accountkit_phone_login_retry_title">電話番号を認証してください</string>
+    <string name="com_accountkit_phone_login_retry_title">携帯電話番号を確認</string>
     <string name="com_accountkit_phone_login_text">
       %1$sをタップして、FacebookのAccount Kitでアカウントを認証してください。FacebookアカウントがなくてもAccount Kitを使用できます。電話番号認証のためにSMSが送られます。メッセージ料金とデータ料金が発生する場合があります。&lt;a href="%2$s">Facebookがあなたの情報をどのように使うかをご覧ください&lt;/a>。
     </string>
-    <string name="com_accountkit_phone_login_title">電話番号を入力してください</string>
+    <string name="com_accountkit_phone_login_title">携帯電話番号を入力</string>
     <string name="com_accountkit_resend_check">コードを再送する前に電話番号を確認してください。</string>
     <string name="com_accountkit_resend_email_text">新しいメールを送信</string>
-    <string name="com_accountkit_resend_title">申し訳ありません。続行するには、以下の方法を試してください。</string>
+    <string name="com_accountkit_resend_title">コードの記載されたSMSメッセージを確認してください。</string>
     <string name="com_accountkit_return_title">%1$sに戻ります…</string>
     <string name="com_accountkit_sent_title">送信されました</string>
     <string name="com_accountkit_success_title">完了しました</string>

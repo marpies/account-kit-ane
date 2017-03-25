@@ -27,7 +27,10 @@
         android:id="@+id/com_accountkit_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp"
         android:gravity="center"
+        android:lineSpacingExtra="6dp"
         android:minHeight="@dimen/com_accountkit_title_min_height"
         style="@style/AccountKit.TitleText"
         />

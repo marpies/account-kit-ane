@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">Iniciar Sessão</string>
     <string name="com_accountkit_button_next">Seguinte</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend_code_in">Reenviar código de %1$s</string>
-    <string name="com_accountkit_button_resend_sms">Reenviar código</string>
+    <string name="com_accountkit_button_resend_code_in">Enviar código novamente dentro de %1$d</string>
+    <string name="com_accountkit_button_resend_sms">Enviar Código Novamente</string>
     <string name="com_accountkit_button_send">Enviar</string>
-    <string name="com_accountkit_button_send_code_in_fb">Enviar Código no Facebook</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">Toca em Enviar Código no Facebook para enviares uma notificação para a conta do Facebook associada ao número de telemóvel que introduziste.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Obter Código no Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Toca em "Obter Código no Facebook" para receberes o teu código como uma notificação no Facebook.</string>
     <string name="com_accountkit_button_start">Começar</string>
     <string name="com_accountkit_button_start_over">Tentar Novamente</string>
     <string name="com_accountkit_button_submit">Enviar</string>
     <string name="com_accountkit_check_email">Abre o teu e-mail</string>
-    <string name="com_accountkit_code_sent_to">Enviámos o código para\n%1$s</string>
+    <string name="com_accountkit_code_sent_to">Verifica se %1$s é o teu número de telemóvel.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Toca em %1$s para aceitares os &lt;a href="%2$s">Termos&lt;/a>, a &lt;a href="%3$s">Política de Dados&lt;/a> e a &lt;a href="%4$s">Utilização de Cookies&lt;/a> do Facebook.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Toca em %1$s para aceitares os &lt;a href="%2$s">Termos&lt;/a>, a &lt;a href="%3$s">Política de Dados&lt;/a> e a &lt;a href="%4$s">Utilização de Cookies&lt;/a> do Facebook. &lt;a href="%5$s">Sabe mais&lt;/a> sobre como foi verificada a tua conta.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Não recebeste o código?</string>
+    <string name="com_accountkit_confirmation_code_text">Não recebi um código</string>
     <string name="com_accountkit_confirmation_code_title">Introduz o teu código</string>
     <string name="com_accountkit_email_invalid">Este e-mail está incorreto. Tenta novamente.</string>
     <string name="com_accountkit_email_loading_title">A enviar e-mail…</string>
@@ -284,10 +284,12 @@
     </string>
     <string name="com_accountkit_email_login_title">Introduz o teu endereço de e-mail</string>
     <string name="com_accountkit_email_not_received">Reenviar e-mail</string>
-    <string name="com_accountkit_email_verify_title">Abre o e-mail que enviámos e confirma o teu endereço</string>
-    <string name="com_accountkit_error_title">Lamentamos, ocorreu um erro.</string>
+    <string name="com_accountkit_email_verify_title">Abre o e-mail e confirma o teu endereço de e-mail</string>
+    <string name="com_accountkit_enter_code_sent_to">Introduz o código que foi enviado para o número de telemóvel %1$s</string>
+    <string name="com_accountkit_error_title">Ocorreu um problema do sistema. Tenta novamente.</string>
     <string name="com_accountkit_facebook_code_entry_title">Introduz o teu código do Facebook</string>
     <string name="com_accountkit_logging_in">A iniciar sessão…</string>
+    <string name="com_accountkit_phone_error_title">Introduz um número de telemóvel válido.</string>
     <string name="com_accountkit_phone_loading_title">A enviar o teu código…</string>
     <string name="com_accountkit_phone_login_retry_title">Confirma o teu número de telemóvel</string>
     <string name="com_accountkit_phone_login_text">
@@ -296,7 +298,7 @@
     <string name="com_accountkit_phone_login_title">Introduz o teu número de telemóvel</string>
     <string name="com_accountkit_resend_check">Verifica o número antes de reenviares o código.</string>
     <string name="com_accountkit_resend_email_text">Enviar Novo E-mail</string>
-    <string name="com_accountkit_resend_title">Pedimos desculpa. Experimenta estas opções para continuares.</string>
+    <string name="com_accountkit_resend_title">Verifica se recebeste uma mensagem SMS com o teu código.</string>
     <string name="com_accountkit_return_title">A regressar ao %1$s…</string>
     <string name="com_accountkit_sent_title">Enviado!</string>
     <string name="com_accountkit_success_title">Concluído!</string>

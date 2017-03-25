@@ -3,7 +3,7 @@
     <string-array name="com_accountkit_phone_country_codes">
         <item>376:AD:অ্যান্ডোরা</item>
         <item>971:AE:সংযুক্ত আরব আমিরাত</item>
-        <item>93:AF:আফগানিস্তান</item>
+        <item>93:AF:আফগানিস্থান</item>
         <item>1:AG:অ্যান্টিগুয়া</item>
         <item>1:AI:অ্যাঙ্গুইলা</item>
         <item>355:AL:আলবেনিয়া</item>
@@ -25,7 +25,7 @@
         <item>257:BI:বুরুন্ডি</item>
         <item>229:BJ:বেনিন</item>
         <item>1:BM:বারমুডা</item>
-        <item>673:BN:ব্রুনাই</item>
+        <item>673:BN:ব্রুনেই</item>
         <item>591:BO:বলিভিয়া</item>
         <item>599:BQ:বোনায়ের, সিন্ট ইউস্টাসিয়াস ও সাবা</item>
         <item>55:BR:ব্রাজিল</item>
@@ -37,18 +37,18 @@
         <item>1:CA:কানাডা</item>
         <item>243:CD:গণতান্ত্রিক প্রজাতন্ত্র কঙ্গো</item>
         <item>236:CF:সেন্ট্রাল আফ্রিকান রিপাবলিক</item>
-        <item>242:CG:কঙ্গো রিপাবলিক</item>
+        <item>242:CG:কঙ্গো প্রজাতন্ত্র</item>
         <item>41:CH:সুইজারল্যান্ড</item>
-        <item>225:CI:আইভরী কোস্ট</item>
+        <item>225:CI:Côte d\'Ivoire</item>
         <item>682:CK:কুক দ্বীপপুঞ্জ</item>
         <item>56:CL:চিলি</item>
         <item>237:CM:ক্যামেরুন</item>
         <item>86:CN:চীন</item>
-        <item>57:CO:কলম্বিয়া</item>
+        <item>57:CO:কলোম্বিয়া</item>
         <item>506:CR:কোস্টা রিকা</item>
         <item>53:CU:কিউবা</item>
         <item>238:CV:কেপ ভার্দে</item>
-        <item>599:CW:কুরাসাও</item>
+        <item>599:CW:Curaçao</item>
         <item>357:CY:সাইপ্রাস</item>
         <item>420:CZ:চেক প্রজাতন্ত্র</item>
         <item>49:DE:জার্মানি</item>
@@ -74,7 +74,7 @@
         <item>44:GB:যুক্তরাজ্য</item>
         <item>1:GD:গ্রানাডা</item>
         <item>995:GE:জর্জিয়া</item>
-        <item>594:GF:ফরাসি গায়ানা</item>
+        <item>594:GF:ফ্রেঞ্চ গায়ানা</item>
         <item>44:GG:গ্রাঞ্জি</item>
         <item>233:GH:ঘানা</item>
         <item>350:GI:জিব্রাল্টার</item>
@@ -105,7 +105,7 @@
         <item>39:IT:ইতালি</item>
         <item>44:JE:জার্সি</item>
         <item>1:JM:জ্যামাইকা</item>
-        <item>962:JO:জর্ডান</item>
+        <item>962:JO:জর্ডন</item>
         <item>81:JP:জাপান</item>
         <item>254:KE:কেনিয়া</item>
         <item>996:KG:কিরগিজস্তান</item>
@@ -166,14 +166,14 @@
         <item>968:OM:ওমান</item>
         <item>507:PA:পানামা</item>
         <item>51:PE:পেরু</item>
-        <item>689:PF:ফরাসি পলিনেশিয়া</item>
+        <item>689:PF:ফ্রেঞ্চ পলিনেশিয়া</item>
         <item>675:PG:পাপুয়া নিউগিনি</item>
         <item>63:PH:ফিলিপাইন</item>
         <item>92:PK:পাকিস্তান</item>
         <item>48:PL:পোল্যান্ড</item>
         <item>508:PM:সেন্ট পিয়ের ও মিকেলন</item>
         <item>1:PR:পুয়ের্তো রিকো</item>
-        <item>970:PS:ফিলিস্তিন</item>
+        <item>970:PS:প্যালেস্তাইন</item>
         <item>351:PT:পর্তুগাল</item>
         <item>680:PW:পালাউ</item>
         <item>595:PY:প্যারাগুয়ে</item>
@@ -182,8 +182,8 @@
         <item>40:RO:রোমানিয়া</item>
         <item>381:RS:সার্বিয়া</item>
         <item>7:RU:রাশিয়া</item>
-        <item>250:RW:রুয়ান্ডা</item>
-        <item>966:SA:সৌদী আরব</item>
+        <item>250:RW:রায়ান্ডা</item>
+        <item>966:SA:সৌদি আরব</item>
         <item>677:SB:সলোমন দ্বীপপুঞ্জ</item>
         <item>248:SC:সিসিলি</item>
         <item>249:SD:সুদান</item>
@@ -203,14 +203,14 @@
         <item>1:SX:সেইন্ট মার্টিন</item>
         <item>963:SY:সিরিয়া</item>
         <item>268:SZ:সোয়াজিল্যান্ড</item>
-        <item>1:TC:টার্ক্স এন্ড কাইকোস দ্বীপপুঞ্জ</item>
+        <item>1:TC:তুর্কী এবং কাইকোস দ্বীপপূঞ্জ</item>
         <item>235:TD:চাদ</item>
         <item>228:TG:টোগো</item>
         <item>66:TH:থাইল্যান্ড</item>
         <item>992:TJ:তাজিকিস্তান</item>
         <item>690:TK:তোকেলাও</item>
         <item>670:TL:পূর্ব তিমুর</item>
-        <item>993:TM:তুর্কমেনিস্তান</item>
+        <item>993:TM:তুর্কেমেনিস্তান</item>
         <item>216:TN:তিউনিসিয়া</item>
         <item>676:TO:টোংগা</item>
         <item>90:TR:তুরস্ক</item>
@@ -220,7 +220,7 @@
         <item>255:TZ:তানজানিয়া</item>
         <item>380:UA:ইউক্রেন</item>
         <item>256:UG:উগান্ডা</item>
-        <item>1:US:যুক্তরাষ্ট্র</item>
+        <item>1:US:মার্কিন যুক্তরাষ্ট্র</item>
         <item>598:UY:উরুগুয়ে</item>
         <item>998:UZ:উজবেকিস্তান</item>
         <item>1:VC:সেন্ট ভিনসেন্ট ও গ্রেনাডাইন দ্বীপপুঞ্জ</item>
@@ -230,12 +230,12 @@
         <item>84:VN:ভিয়েতনাম</item>
         <item>678:VU:ভানুয়াতু</item>
         <item>681:WF:ওয়ালিস এবং ফুটুনা</item>
-        <item>685:WS:সামওয়া</item>
+        <item>685:WS:সামোয়া</item>
         <item>967:YE:ইয়েমেন</item>
         <item>262:YT:মায়োটি</item>
         <item>27:ZA:দক্ষিণ আফ্রিকা</item>
         <item>260:ZM:জাম্বিয়া</item>
-        <item>263:ZW:জিম্বাবুয়ে</item>
+        <item>263:ZW:জিম্বাবোয়ে</item>
     </string-array>
     <string name="com_accountkit_account_verified">অ্যাকাউন্ট যাচাই করা হয়েছে!</string>
     <string name="com_accountkit_button_begin">আরম্ভ করুন</string>
@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">লগ ইন করুন</string>
     <string name="com_accountkit_button_next">পরবর্তী</string>
     <string name="com_accountkit_button_ok">ঠিক আছে</string>
-    <string name="com_accountkit_button_resend_code_in">%1$s -এ পুনরায় কোড পাঠান</string>
+    <string name="com_accountkit_button_resend_code_in">%1$d -এ আবার কোডটি পাঠান</string>
     <string name="com_accountkit_button_resend_sms">আবার কোড পাঠান</string>
     <string name="com_accountkit_button_send">পাঠান</string>
-    <string name="com_accountkit_button_send_code_in_fb">Facebook এ কোড পাঠান</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">আপনার প্রবেশ করানো ফোন নম্বরের সাথে লিঙ্ক করা Facebook অ্যাকাউন্টে একটি বিজ্ঞপ্তি পাঠাতে Facebook এ \'কোড পাঠান\' এ আলতো চাপুন৷</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook -এ কোডটি পান</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Facebook -এ একটি বিজ্ঞপ্তি হিসাবে আপনার কোড পেতে "Facebook -এ কোডটি পান" -এ আলতো চাপুন৷</string>
     <string name="com_accountkit_button_start">শুরু করুন</string>
     <string name="com_accountkit_button_start_over">আবার চেষ্টা করুন</string>
     <string name="com_accountkit_button_submit">জমা দিন</string>
     <string name="com_accountkit_check_email">আপনার ইমেল খুলুন</string>
-    <string name="com_accountkit_code_sent_to">আমরা %1$s এ কোডটি পাঠিয়েছি</string>
+    <string name="com_accountkit_code_sent_to">আপনার মোবাইল নম্বর হল %1$s তা যাচাই করুন৷</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Facebook এর &lt;a href="%2$s">শ্র্তাবলী&lt;/a>, &lt;a href="%3$s">ডেটা নীতি&lt;/a> এবং &lt;a href="%4$s">কুকির ব্যবহার&lt;/a> স্বীকার করার জন্য %1$s এ আলতো চাপ দিন৷
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Facebook\এর &lt;a href="%2$s">শর্তাবলী&lt;/a>, &lt;a href="%3$s">ডেটার নীতি&lt;/a> এবং &lt;a href="%4$s">কুকির ব্যবহার&lt;/a> প্রাপ্ত করতে %1$s এ টোকা দিন৷ &lt;a href="%5$s">আরও জানুন&lt;/a> আপনার অ্যাকাউন্ট কীভাবে যাচাই করা হয়েছে সে সম্বন্ধে৷
     </string>
-    <string name="com_accountkit_confirmation_code_text">কোড পান নি?</string>
+    <string name="com_accountkit_confirmation_code_text">আমি কোনো কোড পাইনি</string>
     <string name="com_accountkit_confirmation_code_title">আপনার কোড লিখুন</string>
     <string name="com_accountkit_email_invalid">এই ইমেলটি অবৈধ৷ অনুগ্রহ করে আবার চেষ্টা করুন৷</string>
     <string name="com_accountkit_email_loading_title">ইমেল পাঠানো হচ্ছে…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">আপনার ইমেল ঠিকানা লিখুন</string>
     <string name="com_accountkit_email_not_received">ইমেল পুনরায় পাঠান</string>
-    <string name="com_accountkit_email_verify_title">আমরা যে ইমেলটি পাঠিয়েছি সেটি খুলুন এবং আপনার ঠিকানা নিশ্চিত করুন</string>
-    <string name="com_accountkit_error_title">আমরা দুঃখিত, কিছু ত্রুটি ঘটেছে৷</string>
+    <string name="com_accountkit_email_verify_title">ইমেল খুলুন এবং আপনার ইমেল ঠিকানা নিশ্চিত করুন</string>
+    <string name="com_accountkit_enter_code_sent_to">%1$s -এ যে কোডটি পাঠানো হয়েছে সেই কোডটি লিখুন</string>
+    <string name="com_accountkit_error_title">সিস্টেমে কোনো সমস্যা হয়েছে৷ অনুগ্রহ করে আবার চেষ্টা করুন৷</string>
     <string name="com_accountkit_facebook_code_entry_title">Facebook থেকে আপনার কোড প্রবেশ করান</string>
     <string name="com_accountkit_logging_in">লগ ইন করা হচ্ছে…</string>
+    <string name="com_accountkit_phone_error_title">অনুগ্রহ করে একটি বৈধ মোবাইল নম্বর লিখুন।</string>
     <string name="com_accountkit_phone_loading_title">আপনার কোড পাঠানো হচ্ছে…</string>
-    <string name="com_accountkit_phone_login_retry_title">আপনার ফোন নম্বর নিশ্চিত করুন</string>
+    <string name="com_accountkit_phone_login_retry_title">আপনার মোবাইল নম্বর নিশ্চিত করুন</string>
     <string name="com_accountkit_phone_login_text">
       Facebook চালিত Account Kit দিয়ে আপনার অ্যাকাউন্ট যাচাই করতে %1$s -এ আলতো চাপ দিন৷  Account Kit ব্যবহার করার জন্য আপনার কোনও Facebook অ্যাকাউন্টের প্রয়োজন নেই৷  আপনার নম্বর যাচাই করতে একটি SMS পাঠানো হতে পারে৷ বার্তা ও ডেটা রেট প্রযোজ্য হবে। &lt;a href="%2$s">Facebook আপনার তথ্য কিভাবে ব্যবহার করে তা জানুন&lt;/a>৷
     </string>
-    <string name="com_accountkit_phone_login_title">আপনার ফোন নম্বর লিখুন</string>
+    <string name="com_accountkit_phone_login_title">আপনার মোবাইল নম্বর লিখুন</string>
     <string name="com_accountkit_resend_check">অনুগ্রহ করে পুনরায় কোড পাঠানোর আগে নম্বরটি পরীক্ষা করুন৷</string>
     <string name="com_accountkit_resend_email_text">নতুন ইমেল পাঠান</string>
-    <string name="com_accountkit_resend_title">আমরা দুঃখিত৷ চালিয়ে যেতে এই বিকল্পসমূহ ব্যবহার করার চেষ্টা করুন৷</string>
+    <string name="com_accountkit_resend_title">যে এসএমএস আপনার কোডটি আছে সেটি খুঁজতে আপনার বার্তাগুলি পরীক্ষা করুন৷</string>
     <string name="com_accountkit_return_title">আপনাকে আবার %1$s এ নিয়ে যাচ্ছে…</string>
     <string name="com_accountkit_sent_title">প্রেরিত:</string>
     <string name="com_accountkit_success_title">সম্পন্ন!</string>

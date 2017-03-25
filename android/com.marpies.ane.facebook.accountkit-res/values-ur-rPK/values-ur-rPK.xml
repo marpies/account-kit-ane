@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:انڈورا</item>
+        <item>971:AE:متحدہ عرب امارات</item>
+        <item>93:AF:افغانستان</item>
+        <item>1:AG:اینٹیگوا</item>
+        <item>1:AI:انگیولا</item>
+        <item>355:AL:البانیا</item>
+        <item>374:AM:آرمینیا</item>
+        <item>244:AO:انگولا</item>
+        <item>54:AR:ارجنٹائن</item>
+        <item>1:AS:امریکی سامووا</item>
+        <item>43:AT:آسٹریا</item>
+        <item>61:AU:آسٹریلیا</item>
+        <item>297:AW:اروبا</item>
+        <item>994:AZ:آذربائیجان</item>
+        <item>387:BA:بوسنیا اور ہرزیگوینا</item>
+        <item>1:BB:بارباڈوس</item>
+        <item>880:BD:بنگلہ دیش</item>
+        <item>32:BE:بیلحیم</item>
+        <item>226:BF:برکینا فاسو</item>
+        <item>359:BG:بلغاریہ</item>
+        <item>973:BH:بحرین</item>
+        <item>257:BI:برونڈی</item>
+        <item>229:BJ:بینن</item>
+        <item>1:BM:برمودہ</item>
+        <item>673:BN:برونائی</item>
+        <item>591:BO:بولیویا</item>
+        <item>599:BQ:ڈچ جزائر غرب الہند</item>
+        <item>55:BR:برازیل</item>
+        <item>1:BS:بہاماس</item>
+        <item>975:BT:بھوٹان</item>
+        <item>267:BW:بوٹسوانا</item>
+        <item>375:BY:بیلاروس</item>
+        <item>501:BZ:بیلیز</item>
+        <item>1:CA:کینیڈا</item>
+        <item>243:CD:عوامی جمہوریہ کانگو</item>
+        <item>236:CF:وسطی افریقی جمہوریہ</item>
+        <item>242:CG:جمہوریہ کانگو</item>
+        <item>41:CH:سوئزرلینڈ</item>
+        <item>225:CI:آئیوری کوسٹ</item>
+        <item>682:CK:جزائر کک</item>
+        <item>56:CL:چلی</item>
+        <item>237:CM:کیمرون</item>
+        <item>86:CN:چین</item>
+        <item>57:CO:کولمبیا</item>
+        <item>506:CR:کوسٹا ریکا</item>
+        <item>53:CU:کیوبا</item>
+        <item>238:CV:کیپ وردے</item>
+        <item>599:CW:کیوراکاؤ</item>
+        <item>357:CY:سائپرس</item>
+        <item>420:CZ:جمہوریہ چیک</item>
+        <item>49:DE:جرمنی</item>
+        <item>253:DJ:جبوتی</item>
+        <item>45:DK:ڈنمارک</item>
+        <item>1:DM:ڈومینیکا</item>
+        <item>1:DO:جمبہوریہ ڈومینیکن</item>
+        <item>213:DZ:الجیریا</item>
+        <item>593:EC:ایکواڈور</item>
+        <item>372:EE:ایستونیا</item>
+        <item>20:EG:مصر</item>
+        <item>212:EH:مغربی صحارا</item>
+        <item>291:ER:اریٹیریا</item>
+        <item>34:ES:اسپین</item>
+        <item>251:ET:ایتھوپیا</item>
+        <item>358:FI:فن لینڈ</item>
+        <item>679:FJ:فجی</item>
+        <item>500:FK:جزائر فاک لینڈ</item>
+        <item>691:FM:وفاقی ریاست ہائے مائکرونیشیا</item>
+        <item>298:FO:جزائر فیرو</item>
+        <item>33:FR:فرانس</item>
+        <item>241:GA:گیبون</item>
+        <item>44:GB:برطانیہ</item>
+        <item>1:GD:غرناطہ</item>
+        <item>995:GE:جارجیا</item>
+        <item>594:GF:فرانسیسی گیانا</item>
+        <item>44:GG:گرنزی</item>
+        <item>233:GH:گھانا</item>
+        <item>350:GI:جبل الطارق</item>
+        <item>299:GL:گرین لینڈ</item>
+        <item>220:GM:گیمبیا</item>
+        <item>224:GN:گنی</item>
+        <item>590:GP:گوادیلوپ</item>
+        <item>240:GQ:استوائی گنی</item>
+        <item>30:GR:یونان</item>
+        <item>502:GT:گوئٹے مالا</item>
+        <item>1:GU:گوام</item>
+        <item>245:GW:گنی-بساؤ</item>
+        <item>592:GY:گیانا</item>
+        <item>852:HK:ہانگ کانگ</item>
+        <item>504:HN:ہنڈرس</item>
+        <item>385:HR:کروشیا</item>
+        <item>509:HT:ہیٹی</item>
+        <item>36:HU:ہنگری</item>
+        <item>62:ID:انڈونیشیا</item>
+        <item>353:IE:آئرلینڈ</item>
+        <item>972:IL:اسرائیل</item>
+        <item>44:IM:آئل آف مین</item>
+        <item>91:IN:بھارت</item>
+        <item>246:IO:برطانوی بحرہند کا خطہ</item>
+        <item>964:IQ:عراق</item>
+        <item>98:IR:ایران</item>
+        <item>354:IS:آئس لینڈ</item>
+        <item>39:IT:اٹلی</item>
+        <item>44:JE:جرسی</item>
+        <item>1:JM:جمیکا</item>
+        <item>962:JO:اردن</item>
+        <item>81:JP:جاپان</item>
+        <item>254:KE:کینیا</item>
+        <item>996:KG:کرغیزستان</item>
+        <item>855:KH:کمبوڈیا</item>
+        <item>686:KI:کرباتی</item>
+        <item>269:KM:کوموروس</item>
+        <item>1:KN:سینٹ کٹس اور نیوس</item>
+        <item>850:KP:شمالی کوریا</item>
+        <item>82:KR:جنوبی کوریا</item>
+        <item>965:KW:کویت</item>
+        <item>1:KY:جزائر کیمن</item>
+        <item>7:KZ:قازقستان</item>
+        <item>856:LA:لاؤس</item>
+        <item>961:LB:لبنان</item>
+        <item>1:LC:سینٹ لوسیا</item>
+        <item>423:LI:لیختینستائن</item>
+        <item>94:LK:سری لنکا</item>
+        <item>231:LR:لائبیریا</item>
+        <item>266:LS:لیسوتھو</item>
+        <item>370:LT:لیتھوانیا</item>
+        <item>352:LU:لکسمبرگ</item>
+        <item>371:LV:لٹویا</item>
+        <item>218:LY:لیبیا</item>
+        <item>212:MA:مراکش</item>
+        <item>377:MC:مناکو</item>
+        <item>373:MD:مالدووا</item>
+        <item>382:ME:مونٹی نیگرو</item>
+        <item>261:MG:مڈغاسکر</item>
+        <item>692:MH:جزائر مارشل</item>
+        <item>389:MK:مقدونیہ</item>
+        <item>223:ML:مالی</item>
+        <item>95:MM:برما</item>
+        <item>976:MN:منگولیا</item>
+        <item>853:MO:مکاؤ</item>
+        <item>1:MP:شمالی ماریانا جزائر</item>
+        <item>596:MQ:مارٹینیق</item>
+        <item>222:MR:موریطانیہ</item>
+        <item>1:MS:مانٹسریٹ</item>
+        <item>356:MT:مالٹا</item>
+        <item>230:MU:ماریشیس</item>
+        <item>960:MV:مالدیپ</item>
+        <item>265:MW:ملاوی</item>
+        <item>52:MX:میکسیکو</item>
+        <item>60:MY:ملائیشیا</item>
+        <item>258:MZ:موزمبیق</item>
+        <item>264:NA:نمیبیا</item>
+        <item>687:NC:نیو کیلیڈونیا</item>
+        <item>227:NE:نائجر</item>
+        <item>672:NF:جزیرہ نارفولک</item>
+        <item>234:NG:نائیجیریا</item>
+        <item>505:NI:نکاراگوا</item>
+        <item>31:NL:نیدرلینڈ</item>
+        <item>47:NO:ناروے</item>
+        <item>977:NP:نیپال</item>
+        <item>674:NR:ناورو</item>
+        <item>683:NU:نیووے</item>
+        <item>64:NZ:نیوزی لینڈ</item>
+        <item>968:OM:عمان</item>
+        <item>507:PA:پاناما</item>
+        <item>51:PE:پیرو</item>
+        <item>689:PF:فرانسیسی پولینیسیا</item>
+        <item>675:PG:پاپوا نیو گنی</item>
+        <item>63:PH:فلپائن</item>
+        <item>92:PK:پاکستان</item>
+        <item>48:PL:پولینڈ</item>
+        <item>508:PM:سینٹ پائرے اور میکویلون</item>
+        <item>1:PR:پیورٹو ریکو</item>
+        <item>970:PS:فلسطین</item>
+        <item>351:PT:پرتگال</item>
+        <item>680:PW:پالاؤ</item>
+        <item>595:PY:پیراگوئے</item>
+        <item>974:QA:قطر</item>
+        <item>262:RE:ری یونین</item>
+        <item>40:RO:رومانیہ</item>
+        <item>381:RS:سربیا</item>
+        <item>7:RU:روس</item>
+        <item>250:RW:روانڈا</item>
+        <item>966:SA:سعودی عرب</item>
+        <item>677:SB:جزائر سلیمان</item>
+        <item>248:SC:سے شلز</item>
+        <item>249:SD:سوڈان</item>
+        <item>46:SE:سویڈن</item>
+        <item>65:SG:سنگاپور</item>
+        <item>290:SH:سینٹ ہیلینا</item>
+        <item>386:SI:سلووینیا</item>
+        <item>421:SK:سلوواکیہ</item>
+        <item>232:SL:سیرا لیون</item>
+        <item>378:SM:سان مارینو</item>
+        <item>221:SN:سینیگال</item>
+        <item>252:SO:صومالیہ</item>
+        <item>597:SR:سرینام</item>
+        <item>211:SS:جنوبی سوڈان</item>
+        <item>239:ST:ساؤٹوم اور پرنسپی</item>
+        <item>503:SV:ایل سلواڈور</item>
+        <item>1:SX:سینٹ مارٹن</item>
+        <item>963:SY:شام</item>
+        <item>268:SZ:سوازی لینڈ</item>
+        <item>1:TC:جزائر تورکس اور کایکوس</item>
+        <item>235:TD:چاڈ</item>
+        <item>228:TG:ٹوگو</item>
+        <item>66:TH:تھائی لینڈ</item>
+        <item>992:TJ:تاجکستان</item>
+        <item>690:TK:ٹوکیلاؤ</item>
+        <item>670:TL:تیمور لیستے</item>
+        <item>993:TM:ترکمانستان</item>
+        <item>216:TN:تیونس</item>
+        <item>676:TO:ٹونگا</item>
+        <item>90:TR:ترکی</item>
+        <item>1:TT:ٹرینیڈاڈ و ٹوباگو</item>
+        <item>688:TV:تووالو</item>
+        <item>886:TW:تائیوان</item>
+        <item>255:TZ:تنزانیہ</item>
+        <item>380:UA:یوکرائن</item>
+        <item>256:UG:یوگنڈا</item>
+        <item>1:US:امریکہ</item>
+        <item>598:UY:یوراگوئے</item>
+        <item>998:UZ:ازبکستان</item>
+        <item>1:VC:سینٹ ونسینٹ اور گرینے ڈینز</item>
+        <item>58:VE:وینزویلا</item>
+        <item>1:VG:برطانوی ورجن جزائر</item>
+        <item>1:VI:امریکی جزائر ورجن</item>
+        <item>84:VN:ویتنام</item>
+        <item>678:VU:وانواتو</item>
+        <item>681:WF:والیس اور فوتونا</item>
+        <item>685:WS:ساموا</item>
+        <item>967:YE:یمن</item>
+        <item>262:YT:میوٹ</item>
+        <item>27:ZA:جنوبی افریقہ</item>
+        <item>260:ZM:زیمبیا</item>
+        <item>263:ZW:زمبابوے</item>
+    </string-array>
+    <string name="com_accountkit_account_verified">اکاؤنٹ کی توثیق ہو گئی!</string>
+    <string name="com_accountkit_button_begin">شروع کریں</string>
+    <string name="com_accountkit_button_cancel">منسوخ کریں</string>
+    <string name="com_accountkit_button_confirm">توثیق کریں</string>
+    <string name="com_accountkit_button_continue">جاری رکھیں</string>
+    <string name="com_accountkit_button_edit">ترمیم کریں</string>
+    <string name="com_accountkit_button_log_in">لاگ ان کریں</string>
+    <string name="com_accountkit_button_next">اگلا</string>
+    <string name="com_accountkit_button_ok">ٹھیک ہے</string>
+    <string name="com_accountkit_button_resend_code_in">%1$d میں کوڈ دوبارہ بھیجیں</string>
+    <string name="com_accountkit_button_resend_sms">کوڈ دوبارہ بھیجیں</string>
+    <string name="com_accountkit_button_send">بھیجیں</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook پر کوڈ حاصل کریں</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">اپنا کوڈ Facebook پر اطلاع کی شکل میں موصول کرنے کے لیے "Facebook پر کوڈ حاصل کریں" پر ٹیپ کریں۔</string>
+    <string name="com_accountkit_button_start">آغاز کریں</string>
+    <string name="com_accountkit_button_start_over">دوبارہ کوشش کریں</string>
+    <string name="com_accountkit_button_submit">جمع کرائیں</string>
+    <string name="com_accountkit_check_email">اپنا ای میل کھولیں</string>
+    <string name="com_accountkit_code_sent_to">توثیق کریں کہ %1$s آپ کا موبائل نمبر ہے۔</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Facebook کی &lt;a
+            href="%2$s">شرائط&lt;/a>، &lt;a href="%3$s">ڈیٹا پالیسی&lt;/a> اور &lt;a href="%4$s">کوکی کے استعمال&lt;/a> سے اتفاق کرنے کے لیے %1$s پر ٹیپ کریں۔
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Facebook کی &lt;a
+            href="%2$s">شرائط&lt;/a>، &lt;a href="%3$s">ڈیٹا پالیسی&lt;/a>، &lt;a
+            href="%4$s">کوکی کے استعمال&lt;/a> اور %6$s کی &lt;a href="%5$s">رازداری کی پالیسی&lt;/a> سے اتفاق کرنے کے لیے %1$s پر ٹیپ کریں۔
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Facebook کی &lt;a
+            href="%2$s">شرائط&lt;/a>، &lt;a href="%3$s">ڈیٹا پالیسی&lt;/a>، &lt;a
+            href="%4$s">کوکی کے استعمال&lt;/a> اور %7$s کی &lt;a
+            href="%5$s">رازداری کی پالیسی&lt;/a> اور &lt;a href="%6$s">خدمت کی شرائط&lt;/a> سے اتفاق کرنے کے لیے %1$s پر ٹیپ کریں۔
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Facebook کی &lt;a
+            href="%2$s">شرائط&lt;/a>، &lt;a href="%3$s">ڈیٹا پالیسی&lt;/a>، &lt;a
+            href="%4$s">کوکی کے استعمال&lt;/a> اور %7$s کی &lt;a
+            href="%5$s">رازداری کی پالیسی&lt;/a> اور &lt;a
+            href="%6$s">خدمت کی شرائط&lt;/a> سے اتفاق کرنے کے لیے %1$s پر ٹیپ کریں۔ آپ کے اکاؤنٹ کی توثیق کس طرح کی گئی تھی اس بارے میں &lt;a href="%8$s">مزید جانیں&lt;/a>۔
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Facebook کی &lt;a
+            href="%2$s">شرائط&lt;/a>، &lt;a href="%3$s">ڈیٹا پالیسی&lt;/a>، &lt;a
+            href="%4$s">کوکی کے استعمال&lt;/a> اور %6$s کی &lt;a
+            href="%5$s">رازداری کی پالیسی&lt;/a> سے اتفاق کرنے کے لیے %1$s پر ٹیپ کریں۔ آپ کے اکاؤنٹ کی توثیق کس طرح کی گئی تھی اس بارے میں &lt;a href="%7$s">مزید جانیں&lt;/a>۔
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Facebook کی &lt;a
+            href="%2$s">شرائط&lt;/a>، &lt;a href="%3$s">ڈیٹا پالیسی&lt;/a> اور &lt;a
+            href="%4$s">کوکی کے استعمال&lt;/a> سے اتفاق کرنے کے لیے %1$s پر ٹیپ کریں۔ آپ کے اکاؤنٹ کی توثیق کس طرح کی گئی تھی اس بارے میں &lt;a href="%5$s">مزید جانیں&lt;/a>۔
+    </string>
+    <string name="com_accountkit_confirmation_code_text">مجھے کوئی کوڈ نہیں ملا</string>
+    <string name="com_accountkit_confirmation_code_title">اپنا کوڈ درج کریں</string>
+    <string name="com_accountkit_email_invalid">
+        یہ ای میل غلط ہے۔ براہ کرم دوبارہ کوشش کریں۔
+    </string>
+    <string name="com_accountkit_email_loading_title">ای میل بھیجا جا رہا ہے…</string>
+    <string name="com_accountkit_email_login_retry_title">اپنے ای میل کی توثیق کریں</string>
+    <string name="com_accountkit_email_login_text">
+        %2$s استعمال کرنے میں آپ کی مدد کے لیے Account Kit بذریعہ Facebook سے ای میل سے توثیق حاصل کرنے کے لیے %1$s پر ٹیپ کریں۔ اسے استعمال کرنے کے لیے آپ کو Facebook اکاؤنٹ کی ضرورت نہیں ہے۔ &lt;a href="%3$s">اس بارے میں جانیں کہ Facebook آپ کی معلومات کس طرح استعمال کرتا ہے&lt;/a>۔
+    </string>
+    <string name="com_accountkit_email_login_title">اپنا ای میل پتہ درج کریں</string>
+    <string name="com_accountkit_email_not_received">ای میل دوبارہ بھیجیں</string>
+    <string name="com_accountkit_email_verify_title">ای میل کھولیں اور اپنے ای میل پتے کی توثیق کریں</string>
+    <string name="com_accountkit_enter_code_sent_to">%1$s پر بھیجا گیا کوڈ بھی درج کریں</string>
+    <string name="com_accountkit_error_title">سسٹم کا مسئلہ پیش آ گیا۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook سے اپنا کوڈ درج کریں</string>
+    <string name="com_accountkit_logging_in">لاگ ان کر رہا ہے…</string>
+    <string name="com_accountkit_phone_error_title">براہ کرم ایک درست موبائل نمبر درج کریں۔</string>
+    <string name="com_accountkit_phone_loading_title">آپ کی نمبر کی توثیق ہو رہی ہے…</string>
+    <string name="com_accountkit_phone_login_retry_title">اپنے موبائل فون نمبر کی توثیق کریں</string>
+    <string name="com_accountkit_phone_login_text">
+        Facebook کی طرف سے تعاون یافتہ Account Kit کے ساتھ اپنے اکاؤنٹ کی توثیق کرنے کے لیے %1$s پر ٹیپ کریں۔ Account Kit استعمال کرنے کے لیے آپ کو Facebook اکاؤنٹ کی ضرورت نہیں ہے۔ آپ کے نمبر کی توثیق کرنے کے لیے SMS بھیجا جا سکتا ہے۔ پیغام اور ڈیٹا کی قیمتیں لاگو ہو سکتی ہیں۔ &lt;a href="%2$s">اس بارے میں جانیں کہ Facebook آپ کی معلومات کس طرح استعمال کرتا ہے&lt;/a>۔
+    </string>
+    <string name="com_accountkit_phone_login_title">اپنا موبائل فون نمبر درج کریں</string>
+    <string name="com_accountkit_resend_check">براہ کرم کوڈ دوبارہ بھیجنے سے پہلے نمبر چیک کر لیں۔</string>
+    <string name="com_accountkit_resend_email_text">نیا ای میل بھیجیں</string>
+    <string name="com_accountkit_resend_title">آپ کے کوڈ کے حامل SMS کے لیے اپنے پیغامات چیک کریں</string>
+    <string name="com_accountkit_sent_title">بھیج دیا!</string>
+    <string name="com_accountkit_success_title">توثیق ہو گئی!</string>
+    <string name="com_accountkit_toolbar_title">%1$s میں لاگ ان کریں</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        ہم آپ کے کوڈ کی توثیق نہیں کر سکے۔\nبراہ کرم دوبارہ کوشش کریں:
+    </string>
+    <string name="com_accountkit_verify_title">آپ کے کوڈ کی توثیق ہو رہی ہے…</string>
+</resources>

@@ -37,14 +37,14 @@
         <item>1:CA:Kanada</item>
         <item>243:CD:Demokratiese Republiek van die Kongo</item>
         <item>236:CF:Sentraal-Afrikaanse Republiek</item>
-        <item>242:CG:Republiek van die Kongo</item>
+        <item>242:CG:Republiek die Kongo</item>
         <item>41:CH:Switserland</item>
         <item>225:CI:Ivoorkus</item>
         <item>682:CK:Cookeilande</item>
         <item>56:CL:Chili</item>
         <item>237:CM:Kameroen</item>
         <item>86:CN:Sjina</item>
-        <item>57:CO:Kolombië</item>
+        <item>57:CO:Colombië</item>
         <item>506:CR:Costa Rica</item>
         <item>53:CU:Kuba</item>
         <item>238:CV:Kaap Verdiese Eilande</item>
@@ -54,7 +54,7 @@
         <item>49:DE:Duitsland</item>
         <item>253:DJ:Djiboeti</item>
         <item>45:DK:Denemarke</item>
-        <item>1:DM:Dominika</item>
+        <item>1:DM:Dominica</item>
         <item>1:DO:Dominikaanse Republiek</item>
         <item>213:DZ:Algerië</item>
         <item>593:EC:Ecuador</item>
@@ -190,7 +190,7 @@
         <item>46:SE:Swede</item>
         <item>65:SG:Singapoer</item>
         <item>290:SH:Sint Helena</item>
-        <item>386:SI:Slovenië</item>
+        <item>386:SI:Slowenië</item>
         <item>421:SK:Slowakye</item>
         <item>232:SL:Sierra Leone</item>
         <item>378:SM:San Marino</item>
@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">Meld aan</string>
     <string name="com_accountkit_button_next">Volgende</string>
     <string name="com_accountkit_button_ok">Goed</string>
-    <string name="com_accountkit_button_resend_code_in">Stuur weer kode oor %1$s</string>
+    <string name="com_accountkit_button_resend_code_in">Stuur weer kode na %1$d</string>
     <string name="com_accountkit_button_resend_sms">Stuur weer kode</string>
     <string name="com_accountkit_button_send">Stuur</string>
-    <string name="com_accountkit_button_send_code_in_fb">Stuur kode in Facebook</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">Tik Stuur kode in Facebook om \'n kennisgewing na die Facebook-rekening te stuur wat met die foonnommer verbind is wat jy ingevoer het.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Kry kode op Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Tik “Kry kode op Facebook” om jou kode as ’n kennisgewing op Facebook te ontvang.</string>
     <string name="com_accountkit_button_start">Begin</string>
     <string name="com_accountkit_button_start_over">Probeer weer</string>
     <string name="com_accountkit_button_submit">Dien in</string>
     <string name="com_accountkit_check_email">Maak jou e-pos oop</string>
-    <string name="com_accountkit_code_sent_to">Ons het die kode gestuur na\n%1$s</string>
+    <string name="com_accountkit_code_sent_to">Verifieer dat %1$s jou selfoonnommer is.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Tik %1$s om Facebook se &lt;a href="%2$s">Bepalings&lt;/a>, &lt;a href="%3$s">Databeleid&lt;/a> en &lt;a href="%4$s">koekiegebruik&lt;/a> te aanvaar.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Tik %1$s om Facebook se &lt;a href="%2$s">bepalings&lt;/a>, &lt;a href="%3$s">databeleid&lt;/a> en &lt;a href="%4$s">koekiegebruik&lt;/a> te aanvaar. &lt;a href="%5$s">Kom meer te wete&lt;/a> oor hoe jou rekening geverifieer is.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Het nie kode gekry nie?</string>
+    <string name="com_accountkit_confirmation_code_text">Ek het nie ’n kode gekry nie</string>
     <string name="com_accountkit_confirmation_code_title">Voer jou kode in</string>
     <string name="com_accountkit_email_invalid">Hierdie e-pos is verkeerd. Probeer asseblief weer.</string>
     <string name="com_accountkit_email_loading_title">Stuur tans e-pos…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">Voer jou e-posadres in</string>
     <string name="com_accountkit_email_not_received">Stuur weer e-pos</string>
-    <string name="com_accountkit_email_verify_title">Maak die e-pos oop wat ons gestuur het en bevestig jou adres</string>
-    <string name="com_accountkit_error_title">Ons is jammer, iets het verkeerd gegaan.</string>
-    <string name="com_accountkit_facebook_code_entry_title">Voer jou kode van Facebook in</string>
+    <string name="com_accountkit_email_verify_title">Maak die e-pos oop en bevestig jou e-posadres</string>
+    <string name="com_accountkit_enter_code_sent_to">Voer die kode in wat na %1$s gestuur is</string>
+    <string name="com_accountkit_error_title">’n Stelselfout het voorgekom. Probeer asseblief weer.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Voer jou kode vanaf Facebook in</string>
     <string name="com_accountkit_logging_in">Meld tans aan…</string>
+    <string name="com_accountkit_phone_error_title">Voer asseblief ’n geldige selfoonnommer in.</string>
     <string name="com_accountkit_phone_loading_title">Stuur tans jou kode…</string>
-    <string name="com_accountkit_phone_login_retry_title">Bevestig jou foonnommer</string>
+    <string name="com_accountkit_phone_login_retry_title">Bevestig jou selfoonnommer</string>
     <string name="com_accountkit_phone_login_text">
       Tik %1$s om jou rekening met Account Kit te verifieer wat deur Facebook aangedryf word.  Jy het nie \'n Facebook-rekening nodig om Account Kit te gebruik nie.  \'n SMS kan dalk gestuur word om jou nommer te verifieer. Boodskap- en datatariewe kan dalk geld. &lt;a href="%2$s">Leer hoe Facebook jou inligting gebruik&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">Voer jou foonnommer in</string>
+    <string name="com_accountkit_phone_login_title">Voer jou selfoonnommer in</string>
     <string name="com_accountkit_resend_check">Kontroleer asseblief die nommer voordat die kode weer gestuur word.</string>
     <string name="com_accountkit_resend_email_text">Stuur nuwe e-pos</string>
-    <string name="com_accountkit_resend_title">Ons is jammer. Probeer hierdie opsies om voort te gaan.</string>
+    <string name="com_accountkit_resend_title">Kontroleer jou boodskappe vir ’n SMS met jou kode.</string>
     <string name="com_accountkit_return_title">Neem jou tans terug na %1$s…</string>
     <string name="com_accountkit_sent_title">Gestuur!</string>
     <string name="com_accountkit_success_title">Klaar!</string>

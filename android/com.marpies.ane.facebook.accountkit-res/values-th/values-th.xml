@@ -104,7 +104,7 @@
         <item>354:IS:ไอซ์แลนด์</item>
         <item>39:IT:อิตาลี</item>
         <item>44:JE:เจอร์ซีย์</item>
-        <item>1:JM:จาไมก้า</item>
+        <item>1:JM:จาไมกา</item>
         <item>962:JO:จอร์แดน</item>
         <item>81:JP:ญี่ปุ่น</item>
         <item>254:KE:เคนยา</item>
@@ -191,7 +191,7 @@
         <item>65:SG:สิงคโปร์</item>
         <item>290:SH:เซนต์เฮเลนา</item>
         <item>386:SI:สโลวีเนีย</item>
-        <item>421:SK:สโลวาเกีย</item>
+        <item>421:SK:สโลวะเกีย</item>
         <item>232:SL:เซียร์ราลีโอน</item>
         <item>378:SM:ซานมารีโน</item>
         <item>221:SN:เซเนกัล</item>
@@ -209,7 +209,7 @@
         <item>66:TH:ไทย</item>
         <item>992:TJ:ทาจิกิสถาน</item>
         <item>690:TK:โตเกเลา</item>
-        <item>670:TL:ติมอร์ตะวันออก</item>
+        <item>670:TL:ติมอร์-เลสเต</item>
         <item>993:TM:เติร์กเมนิสถาน</item>
         <item>216:TN:ตูนิเชีย</item>
         <item>676:TO:ตองกา</item>
@@ -219,7 +219,7 @@
         <item>886:TW:ไต้หวัน</item>
         <item>255:TZ:แทนซาเนีย</item>
         <item>380:UA:ยูเครน</item>
-        <item>256:UG:อูกันดา</item>
+        <item>256:UG:ยูกันดา</item>
         <item>1:US:สหรัฐอเมริกา</item>
         <item>598:UY:อุรุกวัย</item>
         <item>998:UZ:อุซเบกิสถาน</item>
@@ -246,57 +246,57 @@
     <string name="com_accountkit_button_log_in">เข้าสู่ระบบ</string>
     <string name="com_accountkit_button_next">ถัดไป</string>
     <string name="com_accountkit_button_ok">ตกลง</string>
-    <string name="com_accountkit_button_resend_code_in">ส่งรหัสอีกครั้งใน %1$s</string>
+    <string name="com_accountkit_button_resend_code_in">ส่งรหัสอีกครั้งใน %1$d</string>
     <string name="com_accountkit_button_resend_sms">ส่งรหัสอีกครั้ง</string>
     <string name="com_accountkit_button_send">ส่ง</string>
-    <string name="com_accountkit_button_send_code_in_fb">ส่งรหัสใน Facebook</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">แตะ ส่งรหัส ใน Facebook เพื่อส่งการแจ้งเตือนไปยังบัญชีผู้ใช้ Facebook ที่เชื่อมโยงกับหมายเลขโทรศัพท์ที่คุณป้อน</string>
+    <string name="com_accountkit_button_send_code_in_fb">รับรหัสบน Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">แตะ "รับรหัสบน Facebook" เพื่อรับรหัสเป็นการแจ้งเตือนบน Facebook</string>
     <string name="com_accountkit_button_start">เริ่ม</string>
     <string name="com_accountkit_button_start_over">ลองอีกครั้ง</string>
     <string name="com_accountkit_button_submit">ส่ง</string>
     <string name="com_accountkit_check_email">เปิดอีเมลของคุณ</string>
-    <string name="com_accountkit_code_sent_to">เราได้ส่งรหัสไปยัง %1$s แล้ว</string>
+    <string name="com_accountkit_code_sent_to">ตรวจสอบยืนยันว่า %1$s เป็นหมายเลขโทรศัพท์มือถือของคุณ</string>
     <string name="com_accountkit_confirmation_code_agreement">
-        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a> &lt;a href="%3$s">นโยบายข้อมูล&lt;/a> และ &lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> ของ Facebook
+        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a>&lt;a href="%3$s">นโยบายข้อมูล&lt;/a> และ &lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> ของ Facebook
     </string>
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
-        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a> &lt;a href="%3$s">นโยบายข้อมูล&lt;/a> &lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> และ &lt;a href="%5$s">นโยบายความปลอดภัย&lt;/a> ของ %6$s ของ Facebook
+        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a>&lt;a href="%3$s">นโยบายข้อมูล&lt;/a>&lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> และ &lt;a href="%5$s">นโยบายความปลอดภัย&lt;/a> ของ %6$s ของ Facebook
     </string>
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
-        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a> &lt;a href="%3$s">นโยบายข้อมูล&lt;/a> &lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> และ &lt;a href="%5$s">นโยบายความปลอดภัย&lt;/a> และ &lt;a href="%6$s">ข้อกำหนดการให้บริการ&lt;/a> ของ %7$s ของ Facebook
+        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a>&lt;a href="%3$s">นโยบายข้อมูล&lt;/a>&lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> และ &lt;a href="%5$s">นโยบายความปลอดภัย&lt;/a> และ &lt;a href="%6$s">ข้อกำหนดการให้บริการ&lt;/a> ของ %7$s ของ Facebook
     </string>
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
-        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a> &lt;a href="%3$s">นโยบายข้อมูล&lt;/a> &lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> และ&lt;a href="%5$s">โยบายความเป็นส่วนตัว&lt;/a>และ&lt;a href="%6$s">ข้อกำหนดในการบริการ&lt;/a>ของ Facebook ของ %7$s &lt;a href="%8$s">เรียนรู้เพิ่มเติม&lt;/a>เกี่ยวกับวิธีตรวจสอบยืนยันบัญชีผู้ใช้ของคุณ
+        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a>&lt;a href="%3$s">นโยบายข้อมูล&lt;/a>&lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> และ&lt;a href="%5$s">โยบายความเป็นส่วนตัว&lt;/a>และ&lt;a href="%6$s">ข้อกำหนดในการบริการ&lt;/a>ของ Facebook ของ %7$s &lt;a href="%8$s">เรียนรู้เพิ่มเติม&lt;/a>เกี่ยวกับวิธีตรวจสอบยืนยันบัญชีผู้ใช้ของคุณ
     </string>
     <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
-        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a> &lt;a href="%3$s">นโยบายข้อมูล&lt;/a> &lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> และ&lt;a href="%5$s">นโยบายความเป็นส่วนตัว&lt;/a>ของ Facebook ของ %6$s &lt;a href="%7$s">เรียนรู้เพิ่มเติม&lt;/a>เกี่ยวกับวิธีตรวจสอบยืนยันบัญชีผู้ใช้ของคุณ
+        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a>&lt;a href="%3$s">นโยบายข้อมูล&lt;/a>&lt;a href="%4$s">การใช้งานคุกกี้&lt;/a> และ&lt;a href="%5$s">นโยบายความเป็นส่วนตัว&lt;/a>ของ Facebook ของ %6$s &lt;a href="%7$s">เรียนรู้เพิ่มเติม&lt;/a>เกี่ยวกับวิธีตรวจสอบยืนยันบัญชีผู้ใช้ของคุณ
     </string>
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
-        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a> &lt;a href="%3$s">นโยบายข้อมูล&lt;/a> และ&lt;a href="%4$s">การใช้งานคุกกี้&lt;/a>ของ Facebook &lt;a href="%5$s">เรียนรู้เพิ่มเติม&lt;/a>เกี่ยวกับวิธีตรวจสอบยืนยันบัญชีผู้ใช้ของคุณ
+        แตะ %1$s เพื่อยอมรับ&lt;a href="%2$s">ข้อกำหนด&lt;/a>&lt;a href="%3$s">นโยบายข้อมูล&lt;/a> และ&lt;a href="%4$s">การใช้งานคุกกี้&lt;/a>ของ Facebook &lt;a href="%5$s">เรียนรู้เพิ่มเติม&lt;/a>เกี่ยวกับวิธีตรวจสอบยืนยันบัญชีผู้ใช้ของคุณ
     </string>
-    <string name="com_accountkit_confirmation_code_text">ไม่ได้รับรหัสใช่หรือไม่</string>
+    <string name="com_accountkit_confirmation_code_text">ฉันไม่ได้รับรหัส</string>
     <string name="com_accountkit_confirmation_code_title">ป้อนรหัสของคุณ</string>
     <string name="com_accountkit_email_invalid">อีเมลนี้ไม่ถูกต้อง โปรดลองใหม่อีกครั้ง</string>
     <string name="com_accountkit_email_loading_title">กำลังส่งอีเมล</string>
     <string name="com_accountkit_email_login_retry_title">ยืนยันอีเมลของคุณ</string>
     <string name="com_accountkit_email_login_text">
-        แตะ %1$s เพื่อรับอีเมลยืนยันจากชุดเครื่องมือบัญชีผู้ใช้ของ Facebook เพื่อช่วยคุณในการใช้งาน %2$s คุณไม่จำเป็นต้องมีบัญชีผู้ใช้ Facebook สำหรับการใช้งานส่วนนี้ &lt;a href="%3$s">ดูข้อมูลว่า Facebook ใช้ข้อมูลของคุณอย่างไรบ้้าง&lt;/a>
-    </string>
+        แตะ %1$s เพื่อรับอีเมลยืนยันจากชุดเครื่องมือบัญชีผู้ใช้ของ Facebook เพื่อช่วยคุณในการใช้งาน %2$s คุณไม่จำเป็นต้องมีบัญชีผู้ใช้ Facebook สำหรับการใช้งานส่วนนี้ &lt;a href="%3$s">ดูข้อมูลว่า Facebook ใช้ข้อมูลของคุณอย่างไรบ้้าง&lt;/a></string>
     <string name="com_accountkit_email_login_title">ป้อนที่อยู่อีเมลของคุณ</string>
     <string name="com_accountkit_email_not_received">ส่งอีเมลอีกครั้ง</string>
-    <string name="com_accountkit_email_verify_title">เปิดอีเมลที่เราส่งถึงคุณและยืนยันที่อยู่ของคุณ</string>
-    <string name="com_accountkit_error_title">ขออภัย มีบางสิ่งผิดพลาด</string>
-    <string name="com_accountkit_facebook_code_entry_title">ป้อนรหัสของคุณจาก Facebook </string>
+    <string name="com_accountkit_email_verify_title">เปิดอีเมลและยืนยันที่อยู่อีเมลของคุณ</string>
+    <string name="com_accountkit_enter_code_sent_to">ป้อนรหัสที่ได้ส่งไปยัง %1$s</string>
+    <string name="com_accountkit_error_title">เกิดปัญหาของระบบ โปรดลองอีกครั้ง</string>
+    <string name="com_accountkit_facebook_code_entry_title">ป้อนรหัสของคุณจาก Facebook</string>
     <string name="com_accountkit_logging_in">กำลังเข้าสู่ระบบ…</string>
+    <string name="com_accountkit_phone_error_title">โปรดป้อนหมายเลขโทรศัพท์มือถือที่ถูกต้อง</string>
     <string name="com_accountkit_phone_loading_title">กำลังส่งรหัสถึงคุณ…</string>
-    <string name="com_accountkit_phone_login_retry_title">ยืนยันหมายเลขโทรศัพท์ของคุณ</string>
+    <string name="com_accountkit_phone_login_retry_title">ยืนยันหมายเลขโทรศัพท์มือถือของคุณ</string>
     <string name="com_accountkit_phone_login_text">
-      แตะ %1$s เพื่อตรวจสอบยืนยันบัญชีผู้ใช้ด้วย Account Kit สนับสนุนโดย Facebook  คุณไม่จำเป็นต้องมีบัญชีผู้ใช้ Facebook สำหรับการใช้งาน Account Kit  อาจมีการส่ง SMS  เพื่อตรวจสอบยืนยันหมายเลขของคุณ อาจมีค่าบริการสำหรับข้อความหรือข้อมูล &lt;a href="%2$s">ดูข้อมูลว่า Facebook ใช้ข้อมูลของคุณอย่างไรบ้าง&lt;/a>
-    </string>
-    <string name="com_accountkit_phone_login_title">ป้อนหมายเลขโทรศัพท์ของคุณ</string>
+      แตะ %1$s เพื่อตรวจสอบยืนยันบัญชีผู้ใช้ด้วย Account Kit สนับสนุนโดย Facebook  คุณไม่จำเป็นต้องมีบัญชีผู้ใช้ Facebook สำหรับการใช้งาน Account Kit  อาจมีการส่ง SMS  เพื่อตรวจสอบยืนยันหมายเลขของคุณ อาจมีค่าบริการสำหรับข้อความหรือข้อมูล &lt;a href="%2$s">ดูข้อมูลว่า Facebook ใช้ข้อมูลของคุณอย่างไรบ้าง&lt;/a></string>
+    <string name="com_accountkit_phone_login_title">ป้อนหมายเลขโทรศัพท์มือถือของคุณ</string>
     <string name="com_accountkit_resend_check">โปรดตรวจสอบหมายเลขก่อนทำการส่งรหัสอีกครั้ง</string>
     <string name="com_accountkit_resend_email_text">ส่งอีเมลใหม่</string>
-    <string name="com_accountkit_resend_title">ขออภัย ลองตัวเลือกเหล่านี้เพื่อดำเนินการต่อ</string>
+    <string name="com_accountkit_resend_title">ตรวจสอบข้อความเพื่อดู SMS ที่มีรหัสของคุณ</string>
     <string name="com_accountkit_return_title">กำลังนำคุณกลับไปที่ %1$s…</string>
     <string name="com_accountkit_sent_title">ส่งแล้ว!</string>
     <string name="com_accountkit_success_title">เรียบร้อย!</string>

@@ -24,11 +24,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="horizontal"
     style="@style/AccountKit.Container"
+    android:layout_marginTop="22dp"
     tools:ignore="UnusedAttribute"
     android:layoutDirection="ltr"
     >
-    <FrameLayout
-        android:id="@+id/com_accountkit_spinner_background"
+    <RelativeLayout
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         >
@@ -36,8 +36,27 @@
             android:id="@+id/com_accountkit_country_code"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
+            android:background="@null"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+        <ImageView
+            android:id="@+id/com_accountkit_country_code_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/com_accountkit_spinner_triangle"
+            android:paddingStart="40dp"
+            android:paddingLeft="40dp"
+            tools:background="@android:color/holo_red_dark"/>
+        <View
+            android:id="@+id/com_accountkit_country_code_underline"
+            android:layout_width="75dp"
+            android:layout_height="2dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="7dp"
+            tools:background="@android:color/holo_blue_dark"
+            android:visibility="gone"
+            tools:visibility="visible"
             />
-    </FrameLayout>
+    </RelativeLayout>
     <Space
         android:layout_width="@dimen/com_accountkit_input_spacing"
         android:layout_height="0dp"
@@ -52,7 +71,7 @@
         android:imeOptions="actionNext"
         android:inputType="number"
         android:maxLength="21"
-        android:singleLine="true"
+        android:maxLines="1"
         tools:ignore="TextFields"
         style="@style/AccountKit.InputText"
         />

@@ -87,7 +87,7 @@
             <fileset dir="../android/com.marpies.ane.facebook.accountkit-res/"/>
         </copy>
         <!-- copy account-kit-sdk jar -->
-        <copy file="../android/libs/account-kit-sdk-4.17.0.jar" tofile="temp/android/account-kit-sdk-4.17.0.jar" overwrite="true" />
+        <copy file="../android/libs/account-kit-sdk-4.20.0.jar" tofile="temp/android/account-kit-sdk-4.20.0.jar" overwrite="true" />
         <!-- clean up -->
         <delete dir="temp/android/aar" />
         <delete dir="../android/build" />

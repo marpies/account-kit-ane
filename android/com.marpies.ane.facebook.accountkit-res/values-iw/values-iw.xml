@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">התחבר</string>
     <string name="com_accountkit_button_next">הבא</string>
     <string name="com_accountkit_button_ok">אישור</string>
-    <string name="com_accountkit_button_resend_code_in">שלח שוב את הקוד ל-%1$s</string>
-    <string name="com_accountkit_button_resend_sms">שלח שוב את הקוד</string>
+    <string name="com_accountkit_button_resend_code_in">שלח את הקוד שוב בעוד %1$d</string>
+    <string name="com_accountkit_button_resend_sms">שלח את הקוד שוב</string>
     <string name="com_accountkit_button_send">שלח</string>
-    <string name="com_accountkit_button_send_code_in_fb">שלח את הקוד בפייסבוק</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">הקש על \'שלח קוד\' בפייסבוק כדי לשלוח התראה לחשבון הפייסבוק המקושר למספר הטלפון שהזנת.</string>
+    <string name="com_accountkit_button_send_code_in_fb">קבל את הקוד בפייסבוק</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">הקש על \'קבל את הקוד בפייסבוק\' כדי לקבל את הקוד כהתראה בפייסבוק.</string>
     <string name="com_accountkit_button_start">התחל</string>
     <string name="com_accountkit_button_start_over">נסה שוב</string>
     <string name="com_accountkit_button_submit">שלח</string>
-    <string name="com_accountkit_check_email">פתח את הדוא"ל</string>
-    <string name="com_accountkit_code_sent_to">שלחנו את הקוד אל \n%1$s</string>
+    <string name="com_accountkit_check_email">פתח את הדוא\"ל</string>
+    <string name="com_accountkit_code_sent_to">אשר ש-%1$s הוא מספר הטלפון הסלולרי שלך.</string>
     <string name="com_accountkit_confirmation_code_agreement">
      הקש על %1$s כדי לקבל את &lt;a href="%2$s">תנאי השימוש&lt;/a>, &lt;a href="%3$s">מדיניות הנתונים&lt;/a> ו&lt;a href="%4$s">השימוש בקבצי Cookie&lt;/a> של פייסבוק.
     </string>
@@ -274,29 +274,31 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         הקש על %1$s כדי לקבל את &lt;a href="%2$s">תנאי השימוש&lt;/a>, את &lt;a href="%3$s">מדיניות הנתונים&lt;/a> ואת &lt;a href="%4$s">מדיניות השימוש בקובצי Cookie&lt;/a> של פייסבוק. &lt;a href="%5$s">קבל מידע נוסף&lt;/a> על אימות החשבון שלך.
     </string>
-    <string name="com_accountkit_confirmation_code_text">לא קיבלת את הקוד?</string>
+    <string name="com_accountkit_confirmation_code_text">לא קיבלתי קוד</string>
     <string name="com_accountkit_confirmation_code_title">הזן את הקוד</string>
-    <string name="com_accountkit_email_invalid">כתובת דוא"ל זו שגויה. נסה שוב.</string>
-    <string name="com_accountkit_email_loading_title">שולח דוא"ל…</string>
-    <string name="com_accountkit_email_login_retry_title">אשר את כתובת הדוא"ל שלך</string>
+    <string name="com_accountkit_email_invalid">כתובת דוא\"ל זו שגויה. נסה שוב.</string>
+    <string name="com_accountkit_email_loading_title">שולח דוא\"ל…</string>
+    <string name="com_accountkit_email_login_retry_title">אשר את כתובת הדוא\"ל שלך</string>
     <string name="com_accountkit_email_login_text">
-      הקש על %1$s כדי לקבל אישור בדוא"ל מ-Account Kit של פייסבוק שיעזור לך להשתמש ב-%2$s. אין צורך בחשבון פייסבוק כדי להשתמש בו. &lt;a href="%3$s">למד איך פייסבוק משתמשת בפרטים שלך&lt;/a>.
+      הקש על %1$s כדי לקבל אישור בדוא\"ל מ-Account Kit של פייסבוק שיעזור לך להשתמש ב-%2$s. אין צורך בחשבון פייסבוק כדי להשתמש בו. &lt;a href="%3$s">למד איך פייסבוק משתמשת בפרטים שלך&lt;/a>.
     </string>
-    <string name="com_accountkit_email_login_title">הזן את כתובת הדוא"ל שלך</string>
-    <string name="com_accountkit_email_not_received">שלח שוב דוא"ל</string>
-    <string name="com_accountkit_email_verify_title">פתח את הדוא"ל ששלחנו ואשר את כתובתך</string>
-    <string name="com_accountkit_error_title">אנחנו מצטערים, משהו השתבש.</string>
-    <string name="com_accountkit_facebook_code_entry_title">הזן את הקוד שלך מפייסבוק</string>
+    <string name="com_accountkit_email_login_title">הזן את כתובת הדוא\"ל שלך</string>
+    <string name="com_accountkit_email_not_received">שלח שוב דוא\"ל</string>
+    <string name="com_accountkit_email_verify_title">פתח את הודעת הדוא\"ל ואשר את כתובת הדוא\"ל שלך</string>
+    <string name="com_accountkit_enter_code_sent_to">הזן את הקוד שנשלח אל %1$s</string>
+    <string name="com_accountkit_error_title">אירעה בעיה במערכת. נסה שוב.</string>
+    <string name="com_accountkit_facebook_code_entry_title">הזן את הקוד מפייסבוק</string>
     <string name="com_accountkit_logging_in">מתחבר…</string>
+    <string name="com_accountkit_phone_error_title">הזן מספר סלולרי חוקי.</string>
     <string name="com_accountkit_phone_loading_title">שולח את הקוד שלך…</string>
-    <string name="com_accountkit_phone_login_retry_title">אשר את מספר הטלפון שלך</string>
+    <string name="com_accountkit_phone_login_retry_title">אשר את מספר הטלפון הסלולרי שלך</string>
     <string name="com_accountkit_phone_login_text">
       הקש על %1$s כדי לאמת את החשבון שלך ב-Account Kit המופעל באמצעות פייסבוק.  לא דרוש לך חשבון פייסבוק כדי להשתמש ב-Account Kit.  ייתכן שתקבל הודעת טקסט לאימות המספר. ייתכן שתחויב בתשלום לפי תעריפי ההודעות והנתונים. &lt;a href="%2$s">למד איך פייסבוק משתמשת בפרטים שלך&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">הזן את מספר הטלפון שלך</string>
+    <string name="com_accountkit_phone_login_title">הזן את מספר הטלפון הסלולרי שלך</string>
     <string name="com_accountkit_resend_check">בדוק את המספר לפני שליחת הקוד שוב.</string>
-    <string name="com_accountkit_resend_email_text">שלח דוא"ל חדש</string>
-    <string name="com_accountkit_resend_title">אנו מצטערים. נסה אפשרויות אלה כדי להמשיך.</string>
+    <string name="com_accountkit_resend_email_text">שלח דוא\"ל חדש</string>
+    <string name="com_accountkit_resend_title">חפש בהודעות שלך הודעת טקסט המכילה את הקוד.</string>
     <string name="com_accountkit_return_title">מחזירים אותך אל %1$s…</string>
     <string name="com_accountkit_sent_title">נשלח!</string>
     <string name="com_accountkit_success_title">בוצע!</string>

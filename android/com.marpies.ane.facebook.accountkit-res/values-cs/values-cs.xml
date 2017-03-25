@@ -88,7 +88,7 @@
         <item>1:GU:Guam</item>
         <item>245:GW:Guinea-Bissau</item>
         <item>592:GY:Guayana</item>
-        <item>852:HK:Hong Kong</item>
+        <item>852:HK:Hongkong</item>
         <item>504:HN:Honduras</item>
         <item>385:HR:Chorvatsko</item>
         <item>509:HT:Haiti</item>
@@ -157,7 +157,7 @@
         <item>672:NF:Norfolk</item>
         <item>234:NG:Nigérie</item>
         <item>505:NI:Nikaragua</item>
-        <item>31:NL:Nizozemí</item>
+        <item>31:NL:Nizozemsko</item>
         <item>47:NO:Norsko</item>
         <item>977:NP:Nepál</item>
         <item>674:NR:Nauru</item>
@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">Přihlásit se</string>
     <string name="com_accountkit_button_next">Další</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend_code_in">Kód bude odeslán za %1$s</string>
-    <string name="com_accountkit_button_resend_sms">Znovu poslat kód</string>
+    <string name="com_accountkit_button_resend_code_in">Zaslat kód znovu za %1$d</string>
+    <string name="com_accountkit_button_resend_sms">Zaslat kód znovu</string>
     <string name="com_accountkit_button_send">Poslat</string>
-    <string name="com_accountkit_button_send_code_in_fb">Poslat kód na Facebook</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">Klepněte na Facebooku na možnost poslat kód. Tím se odešle upozornění na Facebook účet spojený se zadaným telefonním číslem.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Získat kód na Facebooku</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Pokud chcete, aby vám kód přišel v upozornění na Facebooku, klepněte na Získat kód na Facebooku.</string>
     <string name="com_accountkit_button_start">Spustit</string>
     <string name="com_accountkit_button_start_over">Zkuste to znovu</string>
     <string name="com_accountkit_button_submit">Odeslat</string>
     <string name="com_accountkit_check_email">Otevřete e-mail</string>
-    <string name="com_accountkit_code_sent_to">Kód jsme poslali na\n%1$s</string>
+    <string name="com_accountkit_code_sent_to">Ověřte, že %1$s je číslo vašeho mobilního telefonu.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Klepnutím na %1$s přijmete &lt;a href="%2$s">podmínky&lt;/a>, &lt;a href="%3$s">zásady používání dat&lt;/a> a &lt;a href="%4$s">zásady používání souborů cookie&lt;/a> Facebooku.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Klepnutím na %1$s přijmete &lt;a href="%2$s">smluvní podmínky&lt;/a>, &lt;a href="%3$s">zásady používání dat&lt;/a> a &lt;a href="%4$s">zásady používání souborů cookie&lt;/a> na Facebooku. &lt;a href="%5$s">Přečtěte si další informace&lt;/a> o tom, jak byl váš účet ověřen.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Nepřišel vám kód?</string>
+    <string name="com_accountkit_confirmation_code_text">Žádný kód mi nepřišel</string>
     <string name="com_accountkit_confirmation_code_title">Zadejte kód</string>
     <string name="com_accountkit_email_invalid">Tento e-mail není správný. Zkuste to znovu.</string>
     <string name="com_accountkit_email_loading_title">Odesílání e-mailu…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">Zadejte e-mailovou adresu</string>
     <string name="com_accountkit_email_not_received">Poslat e-mail znovu</string>
-    <string name="com_accountkit_email_verify_title">Otevřete e-mail, který jsme vám poslali, a svoji adresu potvrďte</string>
-    <string name="com_accountkit_error_title">Je nám líto, ale něco se nepovedlo.</string>
-    <string name="com_accountkit_facebook_code_entry_title">Zadejte kód z Facebooku</string>
+    <string name="com_accountkit_email_verify_title">Otevřete e-mail a potvrďte svou e-mailovou adresu</string>
+    <string name="com_accountkit_enter_code_sent_to">Zadejte kód, který byl odeslán na %1$s</string>
+    <string name="com_accountkit_error_title">V systému došlo k chybě. Zkuste to znovu.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Zadejte kód z Facebooku</string>
     <string name="com_accountkit_logging_in">Přihlašování…</string>
+    <string name="com_accountkit_phone_error_title">Zadejte platné číslo mobilního telefonu.</string>
     <string name="com_accountkit_phone_loading_title">Posílání kódu…</string>
-    <string name="com_accountkit_phone_login_retry_title">Potvrďte telefonní číslo</string>
+    <string name="com_accountkit_phone_login_retry_title">Potvrďte číslo svého mobilního telefonu</string>
     <string name="com_accountkit_phone_login_text">
       Klepnutím na %1$s svůj účet ověříte pomocí služby Account Kit využívající technologii Facebooku.  K tomu, abyste mohli Account Kit používat, nemusíte mít Facebook účet.  Pro ověření vašeho čísla vám můžeme poslat SMS. Zpráva a data můžou být zpoplatněny podle příslušného tarifu. &lt;a href="%2$s">Přečtěte si, jak Facebook používá vaše údaje&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">Zadejte telefonní číslo</string>
+    <string name="com_accountkit_phone_login_title">Zadejte číslo svého mobilního telefonu</string>
     <string name="com_accountkit_resend_check">Než odešlete žádost o opětovné zaslání kódu, zkontrolujte si číslo.</string>
     <string name="com_accountkit_resend_email_text">Poslat nový e-mail</string>
-    <string name="com_accountkit_resend_title">Je nám líto. Zkuste tyto možnosti a pokračujte.</string>
+    <string name="com_accountkit_resend_title">Vyhledejte si ve zprávách SMS s kódem</string>
     <string name="com_accountkit_return_title">Přesměrování zpět na %1$s…</string>
     <string name="com_accountkit_sent_title">Odesláno!</string>
     <string name="com_accountkit_success_title">Hotovo!</string>

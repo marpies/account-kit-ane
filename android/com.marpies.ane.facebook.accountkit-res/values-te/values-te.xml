@@ -55,7 +55,7 @@
         <item>253:DJ:జిబౌటి</item>
         <item>45:DK:డెన్మార్క్</item>
         <item>1:DM:డొమినికా</item>
-        <item>1:DO:డామినికన్ రిపబ్లిక్</item>
+        <item>1:DO:డొమినికన్ రిపబ్లిక్</item>
         <item>213:DZ:అల్జీరియా</item>
         <item>593:EC:ఈక్వడార్</item>
         <item>372:EE:ఈస్టోనియా</item>
@@ -134,7 +134,7 @@
         <item>373:MD:మాల్డోవా</item>
         <item>382:ME:మోంటెనెగ్రో</item>
         <item>261:MG:మడగాస్కర్</item>
-        <item>692:MH:మార్షల్ ఐలాండ్స్</item>
+        <item>692:MH:మార్షల్ దీవులు</item>
         <item>389:MK:మేసిడోనియా</item>
         <item>223:ML:మాలి</item>
         <item>95:MM:మయన్మార్</item>
@@ -187,7 +187,7 @@
         <item>677:SB:సోలోమన్ దీవులు</item>
         <item>248:SC:సీషెల్స్</item>
         <item>249:SD:సూడాన్</item>
-        <item>46:SE:స్వీడన్</item>
+        <item>46:SE:స్వీడెన్</item>
         <item>65:SG:సింగపూర్</item>
         <item>290:SH:సెయింట్ హెలెనా</item>
         <item>386:SI:స్లోవేనియా</item>
@@ -209,7 +209,7 @@
         <item>66:TH:థాయ్‌ల్యాండ్</item>
         <item>992:TJ:తజికిస్తాన్</item>
         <item>690:TK:టొకేలౌ</item>
-        <item>670:TL:టైమర్-లెస్టే</item>
+        <item>670:TL:టిమర్-లెస్టే</item>
         <item>993:TM:తుర్క్‌మెనిస్తాన్</item>
         <item>216:TN:ట్యునీషియా</item>
         <item>676:TO:టోంగా</item>
@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">లాగిన్ చేయి</string>
     <string name="com_accountkit_button_next">తదుపరి</string>
     <string name="com_accountkit_button_ok">సరే</string>
-    <string name="com_accountkit_button_resend_code_in">%1$sలో కోడ్‌ను మళ్లీ పంపు</string>
-    <string name="com_accountkit_button_resend_sms">కోడ్‌ను మళ్లీ పంపు</string>
+    <string name="com_accountkit_button_resend_code_in">%1$dలో కోడ్‌ను మళ్లీ పంపండి</string>
+    <string name="com_accountkit_button_resend_sms">కోడ్‌ను మళ్లీ పంపండి</string>
     <string name="com_accountkit_button_send">పంపు</string>
-    <string name="com_accountkit_button_send_code_in_fb">కోడ్‌ను Facebookలో పంపండి</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">మీరు నమోదు చేసిన ఫోన్ నంబర్‌కు అనుబంధించిన Facebook ఖాతాకు నోటిఫికేషన్ పంపడానికి Facebookలో కోడ్‌ను పంపు నొక్కండి.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebookలో కోడ్‌ను పొందండి</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">మీ కోడ్‌ను Facebookలో నోటిఫికేషన్ వలె స్వీకరించడానికి "Facebookలో కోడ్‌ను పొందండి" ఎంపికను నొక్కండి.</string>
     <string name="com_accountkit_button_start">ప్రారంభించు</string>
     <string name="com_accountkit_button_start_over">మళ్లీ ప్రయత్నించండి</string>
     <string name="com_accountkit_button_submit">సమర్పించు</string>
     <string name="com_accountkit_check_email">మీ ఇమెయిల్‌ను తెరవండి</string>
-    <string name="com_accountkit_code_sent_to">మేము %1$sకి కోడ్‌ను పంపాము</string>
+    <string name="com_accountkit_code_sent_to">%1$s మీ మొబైల్ నంబర్ అని ధృవీకరించండి.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Facebook &lt;a href="%2$s">నిబంధనలు&lt;/a>, &lt;a href="%3$s">డేటా విధానం&lt;/a> మరియు &lt;a href="%4$s">కుక్కీ వినియోగం&lt;/a> ఆమోదించడానికి %1$s నొక్కండి.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Facebook &lt;a href="%2$s">నిబంధనలు&lt;/a>, &lt;a href="%3$s">డేటా విధానం&lt;/a> మరియు &lt;a href="%4$s">కుక్కీ వినియోగాన్ని&lt;/a> ఆమోదించడానికి %1$sని నొక్కండి. మీ ఖాతా ఎలా ధృవీకరించబడిందనే దాని గురించి &lt;a href="%5$s">మరింత తెలుసుకోండి&lt;/a>.
     </string>
-    <string name="com_accountkit_confirmation_code_text">కోడ్ రాలేదా?</string>
+    <string name="com_accountkit_confirmation_code_text">నాకు కోడ్ అందలేదు</string>
     <string name="com_accountkit_confirmation_code_title">మీ కోడ్‌ను నమోదు చేయండి</string>
     <string name="com_accountkit_email_invalid">ఈ ఇమెయిల్ తప్పు. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
     <string name="com_accountkit_email_loading_title">ఇమెయిల్ పంపుతోంది…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">మీ ఇమెయిల్ చిరునామాను నమోదు చేయండి</string>
     <string name="com_accountkit_email_not_received">ఇమెయిల్‌ను మళ్లీ పంపు</string>
-    <string name="com_accountkit_email_verify_title">మేము పంపిన ఇమెయిల్‌ను తెరిచి, మీ చిరునామాను నిర్ధారించండి</string>
-    <string name="com_accountkit_error_title">మమ్మల్ని క్షమించండి, ఏదో తప్పు జరిగింది.</string>
+    <string name="com_accountkit_email_verify_title">ఇమెయిల్‌ను తెరిచి, మీ ఇమెయిల్ చిరునామాను నిర్ధారించండి</string>
+    <string name="com_accountkit_enter_code_sent_to">%1$sకి పంపిన కోడ్‌ను నమోదు చేయండి</string>
+    <string name="com_accountkit_error_title">సిస్టమ్ సంబంధిత దోషం వాటిల్లింది. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
     <string name="com_accountkit_facebook_code_entry_title">Facebook నుండి మీ కోడ్‌ను నమోదు చేయండి</string>
     <string name="com_accountkit_logging_in">లాగిన్ చేస్తోంది…</string>
+    <string name="com_accountkit_phone_error_title">దయచేసి చెల్లుబాటు అయ్యే మొబైల్ నంబర్‌ను నమోదు చేయండి.</string>
     <string name="com_accountkit_phone_loading_title">మీ కోడ్‌ను పంపుతోంది…</string>
-    <string name="com_accountkit_phone_login_retry_title">మీ ఫోన్ నంబర్‌ను నిర్ధారించండి</string>
+    <string name="com_accountkit_phone_login_retry_title">మీ మొబైల్ నంబర్‌ను నిర్ధారించండి</string>
     <string name="com_accountkit_phone_login_text">
       Facebook ఆధారిత Account Kitతో మీ ఖాతాను ధృవీకరించడానికి %1$sని నొక్కండి.  Account Kitను ఉపయోగించడానికి మీకు Facebook ఖాతా ఉండాల్సినవసరం లేదు.  మీ నంబర్‌ను ధృవీకరించడానికి SMSను పంపవచ్చు. సందేశ మరియు డేటా ఛార్జీలు వర్తించవచ్చు. &lt;a href="%2$s">Facebook మీ సమాచారాన్ని ఎలా ఉపయోగిస్తుందో తెలుసుకోండి&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">మీ ఫోన్ నంబర్‌ను నమోదు చేయండి</string>
+    <string name="com_accountkit_phone_login_title">మీ మొబైల్ నంబర్‌ను నమోదు చేయండి</string>
     <string name="com_accountkit_resend_check">దయచేసి కోడ్‌ను మళ్లీ పంపడానికి ముందు నంబర్‌ను సరి చూసుకోండి.</string>
     <string name="com_accountkit_resend_email_text">కొత్త ఇమెయిల్ పంపు</string>
-    <string name="com_accountkit_resend_title">మమ్మల్ని క్షమించండి. కొనసాగించడానికి ఈ ఎంపికలను ప్రయత్నించండి.</string>
+    <string name="com_accountkit_resend_title">మీ కోడ్‌తో పంపబడిన SMS కోసం మీ సందేశాలను తనిఖీ చేయండి.</string>
     <string name="com_accountkit_return_title">మిమ్మల్ని తిరిగి %1$sకి మళ్లిస్తోంది…</string>
     <string name="com_accountkit_sent_title">పంపబడింది!</string>
     <string name="com_accountkit_success_title">పూర్తయింది!</string>

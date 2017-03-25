@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:အင်ဒိုရာ</item>
+        <item>971:AE:အာရပ်စော်ဘွားပြည်ထောင်စုသမ္မတ</item>
+        <item>93:AF:အာဖဂန်နစ္စတန်</item>
+        <item>1:AG:အင်တီဂွါ</item>
+        <item>1:AI:အန်ဂွေအာ</item>
+        <item>355:AL:အယ်လ်ဘေးနီးယား</item>
+        <item>374:AM:အာမေးနီးယား</item>
+        <item>244:AO:အင်ဂိုလာ</item>
+        <item>54:AR:အာဂျင်တီးနား</item>
+        <item>1:AS:အမေရိကန် ဆမိုးအား</item>
+        <item>43:AT:သြစတြီးယား</item>
+        <item>61:AU:ဩစတြေးလျ</item>
+        <item>297:AW:အာရုဘား</item>
+        <item>994:AZ:အဇာဘိုင်ဂျန်</item>
+        <item>387:BA:ဘော့စနီးယား နှင့် ဟာဇီဂိုဗီးနား</item>
+        <item>1:BB:ဘာဘေးဒိုးစ်</item>
+        <item>880:BD:ဘင်္ဂလားဒေ့ရှ်</item>
+        <item>32:BE:ဘယ်လ်ဂျီယမ်</item>
+        <item>226:BF:ဘာကီးနားဖားဆို</item>
+        <item>359:BG:ဘူလ်ဂေးရီးယား</item>
+        <item>973:BH:ဘာရိန်း</item>
+        <item>257:BI:ဘူရွန်ဒီ</item>
+        <item>229:BJ:ဘီနင်</item>
+        <item>1:BM:ဘာမြူဒါ</item>
+        <item>673:BN:ဘရုနိုင်း</item>
+        <item>591:BO:ဘိုလီးဗီးယား</item>
+        <item>599:BQ:ဘိုနေရာ၊ စိန့်အပ်စတေးရှား နှင့် ဆေးဘာ</item>
+        <item>55:BR:ဘရာဇီး</item>
+        <item>1:BS:ဘဟားမား</item>
+        <item>975:BT:ဘူတန်နိုင်ငံ</item>
+        <item>267:BW:ဘော့ဆွာနာ</item>
+        <item>375:BY:ဘီလာရုစ်</item>
+        <item>501:BZ:ဘလိဇ်</item>
+        <item>1:CA:ကနေဒါ</item>
+        <item>243:CD:ကွန်ဂိုဒီမိုကရက်တစ်သမ္မတနိုင်ငံ</item>
+        <item>236:CF:ဗဟိုအာဖရိကသမ္မတနိုင်ငံ</item>
+        <item>242:CG:ကွန်ဂိုသမ္မတနိုင်ငံ</item>
+        <item>41:CH:ဆွစ်ဇာလန်</item>
+        <item>225:CI:အိုင်ဗရီကို့စ်</item>
+        <item>682:CK:ကွတ်ခ် ကျွန်းစုများ</item>
+        <item>56:CL:ချီလီ</item>
+        <item>237:CM:ကင်မရွန်း</item>
+        <item>86:CN:တရုတ်</item>
+        <item>57:CO:ကိုလံဘီယာ</item>
+        <item>506:CR:ကော့စတာရီကာနိုင်ငံ</item>
+        <item>53:CU:ကျူးဘား</item>
+        <item>238:CV:ကိတ်ဗာဒီ</item>
+        <item>599:CW:ကရူအာဆောက်</item>
+        <item>357:CY:ဆိုက်ပရပ်စ်</item>
+        <item>420:CZ:ချက်သမ္မတနိုင်ငံ</item>
+        <item>49:DE:ဂျာမနီ</item>
+        <item>253:DJ:ဂျီဘူတီ</item>
+        <item>45:DK:ဒိန်းမတ်</item>
+        <item>1:DM:ဒိုမီနီကာ</item>
+        <item>1:DO:ဒိုမီနီကန်သမ္မတနိုင်ငံ</item>
+        <item>213:DZ:အယ်လ်ဂျီးရီးယား</item>
+        <item>593:EC:အီကွေဒေါ</item>
+        <item>372:EE:အက်စ်တိုးနီးယား</item>
+        <item>20:EG:အီဂျစ်</item>
+        <item>212:EH:အနောက်ဆာဟာရ</item>
+        <item>291:ER:အီရီထရီးယား</item>
+        <item>34:ES:စပိန်</item>
+        <item>251:ET:အီသီယိုးပီးယား</item>
+        <item>358:FI:ဖင်လန်</item>
+        <item>679:FJ:ဖီဂျီ ကျွန်းစုနိုင်ငံ</item>
+        <item>500:FK:ဖော့ကလန် ကျွန်းစု</item>
+        <item>691:FM:မိုက်ခရိုနီးရှား ဖက်ဒရယ် ပြည်ထောင်စု</item>
+        <item>298:FO:ဖာရိုးအိုင်းလန်း</item>
+        <item>33:FR:ပြင်သစ်</item>
+        <item>241:GA:ဂါဘွန်</item>
+        <item>44:GB:အင်္ဂလန်</item>
+        <item>1:GD:ဂရန်နာဒါနိုင်ငံ</item>
+        <item>995:GE:ဂျော်ဂျီယာ</item>
+        <item>594:GF:ပြင်သစ် ဂီယာနာ</item>
+        <item>44:GG:ဂန်းဇီး ကျွန်း</item>
+        <item>233:GH:ဂါနာ</item>
+        <item>350:GI:ဂျီဘရော်လ်တာ</item>
+        <item>299:GL:ဂရင်းလန်ကျွန်းနိုင်ငံ</item>
+        <item>220:GM:ဂမ်ဘီယာ</item>
+        <item>224:GN:ဂီနီ</item>
+        <item>590:GP:ဂွာဒယ်လုပ်</item>
+        <item>240:GQ:အီကွေတာ ဂီနီ</item>
+        <item>30:GR:ဂရိ</item>
+        <item>502:GT:ဂွါတီမာလာ</item>
+        <item>1:GU:ဂူအမ်ကျွန်းနိုင်ငံ</item>
+        <item>245:GW:ဂင်းနီဗစ်ဆောနိုင်ငံ</item>
+        <item>592:GY:ဂိုင်ယာနာ</item>
+        <item>852:HK:ဟောင်ကောင်</item>
+        <item>504:HN:ဟွန်ဒူးရပ်စ်</item>
+        <item>385:HR:ခရိုအေးရှား</item>
+        <item>509:HT:ဟေတီ</item>
+        <item>36:HU:ဟန်ဂေရီ</item>
+        <item>62:ID:အင်ဒိုနီးရှား</item>
+        <item>353:IE:အိုင်ယာလန်</item>
+        <item>972:IL:အစ္စရေး</item>
+        <item>44:IM:မန်းန်ကျွန်း</item>
+        <item>91:IN:အိန္ဒိယ</item>
+        <item>246:IO:ဗြိတိသျှ အိန္ဒိယသမုဒ္ဓရာ ပိုင်နက်</item>
+        <item>964:IQ:အီရတ်</item>
+        <item>98:IR:အီရန်</item>
+        <item>354:IS:အိုက်စလန်</item>
+        <item>39:IT:အီတလီ</item>
+        <item>44:JE:ဂျာစီ</item>
+        <item>1:JM:ဂျမေကာ</item>
+        <item>962:JO:ဂျော်ဒန်</item>
+        <item>81:JP:ဂျပန်</item>
+        <item>254:KE:ကင်ညာ</item>
+        <item>996:KG:ကာဂျစ္စတန်</item>
+        <item>855:KH:ကမ္ဘောဒီးယား</item>
+        <item>686:KI:ကီရီဘတ်စ်</item>
+        <item>269:KM:ကိုမိုရို</item>
+        <item>1:KN:စိန့်ကစ် နှင့် နီးဗစ်</item>
+        <item>850:KP:မြောက်ကိုရီးယား</item>
+        <item>82:KR:တောင်ကိုရီးယား</item>
+        <item>965:KW:ကူဝိတ်</item>
+        <item>1:KY:ကေးမန်းကျွန်းစု</item>
+        <item>7:KZ:ကာဇက်စတန်</item>
+        <item>856:LA:လာအို</item>
+        <item>961:LB:လက်ဘနွန်</item>
+        <item>1:LC:စိန့် လူစီယာ</item>
+        <item>423:LI:လစ်ချန်စတိန်း နိုင်ငံ</item>
+        <item>94:LK:သီရိလင်္ကာ</item>
+        <item>231:LR:လိုက်ဘေးရီးယား</item>
+        <item>266:LS:လီဆိုသို</item>
+        <item>370:LT:လစ်သူယေးနီးယား</item>
+        <item>352:LU:လူဇင်ဘတ်</item>
+        <item>371:LV:လတ်ဗီယာ</item>
+        <item>218:LY:လစ်ဗျား</item>
+        <item>212:MA:မော်ရိုကို</item>
+        <item>377:MC:မိုနာကို</item>
+        <item>373:MD:မော်လ်ဒိုဗာ</item>
+        <item>382:ME:မွန်တီနီဂရိုး</item>
+        <item>261:MG:မဒါဂတ်စကား</item>
+        <item>692:MH:မာရှယ်အိုင်းလန်း</item>
+        <item>389:MK:မက်စီဒိုးနီးယား</item>
+        <item>223:ML:မာလီနိုင်ငံ</item>
+        <item>95:MM:မြန်မာ</item>
+        <item>976:MN:မွန်ဂိုလီးယား</item>
+        <item>853:MO:မကာအို</item>
+        <item>1:MP:မြောက်ပိုင်း မာရီယာနာ ကျွန်းစုများ</item>
+        <item>596:MQ:မာတီနက်</item>
+        <item>222:MR:မော်ရီတေးနီးယား</item>
+        <item>1:MS:မွန်ဆာရတ်ကျွန်း</item>
+        <item>356:MT:မော်လ်တာ နိုင်ငံ</item>
+        <item>230:MU:မောရစ်ရှ</item>
+        <item>960:MV:မော်လ်ဒိုက်</item>
+        <item>265:MW:မာလဝီ</item>
+        <item>52:MX:မက္ကဆီကို</item>
+        <item>60:MY:မလေးရှား</item>
+        <item>258:MZ:မိုဇမ်ဘစ်</item>
+        <item>264:NA:နမီးဘီးယား</item>
+        <item>687:NC:နယူး ကာလီဒိုးနီးယား</item>
+        <item>227:NE:နိုင်ဂျာ</item>
+        <item>672:NF:နော်ဖက်ခ်ကျွန်းစု</item>
+        <item>234:NG:နိုင်ဂျီးရီးယား</item>
+        <item>505:NI:နီကာရာဂွါနိုင်ငံ</item>
+        <item>31:NL:နယ်သာလန်</item>
+        <item>47:NO:နော်ဝေ</item>
+        <item>977:NP:နီပေါ</item>
+        <item>674:NR:နအူရူး</item>
+        <item>683:NU:နယူးဝေး</item>
+        <item>64:NZ:နယူးဇီလန်</item>
+        <item>968:OM:အိုမန်</item>
+        <item>507:PA:ပနားမား</item>
+        <item>51:PE:ပီရူး</item>
+        <item>689:PF:ပြင်သစ် ပိုလီနီးရှား</item>
+        <item>675:PG:ပါပူအာနယူးဂီနီ</item>
+        <item>63:PH:ဖိလစ်ပိုင်</item>
+        <item>92:PK:ပါကစ္စတန်</item>
+        <item>48:PL:ပိုလန်</item>
+        <item>508:PM:စိန့် ပီရဲ နှင့် မီကွေးလွန်</item>
+        <item>1:PR:ပေတိုရီကို</item>
+        <item>970:PS:ပါလက်စတိုင်း</item>
+        <item>351:PT:ပေါ်တူဂီ</item>
+        <item>680:PW:ပလောင်း</item>
+        <item>595:PY:ပါရာဂွေး</item>
+        <item>974:QA:ကာတာ</item>
+        <item>262:RE:ယေညွန်</item>
+        <item>40:RO:ရိုမေးနီးယား</item>
+        <item>381:RS:ဆားဘီးယား</item>
+        <item>7:RU:ရုရှား</item>
+        <item>250:RW:ရဝမ်ဒါ</item>
+        <item>966:SA:ဆော်ဒီအာရေဗျ</item>
+        <item>677:SB:ဆော်လမွန်ကျွန်းစုများ</item>
+        <item>248:SC:ဆေးရှဲနိုင်ငံ</item>
+        <item>249:SD:ဆူဒန်</item>
+        <item>46:SE:ဆွီဒင်</item>
+        <item>65:SG:စင်္ကာပူ</item>
+        <item>290:SH:စိန့် ဟယ်လဲနာ</item>
+        <item>386:SI:ဆလိုဗေးနီးယား</item>
+        <item>421:SK:ဆလိုဗက်ကီးယား</item>
+        <item>232:SL:ဆီရာလီယွန်နိုင်ငံ</item>
+        <item>378:SM:ဆန်မာရီနို</item>
+        <item>221:SN:ဆီနီဂေါ</item>
+        <item>252:SO:ဆိုမာလီယာ</item>
+        <item>597:SR:ဆူရီနာမီ</item>
+        <item>211:SS:တောင်ဆူဒန်</item>
+        <item>239:ST:ဆောင်တူမေး နှင့် ပရင်စီပီ</item>
+        <item>503:SV:အယ်ဆာဗေဒို</item>
+        <item>1:SX:စိန့် မားတန် ပြည်နယ်</item>
+        <item>963:SY:ဆီးရီးယား</item>
+        <item>268:SZ:ဆွာဇီလန်နိုင်ငံ</item>
+        <item>1:TC:တစ်ရက်စ် နှင့် ခိုက်ကော့စ် ကျွန်းစုများ</item>
+        <item>235:TD:ချဒ်</item>
+        <item>228:TG:တိုဂို</item>
+        <item>66:TH:ထိုင်း</item>
+        <item>992:TJ:တာဂျစ်ကစ္စတန်</item>
+        <item>690:TK:တိုကေလော</item>
+        <item>670:TL:အရှေ့တီမော နိုင်ငံ</item>
+        <item>993:TM:တာ့ခ်မင်နစ္စတန်နိုင်ငံ</item>
+        <item>216:TN:တူနီးရှား</item>
+        <item>676:TO:တုံဂါ</item>
+        <item>90:TR:တူရကီ</item>
+        <item>1:TT:ထရီနီဒတ် နှင့် တိုဘက်ဂို</item>
+        <item>688:TV:တူဗားလူနိုင်ငံ</item>
+        <item>886:TW:ထိုင်ဝမ်</item>
+        <item>255:TZ:တန်ဇေးနီးယား</item>
+        <item>380:UA:ယူကရိန်း</item>
+        <item>256:UG:ယူဂန္ဓာ</item>
+        <item>1:US:အမေရိကန်ပြည်ထောင်စု</item>
+        <item>598:UY:ဥရုဂွေး</item>
+        <item>998:UZ:ဥဇဘက်ကစ္စတန်</item>
+        <item>1:VC:စိန့်ဗင်းဆင့် နှင့် ဂရိနေဒိုင်း</item>
+        <item>58:VE:ဗင်နီဇွဲလား</item>
+        <item>1:VG:ဗြိတိသျှ ဗာဂျင် ကျွန်းစု</item>
+        <item>1:VI:ယူအက်စ် ဗာဂျင် ကျွန်းစု</item>
+        <item>84:VN:ဗီယက်နမ်</item>
+        <item>678:VU:ဗနွားတူ</item>
+        <item>681:WF:ဝေါလစ် နှင့် ဖုတူးနား</item>
+        <item>685:WS:ဆမိုးအား</item>
+        <item>967:YE:ယီမင်</item>
+        <item>262:YT:မာရောတီ</item>
+        <item>27:ZA:တောင်အာဖရိက</item>
+        <item>260:ZM:ဇမ်ဘီယာ</item>
+        <item>263:ZW:ဇင်ဘာဘွေ</item>
+    </string-array>
+    <string name="com_accountkit_account_verified">အကောင့အတညပုပီးပပီ။</string>
+    <string name="com_accountkit_button_begin">စတငရန</string>
+    <string name="com_accountkit_button_cancel">မလုပတော့ပ</string>
+    <string name="com_accountkit_button_confirm">အတညပုရန</string>
+    <string name="com_accountkit_button_continue">ဆကလုပရန</string>
+    <string name="com_accountkit_button_edit">ပငဆငရန</string>
+    <string name="com_accountkit_button_log_in">အကောင့ဝငရန</string>
+    <string name="com_accountkit_button_next">ရေ့သို့</string>
+    <string name="com_accountkit_button_ok">OK</string>
+    <string name="com_accountkit_button_resend_code_in">%1$d အတွင်း ကုဒ်ထပ်ပို့ပေးရန်</string>
+    <string name="com_accountkit_button_resend_sms">ကုဒ်ထပ်ပို့ရန်</string>
+    <string name="com_accountkit_button_send">ပို့ရန</string>
+    <string name="com_accountkit_button_send_code_in_fb">ကုဒ်ကို Facebook တွင် ရယူရန်</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">သင့်ကုဒ်ကို Facebook တွင် အသိပေးချက်တစ်ခုအဖြစ် လက်ခံရယူရန် “ကုဒ်ကို Facebook တွင် ရယူရန်” ကို တို့ပါ။</string>
+    <string name="com_accountkit_button_start">စရန</string>
+    <string name="com_accountkit_button_start_over">ထပစမးကည့ရန</string>
+    <string name="com_accountkit_button_submit">တငသငးရန</string>
+    <string name="com_accountkit_check_email">သင့အီးမေးလကို ဖင့ပ</string>
+    <string name="com_accountkit_code_sent_to">%1$s က သင့်မိုဘိုင်းနံပါတ်ဖြစ်ကြောင်း အတည်ပြုပါ။</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Facebook ၏&lt;a
+            href="%2$s">စညးမဉးစညးကမးမား&lt;/a>၊ &lt;a
+            href="%3$s">ဒေတာမူဝဒ&lt;/a>နင့ &lt;a href="%4$s">ကတကီးအသုံးပုမု&lt;/a>တို့ကို လကခံရန %1$s ကို တို့ပ။
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Facebook ၏&lt;a
+            href="%2$s">စညးမဉးစညးကမးမား&lt;/a>၊ &lt;a
+            href="%3$s">ဒေတာမူဝဒ&lt;/a>၊ &lt;a
+            href="%4$s">ကတကီးအသုံးပုမု&lt;/a>နင့ %6$s ၏ &lt;a href="%5$s">ပုဂ္ဂိုလရေးဆိုငရာမူဝဒ&lt;/a>တို့ကို လကခံရန %1$s ကို တို့ပ။
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Facebook ၏&lt;a
+            href="%2$s">စညးမဉးစညးကမးမား&lt;/a>၊ &lt;a
+            href="%3$s">ဒေတာမူဝဒ&lt;/a>၊ &lt;a
+            href="%4$s">ကတကီးအသုံးပုမု&lt;/a>နင့ %7$s ၏ &lt;a
+            href="%5$s">ပုဂ္ဂိုလရေးဆိုငရာမူဝဒ&lt;/a>နင့ &lt;a href="%6$s">ဝနဆောငမုဆိုငရာစညးမဉးမား&lt;/a>ကို လကခံရန %1$s ကို တို့ပ။
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Facebook ၏&lt;a
+            href="%2$s">စညးမဉးစညးကမးမား&lt;/a>၊ &lt;a
+            href="%3$s">ဒေတာမူဝဒ&lt;/a>၊ &lt;a
+            href="%4$s">ကတကီးအသုံးပုမု&lt;/a>နင့ %7$s ၏ &lt;a
+            href="%5$s">ပုဂ္ဂိုလရေးဆိုငရာမူဝဒ&lt;/a>နင့ &lt;a
+            href="%6$s">ဝနဆောငမုဆိုငရာစညးမဉးမား&lt;/a>ကို လကခံရန %1$s ကို တို့ပ။ သင့အကောင့ကို မညသို့အတညပုထားကောငး &lt;a href="%8$s">ပိုမိုလေ့လာပ&lt;/a>။
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Facebook ၏&lt;a
+            href="%2$s">စညးမဉးစညးကမးမား&lt;/a>၊ &lt;a
+            href="%3$s">ဒေတာမူဝဒ&lt;/a>၊ &lt;a
+            href="%4$s">ကတကီးအသုံးပုမု&lt;/a>နင့ %6$s ၏ &lt;a
+            href="%5$s">ပုဂ္ဂိုလရေးဆိုငရာမူဝဒ&lt;/a>တို့ကို လကခံရန %1$s ကို တို့ပ။ သင့အကောင့ကို မညသို့အတညပုထားကောငး &lt;a href="%7$s">ပိုမိုလေ့လာပ&lt;/a>။
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Facebook ၏&lt;a
+            href="%2$s">စညးမဉးစညးကမးမား&lt;/a>၊ &lt;a
+            href="%3$s">ဒေတာမူဝဒ&lt;/a>နင့ &lt;a
+            href="%4$s">ကတကီးအသုံးပုမု&lt;/a>တို့ကို လကခံရန %1$s ကို တို့ပ။ သင့အကောင့ကို မညသို့အတညပုထားကောငး &lt;a href="%5$s">ပိုမိုလေ့လာပ&lt;/a>။
+    </string>
+    <string name="com_accountkit_confirmation_code_text">ကုဒ်မရခဲ့ပါ</string>
+    <string name="com_accountkit_confirmation_code_title">သင့ကုဒထည့ပ</string>
+    <string name="com_accountkit_email_invalid">
+        အီးမေးလ မားနေသည။ ထပစမးကည့ပ။
+    </string>
+    <string name="com_accountkit_email_loading_title">အီးမေးလပို့နေသည...</string>
+    <string name="com_accountkit_email_login_retry_title">သင့အီးမေးလကို အတညပုပ</string>
+    <string name="com_accountkit_email_login_text">
+        %2$s အသုံးပုရာတင ကူညီပေးနိုငရန Facebook ၏ Account Kit ထံမ အီးမေးလအတညပုခကရယူရန %1$s ကို တို့ပ။ ၎ငးကိုအသုံးပုရန Facebook အကောင့မလိုပ။ &lt;a href="%3$s">သင့အခကအလကမားကို Facebook က မညသို့အသုံးပုကောငး လေ့လာပ&lt;/a>။
+    </string>
+    <string name="com_accountkit_email_login_title">သင့အီးမေးလလိပစာကို ထည့ပ</string>
+    <string name="com_accountkit_email_not_received">အီးမေးလပနပို့ရန</string>
+    <string name="com_accountkit_email_verify_title">အီးမေးလ်ဖွင့်၍ သင်၏အီးမေးလ်လိပ်စာကို အတည်ပြုပါ</string>
+    <string name="com_accountkit_enter_code_sent_to">%1$s ထံ ပို့လိုက်သောကုဒ်ကို ထည့်ပါ</string>
+    <string name="com_accountkit_error_title">စနစ်ပိုင်းဆိုင်ရာပြဿနာတစ်ခု ဖြစ်ပွားခဲ့သည်။ ထပ်စမ်းကြည့်ပါ။</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook မှ သင့်ကုဒ်ကို ထည့်ပါ</string>
+    <string name="com_accountkit_logging_in">အကောင့ဝငနေသည...</string>
+    <string name="com_accountkit_phone_error_title">မှန်ကန်သောမိုဘိုင်းနံပါတ်တစ်ခု ထည့်ပါ။</string>
+    <string name="com_accountkit_phone_loading_title">သင့နံပတကို အတညပုနေသည...</string>
+    <string name="com_accountkit_phone_login_retry_title">သင့်မိုဘိုင်းနံပါတ်ကို အတည်ပြုပါ</string>
+    <string name="com_accountkit_phone_login_text">
+        Facebook မ ပံ့ပိုးထားသော Account Kit ဖင့ သင့အကောင့ကို အတညပုရန %1$s ကို တို့ပ။ Account Kit အသုံးပုရန Facebook အကောင့ မလိုအပပ။ သင့နံပတကို အတညပုရန SMS တစစောင ပို့ပေးပမည။ မကဆေ့ဂနင့ ဒေတာအသုံးပုခမား ကသင့နိုငပသည။ &lt;a href="%2$s">သင့အခကအလကမားကို Facebook က မညသို့အသုံးပုကောငး လေ့လာပ&lt;/a>။
+    </string>
+    <string name="com_accountkit_phone_login_title">သင့်မိုဘိုင်းနံပါတ် ထည့်ပါ</string>
+    <string name="com_accountkit_resend_check">ကုန်ပြန်မပို့မီ နံပါတ်ကို စစ်ဆေးပါ။</string>
+    <string name="com_accountkit_resend_email_text">အီးမေးလအသစ ပို့ရန</string>
+    <string name="com_accountkit_resend_title">သင့်ကုဒ်ပါဝင်သော SMS ကို သင့်မက်ဆေ့ဂျ်များတွင် စစ်ဆေးပါ။</string>
+    <string name="com_accountkit_sent_title">ပို့လိုကပပီ။</string>
+    <string name="com_accountkit_success_title">အတညပုပီးပပီ။</string>
+    <string name="com_accountkit_toolbar_title">%1$s သို့ အကောင့ဝငရန</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        သင့ကုဒကို အတညမပုနိုငပ။\nထပစမးကည့ပ -
+    </string>
+    <string name="com_accountkit_verify_title">သင၏ကုဒကို အတညပုနေသည...</string>
+</resources>

@@ -29,7 +29,7 @@
         <item>591:BO:बोलिविया</item>
         <item>599:BQ:बोनेअर, सीन्त युस्तशिअस आणि साबा</item>
         <item>55:BR:ब्राझील</item>
-        <item>1:BS:बहामा</item>
+        <item>1:BS:बहामाज</item>
         <item>975:BT:भूतान</item>
         <item>267:BW:बोत्स्वाना</item>
         <item>375:BY:बेलारूस</item>
@@ -114,7 +114,7 @@
         <item>269:KM:कोमोरोस</item>
         <item>1:KN:सेंट किट्स आणि नेविस</item>
         <item>850:KP:उत्तर कोरिया</item>
-        <item>82:KR:साउथ कोरिया</item>
+        <item>82:KR:दक्षिण कोरिया</item>
         <item>965:KW:कुवेत</item>
         <item>1:KY:केमॅन बेटे</item>
         <item>7:KZ:कझाकिस्तान</item>
@@ -142,7 +142,7 @@
         <item>853:MO:मकाऊ</item>
         <item>1:MP:उत्तरी मारियाना बेटे</item>
         <item>596:MQ:मार्टीनिक</item>
-        <item>222:MR:मौरीतानिया</item>
+        <item>222:MR:मॉरिटानिया</item>
         <item>1:MS:मॉंट्सेर्राट</item>
         <item>356:MT:माल्टा</item>
         <item>230:MU:मॉरिशस</item>
@@ -167,7 +167,7 @@
         <item>507:PA:पनामा</item>
         <item>51:PE:पेरु</item>
         <item>689:PF:फ्रेंच पॉलिनेशिआ</item>
-        <item>675:PG:पापुआ न्यु गिनी</item>
+        <item>675:PG:पापुआ न्यु गिनिया</item>
         <item>63:PH:फिलिपिन्स</item>
         <item>92:PK:पाकिस्तान</item>
         <item>48:PL:पोलंड</item>
@@ -234,7 +234,7 @@
         <item>967:YE:येमेन</item>
         <item>262:YT:मायोत</item>
         <item>27:ZA:दक्षिण अफ्रिका</item>
-        <item>260:ZM:झांबिया</item>
+        <item>260:ZM:झाम्बिया</item>
         <item>263:ZW:झिंबाब्वे</item>
     </string-array>
     <string name="com_accountkit_account_verified">खात्याची पडताळणी केली!</string>
@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">लॉग इन करा</string>
     <string name="com_accountkit_button_next">पुढील</string>
     <string name="com_accountkit_button_ok">ठीक</string>
-    <string name="com_accountkit_button_resend_code_in">%1$s मध्ये कोड पुन्हा पाठवा</string>
+    <string name="com_accountkit_button_resend_code_in">%1$d मध्ये कोड पुन्हा पाठवा</string>
     <string name="com_accountkit_button_resend_sms">कोड पुन्हा पाठवा</string>
     <string name="com_accountkit_button_send">पाठवा</string>
-    <string name="com_accountkit_button_send_code_in_fb">Facebook मध्ये कोड पाठवा</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">आपण प्रविष्‍ट केलेल्‍या फोन नंबरशी लिंक असलेल्‍या Facebook खात्‍यावर सूचना पाठवण्‍यासाठी Facebook मध्‍ये कोड पाठवा टॅप करा.</string>
+    <string name="com_accountkit_button_send_code_in_fb">कोड Facebook वर मिळवा</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Facebook वर एक सूचना म्हणून तुमचा कोड प्राप्त करण्यासाठी "Facebook वर कोड मिळवा" टॅप करा.</string>
     <string name="com_accountkit_button_start">सुरू करा</string>
     <string name="com_accountkit_button_start_over">पुन्‍हा प्रयत्‍न करा</string>
     <string name="com_accountkit_button_submit">सादर करा</string>
     <string name="com_accountkit_check_email">आपला ईमेल उघडा</string>
-    <string name="com_accountkit_code_sent_to">आम्ही %1$s वर कोड पाठविला आहे</string>
+    <string name="com_accountkit_code_sent_to">सत्यापित करा %1$s हा तुमचा मोबाईल नंबर आहे.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Facebook च्या &lt;a href="%2$s"> अटी&lt;/a>,  &lt;a href="%3$s">डेटा धोरण&lt;/a> आणि &lt;a href="%4$s">कुकी वापर&lt;/a> स्वीकारण्यासाठी %1$s वर टॅप करा.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Facebook च्‍या &lt;a href="%2$s">अटी&lt;/a>, &lt;a href="%3$s">डेटा धोरण&lt;/a> आणि &lt;a href="%4$s">कुकी वापर&lt;/a> स्‍वीकारण्‍यासाठी %1$s टॅप करा. आपल्‍या खात्‍याची पडताळणी कशी झाली होती&lt;a href="%5$s">याविषयी अधिक जाणून घ्‍या&lt;/a>.
     </string>
-    <string name="com_accountkit_confirmation_code_text">कोड प्राप्त झाला नाही?</string>
+    <string name="com_accountkit_confirmation_code_text">मला कोड मिळाला नाही</string>
     <string name="com_accountkit_confirmation_code_title">आपला कोड प्रविष्‍ट करा</string>
     <string name="com_accountkit_email_invalid">हा ईमेल चुकीचा आहे. कृपया पुन्हा प्रयत्न करा.</string>
     <string name="com_accountkit_email_loading_title">ईमेल पाठवित आहे</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">आपला ईमेल पत्‍ता प्रविष्‍ट करा</string>
     <string name="com_accountkit_email_not_received">ईमेल पुन्‍हा पाठवा</string>
-    <string name="com_accountkit_email_verify_title">आम्‍ही पाठवलेला ईमेल उघडा आणि आपल्‍या पत्‍त्‍याची पुष्‍टी करा</string>
-    <string name="com_accountkit_error_title">आम्‍ही क्षमस्‍व आहोत, काहीतरी चूक झाली.</string>
-    <string name="com_accountkit_facebook_code_entry_title">आपला कोड Facebook वरून प्रविष्‍ट करा</string>
+    <string name="com_accountkit_email_verify_title">ईमेल उघडा आणि तुमच्या ईमेल पत्त्याची पुष्टी करा</string>
+    <string name="com_accountkit_enter_code_sent_to">%1$s वर पाठवलेला कोड प्रविष्ट करा</string>
+    <string name="com_accountkit_error_title">एक सिस्टिम समस्या उद्भवली. कृपया पुन्हा प्रयत्न करा.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook वरून तुमचा कोड प्रविष्‍ट करा</string>
     <string name="com_accountkit_logging_in">लॉग इन करत आहे…</string>
+    <string name="com_accountkit_phone_error_title">कृपया वैध मोबाईल नंबर प्रविष्ट करा.</string>
     <string name="com_accountkit_phone_loading_title">आपला कोड पाठवत आहे…</string>
-    <string name="com_accountkit_phone_login_retry_title">आपल्‍या फोन नंबरची पुष्‍टी करा</string>
+    <string name="com_accountkit_phone_login_retry_title">तुमच्या मोबाईल नंबरची पुष्टी करा</string>
     <string name="com_accountkit_phone_login_text">
       Facebook द्वारे समर्थित Account Kit सह आपल्या खात्याची पडताळणी करण्‍यासाठी %1$s टॅप करा.  आपल्याला Account Kit वापरण्यासाठी Facebook खात्याची गरज नाही.  आपल्या नंबरची पडताळणी करण्यासाठी कदाचित SMS पाठविला जाऊ शकतो. संदेश आणि डेटा शुल्‍क लागू होण्‍याची शक्‍यता आहे. &lt;a href="%2$s">Facebook आपली माहिती कसे वापरते याविषयी जाणून घ्‍या&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">आपला फोन नंबर प्रविष्‍ट करा</string>
-    <string name="com_accountkit_resend_check">कृपया कोड पुन्हा पाठवण्यापुर्वी नंबर तपासा.</string>
+    <string name="com_accountkit_phone_login_title">तुमचा मोबाईल नंबर प्रविष्ट करा</string>
+    <string name="com_accountkit_resend_check">कोड पुन्हा पाठवण्यापूर्वी कृपया नंबर तपासा.</string>
     <string name="com_accountkit_resend_email_text">नवीन ईमेल पाठवा</string>
-    <string name="com_accountkit_resend_title">आम्‍ही क्षमस्‍व आहोत. पुढे सुरू ठेवण्‍यासाठी हे पर्याय वापरून पहा.</string>
+    <string name="com_accountkit_resend_title">एका SMS साठी तुमच्या कोडसह तुमचे संदेश तपासा.</string>
     <string name="com_accountkit_return_title">आपल्‍याला पुन्‍हा %1$s येथे नेत आहे…</string>
     <string name="com_accountkit_sent_title">पाठविले!</string>
     <string name="com_accountkit_success_title">पूर्ण झाले!</string>

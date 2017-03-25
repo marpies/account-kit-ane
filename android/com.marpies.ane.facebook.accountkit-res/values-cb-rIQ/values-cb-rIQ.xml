@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:ئەندۆرا</item>
+        <item>971:AE:ئیماراتی یه‌كگرتووی عه‌ره‌بی</item>
+        <item>93:AF:ئەفغانستان</item>
+        <item>1:AG:ئانتييگوە</item>
+        <item>1:AI:ئه‌نگۆلا</item>
+        <item>355:AL:ئەلبانیا</item>
+        <item>374:AM:ئەرمینیـا</item>
+        <item>244:AO:ئەنگۆلا</item>
+        <item>54:AR:ئەرجەنتین</item>
+        <item>1:AS:سەموای ئەمەریکا</item>
+        <item>43:AT:نه‌مسا</item>
+        <item>61:AU:ئوستڕالیا</item>
+        <item>297:AW:ئاروبا</item>
+        <item>994:AZ:ئازەربایجان</item>
+        <item>387:BA:بۆسنیا و هێرزگۆڤینا</item>
+        <item>1:BB:باربادۆس</item>
+        <item>880:BD:بەنگلادێش</item>
+        <item>32:BE:بەلجيكا</item>
+        <item>226:BF:بۆرکینا فاسۆ</item>
+        <item>359:BG:بولگاریا</item>
+        <item>973:BH:بەحرێن</item>
+        <item>257:BI:بوروندی</item>
+        <item>229:BJ:بەنین</item>
+        <item>1:BM:بەرموودا</item>
+        <item>673:BN:بڕۆنای</item>
+        <item>591:BO:بۆلیڤیا</item>
+        <item>599:BQ:بۆنەیر، سینت ئوستاتیوس و سابا</item>
+        <item>55:BR:بەڕازیل</item>
+        <item>1:BS:بەهۆمەزەکە</item>
+        <item>975:BT:بووتان</item>
+        <item>267:BW:بۆتسوانا</item>
+        <item>375:BY:بیلارووس</item>
+        <item>501:BZ:بەلیز</item>
+        <item>1:CA:كه‌نه‌دا</item>
+        <item>243:CD:کۆماری دیموکراتی کۆنگۆ</item>
+        <item>236:CF:کۆماری ئەفریقای ناوەندی</item>
+        <item>242:CG:کۆماری کۆنگۆ</item>
+        <item>41:CH:سویسڕا</item>
+        <item>225:CI:كۆت دیڤوار</item>
+        <item>682:CK:دورگەکانی کوک</item>
+        <item>56:CL:چیلی</item>
+        <item>237:CM:کامیرۆن</item>
+        <item>86:CN:چین</item>
+        <item>57:CO:کۆڵۆمبیا</item>
+        <item>506:CR:کۆستا ریکا</item>
+        <item>53:CU:کوبا</item>
+        <item>238:CV:کەیپ ڤیردەی</item>
+        <item>599:CW:كوراساو</item>
+        <item>357:CY:قوبرس</item>
+        <item>420:CZ:کۆماری چیک</item>
+        <item>49:DE:ئەڵمانیا</item>
+        <item>253:DJ:جیبووتی</item>
+        <item>45:DK:دانیمارک</item>
+        <item>1:DM:دۆمینیکا</item>
+        <item>1:DO:کۆماری دۆمینیکان</item>
+        <item>213:DZ:جـەزائـیـر</item>
+        <item>593:EC:ئیكوادۆر</item>
+        <item>372:EE:ئیستۆنیا</item>
+        <item>20:EG:میسر</item>
+        <item>212:EH:بیابانی رۆژئاوا</item>
+        <item>291:ER:ئەريتريا</item>
+        <item>34:ES:ئیسپانیا</item>
+        <item>251:ET:ئیتیۆپیا</item>
+        <item>358:FI:فینلاند</item>
+        <item>679:FJ:فێجی</item>
+        <item>500:FK:دوورگەکانی فالکلاند</item>
+        <item>691:FM:ویلایەتە فیدراڵییەکانی میکرۆنیزیا</item>
+        <item>298:FO:دوورگەکانی فارۆ</item>
+        <item>33:FR:فه‌ڕه‌نسا</item>
+        <item>241:GA:گابۆن</item>
+        <item>44:GB:شانشینی یەکگرتوو</item>
+        <item>1:GD:گریندا</item>
+        <item>995:GE:جۆرجیا</item>
+        <item>594:GF:گيۆنەى فەڕەنسى</item>
+        <item>44:GG:گوێرنسی</item>
+        <item>233:GH:گانا</item>
+        <item>350:GI:شاخى تاریق</item>
+        <item>299:GL:گرینلاند</item>
+        <item>220:GM:گامبيا</item>
+        <item>224:GN:گوێنا</item>
+        <item>590:GP:جه‌وادلۆپ</item>
+        <item>240:GQ:گینیای کەمەرەیی</item>
+        <item>30:GR:یۆنان</item>
+        <item>502:GT:گواتیمالا</item>
+        <item>1:GU:گوام</item>
+        <item>245:GW:گینیا - بیساو</item>
+        <item>592:GY:گايۆنە</item>
+        <item>852:HK:هۆنگ کۆنگ</item>
+        <item>504:HN:هیندۆراس</item>
+        <item>385:HR:کڕواتیا</item>
+        <item>509:HT:هایتی</item>
+        <item>36:HU:هەنگاریا</item>
+        <item>62:ID:ئيندۆنيسيا</item>
+        <item>353:IE:ئیرلەندا</item>
+        <item>972:IL:ئیسرائیل</item>
+        <item>44:IM:دوورگەی پیاو</item>
+        <item>91:IN:هندستان</item>
+        <item>246:IO:هه‌رێمی ئۆقیانووسی هیندی به‌ریتانی</item>
+        <item>964:IQ:عێراق</item>
+        <item>98:IR:ئێران</item>
+        <item>354:IS:ئایسلەندا</item>
+        <item>39:IT:ئیتالیا</item>
+        <item>44:JE:جێرسی</item>
+        <item>1:JM:جامایکا</item>
+        <item>962:JO:ئوردن</item>
+        <item>81:JP:ژاپۆن</item>
+        <item>254:KE:کینیا</item>
+        <item>996:KG:قیرغزستان</item>
+        <item>855:KH:کەمبۆدیا</item>
+        <item>686:KI:کیریباتی</item>
+        <item>269:KM:كۆمۆرۆس</item>
+        <item>1:KN:سانت كیتس و نیڤیس</item>
+        <item>850:KP:کۆریای باكوور</item>
+        <item>82:KR:کۆریای باشور</item>
+        <item>965:KW:کوێت</item>
+        <item>1:KY:دوورگەکانی کایمان</item>
+        <item>7:KZ:کازاخستان</item>
+        <item>856:LA:لاوس</item>
+        <item>961:LB:لوبنان</item>
+        <item>1:LC:سانت لوسیا</item>
+        <item>423:LI:لیتنستاین</item>
+        <item>94:LK:سری لانکا</item>
+        <item>231:LR:لیبیریا</item>
+        <item>266:LS:لیسوزۆ</item>
+        <item>370:LT:لیتوانیا</item>
+        <item>352:LU:لوکسەمورگ</item>
+        <item>371:LV:لاتڤیا</item>
+        <item>218:LY:لیبیا</item>
+        <item>212:MA:مه‌غریب</item>
+        <item>377:MC:مۆناكۆ</item>
+        <item>373:MD:مۆڵدۆڤا</item>
+        <item>382:ME:مۆنتینیگرۆ</item>
+        <item>261:MG:مادەگاسكەر</item>
+        <item>692:MH:دوورگەکانی مارشاڵ</item>
+        <item>389:MK:مەکەدۆنیـا</item>
+        <item>223:ML:مالی</item>
+        <item>95:MM:میانمار</item>
+        <item>976:MN:مەنگۆلیا</item>
+        <item>853:MO:ماکاو</item>
+        <item>1:MP:باكووری دورگه‌كانی ماریانا</item>
+        <item>596:MQ:مارتينک</item>
+        <item>222:MR:مۆريتانيا</item>
+        <item>1:MS:مۆنتسیرات</item>
+        <item>356:MT:ماڵتـا</item>
+        <item>230:MU:مۆریس</item>
+        <item>960:MV:مالدیڤ</item>
+        <item>265:MW:مالاوی</item>
+        <item>52:MX:مه‌كسیك</item>
+        <item>60:MY:مالیزیا</item>
+        <item>258:MZ:مۆزامبیق</item>
+        <item>264:NA:نامیبیا</item>
+        <item>687:NC:كالیدۆنیای نوێ</item>
+        <item>227:NE:نێجیریا</item>
+        <item>672:NF:دورگه‌ی نۆرفۆلک</item>
+        <item>234:NG:نێجیریـا</item>
+        <item>505:NI:نیکاراگوا</item>
+        <item>31:NL:هۆڵەندا</item>
+        <item>47:NO:نه‌رویچ</item>
+        <item>977:NP:نیپال</item>
+        <item>674:NR:ناورو</item>
+        <item>683:NU:نیوۆ</item>
+        <item>64:NZ:نیوزله‌ندا</item>
+        <item>968:OM:عومان</item>
+        <item>507:PA:پاناما</item>
+        <item>51:PE:پیرۆ</item>
+        <item>689:PF:پۆلينييجەى فەڕەنسى</item>
+        <item>675:PG:پاپوا گینێی نوێ</item>
+        <item>63:PH:فلیپین</item>
+        <item>92:PK:پاكستان</item>
+        <item>48:PL:پۆڵه‌ندا</item>
+        <item>508:PM:سانت پێری و میکویلۆن</item>
+        <item>1:PR:پۆیرتۆ ریكۆ</item>
+        <item>970:PS:فەڵەستین</item>
+        <item>351:PT:پڕتوگال</item>
+        <item>680:PW:پالاو</item>
+        <item>595:PY:پاراگوای</item>
+        <item>974:QA:قه‌ته‌ر</item>
+        <item>262:RE:ڕیۆنیۆن</item>
+        <item>40:RO:ڕۆمانيا</item>
+        <item>381:RS:سڕبیا</item>
+        <item>7:RU:ڕووسیا</item>
+        <item>250:RW:ڕواندا</item>
+        <item>966:SA:عەرەبستانی سعوودی</item>
+        <item>677:SB:دوورگەى سۆلەمەن</item>
+        <item>248:SC:سیچیڵ</item>
+        <item>249:SD:سوودان</item>
+        <item>46:SE:سوید</item>
+        <item>65:SG:سه‌نگافوره‌</item>
+        <item>290:SH:سانت هێلینا</item>
+        <item>386:SI:سلۆڤەنیا</item>
+        <item>421:SK:سلۆڤاکیا</item>
+        <item>232:SL:سیەرالیۆن</item>
+        <item>378:SM:سان مارینۆ</item>
+        <item>221:SN:سێنەگال</item>
+        <item>252:SO:سۆماڵ</item>
+        <item>597:SR:سورینام</item>
+        <item>211:SS:باشوری سوودان</item>
+        <item>239:ST:ساو تۆم و پرنسپێ</item>
+        <item>503:SV:سلڤادۆر</item>
+        <item>1:SX:سینت مارتین</item>
+        <item>963:SY:سوریا</item>
+        <item>268:SZ:سوازیلاند</item>
+        <item>1:TC:دوورگەی تورک و کەیکۆس</item>
+        <item>235:TD:چاد</item>
+        <item>228:TG:تۆگۆ</item>
+        <item>66:TH:تایلەند</item>
+        <item>992:TJ:تاجیکستان</item>
+        <item>690:TK:تۆكیلاو</item>
+        <item>670:TL:تیمۆر لایست</item>
+        <item>993:TM:تورکمانستان</item>
+        <item>216:TN:تونس</item>
+        <item>676:TO:تۆنگا</item>
+        <item>90:TR:تورکیا</item>
+        <item>1:TT:ترینیداد و تۆباگۆ</item>
+        <item>688:TV:تووڤالوو</item>
+        <item>886:TW:تایوان</item>
+        <item>255:TZ:تەنزانیا</item>
+        <item>380:UA:ئۆکرانیا</item>
+        <item>256:UG:ئووگاندا</item>
+        <item>1:US:ویلایەتە یەکگرتووەکان</item>
+        <item>598:UY:ئۆڕۆگوای</item>
+        <item>998:UZ:ئۆزبەكستان</item>
+        <item>1:VC:ساینت ڤینسینت و دوورگەکانی گرینادین</item>
+        <item>58:VE:ڤێنیزوێلا</item>
+        <item>1:VG:دوورگە بێگەردەکانی بەریتانیا</item>
+        <item>1:VI:دورگەکانی ڤێرجنی ئەمەریکا</item>
+        <item>84:VN:ڤیێتنام</item>
+        <item>678:VU:ڤانواتو</item>
+        <item>681:WF:وێڵس و فوچنا</item>
+        <item>685:WS:ساموا</item>
+        <item>967:YE:یەمەن</item>
+        <item>262:YT:مایۆت</item>
+        <item>27:ZA:ئەفریقای باشوور</item>
+        <item>260:ZM:زامبیا</item>
+        <item>263:ZW:زیمبابوی</item>
+    </string-array>
+    <string name="com_accountkit_account_verified">ئەکاونتەکەت سەلمێندرا!</string>
+    <string name="com_accountkit_button_begin">دەستپێکردن</string>
+    <string name="com_accountkit_button_cancel">بەتاڵی بکەوە</string>
+    <string name="com_accountkit_button_confirm">تەئیدکردن</string>
+    <string name="com_accountkit_button_continue">بەردەوامبوون</string>
+    <string name="com_accountkit_button_edit">دەستکاریکردن</string>
+    <string name="com_accountkit_button_log_in">چوونەناوەوە</string>
+    <string name="com_accountkit_button_next">دواتر</string>
+    <string name="com_accountkit_button_ok">باشە</string>
+    <string name="com_accountkit_button_resend_code_in">لە %1$d دووبارە کۆد بنێرە</string>
+    <string name="com_accountkit_button_resend_sms">دووبارە کۆد بنێرە</string>
+    <string name="com_accountkit_button_send">ناردن</string>
+    <string name="com_accountkit_button_send_code_in_fb">وەرگرتنی کۆد لەسەر فەیسبووک</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">بۆ وەرگرتن کۆدەکەت بە شێوەی ئاگاداری لەسەر فەیسبووک لەسەر «وەرگرتنی کۆد لەسەر فەیسبووک» تەپ بکە.</string>
+    <string name="com_accountkit_button_start">دەست پێکردن</string>
+    <string name="com_accountkit_button_start_over">دووبارە هەوڵ بدە</string>
+    <string name="com_accountkit_button_submit">بەڕێکردن</string>
+    <string name="com_accountkit_check_email">ئیمەیلەکەت بکەوە</string>
+    <string name="com_accountkit_code_sent_to">بیسەلمێنە کە %1$s ژمارە مۆبایلی تۆیە.</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        بۆ قەبووڵکردنی &lt;a
+            href="%2$s">مەرجەکان&lt;/a>، &lt;a
+            href="%3$s">سیاسەتی دەیتا&lt;/a> و &lt;a href="%4$s">بەکارهێنانی کووکی&lt;/a>ی فەیسبووک لەسەر %1$s تەپ بکە.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        لەسەر %1$s تەپ بکە بۆ قەبووڵکردنی &lt;a
+            href="%2$s">مەرجەکان&lt;/a>، &lt;a
+            href="%3$s">سیاسەتی دەیتا&lt;/a> و &lt;a
+            href="%4$s">بەکارهێنانی کووکی&lt;/a>ی فەیسبووک و &lt;a href="%5$s">سیاسەتی پاراستنی نهێنی&lt;/a>ی %6$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        لەسەر %1$s تەپ بکە بۆ قەبووڵکردنی &lt;a
+            href="%2$s">مەرجەکان&lt;/a>، &lt;a
+            href="%3$s">سیاسەتی دەیتا&lt;/a>، و &lt;a
+            href="%4$s">بەکارهێنانی کووکی&lt;/a> و &lt;a
+            href="%5$s">سیاسەتی پاراستنی نهێنی&lt;/a>ی فەیسبووک و &lt;a href="%6$s">مەرجەکانی خزمەت&lt;/a>ی %7$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        لەسەر %1$s تەپ بکە بۆ قەبووڵکردنی &lt;a
+            href="%2$s">مەرجەکان&lt;/a>، &lt;a
+            href="%3$s">سیاسەتی دەیتا&lt;/a>، و &lt;a
+            href="%4$s">بەکارهێنانی کووکی&lt;/a> و &lt;a
+            href="%5$s">سیاسەتی پاراستنی نهێنی&lt;/a>ی فەیسبووک و &lt;a
+            href="%6$s">مەرجەکانی خزمەت&lt;/a>ی %7$s. &lt;a href="%8$s">زۆرتر بزانە&lt;/a> لەبارەی ئەوەی کە ڕاستیی ئەکاونتەکەت چۆن سەلمێنرا.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        لەسەر %1$s تەپ بکە بۆ قەبووڵکردنی &lt;a
+            href="%2$s">مەرجەکان&lt;/a>، &lt;a
+            href="%3$s">سیاسەتی دەیتا&lt;/a> و &lt;a
+            href="%4$s">بەکارهێنانی کووکی&lt;/a>ی فەیسبووک و &lt;a
+            href="%5$s">سیاسەتی پاراستنی نهێنی&lt;/a>ی %6$s. &lt;a href="%7$s">زۆرتر بزانە&lt;/a> لەبارەی ئەوەی کە ڕاستیی ئەکاونتەکەت چۆن سەلمێنرا.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        بۆ قەبووڵکردنی &lt;a
+            href="%2$s">مەرجەکان&lt;/a>، &lt;a
+            href="%3$s">سیاسەتی دەیتا&lt;/a> و &lt;a
+            href="%4$s">بەکارهێنانی کووکی&lt;/a>ی فەیسبووک لەسەر %1$s تەپ بکە. &lt;a href="%5$s">زۆرتر بزانە&lt;/a> لەبارەی ئەوەی کە ڕاستیی ئەکاونتەکەت چۆن سەلمێنرا.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">هیچ کۆدێکم بۆ نەهاتووە</string>
+    <string name="com_accountkit_confirmation_code_title">کۆدەکەت داخل بکە</string>
+    <string name="com_accountkit_email_invalid">
+        ئەم ئیمەیلە نادروستە. تکایە دووبارە هەول بدە.
+    </string>
+    <string name="com_accountkit_email_loading_title">خەریکین ئیمەیل دەنێرین...</string>
+    <string name="com_accountkit_email_login_retry_title">دووبارە ناونیشانی ئیمەیلەکەت داخل بکە</string>
+    <string name="com_accountkit_email_login_text">
+        لەسەر %1$s تەپ بکە بۆ ئەوەی ئیمەیلێکی تەئیدکردن لە Account Kitی فەیسبووکەوە بنێردرێت بۆت بۆ ئەوەی بتوانیت %2$s بە کار بهێنیت. بۆ بەکارهێنانی پێویستت بە ئەکاونتی فەیسبووک نیە. &lt;a href="%3$s">بزانە فەیسبووک چۆن زانیاریەکانت بە کار دەهێنێت&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">ناونیشانی ئیمەیلەکەت داخل بکە</string>
+    <string name="com_accountkit_email_not_received">دووبارە ئیمەیل بنێرە</string>
+    <string name="com_accountkit_email_verify_title">ئیمەیلەکە بکەوە و ناونیشانی ئیمەیلەکەت تەئید بکە</string>
+    <string name="com_accountkit_enter_code_sent_to">کۆدی نێردراو بۆ %1$s داخل بکە</string>
+    <string name="com_accountkit_error_title">کێشەیەک لە سیستەمەکە دا ڕووی دا. تکایە دووبارە هەول بدە.</string>
+    <string name="com_accountkit_facebook_code_entry_title">کۆدەکەی سەر فەیسبووکت داخل بکە</string>
+    <string name="com_accountkit_logging_in">خەریکە دەچێتە ناوەوە...</string>
+    <string name="com_accountkit_phone_error_title">تکایە ژمارە مۆبایلێکی دروست داخل بکە.</string>
+    <string name="com_accountkit_phone_loading_title">خەریکین ڕاستیی ژمارەکەت دەسەلمێنین...</string>
+    <string name="com_accountkit_phone_login_retry_title">دووبارە ژمارە مۆبایلەکەت داخل بکە</string>
+    <string name="com_accountkit_phone_login_text">
+        لەسەر %1$s تەپ بکە بۆ سەلماندنی ڕاستیی ئەکاونەتەکەت بە Account Kitی فەیسبووک. بۆ بەکارهێنانی Account Kit پێویستت بە ئەکاونتی فەیسبووک نیە. ڕەنگە کورتەنامەیەک بنێردرێت بۆ سەلماندنی ڕاستیی ئەکاونتەکەت. ڕەنگە نرخی کورتەنامە و دەیتات لێ بسێندرێت. &lt;a href="%2$s">بزانە فەیسبووک چۆن زانیاریەکانت بە کار دەهێنێت&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">ژمارە مۆبایلەکەت داخل بکە</string>
+    <string name="com_accountkit_resend_check">بەرلە دووبارە ناردنی کۆد تکایە لە دروستبوونی ژمارەکە دڵنیا ببە.</string>
+    <string name="com_accountkit_resend_email_text">ئیمەیلی نوێ بنێرە</string>
+    <string name="com_accountkit_resend_title">لەنێو پەیامەکانت بگەڕە بۆ کورتەنامەیەک کە کۆدەکەتی تێدا یە.</string>
+    <string name="com_accountkit_sent_title">نێردرا!</string>
+    <string name="com_accountkit_success_title">سەلمێنرا!</string>
+    <string name="com_accountkit_toolbar_title">بچۆ ناوەوەی %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        ناتوانین ڕاستیی کۆدەکەت بسەلمێنین.\nتکایە دووبارە هەوڵ بدە:
+    </string>
+    <string name="com_accountkit_verify_title">خەریکین ڕاستیی کۆدەکەت دەسەلمێنین...</string>
+</resources>

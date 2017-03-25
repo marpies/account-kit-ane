@@ -21,11 +21,11 @@
         <item>32:BE:Bélgica</item>
         <item>226:BF:Burkina Faso</item>
         <item>359:BG:Bulgaria</item>
-        <item>973:BH:Bahréin</item>
+        <item>973:BH:Baréin</item>
         <item>257:BI:Burundi</item>
         <item>229:BJ:Benín</item>
         <item>1:BM:Bermudas</item>
-        <item>673:BN:Brunei</item>
+        <item>673:BN:Brunéi</item>
         <item>591:BO:Bolivia</item>
         <item>599:BQ:Bonaire, San Eustaquio y Saba</item>
         <item>55:BR:Brasil</item>
@@ -48,7 +48,7 @@
         <item>506:CR:Costa Rica</item>
         <item>53:CU:Cuba</item>
         <item>238:CV:Cabo Verde</item>
-        <item>599:CW:Curaçao</item>
+        <item>599:CW:Curazao</item>
         <item>357:CY:Chipre</item>
         <item>420:CZ:República Checa</item>
         <item>49:DE:Alemania</item>
@@ -60,7 +60,7 @@
         <item>593:EC:Ecuador</item>
         <item>372:EE:Estonia</item>
         <item>20:EG:Egipto</item>
-        <item>212:EH:Sahara Occidental</item>
+        <item>212:EH:Sáhara Occidental</item>
         <item>291:ER:Eritrea</item>
         <item>34:ES:España</item>
         <item>251:ET:Etiopía</item>
@@ -86,7 +86,7 @@
         <item>30:GR:Grecia</item>
         <item>502:GT:Guatemala</item>
         <item>1:GU:Guam</item>
-        <item>245:GW:Guinea-Bissáu</item>
+        <item>245:GW:Guinea-Bisáu</item>
         <item>592:GY:Guyana</item>
         <item>852:HK:Hong Kong</item>
         <item>504:HN:Honduras</item>
@@ -117,14 +117,14 @@
         <item>82:KR:Corea del Sur</item>
         <item>965:KW:Kuwait</item>
         <item>1:KY:Islas Caimán</item>
-        <item>7:KZ:Kazajstán</item>
+        <item>7:KZ:Kazajistán</item>
         <item>856:LA:Laos</item>
         <item>961:LB:Líbano</item>
         <item>1:LC:Santa Lucía</item>
         <item>423:LI:Liechtenstein</item>
         <item>94:LK:Sri Lanka</item>
         <item>231:LR:Liberia</item>
-        <item>266:LS:Lesotho</item>
+        <item>266:LS:Lesoto</item>
         <item>370:LT:Lituania</item>
         <item>352:LU:Luxemburgo</item>
         <item>371:LV:Letonia</item>
@@ -147,7 +147,7 @@
         <item>356:MT:Malta</item>
         <item>230:MU:Mauricio</item>
         <item>960:MV:Maldivas</item>
-        <item>265:MW:Malawi</item>
+        <item>265:MW:Malaui</item>
         <item>52:MX:México</item>
         <item>60:MY:Malasia</item>
         <item>258:MZ:Mozambique</item>
@@ -157,7 +157,7 @@
         <item>672:NF:Islas Norfolk</item>
         <item>234:NG:Nigeria</item>
         <item>505:NI:Nicaragua</item>
-        <item>31:NL:Holanda</item>
+        <item>31:NL:Países Bajos</item>
         <item>47:NO:Noruega</item>
         <item>977:NP:Nepal</item>
         <item>674:NR:Nauru</item>
@@ -171,11 +171,11 @@
         <item>63:PH:Filipinas</item>
         <item>92:PK:Pakistán</item>
         <item>48:PL:Polonia</item>
-        <item>508:PM:San Pedro y Miguelón</item>
+        <item>508:PM:San Pedro y Miquelón</item>
         <item>1:PR:Puerto Rico</item>
         <item>970:PS:Palestina</item>
         <item>351:PT:Portugal</item>
-        <item>680:PW:Paláu</item>
+        <item>680:PW:Palaos</item>
         <item>595:PY:Paraguay</item>
         <item>974:QA:Qatar</item>
         <item>262:RE:Reunión</item>
@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">Iniciar sesión</string>
     <string name="com_accountkit_button_next">Siguiente</string>
     <string name="com_accountkit_button_ok">Aceptar</string>
-    <string name="com_accountkit_button_resend_code_in">Volver a enviar el código en %1$s</string>
+    <string name="com_accountkit_button_resend_code_in">Volver a enviar el código dentro de %1$d</string>
     <string name="com_accountkit_button_resend_sms">Volver a enviar el código</string>
     <string name="com_accountkit_button_send">Enviar</string>
-    <string name="com_accountkit_button_send_code_in_fb">Enviar código en Facebook</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">Toca Enviar código en Facebook para enviar una notificación a la cuenta de Facebook vinculada al número de teléfono que has introducido.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Recibir el código en Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Toca \"Recibir el código en Facebook\" para obtenerlo en forma de notificación en la plataforma.</string>
     <string name="com_accountkit_button_start">Comenzar</string>
     <string name="com_accountkit_button_start_over">Volver a intentarlo</string>
     <string name="com_accountkit_button_submit">Enviar</string>
     <string name="com_accountkit_check_email">Abre tu correo electrónico</string>
-    <string name="com_accountkit_code_sent_to">Hemos enviado el código a\n%1$s</string>
+    <string name="com_accountkit_code_sent_to">Comprueba que %1$s es tu número de móvil.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Toca %1$s para aceptar las &lt;a href="%2$s">Condiciones&lt;/a>, la &lt;a href="%3$s">Política de datos&lt;/a> y el &lt;a href="%4$s">Uso de cookies&lt;/a> de Facebook.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Toca %1$s para aceptar las &lt;a href="%2$s">Condiciones&lt;/a>, la &lt;a href="%3$s">Política de datos&lt;/a> y el &lt;a href="%4$s">Uso de cookies&lt;/a> de Facebook. &lt;a href="%5$s">Más información&lt;/a> sobre cómo se ha verificado tu cuenta.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Volver a enviar el código</string>
+    <string name="com_accountkit_confirmation_code_text">No he recibido el código</string>
     <string name="com_accountkit_confirmation_code_title">Introduce el código</string>
     <string name="com_accountkit_email_invalid">La dirección de correo electrónico no es correcta. Vuelve a intentarlo.</string>
     <string name="com_accountkit_email_loading_title">Enviando correo electrónico…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">Escribe tu dirección de correo electrónico</string>
     <string name="com_accountkit_email_not_received">Volver a enviar el mensaje</string>
-    <string name="com_accountkit_email_verify_title">Abre el correo electrónico que te hemos enviado y confirma tu dirección</string>
-    <string name="com_accountkit_error_title">Se ha producido un error.</string>
-    <string name="com_accountkit_facebook_code_entry_title">Introduce tu código de Facebook</string>
+    <string name="com_accountkit_email_verify_title">Abre el correo y confirma tu dirección de correo electrónico</string>
+    <string name="com_accountkit_enter_code_sent_to">Introduce el código que se ha enviado al número %1$s</string>
+    <string name="com_accountkit_error_title">Se ha producido un error de sistema. Vuelve a intentarlo.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Introduce el código que has recibido en Facebook</string>
     <string name="com_accountkit_logging_in">Iniciando sesión…</string>
+    <string name="com_accountkit_phone_error_title">Introduce un número de móvil válido.</string>
     <string name="com_accountkit_phone_loading_title">Enviando tu código…</string>
-    <string name="com_accountkit_phone_login_retry_title">Confirma tu número de teléfono</string>
+    <string name="com_accountkit_phone_login_retry_title">Confirma tu número de móvil</string>
     <string name="com_accountkit_phone_login_text">
       Toca %1$s para verificar tu cuenta con Account Kit, que usa la tecnología de Facebook.  No necesitas una cuenta de Facebook para usar Account Kit.  Es posible que se envíe un SMS para verificar el número. Pueden aplicarse cargos por mensajes y datos. &lt;a href="%2$s">Obtén información sobre cómo usa tus datos Facebook&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">Escribe tu número de teléfono</string>
-    <string name="com_accountkit_resend_check">Comprueba el número antes de volver a enviar el código.</string>
+    <string name="com_accountkit_phone_login_title">Introduce tu número de móvil</string>
+    <string name="com_accountkit_resend_check">Comprueba el número antes de solicitar que se envíe de nuevo el código.</string>
     <string name="com_accountkit_resend_email_text">Enviar un nuevo correo electrónico</string>
-    <string name="com_accountkit_resend_title">Lo sentimos. Pruebas las siguientes opciones para continuar.</string>
+    <string name="com_accountkit_resend_title">Comprueba si has recibido un SMS con el código.</string>
     <string name="com_accountkit_return_title">Se te está redirigiendo a %1$s…</string>
     <string name="com_accountkit_sent_title">¡Enviado!</string>
     <string name="com_accountkit_success_title">¡Hecho!</string>

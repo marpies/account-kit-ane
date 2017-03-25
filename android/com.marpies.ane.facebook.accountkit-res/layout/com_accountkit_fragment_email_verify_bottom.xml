@@ -22,6 +22,7 @@
 <com.facebook.accountkit.ui.ConstrainedLinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/AccountKit.Container"
+    android:layout_marginTop="50dp"
     >
     <Button
         android:id="@+id/com_accountkit_check_email_button"
@@ -33,7 +34,7 @@
         />
     <Space
         android:layout_width="match_parent"
-        android:layout_height="@dimen/com_accountkit_vertical_spacer_small_height"
+        android:layout_height="24dp"
         />
     <TextView
         android:id="@+id/com_accountkit_retry_email_button"

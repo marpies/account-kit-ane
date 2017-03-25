@@ -25,22 +25,11 @@
 
     <TextView
         android:id="@+id/com_accountkit_accountkit_resend_check"
-        style="@style/AccountKit.AgreementText"
+        style="@style/AccountKit.TitleText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:text="@string/com_accountkit_resend_check" />
-
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/com_accountkit_vertical_spacer_small_height" />
-
-    <Button
-        android:id="@+id/com_accountkit_resend_button"
-        style="@style/AccountKit.Button"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/com_accountkit_button_resend_sms" />
 
     <Space
         android:layout_width="match_parent"
@@ -67,11 +56,28 @@
 
         <TextView
             android:id="@+id/com_accountkit_button_send_code_in_fb_disclosure"
-            style="@style/AccountKit.AgreementText"
+            style="@style/AccountKit.Text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:text="@string/com_accountkit_button_send_code_in_fb_disclosure" />
     </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="12dp"
+        style="@style/AccountKit.TitleText"
+        android:text="@string/com_accountkit_custom_or"/>
+
+    <Button
+        android:id="@+id/com_accountkit_resend_button"
+        style="@style/AccountKit.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/com_accountkit_button_resend_sms" />
+
 
 </com.facebook.accountkit.ui.ConstrainedLinearLayout>

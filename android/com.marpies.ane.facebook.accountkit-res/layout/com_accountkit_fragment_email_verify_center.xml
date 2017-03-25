@@ -24,6 +24,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     style="@style/AccountKit.IconContainer"
+    android:paddingTop="5dp"
+    android:paddingBottom="45dp"
     >
     <ImageView
         android:id="@+id/com_accountkit_icon_view"

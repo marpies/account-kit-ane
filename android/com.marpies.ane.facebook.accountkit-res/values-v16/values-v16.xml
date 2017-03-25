@@ -4,7 +4,7 @@
         <item name="android:fontFamily">sans-serif-light</item>
     </style>
     <style name="AccountKit.Button" parent="Base.AccountKit.Button">
-        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:fontFamily">Roboto-Medium</item>
     </style>
     <style name="AccountKit.InputText" parent="Base.AccountKit.InputText">
         <item name="android:fontFamily">sans-serif-light</item>
@@ -13,6 +13,6 @@
         <item name="android:fontFamily">sans-serif-light</item>
     </style>
     <style name="AccountKit.TitleText" parent="Base.AccountKit.TitleText">
-        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:fontFamily">Roboto-Light</item>
     </style>
 </resources>

@@ -2,7 +2,7 @@
 <resources>
     <string-array name="com_accountkit_phone_country_codes">
         <item>376:AD:அன்டோரா</item>
-        <item>971:AE:ஐக்கிய அரபு நாடுகள்</item>
+        <item>971:AE:ஐக்கிய அரபு எமிரேட்ஸ்</item>
         <item>93:AF:ஆப்கானிஸ்தான்</item>
         <item>1:AG:ஆன்டிகுவா</item>
         <item>1:AI:அங்கியுலா</item>
@@ -20,7 +20,7 @@
         <item>880:BD:வங்காளதேசம்</item>
         <item>32:BE:பெல்ஜியம்</item>
         <item>226:BF:புர்க்கினா ஃபாசோ</item>
-        <item>359:BG:பல்கெரியா</item>
+        <item>359:BG:பல்கேரியா</item>
         <item>973:BH:பஹ்ரைன்</item>
         <item>257:BI:புருண்டி</item>
         <item>229:BJ:பெனின்</item>
@@ -42,16 +42,16 @@
         <item>225:CI:ஐவரி கோஸ்ட்</item>
         <item>682:CK:குக் தீவுகள்</item>
         <item>56:CL:சிலி</item>
-        <item>237:CM:கமரூன்</item>
+        <item>237:CM:கேமரூன்</item>
         <item>86:CN:சீனா</item>
         <item>57:CO:கொலம்பியா</item>
-        <item>506:CR:கொஸ்ரோறிக்கா</item>
+        <item>506:CR:கோஸ்டா ரிக்கா</item>
         <item>53:CU:கியூபா</item>
         <item>238:CV:கேப் வர்டி</item>
         <item>599:CW:குராசோ</item>
-        <item>357:CY:சைப்பிறஸ்</item>
+        <item>357:CY:சைப்பிரஸ்</item>
         <item>420:CZ:செக் குடியரசு</item>
-        <item>49:DE:ஜேர்மனி</item>
+        <item>49:DE:ஜெர்மனி</item>
         <item>253:DJ:திஜிபொதி</item>
         <item>45:DK:டென்மார்க்</item>
         <item>1:DM:டொமினிக்கா</item>
@@ -71,7 +71,7 @@
         <item>298:FO:ப்ராவ் தீவுகள்</item>
         <item>33:FR:பிரான்ஸ்</item>
         <item>241:GA:கபான்</item>
-        <item>44:GB:ஐக்கிய இராட்சியம்</item>
+        <item>44:GB:ஐக்கிய இராஜ்ஜியம்</item>
         <item>1:GD:க்ரினடா</item>
         <item>995:GE:ஜார்ஜியா</item>
         <item>594:GF:பிரெஞ்சு கயானா</item>
@@ -83,7 +83,7 @@
         <item>224:GN:கினியா</item>
         <item>590:GP:குவாடெலோபே</item>
         <item>240:GQ:ஈக்குவடோரியல் கினியா</item>
-        <item>30:GR:கிறீஸ்</item>
+        <item>30:GR:கிரீஸ்</item>
         <item>502:GT:கவுதமாலா</item>
         <item>1:GU:குவாம்</item>
         <item>245:GW:கினி-பிசாவு</item>
@@ -105,7 +105,7 @@
         <item>39:IT:இத்தாலி</item>
         <item>44:JE:ஜெர்ஸி</item>
         <item>1:JM:ஜமைக்கா</item>
-        <item>962:JO:ஜோர்தான்</item>
+        <item>962:JO:ஜோர்டான்</item>
         <item>81:JP:ஜப்பான்</item>
         <item>254:KE:கென்யா</item>
         <item>996:KG:கிர்கிஸ்தான்</item>
@@ -114,7 +114,7 @@
         <item>269:KM:கொமொரோஷ்</item>
         <item>1:KN:செயிண்ட் கிட்ஸ் - நீவிஸ்</item>
         <item>850:KP:வடகொரியா</item>
-        <item>82:KR:தென்கொரியா</item>
+        <item>82:KR:தென் கொரியா</item>
         <item>965:KW:குவைத்</item>
         <item>1:KY:கேய்மன் தீவுகள்</item>
         <item>7:KZ:கஜகஸ்தான்</item>
@@ -126,13 +126,13 @@
         <item>231:LR:லைபீரியா</item>
         <item>266:LS:லெசோதோ</item>
         <item>370:LT:லிதுவேனியா</item>
-        <item>352:LU:லக்ஸம்பேர்க்</item>
-        <item>371:LV:லத்வியா</item>
+        <item>352:LU:லக்ஸம்பர்க்</item>
+        <item>371:LV:லாட்வியா</item>
         <item>218:LY:லிபியா</item>
         <item>212:MA:மொராக்கோ</item>
         <item>377:MC:மொனாக்கோ</item>
         <item>373:MD:மால்டோவா</item>
-        <item>382:ME:மொன்ரநீக்ரோ</item>
+        <item>382:ME:மாண்டினீக்ரோ</item>
         <item>261:MG:மடகாஸ்கர்</item>
         <item>692:MH:மார்ஷல் தீவுகள்</item>
         <item>389:MK:மாசிடோனியா</item>
@@ -145,8 +145,8 @@
         <item>222:MR:மௌரித்தானியா</item>
         <item>1:MS:மொன்செராட்</item>
         <item>356:MT:மால்ட்டா</item>
-        <item>230:MU:மொறிசியஸ்</item>
-        <item>960:MV:மாலைதீவு</item>
+        <item>230:MU:மொரிஷியஸ்</item>
+        <item>960:MV:மாலத்தீவுகள்</item>
         <item>265:MW:மாலாவி</item>
         <item>52:MX:மெக்சிக்கோ</item>
         <item>60:MY:மலேசியா</item>
@@ -158,12 +158,12 @@
         <item>234:NG:நைஜீரியா</item>
         <item>505:NI:நிகராகுவா</item>
         <item>31:NL:நெதர்லாந்து</item>
-        <item>47:NO:நோர்வே</item>
+        <item>47:NO:நார்வே</item>
         <item>977:NP:நேபாளம்</item>
         <item>674:NR:நவ்ரூ</item>
         <item>683:NU:நியுவே</item>
         <item>64:NZ:நியூசிலாந்து</item>
-        <item>968:OM:ஓமான்</item>
+        <item>968:OM:ஓமன்</item>
         <item>507:PA:பனாமா</item>
         <item>51:PE:பெரு</item>
         <item>689:PF:பிரஞ்சு பாலினேசியா</item>
@@ -176,7 +176,7 @@
         <item>970:PS:பாலஸ்தீனம்</item>
         <item>351:PT:போர்ச்சுகல்</item>
         <item>680:PW:பாலாவ்</item>
-        <item>595:PY:பராக்குவே</item>
+        <item>595:PY:பராகுவே</item>
         <item>974:QA:கத்தார்</item>
         <item>262:RE:ரீயூனியன்</item>
         <item>40:RO:ரொமானியா</item>
@@ -187,10 +187,10 @@
         <item>677:SB:சாலமன் தீவுகள்</item>
         <item>248:SC:சீசெசல்ஸ்</item>
         <item>249:SD:சூடான்</item>
-        <item>46:SE:சுவீடன்</item>
+        <item>46:SE:ஸ்வீடன்</item>
         <item>65:SG:சிங்கப்பூர்</item>
         <item>290:SH:செயிண்ட் ஹலினா</item>
-        <item>386:SI:சுலோவேனியா</item>
+        <item>386:SI:ஸ்லோவேனியா</item>
         <item>421:SK:ஸ்லோவாக்கியா</item>
         <item>232:SL:சியரா லியோன்</item>
         <item>378:SM:சன் மரீனோ</item>
@@ -216,18 +216,18 @@
         <item>90:TR:துருக்கி</item>
         <item>1:TT:டிரினாட் மற்றும் டுபாக்கோ</item>
         <item>688:TV:துவாலு</item>
-        <item>886:TW:தாய்வான்</item>
+        <item>886:TW:தைவான்</item>
         <item>255:TZ:தான்சானியா</item>
-        <item>380:UA:உக்ரெயின்</item>
+        <item>380:UA:உக்ரைன்</item>
         <item>256:UG:உகாண்டா</item>
         <item>1:US:அமெரிக்க ஐக்கிய நாடுகள்</item>
         <item>598:UY:உருகுவே</item>
         <item>998:UZ:உஸ்பெகிஸ்தான்</item>
         <item>1:VC:செயின்ட் வின்சென்ட் மற்றும் கிரனடைன்ஸ்</item>
         <item>58:VE:வெனிசுலா</item>
-        <item>1:VG:ஆங்கிலேய கன்னித்தீவு</item>
-        <item>1:VI:அமெரிக்க விர்ஜின்  தீவுகள்</item>
-        <item>84:VN:வியட்னாம்</item>
+        <item>1:VG:பிரிட்டிஷ் வெர்ஜின் தீவுகள்</item>
+        <item>1:VI:அமெரிக்க வெர்ஜின்  தீவுகள்</item>
+        <item>84:VN:வியட்நாம்</item>
         <item>678:VU:வனுவாட்டு</item>
         <item>681:WF:வாலிஸ் மற்றும் புட்டூனா</item>
         <item>685:WS:சமோவா</item>
@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">உள்நுழை</string>
     <string name="com_accountkit_button_next">அடுத்து</string>
     <string name="com_accountkit_button_ok">சரி</string>
-    <string name="com_accountkit_button_resend_code_in">%1$s இல் குறியீட்டை மீண்டும் அனுப்பு</string>
+    <string name="com_accountkit_button_resend_code_in">%1$d இல் மீண்டும் குறியீட்டை அனுப்பு</string>
     <string name="com_accountkit_button_resend_sms">குறியீட்டை மீண்டும் அனுப்பு</string>
     <string name="com_accountkit_button_send">அனுப்பு</string>
-    <string name="com_accountkit_button_send_code_in_fb">Facebook இல் குறியீட்டை அனுப்பு</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">நீங்கள் உள்ளிட்ட ஃபோன் எண்ணுடன் இணைந்துள்ள Facebook கணக்கிற்கு அறிவிப்பை அனுப்ப, Facebook இல் குறியீட்டை அனுப்பு என்பதைத் தட்டவும்.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook இல் குறியீட்டைப் பெறுக</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Facebook இல் அறிவிப்பாக குறியீட்டைப் பெறுவதற்கு "Facebook இல் குறியீட்டைப் பெறுக" என்பதைத் தட்டவும்.</string>
     <string name="com_accountkit_button_start">தொடங்கு</string>
     <string name="com_accountkit_button_start_over">மீண்டும் முயற்சிக்கவும்</string>
     <string name="com_accountkit_button_submit">சமர்ப்பி</string>
     <string name="com_accountkit_check_email">மின்னஞ்சலைத் திறக்கவும்</string>
-    <string name="com_accountkit_code_sent_to">%1$sக்கு குறியீட்டை அனுப்பியுள்ளோம்</string>
+    <string name="com_accountkit_code_sent_to">%1$s என்ற மொபைல் எண் உங்களுடையதா எனபதை சரிபார்க்கவும்.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Facebook இன் &lt;a href="%2$s">விதிமுறைகள்&lt;/a>, &lt;a href="%3$s">தரவுக் கொள்கை&lt;/a> மற்றும் &lt;a href="%4$s">குக்கீ பயன்பாட்டை&lt;/a> ஏற்க, %1$s என்பதைத் தட்டவும்.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Facebook இன் &lt;a href="%2$s">விதிமுறைகள்&lt;/a>, &lt;a href="%3$s">தரவுக் கொள்கை&lt;/a> மற்றும் &lt;a href="%4$s">குக்கீ பயன்பாடு&lt;/a> ஆகியவற்றை ஏற்க, %1$s என்பதைத் தட்டவும். உங்கள் கணக்கு எப்படிச் சரிபார்க்கப்பட்டது என்பதைப் பற்றி &lt;a href="%5$s">மேலும் அறியவும்&lt;/a>.
     </string>
-    <string name="com_accountkit_confirmation_code_text">குறியீட்டைப் பெறவில்லையா?</string>
+    <string name="com_accountkit_confirmation_code_text">நான் குறியீட்டைப் பெறவில்லை</string>
     <string name="com_accountkit_confirmation_code_title">குறியீட்டை உள்ளிடவு்:</string>
     <string name="com_accountkit_email_invalid">இந்த மின்னஞ்சல் தவறானது. மீண்டும் முயற்சிக்கவும்.</string>
     <string name="com_accountkit_email_loading_title">மின்னஞ்சலை அனுப்புகிறது…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">மின்னஞ்சல் முகவரியை உள்ளிடவும்</string>
     <string name="com_accountkit_email_not_received">மின்னஞ்சலை மீண்டும் அனுப்பவும்</string>
-    <string name="com_accountkit_email_verify_title">நாங்கள் அனுப்பிய மின்னஞ்சலைத் திறந்து, உங்கள் முகவரியை உறுதிசெய்யவும்</string>
-    <string name="com_accountkit_error_title">ஏதோ தவறாகிவிட்டது.</string>
+    <string name="com_accountkit_email_verify_title">மின்னஞ்சலைத் திறந்து உங்கள் மின்னஞ்சல் முகவரியை உள்ளிடவும்</string>
+    <string name="com_accountkit_enter_code_sent_to">%1$s என்ற எண்ணுக்கு அனுப்பப்பட்ட குறியீட்டை உள்ளிடவும்</string>
+    <string name="com_accountkit_error_title">அமைப்பு சிக்கல் ஏற்பட்டது. மீண்டும் முயற்சி செய்யவும்.</string>
     <string name="com_accountkit_facebook_code_entry_title">Facebook இலிருந்து குறியீட்டை உள்ளிடவும்</string>
     <string name="com_accountkit_logging_in">உள்நுழைகிறது…</string>
+    <string name="com_accountkit_phone_error_title">சரியான மொபைல் எண்ணை உள்ளிடவும்.</string>
     <string name="com_accountkit_phone_loading_title">உங்களுக்கான குறியீட்டை அனுப்புகிறது…</string>
-    <string name="com_accountkit_phone_login_retry_title">ஃபோன் எண்ணை உறுதிசெய்யவும்</string>
+    <string name="com_accountkit_phone_login_retry_title">உங்கள் மொபைல் எண்ணை உறுதிப்படுத்தவும்</string>
     <string name="com_accountkit_phone_login_text">
       Facebook வழங்கும் Account Kit ஐப் பயன்படுத்தி உங்கள் கணக்கைச் சரிபார்க்க, %1$s ஐத் தட்டவும்.  Account Kit ஐப் பயன்படுத்துவதற்கு, Facebook கணக்கு தேவையில்லை.  உங்கள் எண்ணைச் சரிபார்ப்பதற்கு SMS அனுப்பப்படலாம். செய்தி மற்றும் டேட்டா கட்டணங்கள் விதிக்கப்படலாம். &lt;a href="%2$s">உங்கள் தகவலை Facebook பயன்படுத்தும் விதம் பற்றி மேலும் அறிக&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">ஃபோன் எண்ணை உள்ளிடவும்</string>
+    <string name="com_accountkit_phone_login_title">உங்கள் மொபைல் எண்ணை உள்ளிடவும்.</string>
     <string name="com_accountkit_resend_check">குறியீட்டை மீண்டும் அனுப்புவதற்கு முன், எண்ணைச் சரிபார்க்கவும்.</string>
     <string name="com_accountkit_resend_email_text">புதிய மின்னஞ்சலை அனுப்பு</string>
-    <string name="com_accountkit_resend_title">வருந்துகிறோம். தொடர, இந்த விருப்பங்களை முயற்சிக்கவும்.</string>
+    <string name="com_accountkit_resend_title">உங்கள் குறியீட்டைக் கொண்ட SMSஐ உங்கள் செய்திகளில் பார்க்கவும்.</string>
     <string name="com_accountkit_return_title">%1$s க்குத் திரும்பச்செல்கிறது…</string>
     <string name="com_accountkit_sent_title">அனுப்பப்பட்டது!</string>
     <string name="com_accountkit_success_title">முடிந்தது!</string>

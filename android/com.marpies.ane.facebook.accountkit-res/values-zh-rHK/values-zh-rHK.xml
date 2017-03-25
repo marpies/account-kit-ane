@@ -4,7 +4,7 @@
         <item>376:AD:安道爾</item>
         <item>971:AE:阿拉伯聯合酋長國</item>
         <item>93:AF:阿富汗</item>
-        <item>1:AG:安提瓜</item>
+        <item>1:AG:安地卡</item>
         <item>1:AI:安圭拉島</item>
         <item>355:AL:阿爾巴尼亞</item>
         <item>374:AM:亞美尼亞</item>
@@ -48,7 +48,7 @@
         <item>506:CR:哥斯達黎加</item>
         <item>53:CU:古巴</item>
         <item>238:CV:佛得角</item>
-        <item>599:CW:庫拉索島</item>
+        <item>599:CW:庫拉索</item>
         <item>357:CY:塞浦路斯</item>
         <item>420:CZ:捷克共和國</item>
         <item>49:DE:德國</item>
@@ -197,7 +197,7 @@
         <item>221:SN:塞內加爾</item>
         <item>252:SO:索馬里</item>
         <item>597:SR:蘇里南</item>
-        <item>211:SS:蘇丹南部</item>
+        <item>211:SS:南蘇丹</item>
         <item>239:ST:聖多美及普林西比</item>
         <item>503:SV:薩爾瓦多</item>
         <item>1:SX:聖馬丁</item>
@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">登入</string>
     <string name="com_accountkit_button_next">下一步</string>
     <string name="com_accountkit_button_ok">確定</string>
-    <string name="com_accountkit_button_resend_code_in">將於 %1$s 秒內重新傳送代碼</string>
-    <string name="com_accountkit_button_resend_sms">重新傳送代碼</string>
+    <string name="com_accountkit_button_resend_code_in">再次以 %1$d 傳送代碼</string>
+    <string name="com_accountkit_button_resend_sms">再次傳送代碼</string>
     <string name="com_accountkit_button_send">傳送</string>
-    <string name="com_accountkit_button_send_code_in_fb">在 Facebook 內傳送代碼</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">在 Facebook 內點按「傳送代碼」，以便將通知傳送至與您輸入的手機號碼連結的 Facebook 帳戶。</string>
+    <string name="com_accountkit_button_send_code_in_fb">透過 Facebook 取得代碼</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">點按「透過 Facebook 取得代碼」以便透過 Facebook 通知取得您的代碼。</string>
     <string name="com_accountkit_button_start">開始</string>
     <string name="com_accountkit_button_start_over">再試一次</string>
     <string name="com_accountkit_button_submit">送出</string>
     <string name="com_accountkit_check_email">開啟您的電郵</string>
-    <string name="com_accountkit_code_sent_to">我們已傳送代碼至\n%1$s</string>
+    <string name="com_accountkit_code_sent_to">請驗證 %1$s 是您的手機號碼。</string>
     <string name="com_accountkit_confirmation_code_agreement">
         點按 %1$s 以接受 Facebook 的&lt;a href="%2$s">條款&lt;/a>、&lt;a href="%3$s">數據使用政策&lt;/a>以及 &lt;a href="%4$s">Cookie 使用&lt;/a>。
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         點按 %1$s 以接受 Facebook 的&lt;a href="%2$s">使用條款&lt;/a>、&lt;a href="%3$s">數據使用政策&lt;/a> 與 &lt;a href="%4$s">Cookie 使用規定&lt;/a>。&lt;a href="%5$s">深入瞭解&lt;/a>帳戶的驗證流程。
     </string>
-    <string name="com_accountkit_confirmation_code_text">沒有收到代碼嗎？</string>
+    <string name="com_accountkit_confirmation_code_text">我沒有拿到代碼</string>
     <string name="com_accountkit_confirmation_code_title">輸入您的代碼</string>
     <string name="com_accountkit_email_invalid">此電郵有誤。請稍後再試。</string>
     <string name="com_accountkit_email_loading_title">電郵傳送中…</string>
@@ -284,10 +284,12 @@
     </string>
     <string name="com_accountkit_email_login_title">輸入您的電郵地址</string>
     <string name="com_accountkit_email_not_received">重新傳送電郵</string>
-    <string name="com_accountkit_email_verify_title">請開啟我們傳送給您的電郵以確認您的電郵地址</string>
-    <string name="com_accountkit_error_title">抱歉，發生問題。</string>
-    <string name="com_accountkit_facebook_code_entry_title">輸入您的 Facebook 代碼</string>
+    <string name="com_accountkit_email_verify_title">開啟電郵並確認您的電郵地址</string>
+    <string name="com_accountkit_enter_code_sent_to">輸入傳送到 %1$s 的代碼</string>
+    <string name="com_accountkit_error_title">很抱歉，系統發生問題。請再試一次。</string>
+    <string name="com_accountkit_facebook_code_entry_title">從 Facebook 輸入您的代碼</string>
     <string name="com_accountkit_logging_in">正在登入…</string>
+    <string name="com_accountkit_phone_error_title">請輸入有效的手機號碼。</string>
     <string name="com_accountkit_phone_loading_title">正在傳送您的代碼…</string>
     <string name="com_accountkit_phone_login_retry_title">確認您的手機號碼</string>
     <string name="com_accountkit_phone_login_text">
@@ -296,7 +298,7 @@
     <string name="com_accountkit_phone_login_title">輸入您的手機號碼</string>
     <string name="com_accountkit_resend_check">請於重新傳送代碼前先檢查您的號碼。</string>
     <string name="com_accountkit_resend_email_text">傳送新電郵</string>
-    <string name="com_accountkit_resend_title">很抱歉，請嘗試這些選項以便繼續操作。</string>
+    <string name="com_accountkit_resend_title">請查看含有代碼的短訊訊息。</string>
     <string name="com_accountkit_return_title">正在返回 %1$s…</string>
     <string name="com_accountkit_sent_title">已傳送！</string>
     <string name="com_accountkit_success_title">完成！</string>

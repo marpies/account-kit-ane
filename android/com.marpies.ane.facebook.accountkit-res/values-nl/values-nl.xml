@@ -88,7 +88,7 @@
         <item>1:GU:Guam</item>
         <item>245:GW:Guinee-Bissau</item>
         <item>592:GY:Guyana</item>
-        <item>852:HK:Hong Kong</item>
+        <item>852:HK:Hongkong</item>
         <item>504:HN:Honduras</item>
         <item>385:HR:Kroatië</item>
         <item>509:HT:Haïti</item>
@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">Aanmelden</string>
     <string name="com_accountkit_button_next">Volgende</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend_code_in">Code opnieuw versturen over %1$s</string>
-    <string name="com_accountkit_button_resend_sms">Code opnieuw versturen</string>
+    <string name="com_accountkit_button_resend_code_in">Code opnieuw sturen over %1$d</string>
+    <string name="com_accountkit_button_resend_sms">Code opnieuw sturen</string>
     <string name="com_accountkit_button_send">Verzenden</string>
-    <string name="com_accountkit_button_send_code_in_fb">Code verzenden op Facebook</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">Tik op Code verzenden in Facebook om een melding te verzenden naar het Facebook-account dat is gekoppeld aan het telefoonnummer dat je hebt ingevoerd.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Code op Facebook ontvangen</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Tik op Code op Facebook ontvangen om je code te ontvangen als een melding op Facebook.</string>
     <string name="com_accountkit_button_start">Starten</string>
     <string name="com_accountkit_button_start_over">Probeer het opnieuw</string>
     <string name="com_accountkit_button_submit">Verzenden</string>
     <string name="com_accountkit_check_email">Open je e-mail</string>
-    <string name="com_accountkit_code_sent_to">We hebben de code verstuurd naar\n%1$s</string>
+    <string name="com_accountkit_code_sent_to">Bevestig dat %1$s je mobiele nummer is.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Tik op %1$s om de &lt;a href="%2$s">voorwaarden&lt;/a>, het &lt;a href="%3$s">gegevensbeleid&lt;/a> en het &lt;a href="%4$s">cookiebeleid&lt;/a> van Facebook te accepteren.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Tik op %1$s om de &lt;a href="%2$s">voorwaarden&lt;/a>, het &lt;a href="%3$s">gegevensbeleid&lt;/a> en het beleid inzake &lt;a href="%4$s">cookiegebruik&lt;/a> van Facebook te accepteren. &lt;a href="%5$s">Meer informatie&lt;/a> over hoe je account is geverifieerd.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Geen code ontvangen?</string>
+    <string name="com_accountkit_confirmation_code_text">Ik heb geen code ontvangen</string>
     <string name="com_accountkit_confirmation_code_title">Voer je code in</string>
     <string name="com_accountkit_email_invalid">Dit e-mailadres is onjuist. Probeer het opnieuw.</string>
     <string name="com_accountkit_email_loading_title">E-mail verzenden…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">Voer je e-mailadres in</string>
     <string name="com_accountkit_email_not_received">E-mail opnieuw verzenden</string>
-    <string name="com_accountkit_email_verify_title">Open de e-mail die we hebben gestuurd en bevestig je e-mailadres</string>
-    <string name="com_accountkit_error_title">Er is een fout opgetreden.</string>
+    <string name="com_accountkit_email_verify_title">Open de e-mail en bevestig je e-mailadres</string>
+    <string name="com_accountkit_enter_code_sent_to">Voer de code in die is verzonden naar %1$s</string>
+    <string name="com_accountkit_error_title">Er is een systeemfout opgetreden. Probeer het opnieuw.</string>
     <string name="com_accountkit_facebook_code_entry_title">Voer je code van Facebook in</string>
     <string name="com_accountkit_logging_in">Aanmelden…</string>
+    <string name="com_accountkit_phone_error_title">Voer een geldig mobiel nummer in.</string>
     <string name="com_accountkit_phone_loading_title">Je code wordt verzenden…</string>
-    <string name="com_accountkit_phone_login_retry_title">Bevestig je telefoonnummer</string>
+    <string name="com_accountkit_phone_login_retry_title">Bevestig je mobiele nummer</string>
     <string name="com_accountkit_phone_login_text">
       Tik op %1$s om je account te verifiëren met Account Kit van Facebook.  Je hoeft geen Facebook-account te hebben om Account Kit te gebruiken.  Er wordt mogelijk een sms-bericht verzonden om je nummer te verifiëren. Mogelijk zijn bericht- en datatarieven van toepassing. &lt;a href="%2$s">Meer informatie over hoe Facebook je informatie gebruikt&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">Voer je telefoonnummer in</string>
+    <string name="com_accountkit_phone_login_title">Voer je mobiele nummer in</string>
     <string name="com_accountkit_resend_check">Controleer het nummer voordat je de code opnieuw verstuurt.</string>
     <string name="com_accountkit_resend_email_text">Nieuwe e-mail sturen</string>
-    <string name="com_accountkit_resend_title">Helaas. Probeer deze opties om door te gaan.</string>
+    <string name="com_accountkit_resend_title">Controleer je sms-berichten op een sms met je code.</string>
     <string name="com_accountkit_return_title">Je wordt teruggeleid naar %1$s…</string>
     <string name="com_accountkit_sent_title">Verzonden!</string>
     <string name="com_accountkit_success_title">Klaar!</string>

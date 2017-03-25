@@ -50,7 +50,7 @@
         <item>238:CV:Πράσινο Ακρωτήριο</item>
         <item>599:CW:Κουρασάο</item>
         <item>357:CY:Κύπρος</item>
-        <item>420:CZ:Δημοκρατία της Τσεχίας</item>
+        <item>420:CZ:Τσεχική Δημοκρατία</item>
         <item>49:DE:Γερμανία</item>
         <item>253:DJ:Τζιμπουτί</item>
         <item>45:DK:Δανία</item>
@@ -214,7 +214,7 @@
         <item>216:TN:Τυνησία</item>
         <item>676:TO:Τόνγκα</item>
         <item>90:TR:Τουρκία</item>
-        <item>1:TT:Τρινιντάντ και Τομπάγκο</item>
+        <item>1:TT:Τρινιδάδ και Τομπάγκο</item>
         <item>688:TV:Τουβαλού</item>
         <item>886:TW:Ταϊβάν</item>
         <item>255:TZ:Τανζανία</item>
@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">Σύνδεση</string>
     <string name="com_accountkit_button_next">Επόμενο</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend_code_in">Ξαναστείλτε τον κωδικό στο %1$s</string>
-    <string name="com_accountkit_button_resend_sms">Ξαναστείλτε τον κωδικό</string>
+    <string name="com_accountkit_button_resend_code_in">Στείλτε ξανά τον κωδικό στο %1$d</string>
+    <string name="com_accountkit_button_resend_sms">Στείλτε ξανά τον κωδικό</string>
     <string name="com_accountkit_button_send">Αποστολή</string>
-    <string name="com_accountkit_button_send_code_in_fb">Αποστολή κωδικού στο Facebook</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">Πατήστε Στείλτε τον κωδικό στο Facebook για να σταλεί μια ειδοποίηση στο λογαριασμό Facebook που είναι συνδεδεμένος με τον αριθμό τηλεφώνου τον οποίο καταχωρήσατε.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Λήψη κωδικού στο Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Πατήστε "Λήψη κωδικού στο Facebook" για να λάβετε τον κωδικό μέσω ειδοποίησης στο Facebook.</string>
     <string name="com_accountkit_button_start">Έναρξη</string>
     <string name="com_accountkit_button_start_over">Προσπαθήστε ξανά.</string>
     <string name="com_accountkit_button_submit">Υποβολή</string>
     <string name="com_accountkit_check_email">Ανοίξτε το email σας</string>
-    <string name="com_accountkit_code_sent_to">Στείλαμε έναν κωδικό στο\n%1$s</string>
+    <string name="com_accountkit_code_sent_to">Επιβεβαιώστε ότι ο αριθμός του κινητού σας είναι %1$s.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Πατήστε %1$s για να δηλώσετε ότι συμφωνείτε με τους &lt;a href="%2$s">Όρους&lt;/a>, την &lt;a href="%3$s">Πολιτική δεδομένων&lt;/a> και τη &lt;a href="%4$s">χρήση των cookies&lt;/a> του Facebook.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Πατήστε %1$s για να δηλώσετε ότι συμφωνείτε με τους &lt;a href="%2$s">Όρους&lt;/a>, την &lt;a href="%3$s">Πολιτική δεδομένων&lt;/a> και τους όρους για τη &lt;a href="%4$s">χρήση των cookies&lt;/a> του Facebook. &lt;a href="%5$s">Μάθετε περισσότερα&lt;/a> για τον τρόπο με τον οποίο επαληθεύτηκε ο λογαριασμός σας.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Δεν λάβατε τον κωδικό;</string>
+    <string name="com_accountkit_confirmation_code_text">Δεν έλαβα κωδικό</string>
     <string name="com_accountkit_confirmation_code_title">Εισαγάγετε τον κωδικό σας</string>
     <string name="com_accountkit_email_invalid">Αυτό το email δεν είναι σωστό. Προσπαθήστε ξανά.</string>
     <string name="com_accountkit_email_loading_title">Αποστολή email…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">Γράψτε τη διεύθυνση email σας</string>
     <string name="com_accountkit_email_not_received">Επανάληψη αποστολής email</string>
-    <string name="com_accountkit_email_verify_title">Ανοίξτε το email που σας στείλαμε και επιβεβαιώστε τη διεύθυνσή σας</string>
-    <string name="com_accountkit_error_title">Λυπούμαστε, παρουσιάστηκε κάποιο πρόβλημα.</string>
-    <string name="com_accountkit_facebook_code_entry_title">Εισαγάγετε τον κωδικό σας από το Facebook</string>
+    <string name="com_accountkit_email_verify_title">Ανοίξτε το email και επιβεβαιώστε τη διεύθυνση email σας.</string>
+    <string name="com_accountkit_enter_code_sent_to">Γράψτε τον κωδικό που στάλθηκε στο %1$s.</string>
+    <string name="com_accountkit_error_title">Το σύστημα αντιμετώπισε κάποιο πρόβλημα. Προσπαθήστε ξανά.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Εισαγάγετε τον κωδικό σας από το Facebook.</string>
     <string name="com_accountkit_logging_in">Σύνδεση…</string>
+    <string name="com_accountkit_phone_error_title">Γράψτε έναν έγκυρο αριθμό κινητού.</string>
     <string name="com_accountkit_phone_loading_title">Γίνεται αποστολή του κωδικού σας…</string>
-    <string name="com_accountkit_phone_login_retry_title">Επιβεβαιώστε τον αριθμό τηλεφώνου σας</string>
+    <string name="com_accountkit_phone_login_retry_title">Επιβεβαιώστε τον αριθμό του κινητού σας.</string>
     <string name="com_accountkit_phone_login_text">
       Πατήστε %1$s για να επαληθεύσετε το λογαριασμό σας με το Account Kit που παρέχεται από το Facebook.  Δεν χρειάζεστε λογαριασμό στο Facebook για να χρησιμοποιήσετε το Account Kit.  Μπορεί να σας στείλουμε ένα SMS για την επαλήθευση του αριθμού σας. Ίσως ισχύσουν χρεώσεις μηνυμάτων και δεδομένων. &lt;a href="%2$s">Μάθετε πώς χρησιμοποιεί τα στοιχεία σας το Facebook&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">Γράψτε τον αριθμό τηλεφώνου σας</string>
-    <string name="com_accountkit_resend_check">Ελέγξτε τον αριθμό πριν ξαναστείλετε τον κωδικό.</string>
+    <string name="com_accountkit_phone_login_title">Γράψτε τον αριθμό του κινητού σας</string>
+    <string name="com_accountkit_resend_check">Ελέγξτε τον αριθμό πριν ζητήσετε να σταλεί ξανά ο κωδικός.</string>
     <string name="com_accountkit_resend_email_text">Αποστολή νέου email</string>
-    <string name="com_accountkit_resend_title">Λυπούμαστε. Δοκιμάστε αυτές τις επιλογές για να συνεχίσετε.</string>
+    <string name="com_accountkit_resend_title">Ελέγξτε τα μηνύματά σας για να βρείτε το SMS με τον κωδικό.</string>
     <string name="com_accountkit_return_title">Επιστροφή στο %1$s…</string>
     <string name="com_accountkit_sent_title">Στάλθηκε!</string>
     <string name="com_accountkit_success_title">Ολοκληρώθηκε!</string>

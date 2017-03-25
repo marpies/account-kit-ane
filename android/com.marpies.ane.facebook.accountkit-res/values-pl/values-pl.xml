@@ -50,7 +50,7 @@
         <item>238:CV:Republika Zielonego Przylądka</item>
         <item>599:CW:Curaçao</item>
         <item>357:CY:Cypr</item>
-        <item>420:CZ:Republika Czeska</item>
+        <item>420:CZ:Czechy</item>
         <item>49:DE:Niemcy</item>
         <item>253:DJ:Dżibuti</item>
         <item>45:DK:Dania</item>
@@ -116,7 +116,7 @@
         <item>850:KP:Korea Północna</item>
         <item>82:KR:Korea Południowa</item>
         <item>965:KW:Kuwejt</item>
-        <item>1:KY:Kajmany (wyspy)</item>
+        <item>1:KY:Kajmany</item>
         <item>7:KZ:Kazachstan</item>
         <item>856:LA:Laos</item>
         <item>961:LB:Liban</item>
@@ -124,7 +124,7 @@
         <item>423:LI:Liechtenstein</item>
         <item>94:LK:Sri Lanka</item>
         <item>231:LR:Liberia</item>
-        <item>266:LS:Lesoto</item>
+        <item>266:LS:Lesotho</item>
         <item>370:LT:Litwa</item>
         <item>352:LU:Luksemburg</item>
         <item>371:LV:Łotwa</item>
@@ -170,7 +170,7 @@
         <item>675:PG:Papua-Nowa Gwinea</item>
         <item>63:PH:Filipiny</item>
         <item>92:PK:Pakistan</item>
-        <item>48:PL:Polsce</item>
+        <item>48:PL:Polska</item>
         <item>508:PM:Saint-Pierre i Miquelon</item>
         <item>1:PR:Portoryko</item>
         <item>970:PS:Palestyna</item>
@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">Zaloguj się</string>
     <string name="com_accountkit_button_next">Dalej</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend_code_in">Wyślij kod ponownie %1$s</string>
-    <string name="com_accountkit_button_resend_sms">Ponownie wyślij kod</string>
+    <string name="com_accountkit_button_resend_code_in">Wyślij ponownie kod za %1$d</string>
+    <string name="com_accountkit_button_resend_sms">Wyślij ponownie kod</string>
     <string name="com_accountkit_button_send">Wyślij</string>
-    <string name="com_accountkit_button_send_code_in_fb">Wyślij kod na Facebooku</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">Dotknij opcji Wyślij kod na Facebooku, aby otrzymać powiadomienie na konto w tym serwisie powiązane z wprowadzonym numerem telefonu.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Otrzymaj kod na Facebooku</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Dotknij opcji Otrzymaj kod na Facebooku, aby uzyskać kod w formie powiadomienia na Facebooku.</string>
     <string name="com_accountkit_button_start">Początek</string>
     <string name="com_accountkit_button_start_over">Spróbuj ponownie</string>
     <string name="com_accountkit_button_submit">Wyślij</string>
     <string name="com_accountkit_check_email">Otwórz e-mail</string>
-    <string name="com_accountkit_code_sent_to">Wysłaliśmy kod na numer\n%1$s</string>
+    <string name="com_accountkit_code_sent_to">Potwierdź, że %1$s to Twój numer telefonu komórkowego.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Dotknij pozycji %1$s, aby zaakceptować &lt;a href="%2$s">Regulamin Facebooka&lt;/a>, &lt;a href="%3$s">Zasady wykorzystania danych&lt;/a> oraz &lt;a href="%4$s">Zasady stosowania plików cookie&lt;/a>.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Dotknij pozycji %1$s, aby zaakceptować &lt;a href="%2$s">Regulamin Facebooka&lt;/a>, &lt;a href="%3$s">Zasady wykorzystania danych&lt;/a> oraz &lt;a href="%4$s">Zasady stosowania plików cookie&lt;/a>. &lt;a href="%5$s">Dowiedz się więcej&lt;/a> o tym, jak przebiegała weryfikacja Twojego konta.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Kod wciąż do Ciebie nie dotarł?</string>
+    <string name="com_accountkit_confirmation_code_text">Nie otrzymałem(am) kodu</string>
     <string name="com_accountkit_confirmation_code_title">Wprowadź kod</string>
     <string name="com_accountkit_email_invalid">Niepoprawny adres e-mail. Spróbuj ponownie.</string>
     <string name="com_accountkit_email_loading_title">Wysyłanie wiadomości e-mail…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">Wprowadź swój adres e-mail</string>
     <string name="com_accountkit_email_not_received">Wyślij ponownie e-mail</string>
-    <string name="com_accountkit_email_verify_title">Otwórz otrzymany od nas e-mail i potwierdź swój adres</string>
-    <string name="com_accountkit_error_title">Przepraszamy, wystąpił niezidentyfikowany problem.</string>
+    <string name="com_accountkit_email_verify_title">Otwórz wiadomość e-mail i potwierdź swój adres</string>
+    <string name="com_accountkit_enter_code_sent_to">Wprowadź kod wysłany na numer %1$s</string>
+    <string name="com_accountkit_error_title">Wystąpił problem z systemem. Spróbuj ponownie.</string>
     <string name="com_accountkit_facebook_code_entry_title">Wprowadź kod otrzymany od Facebooka</string>
     <string name="com_accountkit_logging_in">Logowanie…</string>
+    <string name="com_accountkit_phone_error_title">Wprowadź ważny numer telefonu komórkowego.</string>
     <string name="com_accountkit_phone_loading_title">Wysyłanie kodu…</string>
-    <string name="com_accountkit_phone_login_retry_title">Potwierdź numer telefonu</string>
+    <string name="com_accountkit_phone_login_retry_title">Potwierdź numer telefonu komórkowego</string>
     <string name="com_accountkit_phone_login_text">
       Dotknij przycisku %1$s, aby zweryfikować swoje konto w usłudze Account Kit obsługiwanej przez Facebooka.  Nie musisz mieć konta na Facebooku, aby korzystać z Account Kit.  Do weryfikacji numeru wystarczy SMS. Mogą zostać naliczone opłaty za przesyłanie wiadomości i danych. &lt;a href="%2$s">Dowiedz się, jak Facebook wykorzystuje Twoje dane&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">Wprowadź swój numer telefonu</string>
+    <string name="com_accountkit_phone_login_title">Wpisz numer telefonu komórkowego</string>
     <string name="com_accountkit_resend_check">Przed ponownym wysłaniem kodu sprawdź numer.</string>
     <string name="com_accountkit_resend_email_text">Wyślij nowy e-mail</string>
-    <string name="com_accountkit_resend_title">Przepraszamy. Aby kontynuować, wypróbuj poniższe opcje.</string>
+    <string name="com_accountkit_resend_title">Odszukaj wiadomość SMS z kodem.</string>
     <string name="com_accountkit_return_title">Powrót do %1$s…</string>
     <string name="com_accountkit_sent_title">Wysłano!</string>
     <string name="com_accountkit_success_title">Gotowe!</string>

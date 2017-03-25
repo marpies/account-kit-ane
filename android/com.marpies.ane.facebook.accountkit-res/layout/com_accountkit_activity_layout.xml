@@ -22,28 +22,27 @@
 <merge
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     >
     <com.facebook.accountkit.ui.AspectFrameLayout
         android:id="@+id/com_accountkit_background"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
-    <LinearLayout
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
         >
         <FrameLayout
-            android:id="@+id/com_accountkit_action_bar_fragment"
+            android:id="@+id/com_accountkit_content_bottom_keyboard_fragment"
             style="@style/AccountKit.FragmentContainer"
-            tools:ignore="UnusedAttribute"
-            android:layoutDirection="ltr"
+            android:layout_alignParentBottom="true"
             />
         <ScrollView
             android:id="@+id/com_accountkit_scroll_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_above="@id/com_accountkit_content_bottom_keyboard_fragment"
             >
             <com.facebook.accountkit.ui.ConstrainedLinearLayout
                 android:id="@+id/com_accountkit_content_view"
@@ -89,5 +88,5 @@
                     />
             </com.facebook.accountkit.ui.ConstrainedLinearLayout>
         </ScrollView>
-    </LinearLayout>
+    </RelativeLayout>
 </merge>

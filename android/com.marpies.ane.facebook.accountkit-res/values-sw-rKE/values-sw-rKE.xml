@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:Andora</item>
+        <item>971:AE:Umoja wa Falme za Kiarabu</item>
+        <item>93:AF:Afghanistani</item>
+        <item>1:AG:Antigua</item>
+        <item>1:AI:Anguilla</item>
+        <item>355:AL:Albania</item>
+        <item>374:AM:Armenia</item>
+        <item>244:AO:Angola</item>
+        <item>54:AR:Ajentina</item>
+        <item>1:AS:Samoa ya Marekani</item>
+        <item>43:AT:Austria</item>
+        <item>61:AU:Australia</item>
+        <item>297:AW:Aruba</item>
+        <item>994:AZ:Azeribijani</item>
+        <item>387:BA:Bosnia na Herzegovina</item>
+        <item>1:BB:Babadosi</item>
+        <item>880:BD:Bangladeshi</item>
+        <item>32:BE:Ubelgiji</item>
+        <item>226:BF:Bukinafaso</item>
+        <item>359:BG:Bulgaria</item>
+        <item>973:BH:Bahareni</item>
+        <item>257:BI:Burundi</item>
+        <item>229:BJ:Benini</item>
+        <item>1:BM:Bamuda</item>
+        <item>673:BN:Brunei</item>
+        <item>591:BO:Bolivia</item>
+        <item>599:BQ:Bonaire, Sint Eustatius na Saba</item>
+        <item>55:BR:Brazili</item>
+        <item>1:BS:Bahamas</item>
+        <item>975:BT:Butani</item>
+        <item>267:BW:Botswana</item>
+        <item>375:BY:Belarusi</item>
+        <item>501:BZ:Belize</item>
+        <item>1:CA:Kanada</item>
+        <item>243:CD:Jamuhuri ya Kidemokrasia ya Kongo</item>
+        <item>236:CF:Jamhuri ya Afrika ya Kati</item>
+        <item>242:CG:Jamhuri ya Kongo</item>
+        <item>41:CH:Uswisi</item>
+        <item>225:CI:Kodivaa</item>
+        <item>682:CK:Visiwa vya Cook</item>
+        <item>56:CL:Chile</item>
+        <item>237:CM:Kameruni</item>
+        <item>86:CN:Uchina</item>
+        <item>57:CO:Kolombia</item>
+        <item>506:CR:Kostarika</item>
+        <item>53:CU:Kuba</item>
+        <item>238:CV:Kepuvede</item>
+        <item>599:CW:Curaçao</item>
+        <item>357:CY:Saiprasi</item>
+        <item>420:CZ:Jamhuri ya Cheki</item>
+        <item>49:DE:Ujerumani</item>
+        <item>253:DJ:Jibuti</item>
+        <item>45:DK:Denmaki</item>
+        <item>1:DM:Dominika</item>
+        <item>1:DO:Jamhuri ya Dominika</item>
+        <item>213:DZ:Aljeria</item>
+        <item>593:EC:Ekwado</item>
+        <item>372:EE:Estonia</item>
+        <item>20:EG:Misri</item>
+        <item>212:EH:Sahara Magharibi</item>
+        <item>291:ER:Eritrea</item>
+        <item>34:ES:Hispania</item>
+        <item>251:ET:Ethiopia</item>
+        <item>358:FI:Ufini</item>
+        <item>679:FJ:Fiji</item>
+        <item>500:FK:Visiwa vya Falkland</item>
+        <item>691:FM:Shirikisho la Majimbo ya Mikronesia</item>
+        <item>298:FO:Visiwa vya Faroe</item>
+        <item>33:FR:Ufaransa</item>
+        <item>241:GA:Gaboni</item>
+        <item>44:GB:Uingereza</item>
+        <item>1:GD:Grenada</item>
+        <item>995:GE:Jojia</item>
+        <item>594:GF:Guyana ya Kifaransa</item>
+        <item>44:GG:Guernsey</item>
+        <item>233:GH:Gana</item>
+        <item>350:GI:Jibralta</item>
+        <item>299:GL:Grinlandi</item>
+        <item>220:GM:Gambia</item>
+        <item>224:GN:Gine</item>
+        <item>590:GP:Guadelupe</item>
+        <item>240:GQ:Ginekweta</item>
+        <item>30:GR:Ugiriki</item>
+        <item>502:GT:Guatemala</item>
+        <item>1:GU:Guami</item>
+        <item>245:GW:Ginebisau</item>
+        <item>592:GY:Guyana</item>
+        <item>852:HK:Hong Kong</item>
+        <item>504:HN:Hondurasi</item>
+        <item>385:HR:Kroatia</item>
+        <item>509:HT:Haiti</item>
+        <item>36:HU:Hungaria</item>
+        <item>62:ID:Indonesia</item>
+        <item>353:IE:Ayalandi</item>
+        <item>972:IL:Israeli</item>
+        <item>44:IM:Isle of Man</item>
+        <item>91:IN:India</item>
+        <item>246:IO:Eneo la Uingereza katika Bara Hindi</item>
+        <item>964:IQ:Iraki</item>
+        <item>98:IR:Irani</item>
+        <item>354:IS:Aisilandi</item>
+        <item>39:IT:Italia</item>
+        <item>44:JE:Jersey</item>
+        <item>1:JM:JamaiKa</item>
+        <item>962:JO:Jordani</item>
+        <item>81:JP:Japan</item>
+        <item>254:KE:Kenya</item>
+        <item>996:KG:Kirgizia</item>
+        <item>855:KH:Kambodia</item>
+        <item>686:KI:Kiribati</item>
+        <item>269:KM:Komoro</item>
+        <item>1:KN:Saint Kitts na Nevis</item>
+        <item>850:KP:Korea Kaskazini</item>
+        <item>82:KR:Korea Kusini</item>
+        <item>965:KW:Kuwaiti</item>
+        <item>1:KY:Visiwa vya Cayman</item>
+        <item>7:KZ:Kazakistani</item>
+        <item>856:LA:Laosi</item>
+        <item>961:LB:Lebanoni</item>
+        <item>1:LC:St. Lucia</item>
+        <item>423:LI:Lishenteni</item>
+        <item>94:LK:Sri Lanka</item>
+        <item>231:LR:Liberia</item>
+        <item>266:LS:Lesoto</item>
+        <item>370:LT:Lithuania</item>
+        <item>352:LU:Lasembagi</item>
+        <item>371:LV:Latvia</item>
+        <item>218:LY:Libya</item>
+        <item>212:MA:Moroko</item>
+        <item>377:MC:Monako</item>
+        <item>373:MD:Moldova</item>
+        <item>382:ME:Montenegro</item>
+        <item>261:MG:Madagaska</item>
+        <item>692:MH:Visiwa vya Marshall</item>
+        <item>389:MK:Masedonia</item>
+        <item>223:ML:Mali</item>
+        <item>95:MM:Myanama</item>
+        <item>976:MN:Mongolia</item>
+        <item>853:MO:Makau</item>
+        <item>1:MP:Visiwa vya Mariana Kaskazini</item>
+        <item>596:MQ:Matiniki</item>
+        <item>222:MR:Moritania</item>
+        <item>1:MS:Monserati</item>
+        <item>356:MT:Malta</item>
+        <item>230:MU:Morisi</item>
+        <item>960:MV:Maldova</item>
+        <item>265:MW:Malawi</item>
+        <item>52:MX:Meksiko</item>
+        <item>60:MY:Malaysia</item>
+        <item>258:MZ:Msumbiji</item>
+        <item>264:NA:Namibia</item>
+        <item>687:NC:Kaledonia Mpya</item>
+        <item>227:NE:Nijeri</item>
+        <item>672:NF:Kisiwa cha Norfolk</item>
+        <item>234:NG:Naijeria</item>
+        <item>505:NI:Nikaragua</item>
+        <item>31:NL:Uholanzi</item>
+        <item>47:NO:Norwe</item>
+        <item>977:NP:Nepali</item>
+        <item>674:NR:Nauru</item>
+        <item>683:NU:Niue</item>
+        <item>64:NZ:Nyuzilandi</item>
+        <item>968:OM:Omani</item>
+        <item>507:PA:Panama</item>
+        <item>51:PE:Peru</item>
+        <item>689:PF:Polynesia ya Kifaransa</item>
+        <item>675:PG:Papua Gine Mpya</item>
+        <item>63:PH:Ufilipino</item>
+        <item>92:PK:Pakistani</item>
+        <item>48:PL:Polandi</item>
+        <item>508:PM:Saint Pierre na Miquelon</item>
+        <item>1:PR:Puerto Rico</item>
+        <item>970:PS:Palestina</item>
+        <item>351:PT:Ureno</item>
+        <item>680:PW:Palau</item>
+        <item>595:PY:Paragwai</item>
+        <item>974:QA:Katari</item>
+        <item>262:RE:Reunion</item>
+        <item>40:RO:Romania</item>
+        <item>381:RS:Serbia</item>
+        <item>7:RU:Urusi</item>
+        <item>250:RW:Rwanda</item>
+        <item>966:SA:Saudia</item>
+        <item>677:SB:Visiwa vya Solomon</item>
+        <item>248:SC:Ushelisheli</item>
+        <item>249:SD:Sudani</item>
+        <item>46:SE:Uswidi</item>
+        <item>65:SG:Singapuri</item>
+        <item>290:SH:Saint Helena</item>
+        <item>386:SI:Slovenia</item>
+        <item>421:SK:Slovakia</item>
+        <item>232:SL:Siera Leoni</item>
+        <item>378:SM:San Marino</item>
+        <item>221:SN:Senegali</item>
+        <item>252:SO:Somalia</item>
+        <item>597:SR:Surinamu</item>
+        <item>211:SS:Sudan Kusini</item>
+        <item>239:ST:Sao Tome na Principe</item>
+        <item>503:SV:El Salvador</item>
+        <item>1:SX:Sint Maarten</item>
+        <item>963:SY:Siria</item>
+        <item>268:SZ:Uswazi</item>
+        <item>1:TC:Visiwa vya Waturuki na Wakaiko</item>
+        <item>235:TD:Chadi</item>
+        <item>228:TG:Togo</item>
+        <item>66:TH:Tailandi</item>
+        <item>992:TJ:Tajikistani</item>
+        <item>690:TK:Tokelau</item>
+        <item>670:TL:Timor-Leste</item>
+        <item>993:TM:Turukimenstani</item>
+        <item>216:TN:Tunisia</item>
+        <item>676:TO:Tonga</item>
+        <item>90:TR:Uturuki</item>
+        <item>1:TT:Trinidad na Tobago</item>
+        <item>688:TV:Tuvalu</item>
+        <item>886:TW:Taiwani</item>
+        <item>255:TZ:Tanzania</item>
+        <item>380:UA:Ukraini</item>
+        <item>256:UG:Uganda</item>
+        <item>1:US:Marekani</item>
+        <item>598:UY:Urugwai</item>
+        <item>998:UZ:Uzbekistani</item>
+        <item>1:VC:Mtakatifu Vinsenti na Wagrenadinsi</item>
+        <item>58:VE:Venezuela</item>
+        <item>1:VG:Visiwa vya Virgin vya Uingereza</item>
+        <item>1:VI:Visiwa vya Virgin Marekani</item>
+        <item>84:VN:Vietinamu</item>
+        <item>678:VU:Vanuatu</item>
+        <item>681:WF:Wallis na Futuna</item>
+        <item>685:WS:Samoa</item>
+        <item>967:YE:Yemeni</item>
+        <item>262:YT:Mayote</item>
+        <item>27:ZA:Afrika Kusini</item>
+        <item>260:ZM:Zambia</item>
+        <item>263:ZW:Zimbabwe</item>
+    </string-array>
+    <string name="com_accountkit_account_verified">Akaunti imethibitishwa!</string>
+    <string name="com_accountkit_button_begin">Anza</string>
+    <string name="com_accountkit_button_cancel">Katisha</string>
+    <string name="com_accountkit_button_confirm">Thibitisha</string>
+    <string name="com_accountkit_button_continue">Endelea</string>
+    <string name="com_accountkit_button_edit">HARIRI</string>
+    <string name="com_accountkit_button_log_in">Ingia</string>
+    <string name="com_accountkit_button_next">Inayofuata</string>
+    <string name="com_accountkit_button_ok">Sawa</string>
+    <string name="com_accountkit_button_resend_code_in">Tuma Msimbo Tena kwenye %1$d</string>
+    <string name="com_accountkit_button_resend_sms">Tuma Msimbo Tena</string>
+    <string name="com_accountkit_button_send">Tuma</string>
+    <string name="com_accountkit_button_send_code_in_fb">Pata Msimbo kwenye Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Donoa "Pata Msimbo kwenye Facebook" ili kupokea msimbo wako kama taarifa kwenye Facebook.</string>
+    <string name="com_accountkit_button_start">Washa</string>
+    <string name="com_accountkit_button_start_over">Jaribu Tena</string>
+    <string name="com_accountkit_button_submit">Wasilisha</string>
+    <string name="com_accountkit_check_email">Fungua Barua pepe yako</string>
+    <string name="com_accountkit_code_sent_to">Thibitisha %1$s ni nambari yako ya simu.</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Donoa %1$s ili kukubali &lt;a
+            href="%2$s">Masharti&lt;/a>, &lt;a
+            href="%3$s">Sera ya Data&lt;/a> na &lt;a href="%4$s">matumizi ya kidakuzi cha Facebook&lt;/a>.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Donoa %1$s ili kukubali &lt;a
+            href="%2$s">Masharti&lt;/a>, &lt;a
+            href="%3$s">Sera ya Data&lt;/a>, &lt;a
+            href="%4$s">matumizi ya kidakuzi&lt;/a> na &lt;a href="%5$s">Sera ya Faragha ya Facebook&lt;/a> ya %6$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Donoa %1$s ili kukubali &lt;a
+            href="%2$s">Masharti&lt;/a>, &lt;a
+            href="%3$s">Sera ya Data&lt;/a>, &lt;a
+            href="%4$s">matumizi ya kidakuzi&lt;/a> na &lt;a
+            href="%5$s">Sera ya Faragha ya Facebook&lt;/a> na &lt;a href="%6$s">Masharti ya Huduma&lt;/a> ya %7$s.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Donoa %1$s ili kukubali &lt;a
+            href="%2$s">Masharti&lt;/a>, &lt;a
+            href="%3$s">Sera ya Data&lt;/a>, &lt;a
+            href="%4$s">matumizi ya kidakuzi&lt;/a> na &lt;a
+            href="%5$s">Sera ya Faragha ya Facebook&lt;/a> na &lt;a
+            href="%6$s">Masharti ya Huduma&lt;/a> ya %7$s. &lt;a href="%8$s">Jifunze zaidi&lt;/a> kuhusu jinsi akaunti yako ilithibitishwa.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Donoa %1$s ili kukubali &lt;a
+            href="%2$s">Masharti&lt;/a>, &lt;a
+            href="%3$s">Sera ya Data&lt;/a>, &lt;a
+            href="%4$s">matumizi ya kidakuzi&lt;/a> na &lt;a
+            href="%5$s">Sera ya Faragha ya Facebook&lt;/a> ya %6$s. &lt;a href="%7$s">Jifunze zaidi&lt;/a> kuhusu jinsi akaunti yako ilithibitishwa.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Donoa %1$s ili kukubali &lt;a
+            href="%2$s">Masharti&lt;/a>, &lt;a
+            href="%3$s">Sera ya Data&lt;/a> na &lt;a
+            href="%4$s">matumizi ya kidakuzi cha Facebook&lt;/a>. &lt;a href="%5$s">Jifunze zaidi&lt;/a> kuhusu jinsi akaunti yako ilithibitishwa.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">Sikupata msimbo</string>
+    <string name="com_accountkit_confirmation_code_title">Ingiza msimbo wako</string>
+    <string name="com_accountkit_email_invalid">
+        Barua pepe hii sio sahihi. Tafadhali jaribu tena.
+    </string>
+    <string name="com_accountkit_email_loading_title">Inatuma barua pepe...</string>
+    <string name="com_accountkit_email_login_retry_title">Thibitisha barua pepe yako</string>
+    <string name="com_accountkit_email_login_text">
+        Donoa %1$s ili kupata uthibitisho wa barua pepe kutoka kwenye Kikasha cha Akaunti kwa Facebook ili kukusaidia kutumia %2$s. Huhitaji akaunti ya Facebook ili kukitumia. &lt;a href="%3$s">Jifunze jinsi Facebook inavyotumia maelezo yako&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">Ingiza anwani yako ya barua pepe</string>
+    <string name="com_accountkit_email_not_received">Tuma upya Barua pepe</string>
+    <string name="com_accountkit_email_verify_title">Fungua barua pepe na uthibitishe anwani yako ya barua pepe</string>
+    <string name="com_accountkit_enter_code_sent_to">Ingiza msimbo uliotumwa kwa %1$s</string>
+    <string name="com_accountkit_error_title">Kosa la mfumo limetokea. Tafadhali jaribu tena.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Ingiza msimbo wako kutoka kwenye Facebook</string>
+    <string name="com_accountkit_logging_in">Unaingia...</string>
+    <string name="com_accountkit_phone_error_title">Tafadhali ingiza nambari halali ya simu ya mkononi.</string>
+    <string name="com_accountkit_phone_loading_title">Inathibitisha nambari yako...</string>
+    <string name="com_accountkit_phone_login_retry_title">Thibitisha nambari yako ya simu ya mkononi</string>
+    <string name="com_accountkit_phone_login_text">
+        Donoa %1$s ili kuthibitisha akaunti yako kwa Kikasha cha Akaunti kinachoendeshwa na Facebook. Huhitaji akaunti ya Facebook ili kutumia Kikasha cha Akaunti. SMS inaweza kutumwa ili kuthibitisha nambari yako. Viwango vya ujumbe na data vinaweza kutekelezwa. &lt;a href="%2$s">Jifunze jinsi Facebook inavyotumia maelezo yako&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">Ingiza nambari yako ya simu ya mkononi</string>
+    <string name="com_accountkit_resend_check">Tafadhali angalia nambari kabla ya kutuma upya msimbo.</string>
+    <string name="com_accountkit_resend_email_text">Tuma Barua pepe Mpya</string>
+    <string name="com_accountkit_resend_title">Angalia ujumbe wako kwa SMS na msimbo wako.</string>
+    <string name="com_accountkit_sent_title">Imetumwa!</string>
+    <string name="com_accountkit_success_title">Imethibitishwa!</string>
+    <string name="com_accountkit_toolbar_title">Ingia Kwenye %1$s</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        Tusingethibitisha msimbo wako.\nTafadhali jaribu tena:
+    </string>
+    <string name="com_accountkit_verify_title">Inathibitisha msimbo wako...</string>
+</resources>

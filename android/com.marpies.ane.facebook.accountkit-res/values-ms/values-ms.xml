@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">Log Masuk</string>
     <string name="com_accountkit_button_next">Seterusnya</string>
     <string name="com_accountkit_button_ok">OK</string>
-    <string name="com_accountkit_button_resend_code_in">Hantar semula kod dalam %1$s</string>
+    <string name="com_accountkit_button_resend_code_in">Hantar Kod Semula dalam %1$d</string>
     <string name="com_accountkit_button_resend_sms">Hantar Semula Kod</string>
     <string name="com_accountkit_button_send">Hantar</string>
-    <string name="com_accountkit_button_send_code_in_fb">Handar Kod dalam Facebook</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">Ketik Hantar Kod di Facebook untuk menghantar pemberitahuan ke akaun Facebook yang dikaitkan dengan nombor telefon yang anda masukkan.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Dapatkan Kod di Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Ketik "Dapatkan Kod di Facebook" untuk menerima kod anda sebagai pemberitahuan di Facebook.</string>
     <string name="com_accountkit_button_start">Mula</string>
     <string name="com_accountkit_button_start_over">Cuba Lagi</string>
     <string name="com_accountkit_button_submit">Hantar</string>
     <string name="com_accountkit_check_email">Buka e-mel anda</string>
-    <string name="com_accountkit_code_sent_to">Kami telah menghantar kod tersebut ke\n%1$s</string>
+    <string name="com_accountkit_code_sent_to">Tentu sahkan %1$s adalah nombor mudah alih anda.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Ketik %1$s untuk menerima &lt;a href="%2$s">Terma&lt;/a>, &lt;a href="%3$s">Dasar Data&lt;/a> dan &lt;a href="%4$s">penggunaan kuki&lt;/a>Facebook.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Ketik %1$s untuk menerima &lt;a href="%2$s">Syarat&lt;/a> Facebook, &lt;a href="%3$s">Dasar Data&lt;/a> dan &lt;a href="%4$s">penggunaan kuki&lt;/a>. &lt;a href="%5$s">Ketahui lebih lanjut&lt;/a> tentang cara akaun anda ditentusahkan.
     </string>
-    <string name="com_accountkit_confirmation_code_text">Tidak mendapat kod?</string>
+    <string name="com_accountkit_confirmation_code_text">Saya tidak menerima kod</string>
     <string name="com_accountkit_confirmation_code_title">Masukkan kod anda</string>
     <string name="com_accountkit_email_invalid">E-mel ini tidak betul. Sila cuba lagi.</string>
     <string name="com_accountkit_email_loading_title">Menghantar e-mel…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">Masukkan alamat e-mel anda</string>
     <string name="com_accountkit_email_not_received">Hantar Semula E-mel</string>
-    <string name="com_accountkit_email_verify_title">Buka e-mel yang kami hantar dan sahkan alamat e-mel anda</string>
-    <string name="com_accountkit_error_title">Kami mohon maaf, ada kesilapan berlaku.</string>
-    <string name="com_accountkit_facebook_code_entry_title">Masukkan kod anda dari Facebook</string>
+    <string name="com_accountkit_email_verify_title">Buka e-mel dan sahkan alamat e-mel anda</string>
+    <string name="com_accountkit_enter_code_sent_to">Masukkan kod yang telah dihantar ke %1$s</string>
+    <string name="com_accountkit_error_title">Isu sistem telah berlaku. Sila cuba lagi.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Masukkan kod anda daripada Facebook</string>
     <string name="com_accountkit_logging_in">Log masuk…</string>
+    <string name="com_accountkit_phone_error_title">Sila masukkan nombor mudah alih yang sah.</string>
     <string name="com_accountkit_phone_loading_title">Menghantar kod anda…</string>
-    <string name="com_accountkit_phone_login_retry_title">Sahkan nombor telefon anda</string>
+    <string name="com_accountkit_phone_login_retry_title">Sahkan nombor mudah alih anda</string>
     <string name="com_accountkit_phone_login_text">
       Ketik %1$s untuk menentusahkan akaun anda bersama Kit Akaun yang dikuasakan oleh Facebook.  Anda tidak memerlukan akaun Facebook untuk menggunakan Kit Akaun.  SMS mungkin akan dihantar untuk menentusahkan nombor anda. Kadar mesej dan data boleh dikenakan. &lt;a href="%2$s">Ketahui cara Facebook menggunakan maklumat anda&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">Masukkan nombor telefon anda</string>
-    <string name="com_accountkit_resend_check">Sila semak nombor tersebut sebelum menghantar kod semula.</string>
+    <string name="com_accountkit_phone_login_title">Masukkan nombor mudah alih anda</string>
+    <string name="com_accountkit_resend_check">Sila semak nombor tersebut sebelum menghantar semula kod.</string>
     <string name="com_accountkit_resend_email_text">Hantar E-mel Baharu</string>
-    <string name="com_accountkit_resend_title">Kami meminta maaf. Cuba pilihan ini untuk meneruskan.</string>
+    <string name="com_accountkit_resend_title">Semak mesej anda untuk SMS bersama kod anda.</string>
     <string name="com_accountkit_return_title">Mengembalikan anda ke %1$s…</string>
     <string name="com_accountkit_sent_title">Sudah dihantar!</string>
     <string name="com_accountkit_success_title">Selesai!</string>

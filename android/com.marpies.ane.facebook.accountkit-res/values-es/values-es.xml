@@ -189,7 +189,7 @@
         <item>249:SD:Sudán</item>
         <item>46:SE:Suecia</item>
         <item>65:SG:Singapur</item>
-        <item>290:SH:Santa Helena</item>
+        <item>290:SH:Santa Elena</item>
         <item>386:SI:Eslovenia</item>
         <item>421:SK:Eslovaquia</item>
         <item>232:SL:Sierra Leona</item>
@@ -246,16 +246,16 @@
     <string name="com_accountkit_button_log_in">Iniciar sesión</string>
     <string name="com_accountkit_button_next">Siguiente</string>
     <string name="com_accountkit_button_ok">Aceptar</string>
-    <string name="com_accountkit_button_resend_code_in">Reenviar código en %1$s</string>
-    <string name="com_accountkit_button_resend_sms">Reenviar código</string>
+    <string name="com_accountkit_button_resend_code_in">Enviar código de nuevo en %1$d</string>
+    <string name="com_accountkit_button_resend_sms">Enviar código de nuevo</string>
     <string name="com_accountkit_button_send">Enviar</string>
-    <string name="com_accountkit_button_send_code_in_fb">Enviar código en Facebook</string>
-    <string name="com_accountkit_button_send_code_in_fb_disclosure">Toca Enviar código para enviar una notificación a la cuenta de Facebook asociada con el número de teléfono que indicaste.</string>
+    <string name="com_accountkit_button_send_code_in_fb">Obtener código en Facebook</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Toca \"Obtener código en Facebook\" para recibir tu código como una notificación de Facebook.</string>
     <string name="com_accountkit_button_start">Inicio</string>
     <string name="com_accountkit_button_start_over">Intentar de nuevo</string>
     <string name="com_accountkit_button_submit">Enviar</string>
     <string name="com_accountkit_check_email">Abre tu correo electrónico</string>
-    <string name="com_accountkit_code_sent_to">Enviamos el código a\n%1$s</string>
+    <string name="com_accountkit_code_sent_to">Verifica si %1$s es tu número de celular.</string>
     <string name="com_accountkit_confirmation_code_agreement">
         Toca %1$s para aceptar las &lt;a href="%2$s">Condiciones&lt;/a>, las &lt;a href="%3$s">Política de datos&lt;/a> y el &lt;a href="%4$s">uso de cookies&lt;/a> de Facebook.
     </string>
@@ -274,7 +274,7 @@
     <string name="com_accountkit_confirmation_code_agreement_instant_verification">
         Toca "%1$s" para aceptar las &lt;a href="%2$s">Condiciones&lt;/a>, la &lt;a href="%3$s">Política de datos&lt;/a> y el &lt;a href="%4$s">uso de cookies&lt;/a> de Facebook. &lt;a href="%5$s">Obtén más información&lt;/a> sobre cómo se verificó tu cuenta.
     </string>
-    <string name="com_accountkit_confirmation_code_text">¿No recibiste el código?</string>
+    <string name="com_accountkit_confirmation_code_text">No recibí el código</string>
     <string name="com_accountkit_confirmation_code_title">Ingresa tu código</string>
     <string name="com_accountkit_email_invalid">La dirección de correo electrónico no es correcta. Vuelve a intentarlo.</string>
     <string name="com_accountkit_email_loading_title">Enviando correo electrónico…</string>
@@ -284,19 +284,21 @@
     </string>
     <string name="com_accountkit_email_login_title">Escribe tu dirección de correo electrónico</string>
     <string name="com_accountkit_email_not_received">Reenviar correo electrónico</string>
-    <string name="com_accountkit_email_verify_title">Abre el correo electrónico que te enviamos y confirma tu dirección</string>
-    <string name="com_accountkit_error_title">Se produjo un error.</string>
+    <string name="com_accountkit_email_verify_title">Abre el correo electrónico y confirma tu dirección de correo electrónico</string>
+    <string name="com_accountkit_enter_code_sent_to">Ingresa el código que recibiste en %1$s</string>
+    <string name="com_accountkit_error_title">Se produjo un error del sistema. Vuelve a intentarlo.</string>
     <string name="com_accountkit_facebook_code_entry_title">Escribe tu código de Facebook</string>
     <string name="com_accountkit_logging_in">Iniciando sesión…</string>
+    <string name="com_accountkit_phone_error_title">Ingresa un número de celular válido.</string>
     <string name="com_accountkit_phone_loading_title">Enviando tu código…</string>
-    <string name="com_accountkit_phone_login_retry_title">Confirma tu número de teléfono</string>
+    <string name="com_accountkit_phone_login_retry_title">Confirma tu número de celular</string>
     <string name="com_accountkit_phone_login_text">
       Toca "%1$s" para verificar tu cuenta con Account Kit desarrollado por Facebook.  No necesitas una cuenta de Facebook para usar Account Kit.  Es posible que se envíe un SMS para verificar tu número. Pueden aplicarse cargos por mensajes y datos. &lt;a href="%2$s">Obtén más información sobre cómo Facebook usa tu información&lt;/a>.
     </string>
-    <string name="com_accountkit_phone_login_title">Escribe tu número de teléfono</string>
-    <string name="com_accountkit_resend_check">Comprueba el número antes de reenviar el código.</string>
+    <string name="com_accountkit_phone_login_title">Escribe tu número de celular</string>
+    <string name="com_accountkit_resend_check">Comprueba el número antes de enviar el código de nuevo.</string>
     <string name="com_accountkit_resend_email_text">Enviar un nuevo correo electrónico</string>
-    <string name="com_accountkit_resend_title">Lo sentimos. Prueba estas opciones para continuar.</string>
+    <string name="com_accountkit_resend_title">Comprueba si recibiste un mensaje de SMS con tu código.</string>
     <string name="com_accountkit_return_title">Se te está redirigiendo a %1$s…</string>
     <string name="com_accountkit_sent_title">Enviado</string>
     <string name="com_accountkit_success_title">¡Listo!</string>

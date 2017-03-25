@@ -30,17 +30,4 @@
         android:layout_height="wrap_content"
         android:text="@string/com_accountkit_button_start_over"
         />
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/com_accountkit_spacer_normal"
-        />
-    <TextView
-        android:id="@+id/com_accountkit_cancel_button"
-        style="@style/AccountKit.Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
-        android:text="@string/com_accountkit_button_cancel"
-        android:textColor="?attr/com_accountkit_button_border_color"
-        />
 </com.facebook.accountkit.ui.ConstrainedLinearLayout>
