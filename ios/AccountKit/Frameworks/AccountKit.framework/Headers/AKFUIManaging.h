@@ -18,18 +18,32 @@
 
 #import <UIKit/UIKit.h>
 
-#import <AccountKit/AKFAdvancedUIManager.h>
+#import <AccountKit/AKFUIManager.h>
 
-/*!
+/**
  @protocol
 
- @abstract Protocol for classes that manage Advanced UI.
+  Protocol for classes that manage UI.
  */
-@protocol AKFAdvancedUIManaging <NSObject>
+@protocol AKFUIManaging <NSObject>
 
-/*!
- @abstract The advanced UI manager.
+/**
+  The UI manager.
  */
-@property (nonatomic, strong) id<AKFAdvancedUIManager> advancedUIManager;
+@property (nonatomic, strong) id<AKFUIManager> uiManager;
+
+/**
+ Helper setter for backwards compatibility with older versions.
+ Should be removed in the future versions
+ */
+// TODO: t15955381 deprecate all the extras for backwards compatibility
+- (void)setAdvancedUIManager:(id<AKFAdvancedUIManager>)uiManager;
+
+/**
+ Helper setter for backwards compatibility with older versions.
+ Should be removed in the future versions
+ */
+// TODO: t15955381 deprecate all the extras for backwards compatibility
+- (void)setTheme:(AKFTheme *)theme;
 
 @end
