@@ -6,8 +6,8 @@ Development of this extension is supported by [Master Tigra, Inc.](https://githu
 
 ## Native SDK versions
 
-* iOS `v4.17.0`
-* Android `v4.17.0`
+* iOS `v4.20.0`
+* Android `v4.20.0`
 
 ## Features
 
@@ -309,6 +309,10 @@ ANT build scripts are available in the [build](build/) directory. Edit [build.pr
 The ANE has been developed by [Marcel Piestansky](https://twitter.com/marpies) and is distributed under [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
 ## Changelog
+
+#### March 26, 2017 (v1.3.0)
+
+* UPDATED AccountKit SDKs to v4.20.0 for both iOS and Android
 
 #### December 16, 2016 (v1.2.0)
 
