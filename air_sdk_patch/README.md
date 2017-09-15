@@ -1,3 +1,5 @@
+** Note: The patch is not needed since AIR 27 **
+
 List of modifications:
 
 * `runtimeClasses.jar` - removed compiled AppCompat resources

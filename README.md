@@ -32,7 +32,7 @@ Update [build.properties](build/build.properties) variables `air.sdk` and `gradl
 
 ### Modify AIR SDK library
 
-*(skip this step if you target iOS only)*
+*(skip this step if you target iOS only or using AIR 27+)*
 
 The AccountKit SDK for Android uses AppCompat resources for styling UI activities presented to the user. AIR SDK uses older version of these resources which must be removed from the AIR SDK to avoid conflict with newer version. Since the following steps directly modify the SDK, I suggest you create a copy of the SDK directory, mark it as patched and only use it for apps where AccountKit ANE is included.
 
