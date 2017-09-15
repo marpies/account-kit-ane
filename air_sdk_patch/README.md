@@ -1,4 +1,4 @@
-** Note: The patch is not needed since AIR 27 **
+## Note: The patch is not needed since AIR 27
 
 List of modifications:
 
